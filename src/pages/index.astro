@@ -2,10 +2,18 @@
 import { getCollection } from "astro:content";
 import Footer from "../components/Footer.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
-import { PUBLIC_NICHE_LABEL } from "../site-config";
+import { siteConfig } from "../site-config";
 
 const posts = await getCollection(ACTIVE_COLLECTION);
-const nicheLower = PUBLIC_NICHE_LABEL.toLowerCase();
+const nicheLower = siteConfig.nicheLabel.toLowerCase();
+const pageUrl = new URL("/", siteConfig.siteUrl).toString();
+const collectionSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: `${siteConfig.nicheLabel} Service Pages`,
+  description: `Browse all local ${nicheLower} service pages.`,
+  url: pageUrl,
+};
 function entryPath(entry: { id?: string; slug?: string }) {
   const raw = entry.slug ?? entry.id ?? "";
   return raw.replace(/\.(md|mdx)$/i, "");
@@ -18,11 +26,13 @@ const sortedPosts = [...posts].sort((a, b) => entryPath(a).localeCompare(entryPa
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="google-site-verification" content="e8639489520c639b" />
-    <title>{PUBLIC_NICHE_LABEL} Service Pages</title>
+    <title>{siteConfig.nicheLabel} Service Pages</title>
     <meta
       name="description"
       content={`Browse all local ${nicheLower} service pages.`}
     />
+    <link rel="canonical" href={pageUrl} />
+    <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
     <style>
       :root {
         font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
@@ -73,7 +83,7 @@ const sortedPosts = [...posts].sort((a, b) => entryPath(a).localeCompare(entryPa
   </head>
   <body>
     <main>
-      <h1>All {PUBLIC_NICHE_LABEL} Pages</h1>
+      <h1>All {siteConfig.nicheLabel} Pages</h1>
       <p class="meta">Total pages: {sortedPosts.length}</p>
       <ul>
         {sortedPosts.map((post) => (

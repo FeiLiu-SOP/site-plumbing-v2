@@ -2,11 +2,12 @@
 import { getCollection, render } from "astro:content";
 import Footer from "../components/Footer.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
+import { siteConfig } from "../site-config";
 import {
-  PUBLIC_NICHE_LABEL,
-  PUBLIC_PHONE_DISPLAY,
-  PUBLIC_PHONE_E164,
-} from "../site-config";
+  buildFaqSchema,
+  buildLocalBusinessSchema,
+  getFaqByCollection,
+} from "../lib/seo";
 
 export async function getStaticPaths() {
   const posts = await getCollection(ACTIVE_COLLECTION);
@@ -18,6 +19,17 @@ export async function getStaticPaths() {
 
 const post = Astro.props;
 const { Content } = await render(post);
+const pagePath = Astro.url.pathname.replace(/\/+$/, "");
+const canonicalPath = pagePath === "" ? "/" : `${pagePath}/`;
+const pageUrl = new URL(canonicalPath, siteConfig.siteUrl).toString();
+const faqItems = getFaqByCollection(ACTIVE_COLLECTION);
+const localBusinessSchema = buildLocalBusinessSchema({
+  collection: ACTIVE_COLLECTION,
+  pageTitle: post.data.title,
+  pageDescription: post.data.description,
+  pageUrl,
+});
+const faqSchema = buildFaqSchema(faqItems);
 ---
 
 <html lang="en">
@@ -27,6 +39,9 @@ const { Content } = await render(post);
     <meta name="google-site-verification" content="e8639489520c639b" />
     <title>{post.data.title}</title>
     <meta name="description" content={post.data.description} />
+    <link rel="canonical" href={pageUrl} />
+    <script type="application/ld+json" set:html={JSON.stringify(localBusinessSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
     <style>
       :root {
         color-scheme: light;
@@ -81,6 +96,29 @@ const { Content } = await render(post);
       .phone-btn:hover {
         background: #b91c1c;
       }
+      .faq {
+        margin-top: 2rem;
+        border-top: 1px solid #e2e8f0;
+        padding-top: 1rem;
+      }
+      .faq h2 {
+        margin: 0 0 0.75rem;
+      }
+      .faq details {
+        border: 1px solid #e2e8f0;
+        border-radius: 8px;
+        background: #f8fafc;
+        margin-bottom: 0.6rem;
+        padding: 0.6rem 0.8rem;
+      }
+      .faq summary {
+        cursor: pointer;
+        font-weight: 600;
+      }
+      .faq p {
+        margin: 0.55rem 0 0.1rem;
+        color: #334155;
+      }
     </style>
   </head>
   <body>
@@ -88,18 +126,29 @@ const { Content } = await render(post);
       <article>
         <h1>{post.data.title}</h1>
         <div class="service-info">
-          <h2>24/7 Local {PUBLIC_NICHE_LABEL} Emergency Service</h2>
+          <h2>24/7 Local {siteConfig.nicheLabel} Emergency Service</h2>
           <p>
             Licensed local technicians available for urgent{" "}
-            {PUBLIC_NICHE_LABEL.toLowerCase()} service calls and emergency
+            {siteConfig.nicheLabel.toLowerCase()} service calls and emergency
             response.
           </p>
           <p class="service-meta">Fast dispatch, transparent pricing, and free inspection availability.</p>
-          <a class="phone-btn" href={`tel:${PUBLIC_PHONE_E164}`}>
-            Call Now: {PUBLIC_PHONE_DISPLAY}
+          <a class="phone-btn" href={`tel:${siteConfig.phoneE164}`}>
+            Call Now: {siteConfig.phoneDisplay}
           </a>
         </div>
         <Content />
+        <section class="faq" aria-labelledby="faq-title">
+          <h2 id="faq-title">Frequently Asked Questions</h2>
+          {
+            faqItems.map((item) => (
+              <details>
+                <summary>{item.question}</summary>
+                <p>{item.answer}</p>
+              </details>
+            ))
+          }
+        </section>
       </article>
     </main>
     <Footer />
