@@ -6,7 +6,7 @@ import { siteConfig } from "../site-config";
 
 const posts = await getCollection(ACTIVE_COLLECTION);
 const nicheLower = siteConfig.nicheLabel.toLowerCase();
-const pageUrl = new URL("/", siteConfig.siteUrl).toString();
+const pageUrl = new URL("/", siteConfig.canonicalOrigin).toString();
 const collectionSchema = {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
@@ -31,6 +31,7 @@ const sortedPosts = [...posts].sort((a, b) => entryPath(a).localeCompare(entryPa
       name="description"
       content={`Browse all local ${nicheLower} service pages.`}
     />
+    <meta name="robots" content={siteConfig.robotsContent} />
     <link rel="canonical" href={pageUrl} />
     <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
     <style>

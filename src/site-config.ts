@@ -42,6 +42,31 @@ export const PUBLIC_SITE_URL =
   import.meta.env.PUBLIC_SITE_URL ?? fallbackSiteUrl;
 
 /**
+ * 可选：统一 canonical 归属域（例如 rockwellpropertiesmaine.com）。
+ * 未配置时回退到 PUBLIC_SITE_URL。
+ */
+const rawCanonicalOrigin = (
+  import.meta.env.PUBLIC_CANONICAL_ORIGIN as string | undefined
+)?.trim();
+export const PUBLIC_CANONICAL_ORIGIN =
+  rawCanonicalOrigin && rawCanonicalOrigin.length > 0
+    ? rawCanonicalOrigin
+    : PUBLIC_SITE_URL;
+
+/**
+ * 可选：统一 robots 元标签内容。
+ * 例如在 pages.dev 预览项目可设为 "noindex, follow"。
+ * 若留空则默认 "index, follow"。
+ */
+const rawRobotsContent = (
+  import.meta.env.PUBLIC_ROBOTS_CONTENT as string | undefined
+)?.trim();
+export const PUBLIC_ROBOTS_CONTENT =
+  rawRobotsContent && rawRobotsContent.length > 0
+    ? rawRobotsContent
+    : "index, follow";
+
+/**
  * 规范为 E.164（联盟/解析/JSON-LD 更稳）：仅数字时按北美 +1 处理
  */
 export function normalizePhoneE164(input: string): string {
@@ -63,4 +88,6 @@ export const siteConfig = {
   phoneE164: PUBLIC_PHONE_E164,
   phoneDisplay: PUBLIC_PHONE_DISPLAY,
   siteUrl: PUBLIC_SITE_URL,
+  canonicalOrigin: PUBLIC_CANONICAL_ORIGIN,
+  robotsContent: PUBLIC_ROBOTS_CONTENT,
 } as const;
