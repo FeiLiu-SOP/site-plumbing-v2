@@ -1,0 +1,175 @@
+---
+import { getCollection } from "astro:content";
+import Footer from "../../components/Footer.astro";
+import { ACTIVE_COLLECTION } from "../../active-collection";
+import { resolvePageLocation } from "../../lib/location";
+import { siteConfig } from "../../site-config";
+
+type EntryLike = {
+  id?: string;
+  slug?: string;
+  data: {
+    title: string;
+    city?: string;
+    state?: string;
+    zipCode?: string;
+  };
+};
+
+const COLLECTION_PREFIX: Record<typeof ACTIVE_COLLECTION, string> = {
+  roofing: "roofing",
+  plumbing: "plumbing",
+  pestcontrol: "pestcontrol",
+};
+
+const SERVICE_LABEL: Record<typeof ACTIVE_COLLECTION, string> = {
+  roofing: "Roofing",
+  plumbing: "Plumbing",
+  pestcontrol: "Pest Control",
+};
+
+function entryPath(entry: Pick<EntryLike, "id" | "slug">) {
+  const raw = entry.slug ?? entry.id ?? "";
+  return raw.replace(/\.(md|mdx)$/i, "");
+}
+
+function entryState(entry: EntryLike): string | null {
+  const slug = entryPath(entry);
+  const loc = resolvePageLocation({
+    collection: ACTIVE_COLLECTION,
+    title: entry.data.title,
+    slug,
+    fmCity: entry.data.city,
+    fmState: entry.data.state,
+    fmZip: entry.data.zipCode,
+  });
+  return loc?.state?.toUpperCase() ?? null;
+}
+
+function byPathAsc(a: EntryLike, b: EntryLike): number {
+  return entryPath(a).localeCompare(entryPath(b));
+}
+
+export async function getStaticPaths() {
+  const posts = (await getCollection(ACTIVE_COLLECTION)) as EntryLike[];
+  const stateSet = new Set<string>();
+  for (const post of posts) {
+    const raw = post.slug ?? post.id ?? "";
+    const slug = raw.replace(/\.(md|mdx)$/i, "");
+    const loc = resolvePageLocation({
+      collection: ACTIVE_COLLECTION,
+      title: post.data.title,
+      slug,
+      fmCity: post.data.city,
+      fmState: post.data.state,
+      fmZip: post.data.zipCode,
+    });
+    const st = loc?.state?.toUpperCase() ?? null;
+    if (st) stateSet.add(st.toLowerCase());
+  }
+  return Array.from(stateSet)
+    .sort()
+    .map((state) => ({ params: { state } }));
+}
+
+const stateParam = (Astro.params.state ?? "").toLowerCase();
+const stateCode = stateParam.toUpperCase();
+if (!/^[a-z]{2}$/.test(stateParam)) {
+  throw new Error(`[state-index] Invalid state param: "${stateParam}"`);
+}
+
+const posts = (await getCollection(ACTIVE_COLLECTION)) as EntryLike[];
+const statePosts = posts.filter((post) => entryState(post) === stateCode).sort(byPathAsc);
+
+const serviceLabel = SERVICE_LABEL[ACTIVE_COLLECTION];
+const collectionPrefix = COLLECTION_PREFIX[ACTIVE_COLLECTION];
+const canonicalUrl = new URL(
+  `/${collectionPrefix}/${stateParam}/`,
+  siteConfig.canonicalOrigin,
+).toString();
+const pageUrl = canonicalUrl;
+const pageSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: `${serviceLabel} in ${stateCode}`,
+  description: `Browse all ${serviceLabel.toLowerCase()} city pages in ${stateCode}.`,
+  url: pageUrl,
+};
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="google-site-verification" content="e8639489520c639b" />
+    <title>{serviceLabel} in {stateCode} | State Index</title>
+    <meta
+      name="description"
+      content={`Browse all ${serviceLabel.toLowerCase()} city pages in ${stateCode}.`}
+    />
+    <meta name="robots" content={siteConfig.robotsContent} />
+    <link rel="canonical" href={canonicalUrl} />
+    <script type="application/ld+json" set:html={JSON.stringify(pageSchema)} />
+    <style>
+      :root {
+        font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      }
+      body {
+        margin: 0;
+        background: #f8fafc;
+        color: #0f172a;
+      }
+      main {
+        width: min(980px, 94vw);
+        margin: 2rem auto;
+        background: #fff;
+        padding: 1.5rem;
+        border-radius: 12px;
+        box-shadow: 0 8px 26px rgba(2, 6, 23, 0.08);
+      }
+      h1 {
+        margin: 0 0 0.4rem;
+      }
+      .meta {
+        color: #475569;
+        margin-bottom: 1rem;
+      }
+      .links {
+        margin: 0;
+        padding-left: 1.2rem;
+        columns: 2;
+        column-gap: 2rem;
+      }
+      .links li {
+        break-inside: avoid;
+        margin: 0.2rem 0;
+      }
+      a {
+        color: #1d4ed8;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      @media (max-width: 900px) {
+        .links {
+          columns: 1;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>All {serviceLabel} Pages in {stateCode}</h1>
+      <p class="meta">Total pages: {statePosts.length}</p>
+      <ul class="links">
+        {statePosts.map((post) => (
+          <li>
+            <a href={`/${entryPath(post)}/`}>{post.data.title}</a>
+          </li>
+        ))}
+      </ul>
+    </main>
+    <Footer />
+  </body>
+</html>
