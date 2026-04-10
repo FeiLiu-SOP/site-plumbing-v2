@@ -12,6 +12,14 @@ const collectionSchema = z.object({
   state: z.string().optional(),
   zipCode: z.string().optional(),
   templateVersion: z.string().optional(),
+  /** 可选：用于页面“地理简报”分区展示（纯展示字段，来自 Go 生成器/数据预处理） */
+  county: z.string().optional(),
+  elevationFt: z.number().optional(),
+  lat: z.number().optional(),
+  lng: z.number().optional(),
+  zipSample: z.array(z.string()).optional(),
+  zipCodes: z.array(z.string()).optional(),
+  localPaths: z.array(z.string()).optional(),
 });
 
 const roofing = defineCollection({

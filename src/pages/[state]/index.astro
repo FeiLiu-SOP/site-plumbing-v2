@@ -2,8 +2,7 @@
 import { getCollection } from "astro:content";
 import Footer from "../../components/Footer.astro";
 import { ACTIVE_COLLECTION } from "../../active-collection";
-import { resolvePageLocation } from "../../lib/location";
-import { canonicalPageUrl, siteConfig } from "../../site-config";
+import { canonicalPageUrl, internalPath, siteConfig } from "../../site-config";
 
 type EntryLike = {
   id?: string;
@@ -11,8 +10,6 @@ type EntryLike = {
   data: {
     title: string;
     city?: string;
-    state?: string;
-    zipCode?: string;
   };
 };
 
@@ -22,43 +19,13 @@ const SERVICE_LABEL: Record<typeof ACTIVE_COLLECTION, string> = {
   pestcontrol: "Pest Control",
 };
 
-function entryPath(entry: Pick<EntryLike, "id" | "slug">) {
-  const raw = entry.slug ?? entry.id ?? "";
-  return raw.replace(/\.(md|mdx)$/i, "");
-}
-
-function entryState(entry: EntryLike): string | null {
-  const slug = entryPath(entry);
-  const loc = resolvePageLocation({
-    collection: ACTIVE_COLLECTION,
-    title: entry.data.title,
-    slug,
-    fmCity: entry.data.city,
-    fmState: entry.data.state,
-    fmZip: entry.data.zipCode,
-  });
-  return loc?.state?.toUpperCase() ?? null;
-}
-
-function byPathAsc(a: EntryLike, b: EntryLike): number {
-  return entryPath(a).localeCompare(entryPath(b));
-}
-
 export async function getStaticPaths() {
   const posts = (await getCollection(ACTIVE_COLLECTION)) as EntryLike[];
   const stateSet = new Set<string>();
   for (const post of posts) {
-    const raw = post.slug ?? post.id ?? "";
-    const slug = raw.replace(/\.(md|mdx)$/i, "");
-    const loc = resolvePageLocation({
-      collection: ACTIVE_COLLECTION,
-      title: post.data.title,
-      slug,
-      fmCity: post.data.city,
-      fmState: post.data.state,
-      fmZip: post.data.zipCode,
-    });
-    const st = loc?.state?.toUpperCase() ?? null;
+    const slug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
+    const m = slug.match(/-([a-z]{2})-\d{5}$/i);
+    const st = m ? m[1]!.toUpperCase() : null;
     if (st) stateSet.add(st.toLowerCase());
   }
   return Array.from(stateSet)
@@ -73,7 +40,23 @@ if (!/^[a-z]{2}$/.test(stateParam)) {
 }
 
 const posts = (await getCollection(ACTIVE_COLLECTION)) as EntryLike[];
-const statePosts = posts.filter((post) => entryState(post) === stateCode).sort(byPathAsc);
+const statePosts = posts
+  .filter((post) => {
+    const slug = (post.slug ?? post.id ?? "").replace(/\.(md|mdx)$/i, "");
+    const m = slug.match(/-([a-z]{2})-\d{5}$/i);
+    const st = m ? m[1]!.toUpperCase() : null;
+    return st === stateCode;
+  })
+  .sort((a, b) => {
+    const sa = (a.slug ?? a.id ?? "").replace(/\.(md|mdx)$/i, "");
+    const sb = (b.slug ?? b.id ?? "").replace(/\.(md|mdx)$/i, "");
+    return sa.localeCompare(sb);
+  });
+
+function entryPath(entry: Pick<EntryLike, "id" | "slug">) {
+  const raw = entry.slug ?? entry.id ?? "";
+  return raw.replace(/\.(md|mdx)$/i, "");
+}
 
 const serviceLabel = SERVICE_LABEL[ACTIVE_COLLECTION];
 const canonicalUrl = canonicalPageUrl(stateParam);
@@ -155,7 +138,7 @@ const pageSchema = {
       <ul class="links">
         {statePosts.map((post) => (
           <li>
-            <a href={canonicalPageUrl(entryPath(post))}>{post.data.title}</a>
+            <a href={internalPath(entryPath(post))}>{post.data.title}</a>
           </li>
         ))}
       </ul>

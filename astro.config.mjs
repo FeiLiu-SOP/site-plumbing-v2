@@ -2,6 +2,7 @@
 import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import { loadEnv } from "vite";
+import { remarkStripRoutingMarkers } from "./src/remark-strip-routing-markers.mjs";
 
 const fallbackSite = "https://la-roofing-v1.pages.dev";
 
@@ -19,4 +20,7 @@ const site =
 export default defineConfig({
   site,
   integrations: [sitemap()],
+  markdown: {
+    remarkPlugins: [remarkStripRoutingMarkers],
+  },
 });

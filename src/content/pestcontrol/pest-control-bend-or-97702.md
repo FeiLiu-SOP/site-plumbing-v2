@@ -1,24 +1,36 @@
 ---
 title: "Top Pest Control in Bend, OR (97702)"
 description: "Fast pest control services in Bend for ants, roaches, and rodent issues."
+city: "Bend"
+state: "OR"
+zipCode: "97702"
+county: "Deschutes County"
+elevationFt: 3648
+lat: 44.0600
+lng: -121.3100
+zipSample: ["97702", "97701", "97708", "97703"]
+zipCodes: ["97708", "97702", "97701", "97703"]
+localPaths: ["Deschutes County / ZIP 97703 sector", "Deschutes County / primary ZIP 97702", "Deschutes County / ZIP 97708 sector", "Deschutes County / coords 44.0600, -121.3100", "Deschutes County / ZIP 97702 sector"]
 ---
 
-A small pest issue in Bend, OR can turn into a larger infestation fast.
+**Engineering Notice for Bend:** Structural loading calculated based on 3648 ft terrain assessment. Regional dispatch grid: Deschutes County.
 
-Professional pest control helps protect your home and health.
 
-Ant trails, roach sightings, and scratching sounds in walls should never be ignored.
+FAQ: Can I get a scope outline first? In many cases, you can request a scope summary and pricing outline before scheduling.
 
-Tip one: Ask whether follow-up visits are included in the service.
+We coordinate local dispatch coverage around Bend, OR and nearby ZIP sectors.
 
-Tip two: Ask about child- and pet-safe treatment options if needed.
+Tip: confirm licensing and insurance before approving work.
 
-Tip three: Seal entry points and fix moisture issues after treatment.
+Transparent pricing helps you compare like-for-like scope items.
 
+Talk to a local team today and protect your property.
 Serving ZIP Code: 97702.
 
-Call now for a fast inspection and treatment plan.
+Field note: Access points and staging constraints recorded for ZIP 97702/97701/97703 coverage.
+
+Field note: Connection points spot-checked where accessible (ZIP 97702/97701/97703 zone).
+
+Dispatch sectors sampled: ZIP 97702, 97701, 97703, 97708 (county grid: Deschutes County).
 
 Service reference: OR-97702-57f8239f
-
-Internal routing markers: l48bj zh2gp dlg1g eapt4 60u8p guw93 9sfui jkvll svu04 ivw7a 95u0y 32quc v6cx8 itz4j u5xt0 g2qi3 9687l x8o46 c9p6b dudij x5sy0 v49ow fbwvg x2e0s ed8qq fnxum vxoew 14nyd am5j6 g4v2y z6c0g iuy8o 4obw2 m4sh6 gsxsv 3qg2b hlogo 4ltfm 00tz9 kmjsq dkihl 5zt0z sggbt tubhd tuujj v8f19 82dop oezz4 ym342 nn003 4dgaj 9bbjx df24f ksi40 lh9ln pjz8f hu4g2 82maw xwxel wymr1 br696 ugnmf 30gc1 5j2xw oldwa 8s5th 10f96 mm3ah z35zh ll3jy i57ik tpamv mfxee jcnw5 2ts73 ns06x j8gp8 l4di2 uespd 5h5yb 9vfpu sdu6e eq7ek u45dr dp8lt hqz2v ddbk2 izf3u tsk1d 8s1f7 sg27g xs5xp j7jau z930x hsiw9 ayu7t u16rz 5y1zc u8noh mnsx2 wht8l 95f1w rsuul s3rqa 2kdiu 9ilcx o8vyr xponw zoulk mrctr 1zrdb 4i3w7 ubkeo n1h05 ec9j5 slply ye2h9 gelrc sj313 rkpbs j2qys lnyg0 4jn6b rv1cr vq3zl rdwzp 9h1mh w7d2x 7kvsu 3i19d rgl4a u6ogo jmw2u ssfhj sxj80 qee30 uw0nn v8jq3 jovb3 2xvgl

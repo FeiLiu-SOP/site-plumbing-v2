@@ -7,6 +7,9 @@
   },
   "scripts": {
     "dev": "astro dev",
+    "dev:roofing": "cross-env ACTIVE_COLLECTION=roofing astro dev --host --port 4321",
+    "dev:plumbing": "cross-env ACTIVE_COLLECTION=plumbing astro dev --host --port 4321",
+    "dev:pestcontrol": "cross-env ACTIVE_COLLECTION=pestcontrol astro dev --host --port 4321",
     "build": "astro build",
     "build:roofing": "cross-env ACTIVE_COLLECTION=roofing astro build",
     "build:plumbing": "cross-env ACTIVE_COLLECTION=plumbing astro build",

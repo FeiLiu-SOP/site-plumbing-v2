@@ -110,3 +110,12 @@ export function canonicalPageUrl(...segments: string[]): string {
   if (parts.length === 0) return `${base}/`;
   return `${base}/${parts.join("/")}/`;
 }
+
+/** Relative internal path (for local preview and client navigation). */
+export function internalPath(...segments: string[]): string {
+  const parts = segments
+    .filter((s) => s != null && s !== "")
+    .map((s) => String(s).replace(/^\/+|\/+$/g, ""));
+  if (parts.length === 0) return `/`;
+  return `/${parts.join("/")}/`;
+}

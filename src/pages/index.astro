@@ -2,7 +2,7 @@
 import { getCollection } from "astro:content";
 import Footer from "../components/Footer.astro";
 import { ACTIVE_COLLECTION } from "../active-collection";
-import { canonicalPageUrl, siteConfig } from "../site-config";
+import { canonicalPageUrl, internalPath, siteConfig } from "../site-config";
 
 const posts = await getCollection(ACTIVE_COLLECTION);
 const nicheLower = siteConfig.nicheLabel.toLowerCase();
@@ -19,6 +19,23 @@ function entryPath(entry: { id?: string; slug?: string }) {
   return raw.replace(/\.(md|mdx)$/i, "");
 }
 const sortedPosts = [...posts].sort((a, b) => entryPath(a).localeCompare(entryPath(b)));
+
+function entryStateFromSlug(entry: { id?: string; slug?: string }): string | null {
+  const slug = entryPath(entry);
+  const m = slug.match(/-([a-z]{2})-\d{5}$/i);
+  if (!m) return null;
+  return m[1]!.toUpperCase();
+}
+
+const stateCounts = new Map<string, number>();
+for (const p of posts) {
+  const st = entryStateFromSlug(p);
+  if (!st) continue;
+  stateCounts.set(st, (stateCounts.get(st) ?? 0) + 1);
+}
+const statesSorted = Array.from(stateCounts.entries())
+  .sort((a, b) => a[0].localeCompare(b[0]))
+  .map(([st, count]) => ({ st, count, href: internalPath(st.toLowerCase()) }));
 ---
 
 <html lang="en">
@@ -86,10 +103,22 @@ const sortedPosts = [...posts].sort((a, b) => entryPath(a).localeCompare(entryPa
     <main>
       <h1>All {siteConfig.nicheLabel} Pages</h1>
       <p class="meta">Total pages: {sortedPosts.length}</p>
+
+      <h2>Browse by state</h2>
+      <p class="meta">State indexes: {statesSorted.length}</p>
+      <ul>
+        {statesSorted.map((s) => (
+          <li>
+            <a href={s.href}>{siteConfig.nicheLabel} in {s.st}</a> ({s.count})
+          </li>
+        ))}
+      </ul>
+
+      <h2>Browse all city pages</h2>
       <ul>
         {sortedPosts.map((post) => (
           <li>
-            <a href={canonicalPageUrl(entryPath(post))}>{post.data.title}</a>
+            <a href={internalPath(entryPath(post))}>{post.data.title}</a>
           </li>
         ))}
       </ul>
