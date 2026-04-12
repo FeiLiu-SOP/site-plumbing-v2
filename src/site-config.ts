@@ -10,6 +10,37 @@ import {
 
 const fallbackSiteUrl = "https://la-roofing-v1.pages.dev";
 
+/** 与 `resolve-public-site-url.mjs` 一致：SITE 仍为 pages.dev 时回退到正式 canonical（sitemap / JSON-LD 对齐） */
+function isPagesDevHost(u: string | undefined): boolean {
+  if (!u) return false;
+  try {
+    return new URL(u).hostname.endsWith(".pages.dev");
+  } catch {
+    return u.includes("pages.dev");
+  }
+}
+
+function pickPublicSiteUrl(
+  rawSite: string | undefined,
+  rawCanon: string | undefined
+): string {
+  const norm = (u: string) => u.replace(/\/+$/, "");
+  const s = rawSite?.trim();
+  const c = rawCanon?.trim();
+  if (s && !isPagesDevHost(s)) {
+    const ns = norm(s);
+    if (c && !isPagesDevHost(c)) {
+      const nc = norm(c);
+      if (nc.startsWith(`${ns}/`)) return nc;
+    }
+    return ns;
+  }
+  if (c && !isPagesDevHost(c)) return norm(c);
+  if (s) return norm(s);
+  if (c) return norm(c);
+  return fallbackSiteUrl;
+}
+
 /** 未设置 PUBLIC_NICHE_LABEL 时，与当前 ACTIVE_COLLECTION 对齐（避免 plumbing 构建仍显示 Roofing） */
 const DEFAULT_NICHE_BY_COLLECTION: Record<ActiveCollectionKey, string> = {
   roofing: "Roofing",
@@ -37,17 +68,24 @@ const rawPhoneE164 =
 export const PUBLIC_PHONE_DISPLAY =
   import.meta.env.PUBLIC_PHONE_DISPLAY ?? "+1 (773) 302-8078";
 
-/** 与 sitemap、绝对 URL 一致；astro.config.mjs 的 site 应使用同一环境变量 */
-export const PUBLIC_SITE_URL =
-  import.meta.env.PUBLIC_SITE_URL ?? fallbackSiteUrl;
+const rawPublicSiteUrl = (
+  import.meta.env.PUBLIC_SITE_URL as string | undefined
+)?.trim();
 
-/**
- * 可选：统一 canonical 归属域（例如 rockwellpropertiesmaine.com）。
- * 未配置时回退到 PUBLIC_SITE_URL。
- */
 const rawCanonicalOrigin = (
   import.meta.env.PUBLIC_CANONICAL_ORIGIN as string | undefined
 )?.trim();
+
+/** 与 sitemap、astro `site`、JSON-LD 绝对 URL 对齐 */
+export const PUBLIC_SITE_URL = pickPublicSiteUrl(
+  rawPublicSiteUrl,
+  rawCanonicalOrigin
+);
+
+/**
+ * 可选：统一 canonical 归属域（例如 rockwellpropertiesmaine.com）。
+ * 未配置时回退到 PUBLIC_SITE_URL（已含 pages.dev → canonical 的解析）。
+ */
 export const PUBLIC_CANONICAL_ORIGIN =
   rawCanonicalOrigin && rawCanonicalOrigin.length > 0
     ? rawCanonicalOrigin
