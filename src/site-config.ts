@@ -160,11 +160,20 @@ export function canonicalPageUrl(...segments: string[]): string {
   return `${base}/${parts.join("/")}/`;
 }
 
-/** Relative internal path (for local preview and client navigation). */
+/** Relative internal path（与 `astro.config` 的 `base` 一致，如 Hub `/pestcontrol/`）。 */
 export function internalPath(...segments: string[]): string {
   const parts = segments
     .filter((s) => s != null && s !== "")
     .map((s) => String(s).replace(/^\/+|\/+$/g, ""));
-  if (parts.length === 0) return `/`;
-  return `/${parts.join("/")}/`;
+  const root = import.meta.env.BASE_URL ?? "/";
+  const base = root.endsWith("/") ? root : `${root}/`;
+  if (parts.length === 0) {
+    return base;
+  }
+  const tail = `${parts.join("/")}/`;
+  try {
+    return new URL(tail, `http://localhost${base}`).pathname;
+  } catch {
+    return `/${parts.join("/")}/`;
+  }
 }

@@ -1,18 +1,18 @@
 /**
- * 主域 Hub 下按路径分流（/roofing /plumbing /pestcontrol）时，Astro 的 `site` 若只有裸主域，
- * sitemap 会错误指向 https://域名/sitemap-0.xml。在构建时按 ACTIVE_COLLECTION 补上路径段。
- * *.pages.dev 不处理（预览站页面仍在根路径）。
- * 设 PUBLIC_AUTO_SITEMAP_PATH=0 可关闭。
+ * 主域 Hub：/roofing /plumbing /pestcontrol。
+ * @astrojs/sitemap 用 `new URL(config.base, config.site)`；`site` 不能带 path，否则会被当成 base 解析成根域。
+ * 正确：`site` = origin，`base` = `/pestcontrol/` 等。
  */
-const SEGMENT_BY_COLLECTION = {
+export const SEGMENT_BY_COLLECTION = {
   roofing: "roofing",
   plumbing: "plumbing",
   pestcontrol: "pestcontrol",
 };
 
 /**
+ * 仍为「完整公开 URL」字符串（给 site-config / JSON-LD），含路径。
  * @param {string} siteStr
- * @param {string} activeCollection roofing | plumbing | pestcontrol
+ * @param {string} activeCollection
  * @param {string | undefined} disableAugment "0" 关闭
  */
 export function augmentHubPathForMainSite(siteStr, activeCollection, disableAugment) {
@@ -32,5 +32,37 @@ export function augmentHubPathForMainSite(siteStr, activeCollection, disableAugm
     return `${u.origin}/${seg}`;
   } catch {
     return siteStr;
+  }
+}
+
+/**
+ * @param {string} fullResolvedUrl augment 后的完整 URL
+ * @param {string} activeCollection
+ * @returns {{ site: string, base: string }}
+ */
+export function toAstroSiteAndBase(fullResolvedUrl, activeCollection) {
+  const seg =
+    SEGMENT_BY_COLLECTION[(activeCollection ?? "").toLowerCase().trim()];
+  try {
+    const u = new URL(fullResolvedUrl);
+    if (u.hostname.endsWith(".pages.dev")) {
+      return { site: u.origin, base: "/" };
+    }
+    const hub =
+      u.hostname === "rockwellpropertiesmaine.com" ||
+      u.hostname === "www.rockwellpropertiesmaine.com";
+    const pathParts = u.pathname.split("/").filter(Boolean);
+    if (hub && seg) {
+      if (pathParts.length === 0) {
+        return { site: u.origin, base: `/${seg}/` };
+      }
+      return { site: u.origin, base: `/${pathParts.join("/")}/` };
+    }
+    if (pathParts.length > 0) {
+      return { site: u.origin, base: `/${pathParts.join("/")}/` };
+    }
+    return { site: u.origin, base: "/" };
+  } catch {
+    return { site: fullResolvedUrl, base: "/" };
   }
 }

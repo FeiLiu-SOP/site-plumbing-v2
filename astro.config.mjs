@@ -4,7 +4,10 @@ import sitemap from "@astrojs/sitemap";
 import { loadEnv } from "vite";
 import { remarkStripRoutingMarkers } from "./src/remark-strip-routing-markers.mjs";
 import { resolvePublicSiteUrl } from "./resolve-public-site-url.mjs";
-import { augmentHubPathForMainSite } from "./hub-site-path.mjs";
+import {
+  augmentHubPathForMainSite,
+  toAstroSiteAndBase,
+} from "./hub-site-path.mjs";
 
 const fallbackSite = "https://la-roofing-v1.pages.dev";
 
@@ -17,7 +20,7 @@ const activeCollection =
   process.env.ACTIVE_COLLECTION ?? fileEnv.ACTIVE_COLLECTION ?? "roofing";
 const disableAugment =
   process.env.PUBLIC_AUTO_SITEMAP_PATH ?? fileEnv.PUBLIC_AUTO_SITEMAP_PATH;
-const site = augmentHubPathForMainSite(
+const fullSiteUrl = augmentHubPathForMainSite(
   resolvePublicSiteUrl({
     site: process.env.PUBLIC_SITE_URL ?? fileEnv.PUBLIC_SITE_URL,
     canonical: process.env.PUBLIC_CANONICAL_ORIGIN ?? fileEnv.PUBLIC_CANONICAL_ORIGIN,
@@ -26,10 +29,12 @@ const site = augmentHubPathForMainSite(
   activeCollection,
   disableAugment
 );
+const { site, base } = toAstroSiteAndBase(fullSiteUrl, activeCollection);
 
 // https://astro.build/config
 export default defineConfig({
   site,
+  base,
   integrations: [sitemap()],
   markdown: {
     remarkPlugins: [remarkStripRoutingMarkers],
