@@ -7,6 +7,7 @@ import {
   ACTIVE_COLLECTION,
   type ActiveCollectionKey,
 } from "./active-collection";
+import { augmentHubPathForMainSite } from "../hub-site-path.mjs";
 
 const fallbackSiteUrl = "https://la-roofing-v1.pages.dev";
 
@@ -76,10 +77,20 @@ const rawCanonicalOrigin = (
   import.meta.env.PUBLIC_CANONICAL_ORIGIN as string | undefined
 )?.trim();
 
-/** 与 sitemap、astro `site`、JSON-LD 绝对 URL 对齐 */
-export const PUBLIC_SITE_URL = pickPublicSiteUrl(
+const pickedPublicSiteUrl = pickPublicSiteUrl(
   rawPublicSiteUrl,
   rawCanonicalOrigin
+);
+
+const rawAugmentOff = (
+  import.meta.env.PUBLIC_AUTO_SITEMAP_PATH as string | undefined
+)?.trim();
+
+/** 与 sitemap、astro `site`、JSON-LD 绝对 URL 对齐（主域 Hub 路径见 `hub-site-path.mjs`） */
+export const PUBLIC_SITE_URL = augmentHubPathForMainSite(
+  pickedPublicSiteUrl,
+  ACTIVE_COLLECTION,
+  rawAugmentOff
 );
 
 /**
