@@ -27,11 +27,11 @@ If you’re open to it, you can:
   • Link to a hosted demo URL, or
   • Embed the widget with a one-line script (I can send the exact snippet for your CMS).
 
-Preview / technical URL (this repo uses Astro base "/plumbing/" — include it in production links):
-[https://YOUR-DEPLOYED-DOMAIN/plumbing/community-widget/property-value-risk.html?usd=EXAMPLE&city=City%2C%20ST&benchmark=Your%20label]
+Preview / technical URL (production host — change below if you switch domains):
+https://realtorsatthebeach.com/plumbing/community-widget/property-value-risk.html?usd=EXAMPLE&city=City%2C%20ST&benchmark=Your%20label
 
 Optional hub page (lists demo + embed test + this file):
-[https://YOUR-DEPLOYED-DOMAIN/plumbing/community-widget/index.html]
+https://realtorsatthebeach.com/plumbing/community-widget/index.html
 
 Local smoke test after `npm run dev:plumbing-v2`:
 [http://localhost:4321/plumbing/community-widget/embed-test.html]
@@ -48,7 +48,7 @@ IFRAME FALLBACK (for hosts that prefer iframe only)
 --------------------------------------------------------------------------------
 <iframe
   title="Property value stress estimator (community resource)"
-  src="https://YOUR-DEPLOYED-DOMAIN/plumbing/community-widget/property-value-risk.html?usd=304124&city=Zion%2C%20PA&benchmark=Example%20median%20benchmark"
+  src="https://realtorsatthebeach.com/plumbing/community-widget/property-value-risk.html?usd=304124&city=Zion%2C%20PA&benchmark=Example%20median%20benchmark"
   width="100%"
   height="460"
   style="max-width:560px;border:0;display:block;"
@@ -61,7 +61,7 @@ SCRIPT EMBED (same origin as your deployed site; paths include /plumbing/)
 --------------------------------------------------------------------------------
 <div id="pvr-mount"></div>
 <script
-  src="https://YOUR-DEPLOYED-DOMAIN/plumbing/community-widget/embed.js"
+  src="https://realtorsatthebeach.com/plumbing/community-widget/embed.js"
   async
   data-target="pvr-mount"
   data-usd="304124"
