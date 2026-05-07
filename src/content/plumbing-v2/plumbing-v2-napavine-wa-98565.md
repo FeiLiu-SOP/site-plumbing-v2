@@ -12,6 +12,8 @@ lng: -122.9000
 zipSample: ["98532", "98565"]
 zipCodes: ["98565", "98532"]
 localPaths: ["Lewis County / ZIP 98565 sector", "Lewis County / elevation 312 ft band", "Lewis County / coords 46.5800, -122.9000", "Lewis County / ZIP 98532 sector", "Lewis County / primary ZIP 98565"]
+zillowHomeValueUsd: 592415
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Napavine:** System optimized for 126 mg/L hard water scaling factors in Napavine. Regional dispatch grid: Lewis County.

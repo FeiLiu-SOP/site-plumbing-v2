@@ -12,6 +12,8 @@ lng: -87.5000
 zipSample: ["36786"]
 zipCodes: ["36786"]
 localPaths: ["Perry County / coords 32.4500, -87.5000", "Perry County / ZIP 36786 sector", "Perry County / elevation 233 ft band", "Perry County / primary ZIP 36786"]
+zillowHomeValueUsd: 216354
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Uniontown:** System optimized for 130 mg/L hard water scaling factors in Uniontown. Regional dispatch grid: Perry County.

@@ -12,6 +12,8 @@ lng: -123.7000
 zipSample: ["95546"]
 zipCodes: ["95546"]
 localPaths: ["Humboldt County / elevation 305 ft band", "Humboldt County / coords 41.0800, -123.7000", "Humboldt County / primary ZIP 95546", "Humboldt County / ZIP 95546 sector"]
+zillowHomeValueUsd: 855467
+data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Hoopa:** System optimized for 143 mg/L hard water scaling factors in Hoopa. Regional dispatch grid: Humboldt County.
