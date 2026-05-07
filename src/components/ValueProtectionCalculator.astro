@@ -2,6 +2,9 @@
 /**
  * First-fold "value protection" block: anchors visually to injected median home USD.
  * SSR-first: full layout and numbers without hydration; range updates via tiny inline script.
+ *
+ * Community / third-party embed: keep logic in sync with
+ * `public/community-widget/property-value-risk.html` + `embed.js` (transparent, non-commercial SOP).
  */
 interface Props {
   homeUsd: number | null;

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="index,follow" />
+    <title>Community widget — property value stress estimator</title>
+    <style>
+      body {
+        font-family: system-ui, sans-serif;
+        max-width: 42rem;
+        margin: 2rem auto;
+        padding: 0 1rem;
+        color: #0f172a;
+        line-height: 1.5;
+      }
+      h1 {
+        font-size: 1.35rem;
+      }
+      ul {
+        padding-left: 1.2rem;
+      }
+      li {
+        margin: 0.5rem 0;
+      }
+      code,
+      pre {
+        background: #f1f5f9;
+        border-radius: 6px;
+        font-size: 0.88rem;
+      }
+      code {
+        padding: 0.12rem 0.35rem;
+      }
+      pre {
+        padding: 0.75rem 1rem;
+        overflow-x: auto;
+      }
+      .note {
+        color: #475569;
+        font-size: 0.92rem;
+      }
+      a {
+        color: #2563eb;
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Community widget (non-commercial)</h1>
+    <p class="note">
+      This hub lives under your site’s <code>base</code> path <code>/plumbing/</code>. Replace the host below with your production domain when sharing.
+      Use bookmark URL with trailing slash: <code>/plumbing/community-widget/</code> — links below are root-relative so they work with or without it.
+    </p>
+    <ul>
+      <li>
+        <a
+          href="/plumbing/community-widget/property-value-risk.html?usd=304124&amp;city=Zion%2C%20PA&amp;benchmark=Demo%20benchmark"
+          >Live widget (demo query string)</a
+        >
+      </li>
+      <li>
+        <a href="/plumbing/community-widget/embed-test.html"><code>embed.js</code> smoke test</a> (open via dev server or static preview, not <code>file://</code>)
+      </li>
+      <li>
+        Plain-text outreach template + iframe/script snippets:
+        <a href="/plumbing/community-widget/OUTREACH-EMAIL.txt"><code>OUTREACH-EMAIL.txt</code></a>
+      </li>
+      <li>
+        Operator checklist (Chinese):
+        <a href="/plumbing/community-widget/HANDOFF-%E8%83%BD%E5%81%9A%E7%9A%84%E5%92%8C%E4%B8%8D%E8%83%BD%E5%81%9A%E7%9A%84.txt"
+          ><code>HANDOFF-能做的和不能做的.txt</code></a
+        >
+      </li>
+    </ul>
+    <p class="note">Production-style paths (after <code>npm run build:plumbing-v2</code> + deploy of <code>dist/</code>):</p>
+    <pre><code>/plumbing/community-widget/property-value-risk.html
+/plumbing/community-widget/embed.js
+/plumbing/community-widget/embed-test.html</code></pre>
+  </body>
+</html>

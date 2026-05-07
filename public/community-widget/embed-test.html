@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Community widget — embed.js smoke test</title>
+    <style>
+      body {
+        font-family: system-ui, sans-serif;
+        margin: 1rem;
+        max-width: 640px;
+      }
+      code {
+        background: #f1f5f9;
+        padding: 0.1rem 0.3rem;
+        border-radius: 4px;
+      }
+      p.note {
+        color: #475569;
+        font-size: 0.95rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>embed.js smoke test</h1>
+    <p class="note">
+      This project uses Astro <code>base: &quot;/plumbing/&quot;</code>, so script and iframe URLs must include the
+      <code>/plumbing/</code> prefix. Open this file via dev server, not <code>file://</code>.
+    </p>
+    <p class="note">Expected: an iframe below showing the calculator for Zion, PA.</p>
+    <div id="pvr-mount" style="min-height: 480px"></div>
+    <script
+      src="/plumbing/community-widget/embed.js"
+      async
+      data-target="pvr-mount"
+      data-usd="304124"
+      data-city="Zion, PA"
+      data-benchmark="Embed test benchmark"
+      data-height="480"
+    ></script>
+    <p class="note" style="margin-top: 1.25rem"><a href="/plumbing/community-widget/">← Widget hub</a></p>
+  </body>
+</html>

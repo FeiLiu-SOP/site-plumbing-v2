@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Community property value stress estimator</title>
+    <style>
+      :root {
+        --vpc-accent: #2563eb;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+        background: transparent;
+        color: #0f172a;
+      }
+      .value-protection-calculator {
+        margin: 0;
+        border-radius: 14px;
+        border: 2px solid rgba(15, 23, 42, 0.12);
+        background: linear-gradient(145deg, #f8fafc 0%, #ffffff 55%, #f1f5f9 100%);
+        box-shadow: 0 14px 40px rgba(15, 23, 42, 0.12);
+        overflow: visible;
+      }
+      .vpc-inner {
+        padding: 1rem 1.1rem 1.15rem;
+        max-width: 100%;
+      }
+      .vpc-title {
+        margin: 0 0 0.35rem;
+        font-size: 1.15rem;
+        font-weight: 800;
+        letter-spacing: -0.02em;
+        color: #0f172a;
+      }
+      .vpc-lead {
+        margin: 0 0 0.85rem;
+        font-size: 0.95rem;
+        color: #475569;
+        line-height: 1.45;
+      }
+      .vpc-zlabel {
+        font-weight: 700;
+        color: #0f172a;
+      }
+      .vpc-hero-amount {
+        display: flex;
+        flex-direction: column;
+        gap: 0.2rem;
+        margin-bottom: 0.85rem;
+        padding: 0.75rem 0.85rem;
+        border-radius: 12px;
+        background: rgba(255, 255, 255, 0.92);
+        border: 1px solid rgba(15, 23, 42, 0.08);
+      }
+      .vpc-hero-label {
+        font-size: 0.78rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: #64748b;
+      }
+      .vpc-hero-number {
+        font-size: clamp(1.55rem, 4.5vw, 2.1rem);
+        font-weight: 900;
+        letter-spacing: -0.03em;
+        line-height: 1.1;
+      }
+      .vpc-controls {
+        display: flex;
+        flex-direction: column;
+        gap: 0.45rem;
+      }
+      .vpc-range-label {
+        font-size: 0.88rem;
+        font-weight: 600;
+        color: #334155;
+      }
+      .vpc-range {
+        width: 100%;
+        accent-color: var(--vpc-accent, #2563eb);
+      }
+      .vpc-readout {
+        display: flex;
+        flex-direction: column;
+        gap: 0.15rem;
+        margin-top: 0.25rem;
+        padding: 0.55rem 0.65rem;
+        border-radius: 10px;
+        background: #0b1220;
+        color: #e2e8f0;
+      }
+      .vpc-readout-label {
+        font-size: 0.75rem;
+        color: #94a3b8;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+      .vpc-readout-value {
+        font-size: 1.25rem;
+        font-weight: 800;
+        font-variant-numeric: tabular-nums;
+      }
+      .vpc-foot {
+        margin: 0.65rem 0 0;
+        font-size: 0.78rem;
+        color: #64748b;
+        line-height: 1.4;
+      }
+      .vpc-fallback {
+        padding: 0.65rem 0.5rem 0.15rem;
+      }
+      .vpc-fallback-text {
+        margin: 0;
+        font-size: 0.92rem;
+        color: #475569;
+        line-height: 1.5;
+      }
+      .vpc-resources {
+        margin: 0.75rem 0 0;
+        padding: 0.65rem 0.7rem;
+        border-radius: 10px;
+        background: rgba(37, 99, 235, 0.06);
+        border: 1px solid rgba(37, 99, 235, 0.15);
+        font-size: 0.78rem;
+        color: #334155;
+        line-height: 1.45;
+      }
+      .vpc-resources a {
+        color: var(--vpc-accent, #2563eb);
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <section
+      class="value-protection-calculator"
+      id="pvr-widget-root"
+      style="--vpc-accent: #2563eb;"
+      data-vpc-usd=""
+      data-vpc-default-pct="12"
+      aria-labelledby="pvr-widget-title"
+    >
+      <div class="vpc-inner">
+        <h2 class="vpc-title" id="pvr-widget-title">Property value stress estimator</h2>
+        <p class="vpc-lead" id="pvr-lead"></p>
+        <div id="pvr-main"></div>
+        <p class="vpc-resources" id="pvr-resources">
+          For authoritative U.S. federal science on natural hazards, see
+          <a href="https://www.usgs.gov/natural-hazards" target="_blank" rel="noopener noreferrer">USGS Natural Hazards</a>.
+          This widget is illustrative only and does not query USGS data in real time.
+        </p>
+      </div>
+    </section>
+    <script>
+      (function () {
+        var params = new URLSearchParams(window.location.search);
+        var usdRaw = params.get("usd") || params.get("homeUsd") || "";
+        var city = params.get("city") || "";
+        var benchmark = params.get("benchmark") || "";
+        var accentRaw = params.get("accent") || "#2563eb";
+        var accent = /^#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$/.test(accentRaw) ? accentRaw : "#2563eb";
+
+        var root = document.getElementById("pvr-widget-root");
+        var lead = document.getElementById("pvr-lead");
+        var main = document.getElementById("pvr-main");
+        if (!root || !lead || !main) return;
+
+        root.style.setProperty("--vpc-accent", accent || "#2563eb");
+
+        var usd = parseInt(String(usdRaw).replace(/[^0-9]/g, ""), 10);
+        var hasValue = usd > 0 && isFinite(usd);
+        root.setAttribute("data-vpc-usd", hasValue ? String(usd) : "");
+
+        lead.textContent = "";
+        lead.appendChild(document.createTextNode("Non-commercial, educational illustration for residents in "));
+        var strong = document.createElement("strong");
+        strong.textContent = city ? city : "this area";
+        lead.appendChild(strong);
+        lead.appendChild(document.createTextNode("."));
+        if (benchmark) {
+          lead.appendChild(document.createTextNode(" "));
+          var span = document.createElement("span");
+          span.className = "vpc-zlabel";
+          span.textContent = "(" + benchmark + ")";
+          lead.appendChild(span);
+        }
+
+        if (!hasValue) {
+          main.innerHTML =
+            '<div class="vpc-fallback"><p class="vpc-fallback-text">No benchmark home value was supplied. Ask your community administrator to pass a median or typical home value for this embed (query parameter <code>usd</code>), or use a static link with <code>?usd=</code> filled in.</p></div>';
+          return;
+        }
+
+        var formatted = new Intl.NumberFormat("en-US", {
+          style: "currency",
+          currency: "USD",
+          maximumFractionDigits: 0,
+        }).format(usd);
+
+        main.innerHTML =
+          '<div class="vpc-hero-amount" style="color:var(--vpc-accent);">' +
+          '<span class="vpc-hero-label">Benchmark home value (host-provided)</span>' +
+          '<span class="vpc-hero-number">' +
+          formatted +
+          "</span></div>" +
+          '<div class="vpc-controls">' +
+          '<label class="vpc-range-label" for="pvr-range">Scenario stress — illustrative exposure (%)</label>' +
+          '<input id="pvr-range" class="vpc-range" type="range" min="5" max="40" step="1" value="12" />' +
+          '<div class="vpc-readout">' +
+          '<span class="vpc-readout-label">Illustrative dollar amount at this stress</span>' +
+          '<output class="vpc-readout-value" id="pvr-out" for="pvr-range">—</output>' +
+          "</div></div>" +
+          '<p class="vpc-foot">Illustrative math only — not an appraisal, insurance quote, or legal advice. Consult licensed professionals for decisions about your property.</p>';
+
+        var g = document.getElementById("pvr-range");
+        var o = document.getElementById("pvr-out");
+        if (!g || !o) return;
+
+        function fmt(n) {
+          return new Intl.NumberFormat("en-US", {
+            style: "currency",
+            currency: "USD",
+            maximumFractionDigits: 0,
+          }).format(n);
+        }
+        function sync() {
+          var p = +g.value || 0;
+          o.textContent = fmt(Math.round((usd * p) / 100));
+        }
+        g.addEventListener("input", sync);
+        sync();
+      })();
+    </script>
+  </body>
+</html>
