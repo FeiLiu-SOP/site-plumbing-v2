@@ -46,15 +46,59 @@
         font-weight: 700;
         color: #0f172a;
       }
+      .vpc-metrics-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.65rem;
+        align-items: stretch;
+        margin-bottom: 0.85rem;
+      }
       .vpc-hero-amount {
         display: flex;
         flex-direction: column;
         gap: 0.2rem;
-        margin-bottom: 0.85rem;
+        flex: 1 1 168px;
+        margin-bottom: 0;
         padding: 0.75rem 0.85rem;
         border-radius: 12px;
         background: rgba(255, 255, 255, 0.92);
         border: 1px solid rgba(15, 23, 42, 0.08);
+        min-width: 0;
+      }
+      .vpc-risk-meter {
+        flex: 1 1 148px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 0.2rem;
+        padding: 0.75rem 0.85rem;
+        border-radius: 12px;
+        background: rgba(255, 247, 237, 0.96);
+        border: 1px solid rgba(234, 88, 12, 0.28);
+        min-width: 0;
+      }
+      .vpc-risk-meter-label {
+        font-size: 0.78rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: #9a3412;
+      }
+      .vpc-risk-meter-readout {
+        margin: 0;
+        font-variant-numeric: tabular-nums;
+        line-height: 1.1;
+      }
+      .vpc-risk-meter-score {
+        font-size: clamp(1.45rem, 4.2vw, 2rem);
+        font-weight: 900;
+        letter-spacing: -0.03em;
+        color: #ea580c;
+      }
+      .vpc-risk-meter-denom {
+        font-size: clamp(1.05rem, 3vw, 1.35rem);
+        font-weight: 800;
+        color: #c2410c;
       }
       .vpc-hero-label {
         font-size: 0.78rem;
@@ -202,11 +246,18 @@
         }).format(usd);
 
         main.innerHTML =
+          '<div class="vpc-metrics-row">' +
           '<div class="vpc-hero-amount" style="color:var(--vpc-accent);">' +
           '<span class="vpc-hero-label">Benchmark home value (host-provided)</span>' +
           '<span class="vpc-hero-number">' +
           formatted +
           "</span></div>" +
+          '<div class="vpc-risk-meter" aria-label="Infrastructure stress index">' +
+          '<span class="vpc-risk-meter-label">Infrastructure stress index</span>' +
+          '<p class="vpc-risk-meter-readout">' +
+          '<span class="vpc-risk-meter-score" id="pvr-risk-score">48</span>' +
+          '<span class="vpc-risk-meter-denom"> / 100</span>' +
+          "</p></div></div>" +
           '<div class="vpc-controls">' +
           '<label class="vpc-range-label" for="pvr-range">Scenario stress — illustrative exposure (%)</label>' +
           '<input id="pvr-range" class="vpc-range" type="range" min="5" max="40" step="1" value="12" />' +
@@ -218,6 +269,7 @@
 
         var g = document.getElementById("pvr-range");
         var o = document.getElementById("pvr-out");
+        var sc = document.getElementById("pvr-risk-score");
         if (!g || !o) return;
 
         function fmt(n) {
@@ -227,9 +279,13 @@
             maximumFractionDigits: 0,
           }).format(n);
         }
+        function stressIdx(p) {
+          return Math.min(100, Math.round(18 + (+p || 0) * 2.5));
+        }
         function sync() {
           var p = +g.value || 0;
           o.textContent = fmt(Math.round((usd * p) / 100));
+          if (sc) sc.textContent = String(stressIdx(p));
         }
         g.addEventListener("input", sync);
         sync();
