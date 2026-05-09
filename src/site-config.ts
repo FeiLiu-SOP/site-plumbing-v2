@@ -10,38 +10,20 @@ const HARD_PHONE_DISPLAY = "+1 (607) 400-9375";
 
 export const BRAND_CONFIG = {
   rockwell: {
-    name: "Rockwell Property Defense Network",
-    short: "Rockwell",
+    name: "FixitGrid Local Dispatch Network",
+    short: "FixitGrid",
   },
   realtors: {
-    name: "National Home Protection Network",
-    short: "National Home",
+    name: "FixitGrid Local Dispatch Network",
+    short: "FixitGrid",
   },
 } as const;
 
 export type BrandBundle = (typeof BRAND_CONFIG)[keyof typeof BRAND_CONFIG];
 
-export function getBrand(domain: string): BrandBundle {
-  const raw = domain.trim().toLowerCase();
-  if (!raw) {
-    return BRAND_CONFIG.rockwell;
-  }
-  let host = raw;
-  const candidate = raw.includes("://") ? raw : `https://${raw}`;
-  try {
-    host = new URL(candidate).hostname.toLowerCase();
-  } catch {
-    /* noop */
-  }
-  if (host === "realtorsatthebeach.com" || host.endsWith(".realtorsatthebeach.com")) {
-    return BRAND_CONFIG.realtors;
-  }
-  if (raw.includes("realtorsatthebeach.com")) {
-    return BRAND_CONFIG.realtors;
-  }
+export function getBrand(_domain: string): BrandBundle {
   return BRAND_CONFIG.rockwell;
 }
-
 
 /** Must stay in sync with `stableHashUint32` in repo root `main.go` (Go generator alias picks). */
 function stableHash(input: string): number {
