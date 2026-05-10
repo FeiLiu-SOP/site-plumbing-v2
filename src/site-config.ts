@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Plumbing V2 hard isolation config.
  * No runtime linkage to plumbing v1 or shared collection switches.
  */
@@ -103,4 +103,15 @@ export function internalPath(...segments: string[]): string {
   const parts = segments.filter(Boolean).map((s) => s.replace(/^\/+|\/+$/g, ""));
   if (parts.length === 0) return base;
   return new URL(`${parts.join("/")}/`, `http://local${base}`).pathname;
+}
+/**
+ * Root-level path on the main domain (bypasses Astro `base`).
+ * Hub pages live at origin root, e.g. `/national-service-coverage/`.
+ */
+export function hubPublicPath(...segments: string[]): string {
+  const parts = segments
+    .filter((s) => s != null && s !== "")
+    .map((s) => String(s).replace(/^\/+|\/+$/g, ""));
+  if (parts.length === 0) return "/";
+  return `/${parts.join("/")}/`;
 }
