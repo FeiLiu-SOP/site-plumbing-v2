@@ -12,30 +12,45 @@ lng: -73.2000
 zipSample: ["06798"]
 zipCodes: ["06798"]
 localPaths: ["Naugatuck Valley County / elevation 469 ft band", "Naugatuck Valley County / primary ZIP 06798", "Naugatuck Valley County / ZIP 06798 sector", "Naugatuck Valley County / coords 41.5400, -73.2000"]
-zillowHomeValueUsd: 521906
 ---
 
 **Engineering Notice for Woodbury Center:** System optimized for 146 mg/L hard water scaling factors in Woodbury Center. Regional dispatch grid: Naugatuck Valley County.
 
 
-In Woodbury Center, CT, fixture & supply line pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Drain cleaning scopes in Woodbury Center, CT separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Tip: Photograph cleanout cap threads before snaking near ZIP 06798.
 
-Fixture & Supply Line Pros coordination in Woodbury Center, CT prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Material note: Water heater anode type may change with Woodbury Center, CT hardness profiles.
 
-FAQ: When is water line replacement safer than spot service? In Woodbury Center, CT, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Book sump and supply-line checks in one written scope. Postal sector 06798.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 06798.
+Step: document dielectric unions before mixed-metal replacements.
 
-Request a written fixture & supply line pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 06798.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Dispatch note: scale coupon sampling and cleanout riser height were logged for the Woodbury Center plumbing intake packet.
+Risk flag: In Woodbury Center, CT, slab leaks can misroute as foundation issues without listening equipment.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Woodbury Center, CT.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Hydro-jetting in Woodbury Center, CT requires camera confirmation before nozzle pressure is raised.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Naugatuck Valley County.
+
+Water heater T&P discharge paths in Woodbury Center, CT must terminate safely before replacement quotes.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Woodbury Center, CT.
+
+Supply audit 859766: curb-stop orientation and hose-bib freeze flag reviewed for Woodbury Center, CT at coords 41.5400/-73.2000.
+
+Drain map 859766: camera-pass priority and expansion-tank pre-charge noted for Woodbury Center, CT postal sector 06798.
 
 Field note: Sump pump discharge check-valve orientation verified for ZIP sector 06798.
 
-Field note: Main cleanout riser height measured against slab finish in Woodbury Center, CT.
-
-Dispatch sectors sampled: ZIP 06798 (county grid: Naugatuck Valley County).
+On-site sector marker: Naugatuck Valley County / coords 41.5400, -73.2000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CT-06798-e2733e39

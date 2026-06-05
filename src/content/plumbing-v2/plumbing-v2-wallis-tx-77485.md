@@ -12,30 +12,45 @@ lng: -96.0600
 zipSample: ["77485"]
 zipCodes: ["77485"]
 localPaths: ["Austin County / primary ZIP 77485", "Austin County / ZIP 77485 sector", "Austin County / coords 29.6300, -96.0600", "Austin County / elevation 138 ft band"]
-zillowHomeValueUsd: 328732
 ---
 
 **Engineering Notice for Wallis:** System optimized for 162 mg/L hard water scaling factors in Wallis. Regional dispatch grid: Austin County.
 
 
-When leak detection pros scopes are reviewed in Wallis, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Dispatch packets reference county grid Austin County near ZIP 77485.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Wallis, TX.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Wallis, TX.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+FAQ: Is hydro-jetting always appropriate? In Wallis, TX, pipe material and blockage type dictate method.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Wallis, TX, soft blockages differ from root intrusion profiles.
+Step: map sump float travel and check-valve orientation for Wallis, TX basements.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 77485.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Open a scheduling request if you need leak detection pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 77485.
+Tankless heater descale intervals in Wallis, TX hard-water zones differ from tank anode schedules.
 
-Field packet: water heater T&P discharge path plus PEX expansion ring batch referenced in Austin County county grid review.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Main cleanout riser height measured against slab finish in Wallis, TX.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Wallis, TX.
 
-Field note: Water line replacement trench path flagged for Austin County setbacks.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 77485 (county grid: Austin County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Wallis, TX.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Wallis, TX older homes.
+
+Hose bib split patterns often follow missed winterization.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Service ledger 165669: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Wallis, TX at 29.6300, -96.0600.
+
+Drain map 165669: camera-pass priority and expansion-tank pre-charge noted for Wallis, TX postal sector 77485.
+
+Field note: Expansion tank pre-charge verified in Wallis, TX.
+
+On-site sector marker: Austin County / primary ZIP 77485 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77485-b3b99e79

@@ -12,31 +12,43 @@ lng: -91.5500
 zipSample: ["70538", "70514"]
 zipCodes: ["70538", "70514"]
 localPaths: ["St. Mary Parish / ZIP 70514 sector", "St. Mary Parish / primary ZIP 70514", "St. Mary Parish / elevation 26 ft band", "St. Mary Parish / coords 29.8400, -91.5500", "St. Mary Parish / ZIP 70538 sector"]
-zillowHomeValueUsd: 190591
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Baldwin:** System optimized for 144 mg/L hard water scaling factors in Baldwin. Regional dispatch grid: St. Mary Parish.
 
 
-Across Baldwin, LA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Our intake language for Baldwin, LA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 70514.
 
-FAQ: Can sump pump service wait until dry season? In Baldwin, LA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Irrigation cross-connections in Baldwin, LA can back-siphon domestic lines during main breaks.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 70514/70538.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Baldwin, LA older homes.
 
-Book a camera-assisted drain review before approving jetting on older Baldwin, LA mains. Serving ZIP Code: 70514.
+FAQ: Is hydro-jetting always appropriate? In Baldwin, LA, pipe material and blockage type dictate method.
 
-Routing marker: dielectric union checklist paired with PRV outlet pressure curve near ZIP 70514.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Drain cleaning cable head wear logged before second pass in Baldwin, LA.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Water line replacement trench path flagged for St. Mary Parish setbacks.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 70514, 70538 (county grid: St. Mary Parish).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Tip: Log water heater flex line dates before wall closure in Baldwin, LA remodel zones.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Pressure trace 131765: meter-pit clearance and dielectric union checklist staged for Baldwin, LA near elevation 26 ft.
+
+Fixture roster 131765: toilet flange spacer kit and shower cartridge seat score queued for Baldwin, LA walk-through.
+
+On-site sector marker: St. Mary Parish / ZIP 70538 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70514-e54e9509

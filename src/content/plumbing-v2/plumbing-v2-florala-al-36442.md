@@ -12,30 +12,45 @@ lng: -86.3100
 zipSample: ["36442"]
 zipCodes: ["36442"]
 localPaths: ["Covington County / coords 31.0200, -86.3100", "Covington County / elevation 259 ft band", "Covington County / ZIP 36442 sector", "Covington County / primary ZIP 36442"]
-zillowHomeValueUsd: 145864
 ---
 
 **Engineering Notice for Florala:** System optimized for 131 mg/L hard water scaling factors in Florala. Regional dispatch grid: Covington County.
 
 
-When hydro-jetting specialists scopes are reviewed in Florala, AL, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Photograph cleanout cap threads before snaking near ZIP 36442.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Florala, AL.
+Cast-iron hub corrosion in Florala, AL often concentrates at the third joint upstream of the cleanout.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Florala, AL, soft blockages differ from root intrusion profiles.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Florala, AL.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 36442.
+Dual-water-meter setups in Florala, AL irrigation zones need backflow logs before line replacement.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 36442.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Scope trace: Sump pump float travel cross-checked against copper pinhole cluster map before line-pressure hold test.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Water line replacement trench path flagged for Covington County setbacks.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Florala, AL.
 
-Field note: Main cleanout riser height measured against slab finish in Florala, AL.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 36442 (county grid: Covington County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+In Florala, AL, hydro-jetting specialists visits often begin with sump basin level checks and discharge line freeze separation.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Polybutylene manifold tags in Florala, AL basements should be photographed before wall chases open.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Galvanized segments in Florala, AL may restrict flow before visible corrosion.
+
+Fixture roster 324927: toilet flange spacer kit and shower cartridge seat score queued for Florala, AL walk-through.
+
+Lineage note 324927: recirculation pump amp draw captured before Florala, AL branch isolation.
+
+On-site sector marker: Covington County / elevation 259 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36442-cd306d95

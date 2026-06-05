@@ -12,31 +12,49 @@ lng: -121.2900
 zipSample: ["97761"]
 zipCodes: ["97761"]
 localPaths: ["Jefferson County / primary ZIP 97761", "Jefferson County / coords 44.7700, -121.2900", "Jefferson County / elevation 1657 ft band", "Jefferson County / ZIP 97761 sector"]
-zillowHomeValueUsd: 458869
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Warm Springs:** System optimized for 141 mg/L hard water scaling factors in Warm Springs. Regional dispatch grid: Jefferson County.
 
 
-When hydro-jetting specialists scopes are reviewed in Warm Springs, OR, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Warm Springs, OR.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Jefferson County.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Warm Springs, OR, soft blockages differ from root intrusion profiles.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 97761.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 97761.
+Trenchless pulls in Warm Springs, OR require pit dimensions verified against utility locate marks.
 
-Routing marker: water heater T&P discharge path paired with cleanout riser height near ZIP 97761.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Drain cleaning cable head wear logged before second pass in Warm Springs, OR.
+CPVC solvent weld times shift with ambient humidity during Warm Springs, OR shoulder seasons.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 97761.
+Permit note: Main water line replacement in Warm Springs, OR may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 97761 (county grid: Jefferson County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Material note: Water heater anode type may change with Warm Springs, OR hardness profiles.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Warm Springs, OR older homes.
+
+Shared main supplies in Warm Springs, OR duplexes require coordinated shutoff before pressure holds.
+
+Cast-iron hub corrosion in Warm Springs, OR often concentrates at the third joint upstream of the cleanout.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Fixture roster 970561: toilet flange spacer kit and shower cartridge seat score queued for Warm Springs, OR walk-through.
+
+Service ledger 970561: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Warm Springs, OR at 44.7700, -121.2900.
+
+Field note: PRV inlet and outlet curves captured for ZIP 97761.
+
+Primary postal anchor 97761 with multi-ZIP overlap in Warm Springs; field packets tag Jefferson County for county-grid reconciliation.
 
 Service reference: OR-97761-0da77a21

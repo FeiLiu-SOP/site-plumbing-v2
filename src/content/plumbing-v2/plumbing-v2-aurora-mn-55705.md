@@ -12,28 +12,51 @@ lng: -92.2400
 zipSample: ["55705"]
 zipCodes: ["55705"]
 localPaths: ["St. Louis County / ZIP 55705 sector", "St. Louis County / coords 47.5300, -92.2400", "St. Louis County / elevation 1490 ft band", "St. Louis County / primary ZIP 55705"]
-zillowHomeValueUsd: 153664
 ---
 
 **Engineering Notice for Aurora:** System optimized for 146 mg/L hard water scaling factors in Aurora. Regional dispatch grid: St. Louis County.
 
 
-In Aurora, MN, leak detection pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Drain cleaning scopes in Aurora, MN separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Tankless heater descale intervals in Aurora, MN hard-water zones differ from tank anode schedules.
 
-Leak Detection Pros coordination in Aurora, MN prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Hydro-jetting in Aurora, MN requires camera confirmation before nozzle pressure is raised.
 
-FAQ: When is water line replacement safer than spot remediation? In Aurora, MN, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Cast-iron hub corrosion in Aurora, MN often concentrates at the third joint upstream of the cleanout.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 55705.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Request a written leak detection pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 55705.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Scope trace: hose bib freeze-risk flag cross-checked against sub-slab moisture gradient before line-pressure hold test.
+CPVC solvent weld times shift with ambient humidity during Aurora, MN shoulder seasons.
 
-Field note: Main cleanout riser height measured against slab finish in Aurora, MN.
+Tip: Photograph cleanout cap threads before snaking near ZIP 55705.
 
-Dispatch sectors sampled: ZIP 55705 (county grid: St. Louis County).
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Aurora, MN.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Basement floor drains in Aurora, MN should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Frost-free sillcock failures in Aurora, MN often trace to interior shutoff seats.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Fixture roster 902170: toilet flange spacer kit and shower cartridge seat score queued for Aurora, MN walk-through.
+
+Flow dossier 902170: branch wet-vent geometry and PRV seat wear logged for Aurora, MN county grid St. Louis County (ZIP 55705).
+
+Field note: Fixture shutoff torque notes filed for ZIP 55705.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 55705.
+
+On-site sector marker: St. Louis County / elevation 1490 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55705-515d8ea1

@@ -12,28 +12,43 @@ lng: -114.3300
 zipSample: ["83353", "83354"]
 zipCodes: ["83353", "83354"]
 localPaths: ["Blaine County / coords 43.6800, -114.3300", "Blaine County / primary ZIP 83354", "Blaine County / ZIP 83354 sector", "Blaine County / elevation 6073 ft band", "Blaine County / ZIP 83353 sector"]
-zillowHomeValueUsd: 1236450
 ---
 
 **Engineering Notice for Sun Valley:** System optimized for 158 mg/L hard water scaling factors in Sun Valley. Regional dispatch grid: Blaine County.
 
 
-Property owners in Sun Valley, ID may see emergency pipe restoration escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+In Sun Valley, ID, emergency pipe restoration visits often begin with sump basin level checks and discharge line freeze separation.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Sun Valley, ID.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-FAQ: What slows drain cleaning most? In Sun Valley, ID, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Confirm cleanout locations during the same visit. Route file 83354.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 83353/83354.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 83354.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Scope trace: cleanout riser height cross-checked against PRV outlet pressure curve before line-pressure hold test.
+Hose bib split patterns often follow missed winterization.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 83353/83354.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 83353, 83354 (county grid: Blaine County).
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Sun Valley, ID.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Book sump and supply-line checks in one written scope. Postal sector 83354.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Permit note: Main water line replacement in Sun Valley, ID may require ROW restoration planning.
+
+Dispatch packets reference county grid Blaine County near ZIP 83354.
+
+Supply audit 944088: curb-stop orientation and hose-bib freeze flag reviewed for Sun Valley, ID at coords 43.6800/-114.3300.
+
+Fixture roster 944088: toilet flange spacer kit and shower cartridge seat score queued for Sun Valley, ID walk-through.
+
+On-site sector marker: Blaine County / ZIP 83354 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83354-5137d712

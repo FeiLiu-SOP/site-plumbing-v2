@@ -12,30 +12,47 @@ lng: -81.4200
 zipSample: ["32720"]
 zipCodes: ["32720"]
 localPaths: ["Lake County / ZIP 32720 sector", "Lake County / coords 29.0000, -81.4200", "Lake County / elevation 75 ft band", "Lake County / primary ZIP 32720"]
-zillowHomeValueUsd: 323563
 ---
 
 **Engineering Notice for Lake Mack-Forest Hills:** System optimized for 139 mg/L hard water scaling factors in Lake Mack-Forest Hills. Regional dispatch grid: Lake County.
 
 
-Across Lake Mack-Forest Hills, FL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Lake Mack-Forest Hills, FL.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Our intake language for Lake Mack-Forest Hills, FL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Polybutylene manifold tags in Lake Mack-Forest Hills, FL basements should be photographed before wall chases open.
 
-FAQ: Can sump pump restoration wait until dry season? In Lake Mack-Forest Hills, FL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+In Lake Mack-Forest Hills, FL, leak detection pros visits often begin with sump basin level checks and discharge line freeze separation.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 32720.
+Frost-free sillcock failures in Lake Mack-Forest Hills, FL often trace to interior shutoff seats.
 
-Book a camera-assisted drain review before approving jetting on older Lake Mack-Forest Hills, FL mains. Serving ZIP Code: 32720.
+Basement floor drains in Lake Mack-Forest Hills, FL should be snaked only after trap arm geometry is confirmed on camera.
 
-Field packet: PEX expansion ring batch plus jetter nozzle envelope referenced in Lake County county grid review.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 32720.
+Trenchless pulls in Lake Mack-Forest Hills, FL require pit dimensions verified against utility locate marks.
 
-Field note: Water line replacement trench path flagged for Lake County setbacks.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 32720.
 
-Dispatch sectors sampled: ZIP 32720 (county grid: Lake County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Garage utility sinks in Lake Mack-Forest Hills, FL often tie into laundry branches that mask main-line restrictions.
+
+Lineage note 170874: recirculation pump amp draw captured before Lake Mack-Forest Hills, FL branch isolation.
+
+Supply audit 170874: curb-stop orientation and hose-bib freeze flag reviewed for Lake Mack-Forest Hills, FL at coords 29.0000/-81.4200.
+
+Field note: Main cleanout riser height measured against slab finish in Lake Mack-Forest Hills, FL.
+
+Field note: Dielectric union checklist completed in Lake Mack-Forest Hills, FL.
+
+On-site sector marker: Lake County / coords 29.0000, -81.4200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32720-1067bddc

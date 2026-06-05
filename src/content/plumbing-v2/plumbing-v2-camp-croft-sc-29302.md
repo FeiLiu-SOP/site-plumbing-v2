@@ -12,28 +12,49 @@ lng: -81.8600
 zipSample: ["29302"]
 zipCodes: ["29302"]
 localPaths: ["Spartanburg County / coords 34.9100, -81.8600", "Spartanburg County / ZIP 29302 sector", "Spartanburg County / primary ZIP 29302", "Spartanburg County / elevation 686 ft band"]
-zillowHomeValueUsd: 269419
 ---
 
 **Engineering Notice for Camp Croft:** System optimized for 166 mg/L hard water scaling factors in Camp Croft. Regional dispatch grid: Spartanburg County.
 
 
-Across Camp Croft, SC, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 29302.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Our intake language for Camp Croft, SC work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Camp Croft, SC.
 
-FAQ: Can sump pump restoration wait until dry season? In Camp Croft, SC, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 29302.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Camp Croft, SC.
 
-Book a camera-assisted drain review before approving jetting on older Camp Croft, SC mains. Serving ZIP Code: 29302.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Scope trace: main line camera pass cross-checked against cleanout riser height before line-pressure hold test.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Water line replacement trench path flagged for Spartanburg County setbacks.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 29302 (county grid: Spartanburg County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Permit note: Main water line replacement in Camp Croft, SC may require ROW restoration planning.
+
+Galvanized segments in Camp Croft, SC may restrict flow before visible corrosion.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 29302.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 29302.
+
+Irrigation cross-connections in Camp Croft, SC can back-siphon domestic lines during main breaks.
+
+Supply audit 612094: curb-stop orientation and hose-bib freeze flag reviewed for Camp Croft, SC at coords 34.9100/-81.8600.
+
+Pressure trace 612094: meter-pit clearance and dielectric union checklist staged for Camp Croft, SC near elevation 686 ft.
+
+Field note: Main cleanout riser height measured against slab finish in Camp Croft, SC.
+
+On-site sector marker: Spartanburg County / primary ZIP 29302 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29302-e4662c81

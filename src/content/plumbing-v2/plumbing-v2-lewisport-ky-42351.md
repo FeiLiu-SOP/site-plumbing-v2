@@ -12,28 +12,47 @@ lng: -86.9000
 zipSample: ["42351"]
 zipCodes: ["42351"]
 localPaths: ["Hancock County / elevation 394 ft band", "Hancock County / ZIP 42351 sector", "Hancock County / primary ZIP 42351", "Hancock County / coords 37.9300, -86.9000"]
-zillowHomeValueUsd: 209498
 ---
 
 **Engineering Notice for Lewisport:** System optimized for 128 mg/L hard water scaling factors in Lewisport. Regional dispatch grid: Hancock County.
 
 
-Property owners in Lewisport, KY may see basement sump service team escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Lewisport, KY.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What slows drain cleaning most? In Lewisport, KY, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Lewisport, KY.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 42351.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Lewisport, KY.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 42351.
+Tankless heater descale intervals in Lewisport, KY hard-water zones differ from tank anode schedules.
 
-Scope trace: water heater T&P discharge path cross-checked against jetter nozzle envelope before line-pressure hold test.
+Permit note: Main water line replacement in Lewisport, KY may require ROW restoration planning.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 42351.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 42351 (county grid: Hancock County).
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Step: camera-pass main lines in Lewisport, KY before jetting older clay or cast iron.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Shared main supplies in Lewisport, KY duplexes require coordinated shutoff before pressure holds.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Tip: Log water heater flex line dates before wall closure in Lewisport, KY remodel zones.
+
+Drain map 633797: camera-pass priority and expansion-tank pre-charge noted for Lewisport, KY postal sector 42351.
+
+Pressure trace 633797: meter-pit clearance and dielectric union checklist staged for Lewisport, KY near elevation 394 ft.
+
+Field note: Camera pass stills archived for ZIP 42351 branch line.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~394 ft across the Hancock County area. Coordinates: 37.9300, -86.9000. ZIP sample: 42351. Service perimeter note: Coverage extends through Hancock County with dispatch centered near ZIP 42351.
 
 Service reference: KY-42351-d262bff9

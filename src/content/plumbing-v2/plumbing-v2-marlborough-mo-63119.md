@@ -12,30 +12,43 @@ lng: -90.3400
 zipSample: ["63123", "63119"]
 zipCodes: ["63119", "63123"]
 localPaths: ["St. Louis County / coords 38.5700, -90.3400", "St. Louis County / ZIP 63123 sector", "St. Louis County / ZIP 63119 sector", "St. Louis County / elevation 525 ft band", "St. Louis County / primary ZIP 63119"]
-zillowHomeValueUsd: 378633
 ---
 
 **Engineering Notice for Marlborough:** System optimized for 174 mg/L hard water scaling factors in Marlborough. Regional dispatch grid: St. Louis County.
 
 
-Across Marlborough, MO, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Marlborough, MO.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Stack vent offsets in Marlborough, MO older duplexes can mask tub gurgle as a main-line failure.
 
-Our intake language for Marlborough, MO work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Basement floor drains in Marlborough, MO should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Can sump pump service wait until dry season? In Marlborough, MO, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Frost-free sillcock failures in Marlborough, MO often trace to interior shutoff seats.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 63119/63123.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Book a camera-assisted drain review before approving jetting on older Marlborough, MO mains. Serving ZIP Code: 63119.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field packet: backflow test cock orientation plus hose bib freeze-risk flag referenced in St. Louis County county grid review.
+Tip: Photograph cleanout cap threads before snaking near ZIP 63119.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 63119/63123.
+Hard water in Marlborough, MO accelerates scale on PRV seats and heater elements.
 
-Field note: Main cleanout riser height measured against slab finish in Marlborough, MO.
+Tip: Log water heater flex line dates before wall closure in Marlborough, MO remodel zones.
 
-Dispatch sectors sampled: ZIP 63119, 63123 (county grid: St. Louis County).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Marlborough, MO.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Hose bib split patterns often follow missed winterization.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Confirm cleanout locations during the same visit. Route file 63119.
+
+Supply audit 337328: curb-stop orientation and hose-bib freeze flag reviewed for Marlborough, MO at coords 38.5700/-90.3400.
+
+Fixture roster 337328: toilet flange spacer kit and shower cartridge seat score queued for Marlborough, MO walk-through.
+
+On-site sector marker: St. Louis County / ZIP 63119 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63119-5e48e73a

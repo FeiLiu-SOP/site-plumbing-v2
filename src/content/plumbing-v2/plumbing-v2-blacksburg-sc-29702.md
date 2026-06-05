@@ -12,30 +12,43 @@ lng: -81.5200
 zipSample: ["29702"]
 zipCodes: ["29702"]
 localPaths: ["Cherokee County / ZIP 29702 sector", "Cherokee County / primary ZIP 29702", "Cherokee County / coords 35.1200, -81.5200", "Cherokee County / elevation 761 ft band"]
-zillowHomeValueUsd: 160074
 ---
 
 **Engineering Notice for Blacksburg:** System optimized for 171 mg/L hard water scaling factors in Blacksburg. Regional dispatch grid: Cherokee County.
 
 
-When water heater & pipe experts scopes are reviewed in Blacksburg, SC, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Blacksburg, SC.
+Galvanized segments in Blacksburg, SC may restrict flow before visible corrosion.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Blacksburg, SC, soft blockages differ from root intrusion profiles.
+Water heater T&P discharge paths in Blacksburg, SC must terminate safely before replacement quotes.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 29702.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 29702.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field packet: jetter nozzle envelope plus dielectric union checklist referenced in Cherokee County county grid review.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Blacksburg, SC.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 29702.
+FAQ: Is hydro-jetting always appropriate? In Blacksburg, SC, pipe material and blockage type dictate method.
 
-Field note: Drain cleaning cable head wear logged before second pass in Blacksburg, SC.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 29702 (county grid: Cherokee County).
+Request a camera-assisted drain review before approving jetting. Postal sector 29702.
+
+Shared main supplies in Blacksburg, SC duplexes require coordinated shutoff before pressure holds.
+
+Hydrostatic holds in Blacksburg, SC slab circuits run overnight when listening mics show ambiguous hits.
+
+CPVC solvent weld times shift with ambient humidity during Blacksburg, SC shoulder seasons.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Flow dossier 763467: branch wet-vent geometry and PRV seat wear logged for Blacksburg, SC county grid Cherokee County (ZIP 29702).
+
+Pressure trace 763467: meter-pit clearance and dielectric union checklist staged for Blacksburg, SC near elevation 761 ft.
+
+ZIP-corridor snapshot for Blacksburg, SC: sampled sectors include 29702; county routing grid remains Cherokee County.
 
 Service reference: SC-29702-3006e3fb

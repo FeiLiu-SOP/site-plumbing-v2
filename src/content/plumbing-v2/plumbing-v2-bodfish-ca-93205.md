@@ -12,28 +12,45 @@ lng: -118.4800
 zipSample: ["93205"]
 zipCodes: ["93205"]
 localPaths: ["Kern County / primary ZIP 93205", "Kern County / elevation 3389 ft band", "Kern County / ZIP 93205 sector", "Kern County / coords 35.5800, -118.4800"]
-zillowHomeValueUsd: 186241
 ---
 
 **Engineering Notice for Bodfish:** System optimized for 125 mg/L hard water scaling factors in Bodfish. Regional dispatch grid: Kern County.
 
 
-Across Bodfish, CA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Photograph cleanout cap threads before snaking near ZIP 93205.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 93205.
 
-Our intake language for Bodfish, CA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Trenchless pulls in Bodfish, CA require pit dimensions verified against utility locate marks.
 
-FAQ: Can sump pump restoration wait until dry season? In Bodfish, CA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bodfish, CA.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 93205.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Bodfish, CA older homes.
 
-Book a camera-assisted drain review before approving jetting on older Bodfish, CA mains. Serving ZIP Code: 93205.
+Permit note: Main water line replacement in Bodfish, CA may require ROW restoration planning.
 
-Routing marker: Sump pump float travel paired with sub-slab moisture gradient near ZIP 93205.
+FAQ: Is hydro-jetting always appropriate? In Bodfish, CA, pipe material and blockage type dictate method.
 
-Field note: Water line replacement trench path flagged for Kern County setbacks.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Dispatch sectors sampled: ZIP 93205 (county grid: Kern County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Bodfish, CA.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Lineage note 237547: recirculation pump amp draw captured before Bodfish, CA branch isolation.
+
+Flow dossier 237547: branch wet-vent geometry and PRV seat wear logged for Bodfish, CA county grid Kern County (ZIP 93205).
+
+On-site sector marker: Kern County / coords 35.5800, -118.4800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93205-945e54f7

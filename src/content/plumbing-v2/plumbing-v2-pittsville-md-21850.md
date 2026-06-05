@@ -12,30 +12,47 @@ lng: -75.4100
 zipSample: ["21850"]
 zipCodes: ["21850"]
 localPaths: ["Wicomico County / coords 38.3900, -75.4100", "Wicomico County / primary ZIP 21850", "Wicomico County / elevation 56 ft band", "Wicomico County / ZIP 21850 sector"]
-zillowHomeValueUsd: 300914
 ---
 
 **Engineering Notice for Pittsville:** System optimized for 149 mg/L hard water scaling factors in Pittsville. Regional dispatch grid: Wicomico County.
 
 
-Across Pittsville, MD, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Water heater T&P discharge paths in Pittsville, MD must terminate safely before replacement quotes.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Galvanized segments in Pittsville, MD may restrict flow before visible corrosion.
 
-Our intake language for Pittsville, MD work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: Can sump pump remediation wait until dry season? In Pittsville, MD, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Garage utility sinks in Pittsville, MD often tie into laundry branches that mask main-line restrictions.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 21850.
+Trenchless pulls in Pittsville, MD require pit dimensions verified against utility locate marks.
 
-Book a camera-assisted drain review before approving jetting on older Pittsville, MD mains. Serving ZIP Code: 21850.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch note: fixture shutoff torque log and jetter nozzle envelope were logged for the Pittsville plumbing intake packet.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Water line replacement trench path flagged for Wicomico County setbacks.
+Tip: Photograph cleanout cap threads before snaking near ZIP 21850.
+
+Polybutylene manifold tags in Pittsville, MD basements should be photographed before wall chases open.
+
+Slab leak listening windows in Pittsville, MD depend on quiet periods and isolated branch valves.
+
+Shared main supplies in Pittsville, MD duplexes require coordinated shutoff before pressure holds.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Pittsville, MD.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Tankless heater descale intervals in Pittsville, MD hard-water zones differ from tank anode schedules.
+
+Flow dossier 669150: branch wet-vent geometry and PRV seat wear logged for Pittsville, MD county grid Wicomico County (ZIP 21850).
+
+Supply audit 669150: curb-stop orientation and hose-bib freeze flag reviewed for Pittsville, MD at coords 38.3900/-75.4100.
 
 Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 21850.
 
-Dispatch sectors sampled: ZIP 21850 (county grid: Wicomico County).
+On-site sector marker: Wicomico County / primary ZIP 21850 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-21850-ebd13791

@@ -12,30 +12,47 @@ lng: -102.2300
 zipSample: ["80758"]
 zipCodes: ["80758"]
 localPaths: ["Yuma County / primary ZIP 80758", "Yuma County / elevation 3533 ft band", "Yuma County / coords 40.0800, -102.2300", "Yuma County / ZIP 80758 sector"]
-zillowHomeValueUsd: 289347
 ---
 
 **Engineering Notice for Wray:** System optimized for 121 mg/L hard water scaling factors in Wray. Regional dispatch grid: Yuma County.
 
 
-When slab leak response unit scopes are reviewed in Wray, CO, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Wray, CO.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: In Wray, CO, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Wray, CO, soft blockages differ from root intrusion profiles.
+Request a camera-assisted drain review before approving jetting. Postal sector 80758.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 80758.
+FAQ: When should sump battery backups be load-tested? In Wray, CO, before spring thaw and heavy rain remnants.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 80758.
+Material note: Water heater anode type may change with Wray, CO hardness profiles.
 
-Routing marker: PRV outlet pressure curve paired with copper pinhole cluster map near ZIP 80758.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Drain cleaning cable head wear logged before second pass in Wray, CO.
+Permit note: Main water line replacement in Wray, CO may require ROW restoration planning.
 
-Field note: Water line replacement trench path flagged for Yuma County setbacks.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Wray, CO.
 
-Dispatch sectors sampled: ZIP 80758 (county grid: Yuma County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Wray, CO.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Stack vent offsets in Wray, CO older duplexes can mask tub gurgle as a main-line failure.
+
+Service ledger 250390: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Wray, CO at 40.0800, -102.2300.
+
+Flow dossier 250390: branch wet-vent geometry and PRV seat wear logged for Wray, CO county grid Yuma County (ZIP 80758).
+
+Field note: Meter-pit clearance photographed near ZIP 80758.
+
+On-site sector marker: Yuma County / ZIP 80758 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80758-8c119665

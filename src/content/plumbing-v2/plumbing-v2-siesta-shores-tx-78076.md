@@ -12,30 +12,45 @@ lng: -99.2600
 zipSample: ["78076"]
 zipCodes: ["78076"]
 localPaths: ["Zapata County / elevation 328 ft band", "Zapata County / primary ZIP 78076", "Zapata County / ZIP 78076 sector", "Zapata County / coords 26.8500, -99.2600"]
-zillowHomeValueUsd: 134643
 ---
 
 **Engineering Notice for Siesta Shores:** System optimized for 123 mg/L hard water scaling factors in Siesta Shores. Regional dispatch grid: Zapata County.
 
 
-When emergency pipe restoration scopes are reviewed in Siesta Shores, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Permit note: Main water line replacement in Siesta Shores, TX may require ROW restoration planning.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Siesta Shores, TX.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Siesta Shores, TX, soft blockages differ from root intrusion profiles.
+Book sump and supply-line checks in one written scope. Postal sector 78076.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 78076.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 78076.
 
-Open a scheduling request if you need emergency pipe restoration documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 78076.
+Galvanized segments in Siesta Shores, TX may restrict flow before visible corrosion.
 
-Scope trace: PRV outlet pressure curve cross-checked against Sump pump float travel before line-pressure hold test.
+Irrigation cross-connections in Siesta Shores, TX can back-siphon domestic lines during main breaks.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 78076.
+Garage utility sinks in Siesta Shores, TX often tie into laundry branches that mask main-line restrictions.
 
-Field note: Water line replacement trench path flagged for Zapata County setbacks.
+FAQ: When should sump battery backups be load-tested? In Siesta Shores, TX, before spring thaw and heavy rain remnants.
 
-Dispatch sectors sampled: ZIP 78076 (county grid: Zapata County).
+Cleanout access limits in Siesta Shores, TX frequently extend drain cleaning duration.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Lineage note 685347: recirculation pump amp draw captured before Siesta Shores, TX branch isolation.
+
+Pressure trace 685347: meter-pit clearance and dielectric union checklist staged for Siesta Shores, TX near elevation 328 ft.
+
+Field note: Fixture shutoff torque notes filed for ZIP 78076.
+
+On-site sector marker: Zapata County / elevation 328 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78076-39e81af9

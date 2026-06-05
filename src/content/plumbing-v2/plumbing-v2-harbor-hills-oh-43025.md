@@ -12,28 +12,43 @@ lng: -82.4300
 zipSample: ["43025", "43076"]
 zipCodes: ["43025", "43076"]
 localPaths: ["Licking County / ZIP 43076 sector", "Licking County / elevation 935 ft band", "Licking County / coords 39.9400, -82.4300", "Licking County / ZIP 43025 sector", "Licking County / primary ZIP 43025"]
-zillowHomeValueUsd: 356381
 ---
 
 **Engineering Notice for Harbor Hills:** System optimized for 138 mg/L hard water scaling factors in Harbor Hills. Regional dispatch grid: Licking County.
 
 
-Across Harbor Hills, OH, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Our intake language for Harbor Hills, OH work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Hard water in Harbor Hills, OH accelerates scale on PRV seats and heater elements.
 
-FAQ: Can sump pump restoration wait until dry season? In Harbor Hills, OH, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Harbor Hills, OH.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 43025/43076.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Book a camera-assisted drain review before approving jetting on older Harbor Hills, OH mains. Serving ZIP Code: 43025.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field packet: scale coupon sampling plus backflow test cock orientation referenced in Licking County county grid review.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Drain cleaning cable head wear logged before second pass in Harbor Hills, OH.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Dispatch sectors sampled: ZIP 43025, 43076 (county grid: Licking County).
+Step: camera-pass main lines in Harbor Hills, OH before jetting older clay or cast iron.
+
+Trenchless pulls in Harbor Hills, OH require pit dimensions verified against utility locate marks.
+
+In Harbor Hills, OH, fixture & supply line pros visits often begin with sump basin level checks and discharge line freeze separation.
+
+Hydro-jetting in Harbor Hills, OH requires camera confirmation before nozzle pressure is raised.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 43025.
+
+Shared main supplies in Harbor Hills, OH duplexes require coordinated shutoff before pressure holds.
+
+Fixture roster 956931: toilet flange spacer kit and shower cartridge seat score queued for Harbor Hills, OH walk-through.
+
+Drain map 956931: camera-pass priority and expansion-tank pre-charge noted for Harbor Hills, OH postal sector 43025.
+
+Coordinate-anchored dispatch note: center reference 39.9400, -82.4300 at elevation ~935 ft aligns with Licking County intake staging.
 
 Service reference: OH-43025-18cb8887

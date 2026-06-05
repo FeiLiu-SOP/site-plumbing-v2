@@ -12,30 +12,49 @@ lng: -82.6100
 zipSample: ["34487", "34448"]
 zipCodes: ["34487", "34448"]
 localPaths: ["Citrus County / primary ZIP 34487", "Citrus County / ZIP 34487 sector", "Citrus County / elevation 39 ft band", "Citrus County / ZIP 34448 sector", "Citrus County / coords 28.7800, -82.6100"]
-zillowHomeValueUsd: 319390
 ---
 
 **Engineering Notice for Homosassa:** System optimized for 175 mg/L hard water scaling factors in Homosassa. Regional dispatch grid: Citrus County.
 
 
-In Homosassa, FL, basement sump service team visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Drain cleaning scopes in Homosassa, FL separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Basement Sump Service Team coordination in Homosassa, FL prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Step: map sump float travel and check-valve orientation for Homosassa, FL basements.
 
-FAQ: When is water line replacement safer than spot service? In Homosassa, FL, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Basement floor drains in Homosassa, FL should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 34487/34448.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Request a written basement sump service team plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 34487.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Scope trace: PRV outlet pressure curve cross-checked against copper pinhole cluster map before line-pressure hold test.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 34487/34448.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Drain cleaning cable head wear logged before second pass in Homosassa, FL.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Dispatch sectors sampled: ZIP 34487, 34448 (county grid: Citrus County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Homosassa, FL.
+
+Dispatch packets reference county grid Citrus County near ZIP 34487.
+
+Hydrostatic holds in Homosassa, FL slab circuits run overnight when listening mics show ambiguous hits.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Frost-free sillcock failures in Homosassa, FL often trace to interior shutoff seats.
+
+Pressure trace 201189: meter-pit clearance and dielectric union checklist staged for Homosassa, FL near elevation 39 ft.
+
+Flow dossier 201189: branch wet-vent geometry and PRV seat wear logged for Homosassa, FL county grid Citrus County (ZIP 34487).
+
+Field note: Camera pass stills archived for ZIP 34448/34487 branch line.
+
+On-site sector marker: Citrus County / coords 28.7800, -82.6100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34487-74aeaf75

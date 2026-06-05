@@ -12,30 +12,47 @@ lng: -97.4300
 zipSample: ["73463"]
 zipCodes: ["73463"]
 localPaths: ["Carter County / coords 34.1700, -97.4300", "Carter County / primary ZIP 73463", "Carter County / elevation 938 ft band", "Carter County / ZIP 73463 sector"]
-zillowHomeValueUsd: 173259
 ---
 
 **Engineering Notice for Wilson:** System optimized for 135 mg/L hard water scaling factors in Wilson. Regional dispatch grid: Carter County.
 
 
-In Wilson, OK, slab leak response unit visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+FAQ: Is hydro-jetting always appropriate? In Wilson, OK, pipe material and blockage type dictate method.
 
-Drain cleaning scopes in Wilson, OK separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Garage utility sinks in Wilson, OK often tie into laundry branches that mask main-line restrictions.
 
-Slab Leak Response Unit coordination in Wilson, OK prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: When is water line replacement safer than spot restoration? In Wilson, OK, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Dual-water-meter setups in Wilson, OK irrigation zones need backflow logs before line replacement.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 73463.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Request a written slab leak response unit plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 73463.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Routing marker: hose bib freeze-risk flag paired with PRV outlet pressure curve near ZIP 73463.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 73463.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 73463.
+Branch wet vents in Wilson, OK can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 73463 (county grid: Carter County).
+Basement floor drains in Wilson, OK should be snaked only after trap arm geometry is confirmed on camera.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Hose bib split patterns often follow missed winterization.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Permit note: Main water line replacement in Wilson, OK may require ROW restoration planning.
+
+In Wilson, OK, slab leak response unit visits often begin with sump basin level checks and discharge line freeze separation.
+
+Flow dossier 968783: branch wet-vent geometry and PRV seat wear logged for Wilson, OK county grid Carter County (ZIP 73463).
+
+Supply audit 968783: curb-stop orientation and hose-bib freeze flag reviewed for Wilson, OK at coords 34.1700/-97.4300.
+
+On-site sector marker: Carter County / primary ZIP 73463 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73463-a410a0a1

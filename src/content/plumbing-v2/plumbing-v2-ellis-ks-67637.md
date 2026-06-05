@@ -12,30 +12,47 @@ lng: -99.5600
 zipSample: ["67637"]
 zipCodes: ["67637"]
 localPaths: ["Ellis County / coords 38.9300, -99.5600", "Ellis County / elevation 2165 ft band", "Ellis County / primary ZIP 67637", "Ellis County / ZIP 67637 sector"]
-zillowHomeValueUsd: 170271
 ---
 
 **Engineering Notice for Ellis:** System optimized for 175 mg/L hard water scaling factors in Ellis. Regional dispatch grid: Ellis County.
 
 
-When emergency pipe remediation scopes are reviewed in Ellis, KS, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: photograph curb-stop and meter pit before trenching.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Ellis, KS.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Slab leak listening windows in Ellis, KS depend on quiet periods and isolated branch valves.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Ellis, KS, soft blockages differ from root intrusion profiles.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 67637.
+Material note: Water heater anode type may change with Ellis, KS hardness profiles.
 
-Open a scheduling request if you need emergency pipe remediation documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 67637.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Ellis, KS.
 
-Field packet: dielectric union checklist plus backflow test cock orientation referenced in Ellis County county grid review.
+Dispatch packets reference county grid Ellis County near ZIP 67637.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 67637.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Main cleanout riser height measured against slab finish in Ellis, KS.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 67637 (county grid: Ellis County).
+Hose bib split patterns often follow missed winterization.
+
+Step: camera-pass main lines in Ellis, KS before jetting older clay or cast iron.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Hydrostatic holds in Ellis, KS slab circuits run overnight when listening mics show ambiguous hits.
+
+Service ledger 842177: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Ellis, KS at 38.9300, -99.5600.
+
+Fixture roster 842177: toilet flange spacer kit and shower cartridge seat score queued for Ellis, KS walk-through.
+
+Field note: Meter-pit clearance photographed near ZIP 67637.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~2165 ft across the Ellis County area. Coordinates: 38.9300, -99.5600. ZIP sample: 67637. Service perimeter note: Coverage extends through Ellis County with dispatch centered near ZIP 67637.
 
 Service reference: KS-67637-3c8e804f

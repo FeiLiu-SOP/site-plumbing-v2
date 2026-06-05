@@ -12,29 +12,49 @@ lng: -89.7500
 zipSample: ["63851"]
 zipCodes: ["63851"]
 localPaths: ["Pemiscot County / primary ZIP 63851", "Pemiscot County / coords 36.2300, -89.7500", "Pemiscot County / ZIP 63851 sector", "Pemiscot County / elevation 269 ft band"]
-zillowHomeValueUsd: 250385
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Hayti:** System optimized for 168 mg/L hard water scaling factors in Hayti. Regional dispatch grid: Pemiscot County.
 
 
-A water heater & pipe experts request in Hayti, MO is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Confirm cleanout locations during the same visit. Route file 63851.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Hayti, MO.
+Galvanized segments in Hayti, MO may restrict flow before visible corrosion.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Garage utility sinks in Hayti, MO often tie into laundry branches that mask main-line restrictions.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Hayti, MO supply age can diverge sharply.
+Polybutylene manifold tags in Hayti, MO basements should be photographed before wall chases open.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 63851.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Hayti, MO.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 63851.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Routing marker: Sump pump float travel paired with fixture shutoff torque log near ZIP 63851.
+Material note: Water heater anode type may change with Hayti, MO hardness profiles.
 
-Field note: Drain cleaning cable head wear logged before second pass in Hayti, MO.
+Irrigation cross-connections in Hayti, MO can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 63851 (county grid: Pemiscot County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Basement floor drains in Hayti, MO should be snaked only after trap arm geometry is confirmed on camera.
+
+Stack vent offsets in Hayti, MO older duplexes can mask tub gurgle as a main-line failure.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Flow dossier 353027: branch wet-vent geometry and PRV seat wear logged for Hayti, MO county grid Pemiscot County (ZIP 63851).
+
+Supply audit 353027: curb-stop orientation and hose-bib freeze flag reviewed for Hayti, MO at coords 36.2300/-89.7500.
+
+Field note: Backflow test cock orientation noted in Hayti, MO.
+
+On-site sector marker: Pemiscot County / elevation 269 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63851-12351156

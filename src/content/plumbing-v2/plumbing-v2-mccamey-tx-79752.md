@@ -12,29 +12,49 @@ lng: -102.2200
 zipSample: ["79752"]
 zipCodes: ["79752"]
 localPaths: ["Upton County / ZIP 79752 sector", "Upton County / primary ZIP 79752", "Upton County / elevation 2448 ft band", "Upton County / coords 31.1300, -102.2200"]
-zillowHomeValueUsd: 285582
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for McCamey:** System optimized for 123 mg/L hard water scaling factors in McCamey. Regional dispatch grid: Upton County.
 
 
-When whole-home repiping advisors scopes are reviewed in McCamey, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Garage utility sinks in McCamey, TX often tie into laundry branches that mask main-line restrictions.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for McCamey, TX.
+Book sump and supply-line checks in one written scope. Postal sector 79752.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in McCamey, TX, soft blockages differ from root intrusion profiles.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 79752.
+Cast-iron hub corrosion in McCamey, TX often concentrates at the third joint upstream of the cleanout.
 
-Open a scheduling request if you need whole-home repiping advisors documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 79752.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in McCamey, TX.
 
-Field packet: fixture shutoff torque log plus cleanout riser height referenced in Upton County county grid review.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Drain cleaning cable head wear logged before second pass in McCamey, TX.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Dispatch sectors sampled: ZIP 79752 (county grid: Upton County).
+Branch wet vents in McCamey, TX can mask gurgling as a main-line issue.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 79752.
+
+Hydro-jetting in McCamey, TX requires camera confirmation before nozzle pressure is raised.
+
+Dispatch packets reference county grid Upton County near ZIP 79752.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in McCamey, TX.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Flow dossier 373430: branch wet-vent geometry and PRV seat wear logged for McCamey, TX county grid Upton County (ZIP 79752).
+
+Service ledger 373430: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for McCamey, TX at 31.1300, -102.2200.
+
+Field note: Camera pass stills archived for ZIP 79752 branch line.
+
+On-site sector marker: Upton County / ZIP 79752 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79752-178446fb

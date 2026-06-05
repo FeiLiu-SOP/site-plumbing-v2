@@ -12,30 +12,45 @@ lng: -91.3900
 zipSample: ["70767"]
 zipCodes: ["70767"]
 localPaths: ["West Baton Rouge Parish / elevation 36 ft band", "West Baton Rouge Parish / ZIP 70767 sector", "West Baton Rouge Parish / coords 30.5400, -91.3900", "West Baton Rouge Parish / primary ZIP 70767"]
-zillowHomeValueUsd: 214020
 ---
 
 **Engineering Notice for Erwinville:** System optimized for 164 mg/L hard water scaling factors in Erwinville. Regional dispatch grid: West Baton Rouge Parish.
 
 
-A leak detection pros contact in Erwinville, LA is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Erwinville, LA.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Erwinville, LA.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Erwinville, LA supply age can diverge sharply.
+Garage utility sinks in Erwinville, LA often tie into laundry branches that mask main-line restrictions.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 70767.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Erwinville, LA.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 70767.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Scope trace: PEX expansion ring batch cross-checked against sub-slab moisture gradient before line-pressure hold test.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Drain cleaning cable head wear logged before second pass in Erwinville, LA.
+Permit note: Main water line replacement in Erwinville, LA may require ROW restoration planning.
 
-Field note: Main cleanout riser height measured against slab finish in Erwinville, LA.
+Shared main supplies in Erwinville, LA duplexes require coordinated shutoff before pressure holds.
 
-Dispatch sectors sampled: ZIP 70767 (county grid: West Baton Rouge Parish).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Cast-iron hub corrosion in Erwinville, LA often concentrates at the third joint upstream of the cleanout.
+
+Branch wet vents in Erwinville, LA can mask gurgling as a main-line issue.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Fixture roster 876212: toilet flange spacer kit and shower cartridge seat score queued for Erwinville, LA walk-through.
+
+Service ledger 876212: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Erwinville, LA at 30.5400, -91.3900.
+
+Field note: Meter-pit clearance photographed near ZIP 70767.
+
+On-site sector marker: West Baton Rouge Parish / coords 30.5400, -91.3900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70767-97f63f03

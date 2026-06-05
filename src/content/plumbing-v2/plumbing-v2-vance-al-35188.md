@@ -12,28 +12,47 @@ lng: -87.2300
 zipSample: ["35188", "35490"]
 zipCodes: ["35490", "35188"]
 localPaths: ["Tuscaloosa County / primary ZIP 35188", "Tuscaloosa County / ZIP 35188 sector", "Tuscaloosa County / ZIP 35490 sector", "Tuscaloosa County / coords 33.1700, -87.2300", "Tuscaloosa County / elevation 558 ft band"]
-zillowHomeValueUsd: 224930
 ---
 
 **Engineering Notice for Vance:** System optimized for 167 mg/L hard water scaling factors in Vance. Regional dispatch grid: Tuscaloosa County.
 
 
-When slab leak response unit scopes are reviewed in Vance, AL, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Vance, AL.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Vance, AL.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Across Vance, AL, main-line bellies trap debris even when fixtures drain normally.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Vance, AL, soft blockages differ from root intrusion profiles.
+Hard water in Vance, AL accelerates scale on PRV seats and heater elements.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 35490/35188.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 35188.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Scope trace: scale coupon sampling cross-checked against cleanout riser height before line-pressure hold test.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 35490/35188.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 35490, 35188 (county grid: Tuscaloosa County).
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 35188.
+
+Ask for trenchless feasibility notes before main replacement. County grid Tuscaloosa County.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Supply audit 662102: curb-stop orientation and hose-bib freeze flag reviewed for Vance, AL at coords 33.1700/-87.2300.
+
+Drain map 662102: camera-pass priority and expansion-tank pre-charge noted for Vance, AL postal sector 35188.
+
+Field note: Water line replacement trench path flagged for Tuscaloosa County setbacks.
+
+Field note: PRV inlet and outlet curves captured for ZIP 35490/35188.
+
+On-site sector marker: Tuscaloosa County / elevation 558 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35188-a71bcb1a

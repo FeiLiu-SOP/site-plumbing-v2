@@ -12,28 +12,47 @@ lng: -70.6200
 zipSample: ["03909", "03910"]
 zipCodes: ["03909", "03910"]
 localPaths: ["York County / coords 43.1700, -70.6200", "York County / ZIP 03909 sector", "York County / elevation 43 ft band", "York County / ZIP 03910 sector", "York County / primary ZIP 03909"]
-zillowHomeValueUsd: 755544
 ---
 
 **Engineering Notice for Cape Neddick:** System optimized for 123 mg/L hard water scaling factors in Cape Neddick. Regional dispatch grid: York County.
 
 
-When hydro-jetting specialists scopes are reviewed in Cape Neddick, ME, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Cape Neddick, ME.
+Tip: Log water heater flex line dates before wall closure in Cape Neddick, ME remodel zones.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Permit note: Main water line replacement in Cape Neddick, ME may require ROW restoration planning.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Cape Neddick, ME, soft blockages differ from root intrusion profiles.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 03909.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 03909/03910.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid York County.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 03909.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Routing marker: fixture shutoff torque log paired with Sump pump float travel near ZIP 03909.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Main cleanout riser height measured against slab finish in Cape Neddick, ME.
+Material note: Water heater anode type may change with Cape Neddick, ME hardness profiles.
 
-Dispatch sectors sampled: ZIP 03909, 03910 (county grid: York County).
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 03909.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Step: log PRV inlet and outlet readings during intake.
+
+CPVC solvent weld times shift with ambient humidity during Cape Neddick, ME shoulder seasons.
+
+Cleanout access limits in Cape Neddick, ME frequently extend drain cleaning duration.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Flow dossier 826720: branch wet-vent geometry and PRV seat wear logged for Cape Neddick, ME county grid York County (ZIP 03909).
+
+Pressure trace 826720: meter-pit clearance and dielectric union checklist staged for Cape Neddick, ME near elevation 43 ft.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 03909/03910.
+
+On-site sector marker: York County / ZIP 03909 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ME-03909-e65d05a3

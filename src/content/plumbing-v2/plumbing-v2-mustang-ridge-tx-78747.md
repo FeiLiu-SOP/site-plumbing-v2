@@ -12,30 +12,49 @@ lng: -97.6900
 zipSample: ["78610", "78616", "78747"]
 zipCodes: ["78616", "78610", "78747"]
 localPaths: ["Travis County / elevation 627 ft band", "Travis County / ZIP 78616 sector", "Travis County / ZIP 78747 sector", "Travis County / coords 30.0600, -97.6900", "Travis County / primary ZIP 78747"]
-zillowHomeValueUsd: 365961
 ---
 
 **Engineering Notice for Mustang Ridge:** System optimized for 171 mg/L hard water scaling factors in Mustang Ridge. Regional dispatch grid: Travis County.
 
 
-A basement sump service team reach out in Mustang Ridge, TX is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Mustang Ridge, TX.
+Cast-iron hub corrosion in Mustang Ridge, TX often concentrates at the third joint upstream of the cleanout.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Hydrostatic holds in Mustang Ridge, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Mustang Ridge, TX supply age can diverge sharply.
+Risk flag: In Mustang Ridge, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 78747/78616/78610.
+Material note: Water heater anode type may change with Mustang Ridge, TX hardness profiles.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 78747.
+Dual-water-meter setups in Mustang Ridge, TX irrigation zones need backflow logs before line replacement.
 
-Field packet: cleanout riser height plus water heater T&P discharge path referenced in Travis County county grid review.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Main cleanout riser height measured against slab finish in Mustang Ridge, TX.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 78747.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 78747/78616/78610.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 78747, 78616, 78610 (county grid: Travis County).
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Travis County.
+
+Water heater T&P discharge paths in Mustang Ridge, TX must terminate safely before replacement quotes.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 78747.
+
+Tip: Log water heater flex line dates before wall closure in Mustang Ridge, TX remodel zones.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Mustang Ridge, TX.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Service ledger 367922: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Mustang Ridge, TX at 30.0600, -97.6900.
+
+Fixture roster 367922: toilet flange spacer kit and shower cartridge seat score queued for Mustang Ridge, TX walk-through.
+
+Field note: Expansion tank pre-charge verified in Mustang Ridge, TX.
+
+On-site sector marker: Travis County / ZIP 78610 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78747-650ca2b8

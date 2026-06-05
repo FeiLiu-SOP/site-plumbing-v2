@@ -12,30 +12,47 @@ lng: -88.1300
 zipSample: ["35586"]
 zipCodes: ["35586"]
 localPaths: ["Lamar County / coords 33.8900, -88.1300", "Lamar County / elevation 427 ft band", "Lamar County / ZIP 35586 sector", "Lamar County / primary ZIP 35586"]
-zillowHomeValueUsd: 125573
 ---
 
 **Engineering Notice for Sulligent:** System optimized for 180 mg/L hard water scaling factors in Sulligent. Regional dispatch grid: Lamar County.
 
 
-Across Sulligent, AL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Dual-water-meter setups in Sulligent, AL irrigation zones need backflow logs before line replacement.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Shared main supplies in Sulligent, AL duplexes require coordinated shutoff before pressure holds.
 
-Our intake language for Sulligent, AL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-FAQ: Can sump pump restoration wait until dry season? In Sulligent, AL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 35586.
+Tip: Log water heater flex line dates before wall closure in Sulligent, AL remodel zones.
 
-Book a camera-assisted drain review before approving jetting on older Sulligent, AL mains. Serving ZIP Code: 35586.
+Cast-iron hub corrosion in Sulligent, AL often concentrates at the third joint upstream of the cleanout.
 
-Field packet: dielectric union checklist plus PEX expansion ring batch referenced in Lamar County county grid review.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Main cleanout riser height measured against slab finish in Sulligent, AL.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Water line replacement trench path flagged for Lamar County setbacks.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 35586 (county grid: Lamar County).
+Galvanized segments in Sulligent, AL may restrict flow before visible corrosion.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 35586.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Confirm cleanout locations during the same visit. Route file 35586.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Sulligent, AL.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Flow dossier 478844: branch wet-vent geometry and PRV seat wear logged for Sulligent, AL county grid Lamar County (ZIP 35586).
+
+Supply audit 478844: curb-stop orientation and hose-bib freeze flag reviewed for Sulligent, AL at coords 33.8900/-88.1300.
+
+On-site sector marker: Lamar County / elevation 427 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35586-e3cc3578

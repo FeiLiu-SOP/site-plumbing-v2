@@ -12,30 +12,49 @@ lng: -90.0600
 zipSample: ["38921"]
 zipCodes: ["38921"]
 localPaths: ["Tallahatchie County / elevation 213 ft band", "Tallahatchie County / primary ZIP 38921", "Tallahatchie County / coords 34.0100, -90.0600", "Tallahatchie County / ZIP 38921 sector"]
-zillowHomeValueUsd: 99961
 ---
 
 **Engineering Notice for Charleston:** System optimized for 179 mg/L hard water scaling factors in Charleston. Regional dispatch grid: Tallahatchie County.
 
 
-In Charleston, MS, water heater & pipe experts visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 38921.
 
-Drain cleaning scopes in Charleston, MS separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Galvanized segments in Charleston, MS may restrict flow before visible corrosion.
 
-Water Heater & Pipe Experts coordination in Charleston, MS prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Polybutylene manifold tags in Charleston, MS basements should be photographed before wall chases open.
 
-FAQ: When is water line replacement safer than spot service? In Charleston, MS, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Material note: Water heater anode type may change with Charleston, MS hardness profiles.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 38921.
+Tip: Photograph cleanout cap threads before snaking near ZIP 38921.
 
-Request a written water heater & pipe experts plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 38921.
+Garage utility sinks in Charleston, MS often tie into laundry branches that mask main-line restrictions.
 
-Scope trace: branch wet vent compliance note cross-checked against cleanout riser height before line-pressure hold test.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 38921.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 38921.
+Basement floor drains in Charleston, MS should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 38921.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 38921 (county grid: Tallahatchie County).
+Slab leak listening windows in Charleston, MS depend on quiet periods and isolated branch valves.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Frost-free sillcock failures in Charleston, MS often trace to interior shutoff seats.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Hose bib split patterns often follow missed winterization.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Charleston, MS.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Fixture roster 499450: toilet flange spacer kit and shower cartridge seat score queued for Charleston, MS walk-through.
+
+Service ledger 499450: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Charleston, MS at 34.0100, -90.0600.
+
+Field note: Main cleanout riser height measured against slab finish in Charleston, MS.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Tallahatchie County and primary ZIP 38921. Terrain reference: 213 ft. Center point: 34.0100, -90.0600. ZIP sample: 38921. Service perimeter note: Coverage extends through Tallahatchie County with dispatch centered near ZIP 38921.
 
 Service reference: MS-38921-f32936df

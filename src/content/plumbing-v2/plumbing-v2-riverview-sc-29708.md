@@ -12,30 +12,49 @@ lng: -80.9800
 zipSample: ["29708"]
 zipCodes: ["29708"]
 localPaths: ["York County / ZIP 29708 sector", "York County / primary ZIP 29708", "York County / elevation 705 ft band", "York County / coords 35.0100, -80.9800"]
-zillowHomeValueUsd: 575518
 ---
 
 **Engineering Notice for Riverview:** System optimized for 163 mg/L hard water scaling factors in Riverview. Regional dispatch grid: York County.
 
 
-When whole-home repiping advisors scopes are reviewed in Riverview, SC, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Riverview, SC.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Riverview, SC.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tankless heater descale intervals in Riverview, SC hard-water zones differ from tank anode schedules.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Riverview, SC, soft blockages differ from root intrusion profiles.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 29708.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 29708.
+Irrigation cross-connections in Riverview, SC can back-siphon domestic lines during main breaks.
 
-Open a scheduling request if you need whole-home repiping advisors documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 29708.
+FAQ: When should sump battery backups be load-tested? In Riverview, SC, before spring thaw and heavy rain remnants.
 
-Routing marker: branch wet vent compliance note paired with dielectric union checklist near ZIP 29708.
+Basement floor drains in Riverview, SC should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Drain cleaning cable head wear logged before second pass in Riverview, SC.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Water line replacement trench path flagged for York County setbacks.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 29708.
 
-Dispatch sectors sampled: ZIP 29708 (county grid: York County).
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Branch wet vents in Riverview, SC can mask gurgling as a main-line issue.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Water heater T&P discharge paths in Riverview, SC must terminate safely before replacement quotes.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Flow dossier 943129: branch wet-vent geometry and PRV seat wear logged for Riverview, SC county grid York County (ZIP 29708).
+
+Drain map 943129: camera-pass priority and expansion-tank pre-charge noted for Riverview, SC postal sector 29708.
+
+Field note: PRV inlet and outlet curves captured for ZIP 29708.
+
+Primary postal anchor 29708 with multi-ZIP overlap in Riverview; field packets tag York County for county-grid reconciliation.
 
 Service reference: SC-29708-64f78658

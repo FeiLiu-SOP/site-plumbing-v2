@@ -12,30 +12,49 @@ lng: -102.7600
 zipSample: ["79346"]
 zipCodes: ["79346"]
 localPaths: ["Cochran County / ZIP 79346 sector", "Cochran County / coords 33.7200, -102.7600", "Cochran County / elevation 3766 ft band", "Cochran County / primary ZIP 79346"]
-zillowHomeValueUsd: 49527
 ---
 
 **Engineering Notice for Morton:** System optimized for 143 mg/L hard water scaling factors in Morton. Regional dispatch grid: Cochran County.
 
 
-A fixture & supply line pros reach out in Morton, TX is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Morton, TX.
+Tip: Photograph cleanout cap threads before snaking near ZIP 79346.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Morton, TX supply age can diverge sharply.
+Shared main supplies in Morton, TX duplexes require coordinated shutoff before pressure holds.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 79346.
+Risk flag: In Morton, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 79346.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Dispatch note: hose bib freeze-risk flag and main line camera pass were logged for the Morton plumbing intake packet.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 79346.
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Basement floor drains in Morton, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Frost-free sillcock failures in Morton, TX often trace to interior shutoff seats.
+
+Dispatch packets reference county grid Cochran County near ZIP 79346.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 79346.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Fixture roster 171500: toilet flange spacer kit and shower cartridge seat score queued for Morton, TX walk-through.
+
+Pressure trace 171500: meter-pit clearance and dielectric union checklist staged for Morton, TX near elevation 3766 ft.
 
 Field note: Main cleanout riser height measured against slab finish in Morton, TX.
 
-Dispatch sectors sampled: ZIP 79346 (county grid: Cochran County).
+On-site sector marker: Cochran County / ZIP 79346 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79346-de64d9f3

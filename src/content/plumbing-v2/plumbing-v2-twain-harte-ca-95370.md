@@ -12,30 +12,47 @@ lng: -120.2300
 zipSample: ["95383", "95370"]
 zipCodes: ["95370", "95383"]
 localPaths: ["Tuolumne County / primary ZIP 95370", "Tuolumne County / coords 38.0400, -120.2300", "Tuolumne County / ZIP 95383 sector", "Tuolumne County / elevation 3727 ft band", "Tuolumne County / ZIP 95370 sector"]
-zillowHomeValueUsd: 404563
 ---
 
 **Engineering Notice for Twain Harte:** System optimized for 174 mg/L hard water scaling factors in Twain Harte. Regional dispatch grid: Tuolumne County.
 
 
-Across Twain Harte, CA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Log water heater flex line dates before wall closure in Twain Harte, CA remodel zones.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Twain Harte, CA.
 
-Our intake language for Twain Harte, CA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-FAQ: Can sump pump restoration wait until dry season? In Twain Harte, CA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Dual-water-meter setups in Twain Harte, CA irrigation zones need backflow logs before line replacement.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 95383/95370.
+FAQ: When should sump battery backups be load-tested? In Twain Harte, CA, before spring thaw and heavy rain remnants.
 
-Book a camera-assisted drain review before approving jetting on older Twain Harte, CA mains. Serving ZIP Code: 95370.
+Across Twain Harte, CA, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch note: main line camera pass and copper pinhole cluster map were logged for the Twain Harte plumbing intake packet.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 95383/95370.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Twain Harte, CA older homes.
 
-Field note: Main cleanout riser height measured against slab finish in Twain Harte, CA.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Twain Harte, CA.
 
-Dispatch sectors sampled: ZIP 95383, 95370 (county grid: Tuolumne County).
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Twain Harte, CA.
+
+Ask for trenchless feasibility notes before main replacement. County grid Tuolumne County.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 95370.
+
+Step: camera-pass main lines in Twain Harte, CA before jetting older clay or cast iron.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Material note: Water heater anode type may change with Twain Harte, CA hardness profiles.
+
+Pressure trace 614297: meter-pit clearance and dielectric union checklist staged for Twain Harte, CA near elevation 3727 ft.
+
+Service ledger 614297: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Twain Harte, CA at 38.0400, -120.2300.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 95383/95370.
+
+On-site sector marker: Tuolumne County / coords 38.0400, -120.2300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95370-f265818c

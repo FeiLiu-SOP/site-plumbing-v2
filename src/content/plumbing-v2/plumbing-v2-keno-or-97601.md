@@ -12,28 +12,49 @@ lng: -121.9300
 zipSample: ["97627", "97601"]
 zipCodes: ["97601", "97627"]
 localPaths: ["Klamath County / ZIP 97601 sector", "Klamath County / coords 42.1300, -121.9300", "Klamath County / primary ZIP 97601", "Klamath County / ZIP 97627 sector", "Klamath County / elevation 4111 ft band"]
-zillowHomeValueUsd: 273522
 ---
 
 **Engineering Notice for Keno:** System optimized for 175 mg/L hard water scaling factors in Keno. Regional dispatch grid: Klamath County.
 
 
-In Keno, OR, leak detection pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Basement floor drains in Keno, OR should be snaked only after trap arm geometry is confirmed on camera.
 
-Drain cleaning scopes in Keno, OR separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Hydro-jetting in Keno, OR requires camera confirmation before nozzle pressure is raised.
 
-Leak Detection Pros coordination in Keno, OR prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Garage utility sinks in Keno, OR often tie into laundry branches that mask main-line restrictions.
 
-FAQ: When is water line replacement safer than spot service? In Keno, OR, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 97601/97627.
+Step: photograph curb-stop and meter pit before trenching.
 
-Request a written leak detection pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 97601.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field packet: branch wet vent compliance note plus fixture shutoff torque log referenced in Klamath County county grid review.
+Material note: Water heater anode type may change with Keno, OR hardness profiles.
 
-Field note: Main cleanout riser height measured against slab finish in Keno, OR.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Keno, OR.
 
-Dispatch sectors sampled: ZIP 97601, 97627 (county grid: Klamath County).
+Dual-water-meter setups in Keno, OR irrigation zones need backflow logs before line replacement.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Keno, OR older homes.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 97601.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tankless heater descale intervals in Keno, OR hard-water zones differ from tank anode schedules.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 97601.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Fixture roster 667824: toilet flange spacer kit and shower cartridge seat score queued for Keno, OR walk-through.
+
+Supply audit 667824: curb-stop orientation and hose-bib freeze flag reviewed for Keno, OR at coords 42.1300/-121.9300.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 97627/97601.
+
+ZIP-corridor snapshot for Keno, OR: sampled sectors include 97627, 97601; county routing grid remains Klamath County.
 
 Service reference: OR-97601-b4a49862

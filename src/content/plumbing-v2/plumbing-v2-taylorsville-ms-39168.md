@@ -12,28 +12,45 @@ lng: -89.4300
 zipSample: ["39168"]
 zipCodes: ["39168"]
 localPaths: ["Smith County / coords 31.8300, -89.4300", "Smith County / primary ZIP 39168", "Smith County / ZIP 39168 sector", "Smith County / elevation 308 ft band"]
-zillowHomeValueUsd: 145754
 ---
 
 **Engineering Notice for Taylorsville:** System optimized for 128 mg/L hard water scaling factors in Taylorsville. Regional dispatch grid: Smith County.
 
 
-Property owners in Taylorsville, MS may see hydro-jetting specialists escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Dispatch packets reference county grid Smith County near ZIP 39168.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Taylorsville, MS.
+Irrigation cross-connections in Taylorsville, MS can back-siphon domestic lines during main breaks.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: What slows drain cleaning most? In Taylorsville, MS, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Frost-free sillcock failures in Taylorsville, MS often trace to interior shutoff seats.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 39168.
+Branch wet vents in Taylorsville, MS can mask gurgling as a main-line issue.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 39168.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 39168.
 
-Field packet: Sump pump float travel plus fixture shutoff torque log referenced in Smith County county grid review.
+Hydrostatic holds in Taylorsville, MS slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Main cleanout riser height measured against slab finish in Taylorsville, MS.
+Book sump and supply-line checks in one written scope. Postal sector 39168.
 
-Dispatch sectors sampled: ZIP 39168 (county grid: Smith County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Taylorsville, MS.
+
+Hose bib split patterns often follow missed winterization.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Supply audit 264552: curb-stop orientation and hose-bib freeze flag reviewed for Taylorsville, MS at coords 31.8300/-89.4300.
+
+Drain map 264552: camera-pass priority and expansion-tank pre-charge noted for Taylorsville, MS postal sector 39168.
+
+Field note: Hose bib freeze flags logged for Taylorsville, MS.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Smith County and primary ZIP 39168. Terrain reference: 308 ft. Center point: 31.8300, -89.4300. ZIP sample: 39168. Service perimeter note: Coverage extends through Smith County with dispatch centered near ZIP 39168.
 
 Service reference: MS-39168-f75c21e7

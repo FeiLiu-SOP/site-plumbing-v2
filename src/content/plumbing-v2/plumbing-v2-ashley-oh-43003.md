@@ -12,30 +12,43 @@ lng: -82.9500
 zipSample: ["43003"]
 zipCodes: ["43003"]
 localPaths: ["Delaware County / coords 40.4100, -82.9500", "Delaware County / elevation 974 ft band", "Delaware County / primary ZIP 43003", "Delaware County / ZIP 43003 sector"]
-zillowHomeValueUsd: 272086
 ---
 
 **Engineering Notice for Ashley:** System optimized for 148 mg/L hard water scaling factors in Ashley. Regional dispatch grid: Delaware County.
 
 
-Across Ashley, OH, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Dual-water-meter setups in Ashley, OH irrigation zones need backflow logs before line replacement.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Our intake language for Ashley, OH work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Trenchless pulls in Ashley, OH require pit dimensions verified against utility locate marks.
 
-FAQ: Can sump pump service wait until dry season? In Ashley, OH, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 43003.
+FAQ: When is cabling enough? In Ashley, OH, pipe material and blockage type dictate method.
 
-Book a camera-assisted drain review before approving jetting on older Ashley, OH mains. Serving ZIP Code: 43003.
+Material note: Water heater anode type may change with Ashley, OH hardness profiles.
 
-Dispatch note: backflow test cock orientation and water heater T&P discharge path were logged for the Ashley plumbing intake packet.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Main cleanout riser height measured against slab finish in Ashley, OH.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 43003.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 43003 (county grid: Delaware County).
+Hydro-jetting in Ashley, OH requires camera confirmation before nozzle pressure is raised.
+
+Ask for trenchless feasibility notes before main replacement. County grid Delaware County.
+
+Risk flag: In Ashley, OH, slab leaks can misroute as foundation issues without listening equipment.
+
+Tankless heater descale intervals in Ashley, OH hard-water zones differ from tank anode schedules.
+
+FAQ: When should sump battery backups be load-tested? In Ashley, OH, before spring thaw and heavy rain remnants.
+
+Drain map 713159: camera-pass priority and expansion-tank pre-charge noted for Ashley, OH postal sector 43003.
+
+Service ledger 713159: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Ashley, OH at 40.4100, -82.9500.
+
+On-site sector marker: Delaware County / ZIP 43003 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43003-8b8c0f04

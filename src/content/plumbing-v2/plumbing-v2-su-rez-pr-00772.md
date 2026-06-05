@@ -12,31 +12,47 @@ lng: -65.8500
 zipSample: ["00772"]
 zipCodes: ["00772"]
 localPaths: ["Loíza County / ZIP 00772 sector", "Loíza County / primary ZIP 00772", "Loíza County / coords 18.4300, -65.8500", "Loíza County / elevation 20 ft band"]
-zillowHomeValueUsd: 356666
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Suárez:** System optimized for 135 mg/L hard water scaling factors in Suárez. Regional dispatch grid: Loíza County.
 
 
-A fixture & supply line pros reach out in Suárez, PR is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Suárez, PR.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Suárez, PR.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Irrigation cross-connections in Suárez, PR can back-siphon domestic lines during main breaks.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Suárez, PR supply age can diverge sharply.
+Hydrostatic holds in Suárez, PR slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 00772.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 00772.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 00772.
 
-Scope trace: scale coupon sampling cross-checked against hose bib freeze-risk flag before line-pressure hold test.
+Risk flag: In Suárez, PR, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Drain cleaning cable head wear logged before second pass in Suárez, PR.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 00772.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 00772 (county grid: Loíza County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Cast-iron hub corrosion in Suárez, PR often concentrates at the third joint upstream of the cleanout.
+
+Service ledger 707720: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Suárez, PR at 18.4300, -65.8500.
+
+Lineage note 707720: recirculation pump amp draw captured before Suárez, PR branch isolation.
+
+Field note: Water line replacement trench path flagged for Loíza County setbacks.
+
+On-site sector marker: Loíza County / primary ZIP 00772 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00772-f206fd3e

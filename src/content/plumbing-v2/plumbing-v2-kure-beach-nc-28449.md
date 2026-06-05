@@ -12,30 +12,43 @@ lng: -77.9100
 zipSample: ["28449", "28428"]
 zipCodes: ["28428", "28449"]
 localPaths: ["New Hanover County / primary ZIP 28449", "New Hanover County / coords 34.0000, -77.9100", "New Hanover County / ZIP 28449 sector", "New Hanover County / ZIP 28428 sector", "New Hanover County / elevation 16 ft band"]
-zillowHomeValueUsd: 753321
 ---
 
 **Engineering Notice for Kure Beach:** System optimized for 158 mg/L hard water scaling factors in Kure Beach. Regional dispatch grid: New Hanover County.
 
 
-Property owners in Kure Beach, NC may see hydro-jetting specialists escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Material note: Water heater anode type may change with Kure Beach, NC hardness profiles.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Kure Beach, NC.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: What slows drain cleaning most? In Kure Beach, NC, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Irrigation cross-connections in Kure Beach, NC can back-siphon domestic lines during main breaks.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 28449/28428.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 28449.
+Ask for trenchless feasibility notes before main replacement. County grid New Hanover County.
 
-Scope trace: sub-slab moisture gradient cross-checked against backflow test cock orientation before line-pressure hold test.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Drain cleaning cable head wear logged before second pass in Kure Beach, NC.
+Basement floor drains in Kure Beach, NC should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Water line replacement trench path flagged for New Hanover County setbacks.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 28449, 28428 (county grid: New Hanover County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Kure Beach, NC.
+
+Polybutylene manifold tags in Kure Beach, NC basements should be photographed before wall chases open.
+
+Frost-free sillcock failures in Kure Beach, NC often trace to interior shutoff seats.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Drain map 394882: camera-pass priority and expansion-tank pre-charge noted for Kure Beach, NC postal sector 28449.
+
+Service ledger 394882: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Kure Beach, NC at 34.0000, -77.9100.
+
+On-site sector marker: New Hanover County / coords 34.0000, -77.9100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28449-b7920a18

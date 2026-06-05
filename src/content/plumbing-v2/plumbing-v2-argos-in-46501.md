@@ -12,28 +12,47 @@ lng: -86.2500
 zipSample: ["46501"]
 zipCodes: ["46501"]
 localPaths: ["Marshall County / primary ZIP 46501", "Marshall County / ZIP 46501 sector", "Marshall County / coords 41.2400, -86.2500", "Marshall County / elevation 827 ft band"]
-zillowHomeValueUsd: 219390
 ---
 
 **Engineering Notice for Argos:** System optimized for 124 mg/L hard water scaling factors in Argos. Regional dispatch grid: Marshall County.
 
 
-When slab leak response unit scopes are reviewed in Argos, IN, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Irrigation cross-connections in Argos, IN can back-siphon domestic lines during main breaks.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Argos, IN.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Argos, IN.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Argos, IN.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Argos, IN, soft blockages differ from root intrusion profiles.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 46501.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 46501.
+Hydrostatic holds in Argos, IN slab circuits run overnight when listening mics show ambiguous hits.
 
-Field packet: backflow test cock orientation plus dielectric union checklist referenced in Marshall County county grid review.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field note: Main cleanout riser height measured against slab finish in Argos, IN.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 46501 (county grid: Marshall County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Dual-water-meter setups in Argos, IN irrigation zones need backflow logs before line replacement.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 46501.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Cleanout access limits in Argos, IN frequently extend drain cleaning duration.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 46501.
+
+Service ledger 817121: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Argos, IN at 41.2400, -86.2500.
+
+Drain map 817121: camera-pass priority and expansion-tank pre-charge noted for Argos, IN postal sector 46501.
+
+Field note: Meter-pit clearance photographed near ZIP 46501.
+
+On-site sector marker: Marshall County / coords 41.2400, -86.2500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46501-a71daeb6

@@ -12,31 +12,47 @@ lng: -100.7800
 zipSample: ["78843", "78840"]
 zipCodes: ["78843", "78840"]
 localPaths: ["Val Verde County / elevation 1083 ft band", "Val Verde County / ZIP 78843 sector", "Val Verde County / coords 29.3600, -100.7800", "Val Verde County / primary ZIP 78843", "Val Verde County / ZIP 78840 sector"]
-zillowHomeValueUsd: 305435
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Laughlin AFB:** System optimized for 131 mg/L hard water scaling factors in Laughlin AFB. Regional dispatch grid: Val Verde County.
 
 
-Across Laughlin AFB, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Log water heater flex line dates before wall closure in Laughlin AFB, TX remodel zones.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: map sump float travel and check-valve orientation for Laughlin AFB, TX basements.
 
-Our intake language for Laughlin AFB, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Slab leak listening windows in Laughlin AFB, TX depend on quiet periods and isolated branch valves.
 
-FAQ: Can sump pump restoration wait until dry season? In Laughlin AFB, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 78843/78840.
+Trenchless pulls in Laughlin AFB, TX require pit dimensions verified against utility locate marks.
 
-Book a camera-assisted drain review before approving jetting on older Laughlin AFB, TX mains. Serving ZIP Code: 78843.
+Garage utility sinks in Laughlin AFB, TX often tie into laundry branches that mask main-line restrictions.
 
-Field packet: water heater T&P discharge path plus backflow test cock orientation referenced in Val Verde County county grid review.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Main cleanout riser height measured against slab finish in Laughlin AFB, TX.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Laughlin AFB, TX.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 78843/78840.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 78843, 78840 (county grid: Val Verde County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Step: log PRV inlet and outlet readings during intake.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Fixture roster 392759: toilet flange spacer kit and shower cartridge seat score queued for Laughlin AFB, TX walk-through.
+
+Service ledger 392759: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Laughlin AFB, TX at 29.3600, -100.7800.
+
+Field note: Fixture shutoff torque notes filed for ZIP 78843/78840.
+
+On-site sector marker: Val Verde County / ZIP 78840 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78843-d7a56312

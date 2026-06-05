@@ -12,30 +12,49 @@ lng: -79.9900
 zipSample: ["26505"]
 zipCodes: ["26505"]
 localPaths: ["Monongalia County / coords 39.6600, -79.9900", "Monongalia County / elevation 932 ft band", "Monongalia County / ZIP 26505 sector", "Monongalia County / primary ZIP 26505"]
-zillowHomeValueUsd: 253588
 ---
 
 **Engineering Notice for Star City:** System optimized for 146 mg/L hard water scaling factors in Star City. Regional dispatch grid: Monongalia County.
 
 
-When leak detection pros scopes are reviewed in Star City, WV, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Material note: Water heater anode type may change with Star City, WV hardness profiles.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Star City, WV.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Star City, WV.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Star City, WV, soft blockages differ from root intrusion profiles.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 26505.
+Frost-free sillcock failures in Star City, WV often trace to interior shutoff seats.
 
-Open a scheduling request if you need leak detection pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 26505.
+Galvanized segments in Star City, WV may restrict flow before visible corrosion.
 
-Scope trace: branch wet vent compliance note cross-checked against cleanout riser height before line-pressure hold test.
+Branch wet vents in Star City, WV can mask gurgling as a main-line issue.
 
-Field note: Drain cleaning cable head wear logged before second pass in Star City, WV.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Water line replacement trench path flagged for Monongalia County setbacks.
+Dual-water-meter setups in Star City, WV irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 26505 (county grid: Monongalia County).
+Risk flag: In Star City, WV, slab leaks can misroute as foundation issues without listening equipment.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Hydro-jetting in Star City, WV requires camera confirmation before nozzle pressure is raised.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 26505.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 26505.
+
+Stack vent offsets in Star City, WV older duplexes can mask tub gurgle as a main-line failure.
+
+FAQ: When should sump battery backups be load-tested? In Star City, WV, before spring thaw and heavy rain remnants.
+
+Lineage note 744233: recirculation pump amp draw captured before Star City, WV branch isolation.
+
+Flow dossier 744233: branch wet-vent geometry and PRV seat wear logged for Star City, WV county grid Monongalia County (ZIP 26505).
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 26505.
+
+Primary postal anchor 26505 with multi-ZIP overlap in Star City; field packets tag Monongalia County for county-grid reconciliation.
 
 Service reference: WV-26505-42d83a38

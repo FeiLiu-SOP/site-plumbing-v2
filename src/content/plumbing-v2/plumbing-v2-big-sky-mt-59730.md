@@ -12,30 +12,45 @@ lng: -111.3400
 zipSample: ["59730", "59716"]
 zipCodes: ["59716", "59730"]
 localPaths: ["Gallatin County / ZIP 59716 sector", "Gallatin County / coords 45.2600, -111.3400", "Gallatin County / primary ZIP 59730", "Gallatin County / ZIP 59730 sector", "Gallatin County / elevation 6942 ft band"]
-zillowHomeValueUsd: 1365061
 ---
 
 **Engineering Notice for Big Sky:** System optimized for 144 mg/L hard water scaling factors in Big Sky. Regional dispatch grid: Gallatin County.
 
 
-A hydro-jetting specialists request in Big Sky, MT is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Big Sky, MT.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Big Sky, MT.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Big Sky, MT.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Big Sky, MT supply age can diverge sharply.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 59716/59730.
+Branch wet vents in Big Sky, MT can mask gurgling as a main-line issue.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 59730.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Scope trace: dielectric union checklist cross-checked against fixture shutoff torque log before line-pressure hold test.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Main cleanout riser height measured against slab finish in Big Sky, MT.
+Frost-free sillcock failures in Big Sky, MT often trace to interior shutoff seats.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 59716/59730.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 59716, 59730 (county grid: Gallatin County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Cleanout access limits in Big Sky, MT frequently extend drain cleaning duration.
+
+Fixture roster 668709: toilet flange spacer kit and shower cartridge seat score queued for Big Sky, MT walk-through.
+
+Drain map 668709: camera-pass priority and expansion-tank pre-charge noted for Big Sky, MT postal sector 59730.
+
+Regional mesh label Gallatin County: moisture and logistics baselines are keyed to Big Sky, MT before niche-specific work begins.
 
 Service reference: MT-59730-62ce1d24

@@ -12,28 +12,47 @@ lng: -74.7700
 zipSample: ["13329"]
 zipCodes: ["13329"]
 localPaths: ["Herkimer County / elevation 801 ft band", "Herkimer County / coords 43.1000, -74.7700", "Herkimer County / ZIP 13329 sector", "Herkimer County / primary ZIP 13329"]
-zillowHomeValueUsd: 143883
 ---
 
 **Engineering Notice for Dolgeville:** System optimized for 120 mg/L hard water scaling factors in Dolgeville. Regional dispatch grid: Herkimer County.
 
 
-When basement sump service team scopes are reviewed in Dolgeville, NY, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Dual-water-meter setups in Dolgeville, NY irrigation zones need backflow logs before line replacement.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Dolgeville, NY.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Irrigation cross-connections in Dolgeville, NY can back-siphon domestic lines during main breaks.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Dolgeville, NY, soft blockages differ from root intrusion profiles.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Dolgeville, NY.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 13329.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 13329.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch note: copper pinhole cluster map and main line camera pass were logged for the Dolgeville plumbing intake packet.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Dolgeville, NY.
 
-Field note: Water line replacement trench path flagged for Herkimer County setbacks.
+Branch wet vents in Dolgeville, NY can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 13329 (county grid: Herkimer County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Cast-iron hub corrosion in Dolgeville, NY often concentrates at the third joint upstream of the cleanout.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Water heater T&P discharge paths in Dolgeville, NY must terminate safely before replacement quotes.
+
+Flow dossier 100200: branch wet-vent geometry and PRV seat wear logged for Dolgeville, NY county grid Herkimer County (ZIP 13329).
+
+Pressure trace 100200: meter-pit clearance and dielectric union checklist staged for Dolgeville, NY near elevation 801 ft.
+
+Field note: Hose bib freeze flags logged for Dolgeville, NY.
+
+Field note: Drain cleaning cable head wear logged before second pass in Dolgeville, NY.
+
+On-site sector marker: Herkimer County / primary ZIP 13329 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-13329-04f34822

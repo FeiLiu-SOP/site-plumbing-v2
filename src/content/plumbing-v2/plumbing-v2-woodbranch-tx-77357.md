@@ -12,28 +12,47 @@ lng: -95.1800
 zipSample: ["77357"]
 zipCodes: ["77357"]
 localPaths: ["Montgomery County / primary ZIP 77357", "Montgomery County / coords 30.1800, -95.1800", "Montgomery County / elevation 108 ft band", "Montgomery County / ZIP 77357 sector"]
-zillowHomeValueUsd: 263548
 ---
 
 **Engineering Notice for Woodbranch:** System optimized for 180 mg/L hard water scaling factors in Woodbranch. Regional dispatch grid: Montgomery County.
 
 
-When water heater & pipe experts scopes are reviewed in Woodbranch, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: photograph curb-stop and meter pit before trenching.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Woodbranch, TX.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Woodbranch, TX, soft blockages differ from root intrusion profiles.
+Across Woodbranch, TX, main-line bellies trap debris even when fixtures drain normally.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 77357.
+Irrigation cross-connections in Woodbranch, TX can back-siphon domestic lines during main breaks.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 77357.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field packet: branch wet vent compliance note plus jetter nozzle envelope referenced in Montgomery County county grid review.
+Shared main supplies in Woodbranch, TX duplexes require coordinated shutoff before pressure holds.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 77357.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 77357 (county grid: Montgomery County).
+Tip: Photograph cleanout cap threads before snaking near ZIP 77357.
+
+Basement floor drains in Woodbranch, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Woodbranch, TX.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Book sump and supply-line checks in one written scope. Postal sector 77357.
+
+Stack vent offsets in Woodbranch, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Supply audit 706745: curb-stop orientation and hose-bib freeze flag reviewed for Woodbranch, TX at coords 30.1800/-95.1800.
+
+Lineage note 706745: recirculation pump amp draw captured before Woodbranch, TX branch isolation.
+
+Field note: Dielectric union checklist completed in Woodbranch, TX.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Montgomery County. Reference elevation: 108 ft. Primary coordinates: 30.1800, -95.1800. ZIP sample: 77357. Service perimeter note: Coverage extends through Montgomery County with dispatch centered near ZIP 77357.
 
 Service reference: TX-77357-afc88f22

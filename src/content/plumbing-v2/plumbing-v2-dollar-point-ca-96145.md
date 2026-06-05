@@ -12,28 +12,43 @@ lng: -120.1100
 zipSample: ["96145"]
 zipCodes: ["96145"]
 localPaths: ["Placer County / coords 39.1900, -120.1100", "Placer County / ZIP 96145 sector", "Placer County / elevation 6444 ft band", "Placer County / primary ZIP 96145"]
-zillowHomeValueUsd: 1237345
 ---
 
 **Engineering Notice for Dollar Point:** System optimized for 134 mg/L hard water scaling factors in Dollar Point. Regional dispatch grid: Placer County.
 
 
-Across Dollar Point, CA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Dual-water-meter setups in Dollar Point, CA irrigation zones need backflow logs before line replacement.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Dollar Point, CA older homes.
 
-Our intake language for Dollar Point, CA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Shared main supplies in Dollar Point, CA duplexes require coordinated shutoff before pressure holds.
 
-FAQ: Can sump pump restoration wait until dry season? In Dollar Point, CA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 96145.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 96145.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Placer County.
 
-Book a camera-assisted drain review before approving jetting on older Dollar Point, CA mains. Serving ZIP Code: 96145.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Scope trace: cleanout riser height cross-checked against branch wet vent compliance note before line-pressure hold test.
+Material note: Water heater anode type may change with Dollar Point, CA hardness profiles.
 
-Field note: Main cleanout riser height measured against slab finish in Dollar Point, CA.
+FAQ: When is cabling enough? In Dollar Point, CA, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 96145 (county grid: Placer County).
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Dollar Point, CA.
+
+Polybutylene manifold tags in Dollar Point, CA basements should be photographed before wall chases open.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Cleanout access limits in Dollar Point, CA frequently extend drain cleaning duration.
+
+Permit note: Main water line replacement in Dollar Point, CA may require ROW restoration planning.
+
+Supply audit 968114: curb-stop orientation and hose-bib freeze flag reviewed for Dollar Point, CA at coords 39.1900/-120.1100.
+
+Flow dossier 968114: branch wet-vent geometry and PRV seat wear logged for Dollar Point, CA county grid Placer County (ZIP 96145).
+
+On-site sector marker: Placer County / elevation 6444 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-96145-808d8474

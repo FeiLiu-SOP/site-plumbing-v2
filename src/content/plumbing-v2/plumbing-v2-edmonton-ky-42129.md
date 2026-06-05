@@ -12,30 +12,47 @@ lng: -85.6200
 zipSample: ["42129"]
 zipCodes: ["42129"]
 localPaths: ["Metcalfe County / elevation 791 ft band", "Metcalfe County / ZIP 42129 sector", "Metcalfe County / primary ZIP 42129", "Metcalfe County / coords 36.9900, -85.6200"]
-zillowHomeValueUsd: 166436
 ---
 
 **Engineering Notice for Edmonton:** System optimized for 170 mg/L hard water scaling factors in Edmonton. Regional dispatch grid: Metcalfe County.
 
 
-Across Edmonton, KY, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Edmonton, KY.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: photograph curb-stop and meter pit before trenching.
 
-Our intake language for Edmonton, KY work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Can sump pump remediation wait until dry season? In Edmonton, KY, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 42129.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Book a camera-assisted drain review before approving jetting on older Edmonton, KY mains. Serving ZIP Code: 42129.
+CPVC solvent weld times shift with ambient humidity during Edmonton, KY shoulder seasons.
 
-Routing marker: fixture shutoff torque log paired with PRV outlet pressure curve near ZIP 42129.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Main cleanout riser height measured against slab finish in Edmonton, KY.
+Hydrostatic holds in Edmonton, KY slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 42129.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Edmonton, KY.
 
-Dispatch sectors sampled: ZIP 42129 (county grid: Metcalfe County).
+Risk flag: In Edmonton, KY, slab leaks can misroute as foundation issues without listening equipment.
+
+Irrigation cross-connections in Edmonton, KY can back-siphon domestic lines during main breaks.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Edmonton, KY.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Pressure trace 323668: meter-pit clearance and dielectric union checklist staged for Edmonton, KY near elevation 791 ft.
+
+Flow dossier 323668: branch wet-vent geometry and PRV seat wear logged for Edmonton, KY county grid Metcalfe County (ZIP 42129).
+
+Field note: Fixture shutoff torque notes filed for ZIP 42129.
+
+On-site sector marker: Metcalfe County / elevation 791 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-42129-027f55a2

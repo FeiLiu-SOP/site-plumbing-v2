@@ -12,30 +12,45 @@ lng: -97.5200
 zipSample: ["76020"]
 zipCodes: ["76020"]
 localPaths: ["Tarrant County / ZIP 76020 sector", "Tarrant County / primary ZIP 76020", "Tarrant County / elevation 725 ft band", "Tarrant County / coords 32.9200, -97.5200"]
-zillowHomeValueUsd: 329540
 ---
 
 **Engineering Notice for Pelican Bay:** System optimized for 125 mg/L hard water scaling factors in Pelican Bay. Regional dispatch grid: Tarrant County.
 
 
-Property owners in Pelican Bay, TX may see fixture & supply line pros escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Polybutylene manifold tags in Pelican Bay, TX basements should be photographed before wall chases open.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Pelican Bay, TX.
+Hydrostatic holds in Pelican Bay, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Tarrant County.
 
-FAQ: What slows drain cleaning most? In Pelican Bay, TX, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 76020.
+Hard water in Pelican Bay, TX accelerates scale on PRV seats and heater elements.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 76020.
+Dual-water-meter setups in Pelican Bay, TX irrigation zones need backflow logs before line replacement.
 
-Routing marker: cleanout riser height paired with hose bib freeze-risk flag near ZIP 76020.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Water line replacement trench path flagged for Tarrant County setbacks.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 76020.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 76020 (county grid: Tarrant County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Branch wet vents in Pelican Bay, TX can mask gurgling as a main-line issue.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 76020.
+
+Tip: Log water heater flex line dates before wall closure in Pelican Bay, TX remodel zones.
+
+Supply audit 527352: curb-stop orientation and hose-bib freeze flag reviewed for Pelican Bay, TX at coords 32.9200/-97.5200.
+
+Lineage note 527352: recirculation pump amp draw captured before Pelican Bay, TX branch isolation.
+
+Field note: Expansion tank pre-charge verified in Pelican Bay, TX.
+
+Coordinate-anchored dispatch note: center reference 32.9200, -97.5200 at elevation ~725 ft aligns with Tarrant County intake staging.
 
 Service reference: TX-76020-63c0630b

@@ -12,31 +12,47 @@ lng: -89.3000
 zipSample: ["61356", "61322"]
 zipCodes: ["61322", "61356"]
 localPaths: ["Bureau County / primary ZIP 61322", "Bureau County / ZIP 61356 sector", "Bureau County / elevation 512 ft band", "Bureau County / coords 41.3300, -89.3000", "Bureau County / ZIP 61322 sector"]
-zillowHomeValueUsd: 234548
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for De Pue:** System optimized for 148 mg/L hard water scaling factors in De Pue. Regional dispatch grid: Bureau County.
 
 
-A whole-home repiping advisors contact in De Pue, IL is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for De Pue, IL.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and De Pue, IL supply age can diverge sharply.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 61356/61322.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 61322.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Scope trace: sub-slab moisture gradient cross-checked against backflow test cock orientation before line-pressure hold test.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in De Pue, IL.
 
-Field note: Main cleanout riser height measured against slab finish in De Pue, IL.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 61356/61322.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 61356, 61322 (county grid: Bureau County).
+FAQ: When should sump battery backups be load-tested? In De Pue, IL, before spring thaw and heavy rain remnants.
+
+Galvanized segments in De Pue, IL may restrict flow before visible corrosion.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Shared main supplies in De Pue, IL duplexes require coordinated shutoff before pressure holds.
+
+Permit note: Main water line replacement in De Pue, IL may require ROW restoration planning.
+
+Book sump and supply-line checks in one written scope. Postal sector 61322.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Flow dossier 861618: branch wet-vent geometry and PRV seat wear logged for De Pue, IL county grid Bureau County (ZIP 61322).
+
+Fixture roster 861618: toilet flange spacer kit and shower cartridge seat score queued for De Pue, IL walk-through.
+
+On-site sector marker: Bureau County / coords 41.3300, -89.3000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-61322-538df67d

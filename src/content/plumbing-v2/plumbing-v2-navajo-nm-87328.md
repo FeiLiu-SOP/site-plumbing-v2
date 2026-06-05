@@ -12,31 +12,47 @@ lng: -109.0300
 zipSample: ["87328"]
 zipCodes: ["87328"]
 localPaths: ["McKinley County / elevation 7152 ft band", "McKinley County / ZIP 87328 sector", "McKinley County / coords 35.9000, -109.0300", "McKinley County / primary ZIP 87328"]
-zillowHomeValueUsd: 296150
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Navajo:** System optimized for 148 mg/L hard water scaling factors in Navajo. Regional dispatch grid: McKinley County.
 
 
-When water heater & pipe experts scopes are reviewed in Navajo, NM, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: In Navajo, NM, slab leaks can misroute as foundation issues without listening equipment.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Navajo, NM.
+Hard water in Navajo, NM accelerates scale on PRV seats and heater elements.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Stack vent offsets in Navajo, NM older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Navajo, NM, soft blockages differ from root intrusion profiles.
+Across Navajo, NM, main-line bellies trap debris even when fixtures drain normally.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 87328.
+Tip: Log water heater flex line dates before wall closure in Navajo, NM remodel zones.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 87328.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field packet: PEX expansion ring batch plus scale coupon sampling referenced in McKinley County county grid review.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Navajo, NM.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 87328.
+FAQ: When should sump battery backups be load-tested? In Navajo, NM, before spring thaw and heavy rain remnants.
 
-Field note: Water line replacement trench path flagged for McKinley County setbacks.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 87328 (county grid: McKinley County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Water heater T&P discharge paths in Navajo, NM must terminate safely before replacement quotes.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Pressure trace 661683: meter-pit clearance and dielectric union checklist staged for Navajo, NM near elevation 7152 ft.
+
+Service ledger 661683: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Navajo, NM at 35.9000, -109.0300.
+
+On-site sector marker: McKinley County / primary ZIP 87328 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87328-cb84d201

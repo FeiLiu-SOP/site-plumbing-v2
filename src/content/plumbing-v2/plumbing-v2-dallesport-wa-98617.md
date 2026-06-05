@@ -12,30 +12,47 @@ lng: -121.1700
 zipSample: ["98635", "98617"]
 zipCodes: ["98617", "98635"]
 localPaths: ["Klickitat County / ZIP 98617 sector", "Klickitat County / ZIP 98635 sector", "Klickitat County / coords 45.6300, -121.1700", "Klickitat County / elevation 203 ft band", "Klickitat County / primary ZIP 98617"]
-zillowHomeValueUsd: 425407
 ---
 
 **Engineering Notice for Dallesport:** System optimized for 177 mg/L hard water scaling factors in Dallesport. Regional dispatch grid: Klickitat County.
 
 
-A whole-home repiping advisors reach out in Dallesport, WA is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Dallesport, WA.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Dallesport, WA.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Dallesport, WA supply age can diverge sharply.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 98635/98617.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Dallesport, WA.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 98617.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Routing marker: dielectric union checklist paired with copper pinhole cluster map near ZIP 98617.
+Cast-iron hub corrosion in Dallesport, WA often concentrates at the third joint upstream of the cleanout.
 
-Field note: Main cleanout riser height measured against slab finish in Dallesport, WA.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Dallesport, WA.
 
-Field note: Water line replacement trench path flagged for Klickitat County setbacks.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 98617.
 
-Dispatch sectors sampled: ZIP 98635, 98617 (county grid: Klickitat County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Klickitat County.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Supply audit 669716: curb-stop orientation and hose-bib freeze flag reviewed for Dallesport, WA at coords 45.6300/-121.1700.
+
+Fixture roster 669716: toilet flange spacer kit and shower cartridge seat score queued for Dallesport, WA walk-through.
+
+Field note: Hose bib freeze flags logged for Dallesport, WA.
+
+Field note: Drain cleaning cable head wear logged before second pass in Dallesport, WA.
+
+On-site sector marker: Klickitat County / coords 45.6300, -121.1700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98617-151e17c6

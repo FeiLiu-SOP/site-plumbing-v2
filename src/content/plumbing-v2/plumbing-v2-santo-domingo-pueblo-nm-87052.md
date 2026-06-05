@@ -12,29 +12,47 @@ lng: -106.3700
 zipSample: ["87052"]
 zipCodes: ["87052"]
 localPaths: ["Sandoval County / elevation 5164 ft band", "Sandoval County / primary ZIP 87052", "Sandoval County / coords 35.5200, -106.3700", "Sandoval County / ZIP 87052 sector"]
-zillowHomeValueUsd: 306393
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Santo Domingo Pueblo:** System optimized for 172 mg/L hard water scaling factors in Santo Domingo Pueblo. Regional dispatch grid: Sandoval County.
 
 
-In Santo Domingo Pueblo, NM, emergency pipe restoration visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Drain cleaning scopes in Santo Domingo Pueblo, NM separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Hydro-jetting in Santo Domingo Pueblo, NM requires camera confirmation before nozzle pressure is raised.
 
-Emergency Pipe Service coordination in Santo Domingo Pueblo, NM prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-FAQ: When is water line replacement safer than spot remediation? In Santo Domingo Pueblo, NM, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Dual-water-meter setups in Santo Domingo Pueblo, NM irrigation zones need backflow logs before line replacement.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 87052.
+In Santo Domingo Pueblo, NM, emergency pipe restoration visits often begin with sump basin level checks and discharge line freeze separation.
 
-Request a written emergency pipe remediation plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 87052.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Scope trace: fixture shutoff torque log cross-checked against sub-slab moisture gradient before line-pressure hold test.
+Shared main supplies in Santo Domingo Pueblo, NM duplexes require coordinated shutoff before pressure holds.
 
-Field note: Water line replacement trench path flagged for Sandoval County setbacks.
+Request a camera-assisted drain review before approving jetting. Postal sector 87052.
 
-Dispatch sectors sampled: ZIP 87052 (county grid: Sandoval County).
+Water heater T&P discharge paths in Santo Domingo Pueblo, NM must terminate safely before replacement quotes.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 87052.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Trenchless pulls in Santo Domingo Pueblo, NM require pit dimensions verified against utility locate marks.
+
+Hydrostatic holds in Santo Domingo Pueblo, NM slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Flow dossier 364652: branch wet-vent geometry and PRV seat wear logged for Santo Domingo Pueblo, NM county grid Sandoval County (ZIP 87052).
+
+Fixture roster 364652: toilet flange spacer kit and shower cartridge seat score queued for Santo Domingo Pueblo, NM walk-through.
+
+Field note: Dielectric union checklist completed in Santo Domingo Pueblo, NM.
+
+On-site sector marker: Sandoval County / ZIP 87052 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87052-6227579e

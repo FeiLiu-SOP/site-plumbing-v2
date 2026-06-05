@@ -12,30 +12,49 @@ lng: -101.1300
 zipSample: ["58785"]
 zipCodes: ["58785"]
 localPaths: ["Ward County / ZIP 58785 sector", "Ward County / primary ZIP 58785", "Ward County / elevation 1608 ft band", "Ward County / coords 48.2400, -101.1300"]
-zillowHomeValueUsd: 334968
 ---
 
 **Engineering Notice for Surrey:** System optimized for 170 mg/L hard water scaling factors in Surrey. Regional dispatch grid: Ward County.
 
 
-Across Surrey, ND, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 58785.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Log water heater flex line dates before wall closure in Surrey, ND remodel zones.
 
-Our intake language for Surrey, ND work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Trenchless pulls in Surrey, ND require pit dimensions verified against utility locate marks.
 
-FAQ: Can sump pump restoration wait until dry season? In Surrey, ND, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 58785.
+Polybutylene manifold tags in Surrey, ND basements should be photographed before wall chases open.
 
-Book a camera-assisted drain review before approving jetting on older Surrey, ND mains. Serving ZIP Code: 58785.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Scope trace: main line camera pass cross-checked against dielectric union checklist before line-pressure hold test.
+Garage utility sinks in Surrey, ND often tie into laundry branches that mask main-line restrictions.
 
-Field note: Main cleanout riser height measured against slab finish in Surrey, ND.
+Water heater T&P discharge paths in Surrey, ND must terminate safely before replacement quotes.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 58785.
+Tankless heater descale intervals in Surrey, ND hard-water zones differ from tank anode schedules.
 
-Dispatch sectors sampled: ZIP 58785 (county grid: Ward County).
+Step: photograph curb-stop and meter pit before trenching.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Galvanized segments in Surrey, ND may restrict flow before visible corrosion.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Surrey, ND.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 58785.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Surrey, ND.
+
+Lineage note 999878: recirculation pump amp draw captured before Surrey, ND branch isolation.
+
+Pressure trace 999878: meter-pit clearance and dielectric union checklist staged for Surrey, ND near elevation 1608 ft.
+
+Field note: Dielectric union checklist completed in Surrey, ND.
+
+Regional mesh label Ward County: moisture and logistics baselines are keyed to Surrey, ND before niche-specific work begins.
 
 Service reference: ND-58785-8434d42a

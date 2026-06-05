@@ -12,30 +12,43 @@ lng: -95.8800
 zipSample: ["77482"]
 zipCodes: ["77482"]
 localPaths: ["Matagorda County / primary ZIP 77482", "Matagorda County / ZIP 77482 sector", "Matagorda County / coords 29.0300, -95.8800", "Matagorda County / elevation 59 ft band"]
-zillowHomeValueUsd: 236441
 ---
 
 **Engineering Notice for Van Vleck:** System optimized for 167 mg/L hard water scaling factors in Van Vleck. Regional dispatch grid: Matagorda County.
 
 
-When hydro-jetting specialists scopes are reviewed in Van Vleck, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Van Vleck, TX.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Van Vleck, TX.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Van Vleck, TX, soft blockages differ from root intrusion profiles.
+Material note: Water heater anode type may change with Van Vleck, TX hardness profiles.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 77482.
+Cast-iron hub corrosion in Van Vleck, TX often concentrates at the third joint upstream of the cleanout.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 77482.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Routing marker: PRV outlet pressure curve paired with water heater T&P discharge path near ZIP 77482.
+FAQ: When is cabling enough? In Van Vleck, TX, pipe material and blockage type dictate method.
 
-Field note: Water line replacement trench path flagged for Matagorda County setbacks.
+FAQ: When should sump battery backups be load-tested? In Van Vleck, TX, before spring thaw and heavy rain remnants.
 
-Field note: Main cleanout riser height measured against slab finish in Van Vleck, TX.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 77482 (county grid: Matagorda County).
+Step: camera-pass main lines in Van Vleck, TX before jetting older clay or cast iron.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Irrigation cross-connections in Van Vleck, TX can back-siphon domestic lines during main breaks.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Fixture roster 628267: toilet flange spacer kit and shower cartridge seat score queued for Van Vleck, TX walk-through.
+
+Service ledger 628267: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Van Vleck, TX at 29.0300, -95.8800.
+
+On-site sector marker: Matagorda County / ZIP 77482 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77482-e0b98e94

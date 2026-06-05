@@ -12,30 +12,45 @@ lng: -89.9100
 zipSample: ["38666"]
 zipCodes: ["38666"]
 localPaths: ["Panola County / elevation 371 ft band", "Panola County / coords 34.4400, -89.9100", "Panola County / primary ZIP 38666", "Panola County / ZIP 38666 sector"]
-zillowHomeValueUsd: 164926
 ---
 
 **Engineering Notice for Sardis:** System optimized for 151 mg/L hard water scaling factors in Sardis. Regional dispatch grid: Panola County.
 
 
-Across Sardis, MS, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Log water heater flex line dates before wall closure in Sardis, MS remodel zones.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: map sump float travel and check-valve orientation for Sardis, MS basements.
 
-Our intake language for Sardis, MS work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: Can sump pump remediation wait until dry season? In Sardis, MS, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: Water heater anode type may change with Sardis, MS hardness profiles.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 38666.
+Cast-iron hub corrosion in Sardis, MS often concentrates at the third joint upstream of the cleanout.
 
-Book a camera-assisted drain review before approving jetting on older Sardis, MS mains. Serving ZIP Code: 38666.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch note: scale coupon sampling and branch wet vent compliance note were logged for the Sardis plumbing intake packet.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field note: Drain cleaning cable head wear logged before second pass in Sardis, MS.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Water line replacement trench path flagged for Panola County setbacks.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Sardis, MS older homes.
 
-Dispatch sectors sampled: ZIP 38666 (county grid: Panola County).
+Hydrostatic holds in Sardis, MS slab circuits run overnight when listening mics show ambiguous hits.
+
+Frost-free sillcock failures in Sardis, MS often trace to interior shutoff seats.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 38666.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 38666.
+
+Supply audit 381566: curb-stop orientation and hose-bib freeze flag reviewed for Sardis, MS at coords 34.4400/-89.9100.
+
+Service ledger 381566: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Sardis, MS at 34.4400, -89.9100.
+
+Field note: Hose bib freeze flags logged for Sardis, MS.
+
+On-site sector marker: Panola County / ZIP 38666 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-38666-ffd0afc9

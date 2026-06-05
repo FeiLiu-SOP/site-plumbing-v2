@@ -12,28 +12,45 @@ lng: -98.0600
 zipSample: ["68978"]
 zipCodes: ["68978"]
 localPaths: ["Nuckolls County / coords 40.0200, -98.0600", "Nuckolls County / ZIP 68978 sector", "Nuckolls County / primary ZIP 68978", "Nuckolls County / elevation 1631 ft band"]
-zillowHomeValueUsd: 97621
 ---
 
 **Engineering Notice for Superior:** System optimized for 153 mg/L hard water scaling factors in Superior. Regional dispatch grid: Nuckolls County.
 
 
-Property owners in Superior, NE may see basement sump service team escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Tip: Log water heater flex line dates before wall closure in Superior, NE remodel zones.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Superior, NE.
+Step: log PRV inlet and outlet readings during intake.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Superior, NE.
 
-FAQ: What slows drain cleaning most? In Superior, NE, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 68978.
+Irrigation cross-connections in Superior, NE can back-siphon domestic lines during main breaks.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 68978.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch note: PEX expansion ring batch and sub-slab moisture gradient were logged for the Superior plumbing intake packet.
+FAQ: When should sump battery backups be load-tested? In Superior, NE, before spring thaw and heavy rain remnants.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Risk flag: In Superior, NE, slab leaks can misroute as foundation issues without listening equipment.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Ask for trenchless feasibility notes before main replacement. County grid Nuckolls County.
+
+Fixture roster 532720: toilet flange spacer kit and shower cartridge seat score queued for Superior, NE walk-through.
+
+Service ledger 532720: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Superior, NE at 40.0200, -98.0600.
 
 Field note: Sump pump discharge check-valve orientation verified for ZIP sector 68978.
 
-Dispatch sectors sampled: ZIP 68978 (county grid: Nuckolls County).
+On-site sector marker: Nuckolls County / elevation 1631 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-68978-524b4728

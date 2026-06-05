@@ -12,28 +12,45 @@ lng: -79.8600
 zipSample: ["15133"]
 zipCodes: ["15133"]
 localPaths: ["Allegheny County / primary ZIP 15133", "Allegheny County / elevation 919 ft band", "Allegheny County / ZIP 15133 sector", "Allegheny County / coords 40.3200, -79.8600"]
-zillowHomeValueUsd: 117537
 ---
 
 **Engineering Notice for Liberty:** System optimized for 180 mg/L hard water scaling factors in Liberty. Regional dispatch grid: Allegheny County.
 
 
-Across Liberty, PA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Technicians stage professional plumbing services jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our intake language for Liberty, PA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can sump pump service wait until dry season? In Liberty, PA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 15133.
+Book sump and supply-line checks in one written scope. Postal sector 15133.
 
-Book a camera-assisted drain review before approving jetting on older Liberty, PA mains. Serving ZIP Code: 15133.
+Garage utility sinks in Liberty, PA often tie into laundry branches that mask main-line restrictions.
 
-Routing marker: cleanout riser height paired with water heater T&P discharge path near ZIP 15133.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Drain cleaning cable head wear logged before second pass in Liberty, PA.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Liberty, PA.
 
-Dispatch sectors sampled: ZIP 15133 (county grid: Allegheny County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Hydro-jetting in Liberty, PA requires camera confirmation before nozzle pressure is raised.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: When should sump battery backups be load-tested? In Liberty, PA, before spring thaw and heavy rain remnants.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Supply audit 204666: curb-stop orientation and hose-bib freeze flag reviewed for Liberty, PA at coords 40.3200/-79.8600.
+
+Service ledger 204666: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Liberty, PA at 40.3200, -79.8600.
+
+Field note: Dielectric union checklist completed in Liberty, PA.
+
+Regional mesh label Allegheny County: moisture and logistics baselines are keyed to Liberty, PA before niche-specific work begins.
 
 Service reference: PA-15133-16042a44

@@ -12,30 +12,47 @@ lng: -114.1000
 zipSample: ["59864"]
 zipCodes: ["59864"]
 localPaths: ["Lake County / ZIP 59864 sector", "Lake County / coords 47.5300, -114.1000", "Lake County / primary ZIP 59864", "Lake County / elevation 3054 ft band"]
-zillowHomeValueUsd: 438262
 ---
 
 **Engineering Notice for Ronan:** System optimized for 156 mg/L hard water scaling factors in Ronan. Regional dispatch grid: Lake County.
 
 
-When whole-home repiping advisors scopes are reviewed in Ronan, MT, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Ronan, MT.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tip: Log water heater flex line dates before wall closure in Ronan, MT remodel zones.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Ronan, MT, soft blockages differ from root intrusion profiles.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 59864.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Open a scheduling request if you need whole-home repiping advisors documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 59864.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Ronan, MT.
 
-Routing marker: backflow test cock orientation paired with copper pinhole cluster map near ZIP 59864.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 59864.
+Request a camera-assisted drain review before approving jetting. Postal sector 59864.
 
-Field note: Main cleanout riser height measured against slab finish in Ronan, MT.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 59864 (county grid: Lake County).
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Ronan, MT.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Cleanout access limits in Ronan, MT frequently extend drain cleaning duration.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 59864.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Pressure trace 452767: meter-pit clearance and dielectric union checklist staged for Ronan, MT near elevation 3054 ft.
+
+Drain map 452767: camera-pass priority and expansion-tank pre-charge noted for Ronan, MT postal sector 59864.
+
+Primary postal anchor 59864 with multi-ZIP overlap in Ronan; field packets tag Lake County for county-grid reconciliation.
 
 Service reference: MT-59864-845a226d

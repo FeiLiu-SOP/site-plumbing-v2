@@ -12,28 +12,45 @@ lng: -80.1900
 zipSample: ["15143"]
 zipCodes: ["15143"]
 localPaths: ["Allegheny County / coords 40.5500, -80.1900", "Allegheny County / primary ZIP 15143", "Allegheny County / elevation 787 ft band", "Allegheny County / ZIP 15143 sector"]
-zillowHomeValueUsd: 520314
 ---
 
 **Engineering Notice for Edgeworth:** System optimized for 125 mg/L hard water scaling factors in Edgeworth. Regional dispatch grid: Allegheny County.
 
 
-When fixture & supply line pros scopes are reviewed in Edgeworth, PA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Edgeworth, PA.
+Ask for trenchless feasibility notes before main replacement. County grid Allegheny County.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+FAQ: When should sump battery backups be load-tested? In Edgeworth, PA, before spring thaw and heavy rain remnants.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Edgeworth, PA, soft blockages differ from root intrusion profiles.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 15143.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Open a scheduling request if you need fixture & supply line pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 15143.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Routing marker: fixture shutoff torque log paired with Sump pump float travel near ZIP 15143.
+Basement floor drains in Edgeworth, PA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Water line replacement trench path flagged for Allegheny County setbacks.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Dispatch sectors sampled: ZIP 15143 (county grid: Allegheny County).
+Garage utility sinks in Edgeworth, PA often tie into laundry branches that mask main-line restrictions.
+
+Step: log PRV inlet and outlet readings during intake.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Edgeworth, PA.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Flow dossier 951400: branch wet-vent geometry and PRV seat wear logged for Edgeworth, PA county grid Allegheny County (ZIP 15143).
+
+Fixture roster 951400: toilet flange spacer kit and shower cartridge seat score queued for Edgeworth, PA walk-through.
+
+Field note: Dielectric union checklist completed in Edgeworth, PA.
+
+On-site sector marker: Allegheny County / ZIP 15143 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15143-b5c0130e

@@ -12,30 +12,47 @@ lng: -91.7200
 zipSample: ["63445"]
 zipCodes: ["63445"]
 localPaths: ["Clark County / ZIP 63445 sector", "Clark County / primary ZIP 63445", "Clark County / elevation 699 ft band", "Clark County / coords 40.4200, -91.7200"]
-zillowHomeValueUsd: 168595
 ---
 
 **Engineering Notice for Kahoka:** System optimized for 122 mg/L hard water scaling factors in Kahoka. Regional dispatch grid: Clark County.
 
 
-Across Kahoka, MO, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Our intake language for Kahoka, MO work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Cast-iron hub corrosion in Kahoka, MO often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Can sump pump service wait until dry season? In Kahoka, MO, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: When should sump battery backups be load-tested? In Kahoka, MO, before spring thaw and heavy rain remnants.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 63445.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Book a camera-assisted drain review before approving jetting on older Kahoka, MO mains. Serving ZIP Code: 63445.
+Tip: Photograph cleanout cap threads before snaking near ZIP 63445.
 
-Field packet: PRV outlet pressure curve plus jetter nozzle envelope referenced in Clark County county grid review.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Main cleanout riser height measured against slab finish in Kahoka, MO.
+Dual-water-meter setups in Kahoka, MO irrigation zones need backflow logs before line replacement.
 
-Field note: Water line replacement trench path flagged for Clark County setbacks.
+Across Kahoka, MO, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 63445 (county grid: Clark County).
+Book sump and supply-line checks in one written scope. Postal sector 63445.
+
+Tankless heater descale intervals in Kahoka, MO hard-water zones differ from tank anode schedules.
+
+Shared main supplies in Kahoka, MO duplexes require coordinated shutoff before pressure holds.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 63445.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Pressure trace 686534: meter-pit clearance and dielectric union checklist staged for Kahoka, MO near elevation 699 ft.
+
+Supply audit 686534: curb-stop orientation and hose-bib freeze flag reviewed for Kahoka, MO at coords 40.4200/-91.7200.
+
+On-site sector marker: Clark County / coords 40.4200, -91.7200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-63445-231b6255

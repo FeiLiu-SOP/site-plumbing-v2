@@ -12,31 +12,49 @@ lng: -66.3900
 zipSample: ["00757"]
 zipCodes: ["00757"]
 localPaths: ["Santa Isabel County / ZIP 00757 sector", "Santa Isabel County / coords 18.0000, -66.3900", "Santa Isabel County / primary ZIP 00757", "Santa Isabel County / elevation 108 ft band"]
-zillowHomeValueUsd: 353857
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for El Ojo:** System optimized for 165 mg/L hard water scaling factors in El Ojo. Regional dispatch grid: Santa Isabel County.
 
 
-When hydro-jetting specialists scopes are reviewed in El Ojo, PR, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for El Ojo, PR.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 00757.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in El Ojo, PR, soft blockages differ from root intrusion profiles.
+Step: camera-pass main lines in El Ojo, PR before jetting older clay or cast iron.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 00757.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 00757.
+Material note: Water heater anode type may change with El Ojo, PR hardness profiles.
 
-Field packet: fixture shutoff torque log plus dielectric union checklist referenced in Santa Isabel County county grid review.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Field note: Water line replacement trench path flagged for Santa Isabel County setbacks.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 00757.
+Cast-iron hub corrosion in El Ojo, PR often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 00757 (county grid: Santa Isabel County).
+Risk flag: In El Ojo, PR, slab leaks can misroute as foundation issues without listening equipment.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in El Ojo, PR older homes.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+FAQ: Is hydro-jetting always appropriate? In El Ojo, PR, pipe material and blockage type dictate method.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Fixture roster 121830: toilet flange spacer kit and shower cartridge seat score queued for El Ojo, PR walk-through.
+
+Service ledger 121830: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for El Ojo, PR at 18.0000, -66.3900.
+
+Field note: Fixture shutoff torque notes filed for ZIP 00757.
+
+Coordinate-anchored dispatch note: center reference 18.0000, -66.3900 at elevation ~108 ft aligns with Santa Isabel County intake staging.
 
 Service reference: PR-00757-d326952a

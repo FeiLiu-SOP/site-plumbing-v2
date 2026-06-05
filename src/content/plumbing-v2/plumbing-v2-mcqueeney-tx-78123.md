@@ -12,28 +12,51 @@ lng: -98.0400
 zipSample: ["78123", "78155", "78130"]
 zipCodes: ["78155", "78130", "78123"]
 localPaths: ["Guadalupe County / elevation 561 ft band", "Guadalupe County / ZIP 78123 sector", "Guadalupe County / primary ZIP 78123", "Guadalupe County / ZIP 78155 sector", "Guadalupe County / ZIP 78130 sector"]
-zillowHomeValueUsd: 424343
 ---
 
 **Engineering Notice for McQueeney:** System optimized for 168 mg/L hard water scaling factors in McQueeney. Regional dispatch grid: Guadalupe County.
 
 
-A slab leak response unit request in McQueeney, TX is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Material note: Water heater anode type may change with McQueeney, TX hardness profiles.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for McQueeney, TX.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 78123.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Dual-water-meter setups in McQueeney, TX irrigation zones need backflow logs before line replacement.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and McQueeney, TX supply age can diverge sharply.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in McQueeney, TX.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 78155/78123/78130.
+Hose bib split patterns often follow missed winterization.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 78123.
+Frost-free sillcock failures in McQueeney, TX often trace to interior shutoff seats.
 
-Field packet: dielectric union checklist plus water heater T&P discharge path referenced in Guadalupe County county grid review.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 78155/78123/78130.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 78155, 78123, 78130 (county grid: Guadalupe County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Confirm cleanout locations during the same visit. Route file 78123.
+
+Shared main supplies in McQueeney, TX duplexes require coordinated shutoff before pressure holds.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Across McQueeney, TX, main-line bellies trap debris even when fixtures drain normally.
+
+Polybutylene manifold tags in McQueeney, TX basements should be photographed before wall chases open.
+
+Ask for trenchless feasibility notes before main replacement. County grid Guadalupe County.
+
+Flow dossier 403910: branch wet-vent geometry and PRV seat wear logged for McQueeney, TX county grid Guadalupe County (ZIP 78123).
+
+Pressure trace 403910: meter-pit clearance and dielectric union checklist staged for McQueeney, TX near elevation 561 ft.
+
+Field note: Main cleanout riser height measured against slab finish in McQueeney, TX.
+
+Field note: Fixture shutoff torque notes filed for ZIP 78155/78130/78123.
+
+On-site sector marker: Guadalupe County / coords 29.6000, -98.0400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78123-f692184a

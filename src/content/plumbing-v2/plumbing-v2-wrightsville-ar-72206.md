@@ -12,28 +12,43 @@ lng: -92.2100
 zipSample: ["72206", "72183"]
 zipCodes: ["72206", "72183"]
 localPaths: ["Pulaski County / elevation 256 ft band", "Pulaski County / ZIP 72183 sector", "Pulaski County / coords 34.6100, -92.2100", "Pulaski County / primary ZIP 72206", "Pulaski County / ZIP 72206 sector"]
-zillowHomeValueUsd: 133271
 ---
 
 **Engineering Notice for Wrightsville:** System optimized for 131 mg/L hard water scaling factors in Wrightsville. Regional dispatch grid: Pulaski County.
 
 
-Across Wrightsville, AR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Slab leak listening windows in Wrightsville, AR depend on quiet periods and isolated branch valves.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Basement floor drains in Wrightsville, AR should be snaked only after trap arm geometry is confirmed on camera.
 
-Our intake language for Wrightsville, AR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Material note: Water heater anode type may change with Wrightsville, AR hardness profiles.
 
-FAQ: Can sump pump service wait until dry season? In Wrightsville, AR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Wrightsville, AR.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 72206/72183.
+Frost-free sillcock failures in Wrightsville, AR often trace to interior shutoff seats.
 
-Book a camera-assisted drain review before approving jetting on older Wrightsville, AR mains. Serving ZIP Code: 72206.
+Garage utility sinks in Wrightsville, AR often tie into laundry branches that mask main-line restrictions.
 
-Dispatch note: branch wet vent compliance note and scale coupon sampling were logged for the Wrightsville plumbing intake packet.
+Stack vent offsets in Wrightsville, AR older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 72206/72183.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Wrightsville, AR.
 
-Dispatch sectors sampled: ZIP 72206, 72183 (county grid: Pulaski County).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Permit note: Main water line replacement in Wrightsville, AR may require ROW restoration planning.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: When should sump battery backups be load-tested? In Wrightsville, AR, before spring thaw and heavy rain remnants.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Cleanout access limits in Wrightsville, AR frequently extend drain cleaning duration.
+
+Supply audit 861057: curb-stop orientation and hose-bib freeze flag reviewed for Wrightsville, AR at coords 34.6100/-92.2100.
+
+Drain map 861057: camera-pass priority and expansion-tank pre-charge noted for Wrightsville, AR postal sector 72206.
+
+ZIP-corridor snapshot for Wrightsville, AR: sampled sectors include 72206, 72183; county routing grid remains Pulaski County.
 
 Service reference: AR-72206-06022bce

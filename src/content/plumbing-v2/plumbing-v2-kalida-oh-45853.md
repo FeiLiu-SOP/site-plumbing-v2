@@ -12,30 +12,43 @@ lng: -84.1900
 zipSample: ["45853"]
 zipCodes: ["45853"]
 localPaths: ["Putnam County / primary ZIP 45853", "Putnam County / ZIP 45853 sector", "Putnam County / coords 40.9900, -84.1900", "Putnam County / elevation 728 ft band"]
-zillowHomeValueUsd: 279525
 ---
 
 **Engineering Notice for Kalida:** System optimized for 173 mg/L hard water scaling factors in Kalida. Regional dispatch grid: Putnam County.
 
 
-Across Kalida, OH, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Technicians stage emergency pipe service jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Our intake language for Kalida, OH work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Can sump pump service wait until dry season? In Kalida, OH, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 45853.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Book a camera-assisted drain review before approving jetting on older Kalida, OH mains. Serving ZIP Code: 45853.
+CPVC solvent weld times shift with ambient humidity during Kalida, OH shoulder seasons.
 
-Dispatch note: water heater T&P discharge path and backflow test cock orientation were logged for the Kalida plumbing intake packet.
+Tankless heater descale intervals in Kalida, OH hard-water zones differ from tank anode schedules.
 
-Field note: Water line replacement trench path flagged for Putnam County setbacks.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Kalida, OH.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 45853.
+Dual-water-meter setups in Kalida, OH irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 45853 (county grid: Putnam County).
+Step: camera-pass main lines in Kalida, OH before jetting older clay or cast iron.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Kalida, OH.
+
+Risk flag: In Kalida, OH, slab leaks can misroute as foundation issues without listening equipment.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Garage utility sinks in Kalida, OH often tie into laundry branches that mask main-line restrictions.
+
+Supply audit 169381: curb-stop orientation and hose-bib freeze flag reviewed for Kalida, OH at coords 40.9900/-84.1900.
+
+Drain map 169381: camera-pass priority and expansion-tank pre-charge noted for Kalida, OH postal sector 45853.
+
+On-site sector marker: Putnam County / primary ZIP 45853 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45853-64d28997

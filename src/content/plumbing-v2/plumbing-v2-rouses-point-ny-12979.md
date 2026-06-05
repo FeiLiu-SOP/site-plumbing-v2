@@ -12,28 +12,49 @@ lng: -73.3600
 zipSample: ["12979"]
 zipCodes: ["12979"]
 localPaths: ["Clinton County / ZIP 12979 sector", "Clinton County / coords 44.9900, -73.3600", "Clinton County / primary ZIP 12979", "Clinton County / elevation 95 ft band"]
-zillowHomeValueUsd: 205820
 ---
 
 **Engineering Notice for Rouses Point:** System optimized for 147 mg/L hard water scaling factors in Rouses Point. Regional dispatch grid: Clinton County.
 
 
-When slab leak response unit scopes are reviewed in Rouses Point, NY, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Cast-iron hub corrosion in Rouses Point, NY often concentrates at the third joint upstream of the cleanout.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Rouses Point, NY.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Clinton County.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Rouses Point, NY, soft blockages differ from root intrusion profiles.
+Basement floor drains in Rouses Point, NY should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 12979.
+FAQ: When is cabling enough? In Rouses Point, NY, pipe material and blockage type dictate method.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 12979.
+Step: map sump float travel and check-valve orientation for Rouses Point, NY basements.
 
-Dispatch note: copper pinhole cluster map and scale coupon sampling were logged for the Rouses Point plumbing intake packet.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Rouses Point, NY older homes.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 12979.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Permit note: Main water line replacement in Rouses Point, NY may require ROW restoration planning.
+
+Dispatch packets reference county grid Clinton County near ZIP 12979.
+
+Hose bib split patterns often follow missed winterization.
+
+Confirm cleanout locations during the same visit. Route file 12979.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Irrigation cross-connections in Rouses Point, NY can back-siphon domestic lines during main breaks.
+
+Service ledger 474200: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Rouses Point, NY at 44.9900, -73.3600.
+
+Pressure trace 474200: meter-pit clearance and dielectric union checklist staged for Rouses Point, NY near elevation 95 ft.
+
+Field note: Expansion tank pre-charge verified in Rouses Point, NY.
 
 Field note: Water line replacement trench path flagged for Clinton County setbacks.
 
-Dispatch sectors sampled: ZIP 12979 (county grid: Clinton County).
+Coordinate-anchored dispatch note: center reference 44.9900, -73.3600 at elevation ~95 ft aligns with Clinton County intake staging.
 
 Service reference: NY-12979-06e4c4a7

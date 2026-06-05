@@ -12,30 +12,47 @@ lng: -100.4900
 zipSample: ["78852"]
 zipCodes: ["78852"]
 localPaths: ["Maverick County / elevation 758 ft band", "Maverick County / coords 28.7600, -100.4900", "Maverick County / primary ZIP 78852", "Maverick County / ZIP 78852 sector"]
-zillowHomeValueUsd: 230766
 ---
 
 **Engineering Notice for Siesta Acres:** System optimized for 137 mg/L hard water scaling factors in Siesta Acres. Regional dispatch grid: Maverick County.
 
 
-When drain line restoration crew scopes are reviewed in Siesta Acres, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: map sump float travel and check-valve orientation for Siesta Acres, TX basements.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Siesta Acres, TX.
+Permit note: Main water line replacement in Siesta Acres, TX may require ROW restoration planning.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Siesta Acres, TX, soft blockages differ from root intrusion profiles.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Siesta Acres, TX older homes.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 78852.
+Trenchless pulls in Siesta Acres, TX require pit dimensions verified against utility locate marks.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 78852.
+Step: photograph curb-stop and meter pit before trenching.
 
-Routing marker: scale coupon sampling paired with sub-slab moisture gradient near ZIP 78852.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Siesta Acres, TX.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 78852.
+CPVC solvent weld times shift with ambient humidity during Siesta Acres, TX shoulder seasons.
 
-Field note: Drain cleaning cable head wear logged before second pass in Siesta Acres, TX.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Siesta Acres, TX.
 
-Dispatch sectors sampled: ZIP 78852 (county grid: Maverick County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Book sump and supply-line checks in one written scope. Postal sector 78852.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: When should sump battery backups be load-tested? In Siesta Acres, TX, before spring thaw and heavy rain remnants.
+
+Pressure trace 546581: meter-pit clearance and dielectric union checklist staged for Siesta Acres, TX near elevation 758 ft.
+
+Supply audit 546581: curb-stop orientation and hose-bib freeze flag reviewed for Siesta Acres, TX at coords 28.7600/-100.4900.
+
+Field note: Backflow test cock orientation noted in Siesta Acres, TX.
+
+On-site sector marker: Maverick County / coords 28.7600, -100.4900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78852-e3d43fad

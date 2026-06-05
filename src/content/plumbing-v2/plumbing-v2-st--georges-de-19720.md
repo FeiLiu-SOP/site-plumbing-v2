@@ -12,28 +12,47 @@ lng: -75.6500
 zipSample: ["19733", "19720", "19709", "19701"]
 zipCodes: ["19720", "19709", "19733", "19701"]
 localPaths: ["New Castle County / ZIP 19733 sector", "New Castle County / primary ZIP 19720", "New Castle County / coords 39.5600, -75.6500", "New Castle County / ZIP 19720 sector", "New Castle County / elevation 39 ft band"]
-zillowHomeValueUsd: 280702
 ---
 
 **Engineering Notice for St. Georges:** System optimized for 138 mg/L hard water scaling factors in St. Georges. Regional dispatch grid: New Castle County.
 
 
-Property owners in St. Georges, DE may see leak detection pros escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for St. Georges, DE.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 19720.
 
-FAQ: What slows drain cleaning most? In St. Georges, DE, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 19720/19709/19733.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 19720.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field packet: PRV outlet pressure curve plus sub-slab moisture gradient referenced in New Castle County county grid review.
+Permit note: Main water line replacement in St. Georges, DE may require ROW restoration planning.
 
-Field note: Water line replacement trench path flagged for New Castle County setbacks.
+Shared main supplies in St. Georges, DE duplexes require coordinated shutoff before pressure holds.
 
-Dispatch sectors sampled: ZIP 19720, 19709, 19733, 19701 (county grid: New Castle County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in St. Georges, DE.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Material note: Water heater anode type may change with St. Georges, DE hardness profiles.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Service ledger 504865: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for St. Georges, DE at 39.5600, -75.6500.
+
+Fixture roster 504865: toilet flange spacer kit and shower cartridge seat score queued for St. Georges, DE walk-through.
+
+ZIP-corridor snapshot for St. Georges, DE: sampled sectors include 19733, 19709, 19701, 19720; county routing grid remains New Castle County.
 
 Service reference: DE-19720-65e0a201

@@ -12,30 +12,43 @@ lng: -90.3100
 zipSample: ["39071"]
 zipCodes: ["39071"]
 localPaths: ["Madison County / ZIP 39071 sector", "Madison County / elevation 272 ft band", "Madison County / primary ZIP 39071", "Madison County / coords 32.5400, -90.3100"]
-zillowHomeValueUsd: 296363
 ---
 
 **Engineering Notice for Flora:** System optimized for 173 mg/L hard water scaling factors in Flora. Regional dispatch grid: Madison County.
 
 
-Across Flora, MS, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Trenchless pulls in Flora, MS require pit dimensions verified against utility locate marks.
 
-Technicians stage basement sump service team jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Our intake language for Flora, MS work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-FAQ: Can sump pump restoration wait until dry season? In Flora, MS, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 39071.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Book a camera-assisted drain review before approving jetting on older Flora, MS mains. Serving ZIP Code: 39071.
+Frost-free sillcock failures in Flora, MS often trace to interior shutoff seats.
 
-Scope trace: copper pinhole cluster map cross-checked against Sump pump float travel before line-pressure hold test.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 39071.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 39071.
+Across Flora, MS, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 39071 (county grid: Madison County).
+Irrigation cross-connections in Flora, MS can back-siphon domestic lines during main breaks.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Flora, MS.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 39071.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Polybutylene manifold tags in Flora, MS basements should be photographed before wall chases open.
+
+Lineage note 709214: recirculation pump amp draw captured before Flora, MS branch isolation.
+
+Supply audit 709214: curb-stop orientation and hose-bib freeze flag reviewed for Flora, MS at coords 32.5400/-90.3100.
+
+ZIP-corridor snapshot for Flora, MS: sampled sectors include 39071; county routing grid remains Madison County.
 
 Service reference: MS-39071-8aae4734

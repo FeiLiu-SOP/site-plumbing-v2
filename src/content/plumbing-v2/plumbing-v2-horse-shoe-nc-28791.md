@@ -12,28 +12,45 @@ lng: -82.5600
 zipSample: ["28739", "28759", "28742", "28791"]
 zipCodes: ["28759", "28739", "28742", "28791"]
 localPaths: ["Henderson County / ZIP 28791 sector", "Henderson County / coords 35.3400, -82.5600", "Henderson County / ZIP 28742 sector", "Henderson County / primary ZIP 28791", "Henderson County / ZIP 28739 sector"]
-zillowHomeValueUsd: 418339
 ---
 
 **Engineering Notice for Horse Shoe:** System optimized for 133 mg/L hard water scaling factors in Horse Shoe. Regional dispatch grid: Henderson County.
 
 
-In Horse Shoe, NC, slab leak response unit visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Water heater T&P discharge paths in Horse Shoe, NC must terminate safely before replacement quotes.
 
-Drain cleaning scopes in Horse Shoe, NC separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Cast-iron hub corrosion in Horse Shoe, NC often concentrates at the third joint upstream of the cleanout.
 
-Slab Leak Response Unit coordination in Horse Shoe, NC prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Hard water in Horse Shoe, NC accelerates scale on PRV seats and heater elements.
 
-FAQ: When is water line replacement safer than spot remediation? In Horse Shoe, NC, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Step: map sump float travel and check-valve orientation for Horse Shoe, NC basements.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 28742/28759/28739.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Request a written slab leak response unit plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 28791.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field packet: fixture shutoff torque log plus copper pinhole cluster map referenced in Henderson County county grid review.
+Request a camera-assisted drain review before approving jetting. Postal sector 28791.
 
-Field note: Main cleanout riser height measured against slab finish in Horse Shoe, NC.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 28742, 28759, 28739, 28791 (county grid: Henderson County).
+Step: log PRV inlet and outlet readings during intake.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 28791.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 28791.
+
+FAQ: Is hydro-jetting always appropriate? In Horse Shoe, NC, pipe material and blockage type dictate method.
+
+Cleanout access limits in Horse Shoe, NC frequently extend drain cleaning duration.
+
+Garage utility sinks in Horse Shoe, NC often tie into laundry branches that mask main-line restrictions.
+
+Drain map 123222: camera-pass priority and expansion-tank pre-charge noted for Horse Shoe, NC postal sector 28791.
+
+Service ledger 123222: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Horse Shoe, NC at 35.3400, -82.5600.
+
+Field note: Fixture shutoff torque notes filed for ZIP 28759/28742/28739.
+
+On-site sector marker: Henderson County / primary ZIP 28791 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28791-0d7e318a

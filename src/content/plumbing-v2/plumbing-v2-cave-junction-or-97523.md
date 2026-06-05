@@ -12,28 +12,49 @@ lng: -123.6500
 zipSample: ["97523"]
 zipCodes: ["97523"]
 localPaths: ["Josephine County / coords 42.1700, -123.6500", "Josephine County / ZIP 97523 sector", "Josephine County / primary ZIP 97523", "Josephine County / elevation 1339 ft band"]
-zillowHomeValueUsd: 295503
 ---
 
 **Engineering Notice for Cave Junction:** System optimized for 136 mg/L hard water scaling factors in Cave Junction. Regional dispatch grid: Josephine County.
 
 
-Across Cave Junction, OR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Dual-water-meter setups in Cave Junction, OR irrigation zones need backflow logs before line replacement.
 
-Technicians stage professional plumbing services jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Our intake language for Cave Junction, OR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Hydrostatic holds in Cave Junction, OR slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Can sump pump remediation wait until dry season? In Cave Junction, OR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Frost-free sillcock failures in Cave Junction, OR often trace to interior shutoff seats.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 97523.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Book a camera-assisted drain review before approving jetting on older Cave Junction, OR mains. Serving ZIP Code: 97523.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Cave Junction, OR.
 
-Scope trace: hose bib freeze-risk flag cross-checked against backflow test cock orientation before line-pressure hold test.
+Trenchless pulls in Cave Junction, OR require pit dimensions verified against utility locate marks.
 
-Field note: Water line replacement trench path flagged for Josephine County setbacks.
+CPVC solvent weld times shift with ambient humidity during Cave Junction, OR shoulder seasons.
 
-Dispatch sectors sampled: ZIP 97523 (county grid: Josephine County).
+Polybutylene manifold tags in Cave Junction, OR basements should be photographed before wall chases open.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Cast-iron hub corrosion in Cave Junction, OR often concentrates at the third joint upstream of the cleanout.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: When should sump battery backups be load-tested? In Cave Junction, OR, before spring thaw and heavy rain remnants.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Pressure trace 571918: meter-pit clearance and dielectric union checklist staged for Cave Junction, OR near elevation 1339 ft.
+
+Lineage note 571918: recirculation pump amp draw captured before Cave Junction, OR branch isolation.
+
+Field note: Main cleanout riser height measured against slab finish in Cave Junction, OR.
+
+On-site sector marker: Josephine County / coords 42.1700, -123.6500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97523-1783e120

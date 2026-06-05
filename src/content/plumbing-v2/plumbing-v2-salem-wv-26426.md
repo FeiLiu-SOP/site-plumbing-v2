@@ -12,30 +12,49 @@ lng: -80.5600
 zipSample: ["26426"]
 zipCodes: ["26426"]
 localPaths: ["Harrison County / primary ZIP 26426", "Harrison County / coords 39.2800, -80.5600", "Harrison County / ZIP 26426 sector", "Harrison County / elevation 1181 ft band"]
-zillowHomeValueUsd: 127247
 ---
 
 **Engineering Notice for Salem:** System optimized for 125 mg/L hard water scaling factors in Salem. Regional dispatch grid: Harrison County.
 
 
-In Salem, WV, hydro-jetting specialists visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Polybutylene manifold tags in Salem, WV basements should be photographed before wall chases open.
 
-Drain cleaning scopes in Salem, WV separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Shared main supplies in Salem, WV duplexes require coordinated shutoff before pressure holds.
 
-Hydro-Jetting Specialists coordination in Salem, WV prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: When is water line replacement safer than spot service? In Salem, WV, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Garage utility sinks in Salem, WV often tie into laundry branches that mask main-line restrictions.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 26426.
+Permit note: Main water line replacement in Salem, WV may require ROW restoration planning.
 
-Request a written hydro-jetting specialists plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 26426.
+Step: map sump float travel and check-valve orientation for Salem, WV basements.
 
-Scope trace: jetter nozzle envelope cross-checked against PEX expansion ring batch before line-pressure hold test.
+Request a camera-assisted drain review before approving jetting. Postal sector 26426.
 
-Field note: Main cleanout riser height measured against slab finish in Salem, WV.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 26426.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Salem, WV.
 
-Dispatch sectors sampled: ZIP 26426 (county grid: Harrison County).
+Trenchless pulls in Salem, WV require pit dimensions verified against utility locate marks.
+
+Irrigation cross-connections in Salem, WV can back-siphon domestic lines during main breaks.
+
+Material note: Water heater anode type may change with Salem, WV hardness profiles.
+
+Dual-water-meter setups in Salem, WV irrigation zones need backflow logs before line replacement.
+
+CPVC solvent weld times shift with ambient humidity during Salem, WV shoulder seasons.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 26426.
+
+Across Salem, WV, main-line bellies trap debris even when fixtures drain normally.
+
+Supply audit 616996: curb-stop orientation and hose-bib freeze flag reviewed for Salem, WV at coords 39.2800/-80.5600.
+
+Drain map 616996: camera-pass priority and expansion-tank pre-charge noted for Salem, WV postal sector 26426.
+
+Field note: Meter-pit clearance photographed near ZIP 26426.
+
+On-site sector marker: Harrison County / primary ZIP 26426 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-26426-62c1f97b

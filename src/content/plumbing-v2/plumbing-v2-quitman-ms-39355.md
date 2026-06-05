@@ -12,28 +12,47 @@ lng: -88.7200
 zipSample: ["39355"]
 zipCodes: ["39355"]
 localPaths: ["Clarke County / elevation 249 ft band", "Clarke County / primary ZIP 39355", "Clarke County / coords 32.0400, -88.7200", "Clarke County / ZIP 39355 sector"]
-zillowHomeValueUsd: 105490
 ---
 
 **Engineering Notice for Quitman:** System optimized for 125 mg/L hard water scaling factors in Quitman. Regional dispatch grid: Clarke County.
 
 
-Across Quitman, MS, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Cleanout access limits in Quitman, MS frequently extend drain cleaning duration.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: In Quitman, MS, slab leaks can misroute as foundation issues without listening equipment.
 
-Our intake language for Quitman, MS work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Photograph cleanout cap threads before snaking near ZIP 39355.
 
-FAQ: Can sump pump remediation wait until dry season? In Quitman, MS, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Quitman, MS.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 39355.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Book a camera-assisted drain review before approving jetting on older Quitman, MS mains. Serving ZIP Code: 39355.
+Material note: Water heater anode type may change with Quitman, MS hardness profiles.
 
-Dispatch note: branch wet vent compliance note and copper pinhole cluster map were logged for the Quitman plumbing intake packet.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Drain cleaning cable head wear logged before second pass in Quitman, MS.
+Polybutylene manifold tags in Quitman, MS basements should be photographed before wall chases open.
 
-Dispatch sectors sampled: ZIP 39355 (county grid: Clarke County).
+Garage utility sinks in Quitman, MS often tie into laundry branches that mask main-line restrictions.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: When is cabling enough? In Quitman, MS, pipe material and blockage type dictate method.
+
+Tip: Log water heater flex line dates before wall closure in Quitman, MS remodel zones.
+
+Trenchless pulls in Quitman, MS require pit dimensions verified against utility locate marks.
+
+Tankless heater descale intervals in Quitman, MS hard-water zones differ from tank anode schedules.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 39355.
+
+Drain map 703210: camera-pass priority and expansion-tank pre-charge noted for Quitman, MS postal sector 39355.
+
+Flow dossier 703210: branch wet-vent geometry and PRV seat wear logged for Quitman, MS county grid Clarke County (ZIP 39355).
+
+Field note: Hose bib freeze flags logged for Quitman, MS.
+
+On-site sector marker: Clarke County / ZIP 39355 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39355-191f8d42

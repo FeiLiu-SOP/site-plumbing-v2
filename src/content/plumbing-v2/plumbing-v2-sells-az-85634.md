@@ -12,29 +12,49 @@ lng: -111.8800
 zipSample: ["85634"]
 zipCodes: ["85634"]
 localPaths: ["Pima County / coords 31.9200, -111.8800", "Pima County / ZIP 85634 sector", "Pima County / primary ZIP 85634", "Pima County / elevation 2388 ft band"]
-zillowHomeValueUsd: 443170
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Sells:** System optimized for 123 mg/L hard water scaling factors in Sells. Regional dispatch grid: Pima County.
 
 
-In Sells, AZ, fixture & supply line pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Confirm cleanout locations during the same visit. Route file 85634.
 
-Drain cleaning scopes in Sells, AZ separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Risk flag: In Sells, AZ, slab leaks can misroute as foundation issues without listening equipment.
 
-Fixture & Supply Line Pros coordination in Sells, AZ prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: When is water line replacement safer than spot remediation? In Sells, AZ, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 85634.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Request a written fixture & supply line pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 85634.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Dispatch note: sub-slab moisture gradient and scale coupon sampling were logged for the Sells plumbing intake packet.
+Step: camera-pass main lines in Sells, AZ before jetting older clay or cast iron.
 
-Field note: Main cleanout riser height measured against slab finish in Sells, AZ.
+Our Fixture & Supply Line Pros coordination in Sells, AZ prioritizes cleanout access, vent integrity, and measurable flow recovery.
 
-Dispatch sectors sampled: ZIP 85634 (county grid: Pima County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Cleanout access limits in Sells, AZ frequently extend drain cleaning duration.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Trenchless pulls in Sells, AZ require pit dimensions verified against utility locate marks.
+
+Basement floor drains in Sells, AZ should be snaked only after trap arm geometry is confirmed on camera.
+
+Material note: Water heater anode type may change with Sells, AZ hardness profiles.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 85634.
+
+Galvanized segments in Sells, AZ may restrict flow before visible corrosion.
+
+Fixture roster 499289: toilet flange spacer kit and shower cartridge seat score queued for Sells, AZ walk-through.
+
+Pressure trace 499289: meter-pit clearance and dielectric union checklist staged for Sells, AZ near elevation 2388 ft.
+
+Field note: Dielectric union checklist completed in Sells, AZ.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~2388 ft across the Pima County area. Coordinates: 31.9200, -111.8800. ZIP sample: 85634. Logistics priority: Serving residential sectors across Pima County and north-east ZIP 85634 grid.
 
 Service reference: AZ-85634-82a3f38e

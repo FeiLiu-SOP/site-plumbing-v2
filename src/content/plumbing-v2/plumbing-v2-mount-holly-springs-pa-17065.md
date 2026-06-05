@@ -12,28 +12,43 @@ lng: -77.1900
 zipSample: ["17065"]
 zipCodes: ["17065"]
 localPaths: ["Cumberland County / primary ZIP 17065", "Cumberland County / ZIP 17065 sector", "Cumberland County / elevation 574 ft band", "Cumberland County / coords 40.1100, -77.1900"]
-zillowHomeValueUsd: 283047
 ---
 
 **Engineering Notice for Mount Holly Springs:** System optimized for 130 mg/L hard water scaling factors in Mount Holly Springs. Regional dispatch grid: Cumberland County.
 
 
-Across Mount Holly Springs, PA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Mount Holly Springs, PA.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Trenchless pulls in Mount Holly Springs, PA require pit dimensions verified against utility locate marks.
 
-Our intake language for Mount Holly Springs, PA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Can sump pump remediation wait until dry season? In Mount Holly Springs, PA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: Is hydro-jetting always appropriate? In Mount Holly Springs, PA, pipe material and blockage type dictate method.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 17065.
+Step: log PRV inlet and outlet readings during intake.
 
-Book a camera-assisted drain review before approving jetting on older Mount Holly Springs, PA mains. Serving ZIP Code: 17065.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field packet: PEX expansion ring batch plus water heater T&P discharge path referenced in Cumberland County county grid review.
+Galvanized segments in Mount Holly Springs, PA may restrict flow before visible corrosion.
 
-Field note: Main cleanout riser height measured against slab finish in Mount Holly Springs, PA.
+Permit note: Main water line replacement in Mount Holly Springs, PA may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 17065 (county grid: Cumberland County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: In Mount Holly Springs, PA, slab leaks can misroute as foundation issues without listening equipment.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Garage utility sinks in Mount Holly Springs, PA often tie into laundry branches that mask main-line restrictions.
+
+Shared main supplies in Mount Holly Springs, PA duplexes require coordinated shutoff before pressure holds.
+
+Tankless heater descale intervals in Mount Holly Springs, PA hard-water zones differ from tank anode schedules.
+
+Drain map 361341: camera-pass priority and expansion-tank pre-charge noted for Mount Holly Springs, PA postal sector 17065.
+
+Supply audit 361341: curb-stop orientation and hose-bib freeze flag reviewed for Mount Holly Springs, PA at coords 40.1100/-77.1900.
+
+On-site sector marker: Cumberland County / ZIP 17065 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-17065-0d88d609

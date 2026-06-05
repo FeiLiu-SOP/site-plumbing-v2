@@ -12,29 +12,47 @@ lng: -66.1700
 zipSample: ["00784"]
 zipCodes: ["00784"]
 localPaths: ["Guayama County / ZIP 00784 sector", "Guayama County / elevation 36 ft band", "Guayama County / coords 17.9600, -66.1700", "Guayama County / primary ZIP 00784"]
-zillowHomeValueUsd: 371180
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Jobos:** System optimized for 147 mg/L hard water scaling factors in Jobos. Regional dispatch grid: Guayama County.
 
 
-A drain line restoration crew contact in Jobos, PR is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Jobos, PR.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Tip: Log water heater flex line dates before wall closure in Jobos, PR remodel zones.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Jobos, PR supply age can diverge sharply.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Jobos, PR.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 00784.
+Cast-iron hub corrosion in Jobos, PR often concentrates at the third joint upstream of the cleanout.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 00784.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Scope trace: branch wet vent compliance note cross-checked against sub-slab moisture gradient before line-pressure hold test.
+Basement floor drains in Jobos, PR should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 00784.
+Dual-water-meter setups in Jobos, PR irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 00784 (county grid: Guayama County).
+Garage utility sinks in Jobos, PR often tie into laundry branches that mask main-line restrictions.
+
+Hydrostatic holds in Jobos, PR slab circuits run overnight when listening mics show ambiguous hits.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Water heater T&P discharge paths in Jobos, PR must terminate safely before replacement quotes.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Frost-free sillcock failures in Jobos, PR often trace to interior shutoff seats.
+
+Polybutylene manifold tags in Jobos, PR basements should be photographed before wall chases open.
+
+Across Jobos, PR, main-line bellies trap debris even when fixtures drain normally.
+
+Supply audit 759470: curb-stop orientation and hose-bib freeze flag reviewed for Jobos, PR at coords 17.9600/-66.1700.
+
+Drain map 759470: camera-pass priority and expansion-tank pre-charge noted for Jobos, PR postal sector 00784.
+
+Primary postal anchor 00784 with multi-ZIP overlap in Jobos; field packets tag Guayama County for county-grid reconciliation.
 
 Service reference: PR-00784-f8fca99e

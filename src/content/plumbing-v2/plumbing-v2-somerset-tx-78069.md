@@ -12,28 +12,47 @@ lng: -98.6600
 zipSample: ["78073", "78069"]
 zipCodes: ["78073", "78069"]
 localPaths: ["Bexar County / ZIP 78073 sector", "Bexar County / primary ZIP 78069", "Bexar County / coords 29.2300, -98.6600", "Bexar County / elevation 659 ft band", "Bexar County / ZIP 78069 sector"]
-zillowHomeValueUsd: 234618
 ---
 
 **Engineering Notice for Somerset:** System optimized for 124 mg/L hard water scaling factors in Somerset. Regional dispatch grid: Bexar County.
 
 
-Property owners in Somerset, TX may see basement sump service team escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Somerset, TX.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Somerset, TX.
+Hose bib split patterns often follow missed winterization.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: What slows drain cleaning most? In Somerset, TX, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 78069/78073.
+Trenchless pulls in Somerset, TX require pit dimensions verified against utility locate marks.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 78069.
+Polybutylene manifold tags in Somerset, TX basements should be photographed before wall chases open.
 
-Dispatch note: main line camera pass and backflow test cock orientation were logged for the Somerset plumbing intake packet.
+Garage utility sinks in Somerset, TX often tie into laundry branches that mask main-line restrictions.
 
-Field note: Water line replacement trench path flagged for Bexar County setbacks.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Somerset, TX.
 
-Dispatch sectors sampled: ZIP 78069, 78073 (county grid: Bexar County).
+CPVC solvent weld times shift with ambient humidity during Somerset, TX shoulder seasons.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: Is hydro-jetting always appropriate? In Somerset, TX, pipe material and blockage type dictate method.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Shared main supplies in Somerset, TX duplexes require coordinated shutoff before pressure holds.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Somerset, TX.
+
+Drain map 736787: camera-pass priority and expansion-tank pre-charge noted for Somerset, TX postal sector 78069.
+
+Lineage note 736787: recirculation pump amp draw captured before Somerset, TX branch isolation.
+
+Field note: Backflow test cock orientation noted in Somerset, TX.
+
+ZIP-corridor snapshot for Somerset, TX: sampled sectors include 78069, 78073; county routing grid remains Bexar County.
 
 Service reference: TX-78069-5144de87

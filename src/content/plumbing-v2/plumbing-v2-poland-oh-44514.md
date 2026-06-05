@@ -12,30 +12,45 @@ lng: -80.6200
 zipSample: ["44514"]
 zipCodes: ["44514"]
 localPaths: ["Mahoning County / elevation 1040 ft band", "Mahoning County / primary ZIP 44514", "Mahoning County / coords 41.0200, -80.6200", "Mahoning County / ZIP 44514 sector"]
-zillowHomeValueUsd: 243487
 ---
 
 **Engineering Notice for Poland:** System optimized for 177 mg/L hard water scaling factors in Poland. Regional dispatch grid: Mahoning County.
 
 
-Across Poland, OH, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Our intake language for Poland, OH work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: When should sump battery backups be load-tested? In Poland, OH, before spring thaw and heavy rain remnants.
 
-FAQ: Can sump pump service wait until dry season? In Poland, OH, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Poland, OH older homes.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 44514.
+Trenchless pulls in Poland, OH require pit dimensions verified against utility locate marks.
 
-Book a camera-assisted drain review before approving jetting on older Poland, OH mains. Serving ZIP Code: 44514.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Routing marker: Sump pump float travel paired with fixture shutoff torque log near ZIP 44514.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Water line replacement trench path flagged for Mahoning County setbacks.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field note: Main cleanout riser height measured against slab finish in Poland, OH.
+Garage utility sinks in Poland, OH often tie into laundry branches that mask main-line restrictions.
 
-Dispatch sectors sampled: ZIP 44514 (county grid: Mahoning County).
+Confirm cleanout locations during the same visit. Route file 44514.
+
+Cast-iron hub corrosion in Poland, OH often concentrates at the third joint upstream of the cleanout.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Hose bib split patterns often follow missed winterization.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Supply audit 704850: curb-stop orientation and hose-bib freeze flag reviewed for Poland, OH at coords 41.0200/-80.6200.
+
+Pressure trace 704850: meter-pit clearance and dielectric union checklist staged for Poland, OH near elevation 1040 ft.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 44514.
+
+On-site sector marker: Mahoning County / coords 41.0200, -80.6200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-44514-91367f18

@@ -12,28 +12,45 @@ lng: -85.9700
 zipSample: ["49045"]
 zipCodes: ["49045"]
 localPaths: ["Van Buren County / coords 42.1100, -85.9700", "Van Buren County / ZIP 49045 sector", "Van Buren County / elevation 794 ft band", "Van Buren County / primary ZIP 49045"]
-zillowHomeValueUsd: 214517
 ---
 
 **Engineering Notice for Decatur:** System optimized for 137 mg/L hard water scaling factors in Decatur. Regional dispatch grid: Van Buren County.
 
 
-Across Decatur, MI, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Decatur, MI.
 
-Our intake language for Decatur, MI work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Hydrostatic holds in Decatur, MI slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Can sump pump restoration wait until dry season? In Decatur, MI, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 49045.
+FAQ: When should sump battery backups be load-tested? In Decatur, MI, before spring thaw and heavy rain remnants.
 
-Book a camera-assisted drain review before approving jetting on older Decatur, MI mains. Serving ZIP Code: 49045.
+CPVC solvent weld times shift with ambient humidity during Decatur, MI shoulder seasons.
 
-Field packet: sub-slab moisture gradient plus backflow test cock orientation referenced in Van Buren County county grid review.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 49045.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 49045 (county grid: Van Buren County).
+Trenchless pulls in Decatur, MI require pit dimensions verified against utility locate marks.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+In Decatur, MI, water heater & pipe experts visits often begin with sump basin level checks and discharge line freeze separation.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 49045.
+
+Galvanized segments in Decatur, MI may restrict flow before visible corrosion.
+
+Supply audit 908613: curb-stop orientation and hose-bib freeze flag reviewed for Decatur, MI at coords 42.1100/-85.9700.
+
+Drain map 908613: camera-pass priority and expansion-tank pre-charge noted for Decatur, MI postal sector 49045.
+
+Field note: Hose bib freeze flags logged for Decatur, MI.
+
+Coordinate-anchored dispatch note: center reference 42.1100, -85.9700 at elevation ~794 ft aligns with Van Buren County intake staging.
 
 Service reference: MI-49045-14c7e546

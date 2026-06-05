@@ -12,28 +12,47 @@ lng: -122.8700
 zipSample: ["95472", "95444"]
 zipCodes: ["95444", "95472"]
 localPaths: ["Sonoma County / ZIP 95444 sector", "Sonoma County / coords 38.4400, -122.8700", "Sonoma County / primary ZIP 95444", "Sonoma County / ZIP 95472 sector", "Sonoma County / elevation 203 ft band"]
-zillowHomeValueUsd: 822561
 ---
 
 **Engineering Notice for Graton:** System optimized for 125 mg/L hard water scaling factors in Graton. Regional dispatch grid: Sonoma County.
 
 
-Across Graton, CA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Garage utility sinks in Graton, CA often tie into laundry branches that mask main-line restrictions.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our intake language for Graton, CA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Frost-free sillcock failures in Graton, CA often trace to interior shutoff seats.
 
-FAQ: Can sump pump remediation wait until dry season? In Graton, CA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: In Graton, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 95472/95444.
+Step: log PRV inlet and outlet readings during intake.
 
-Book a camera-assisted drain review before approving jetting on older Graton, CA mains. Serving ZIP Code: 95444.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Graton, CA.
 
-Field packet: jetter nozzle envelope plus cleanout riser height referenced in Sonoma County county grid review.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 95472/95444.
+FAQ: When should sump battery backups be load-tested? In Graton, CA, before spring thaw and heavy rain remnants.
 
-Dispatch sectors sampled: ZIP 95472, 95444 (county grid: Sonoma County).
+Request a camera-assisted drain review before approving jetting. Postal sector 95444.
+
+Stack vent offsets in Graton, CA older duplexes can mask tub gurgle as a main-line failure.
+
+Permit note: Main water line replacement in Graton, CA may require ROW restoration planning.
+
+Tip: Log water heater flex line dates before wall closure in Graton, CA remodel zones.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Tankless heater descale intervals in Graton, CA hard-water zones differ from tank anode schedules.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Lineage note 932351: recirculation pump amp draw captured before Graton, CA branch isolation.
+
+Service ledger 932351: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Graton, CA at 38.4400, -122.8700.
+
+Field note: Backflow test cock orientation noted in Graton, CA.
+
+Coordinate-anchored dispatch note: center reference 38.4400, -122.8700 at elevation ~203 ft aligns with Sonoma County intake staging.
 
 Service reference: CA-95444-da291ac9

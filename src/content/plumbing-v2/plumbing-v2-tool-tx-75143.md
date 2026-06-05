@@ -12,30 +12,51 @@ lng: -96.1700
 zipSample: ["75143"]
 zipCodes: ["75143"]
 localPaths: ["Henderson County / elevation 371 ft band", "Henderson County / coords 32.2800, -96.1700", "Henderson County / ZIP 75143 sector", "Henderson County / primary ZIP 75143"]
-zillowHomeValueUsd: 276005
 ---
 
 **Engineering Notice for Tool:** System optimized for 179 mg/L hard water scaling factors in Tool. Regional dispatch grid: Henderson County.
 
 
-When drain line restoration crew scopes are reviewed in Tool, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Dual-water-meter setups in Tool, TX irrigation zones need backflow logs before line replacement.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Tool, TX.
+Water heater T&P discharge paths in Tool, TX must terminate safely before replacement quotes.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Book sump and supply-line checks in one written scope. Postal sector 75143.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Tool, TX, soft blockages differ from root intrusion profiles.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 75143.
+Step: camera-pass main lines in Tool, TX before jetting older clay or cast iron.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 75143.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Field packet: main line camera pass plus hose bib freeze-risk flag referenced in Henderson County county grid review.
+Irrigation cross-connections in Tool, TX can back-siphon domestic lines during main breaks.
 
-Field note: Water line replacement trench path flagged for Henderson County setbacks.
+Shared main supplies in Tool, TX duplexes require coordinated shutoff before pressure holds.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 75143.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 75143 (county grid: Henderson County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 75143.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Tool, TX.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+CPVC solvent weld times shift with ambient humidity during Tool, TX shoulder seasons.
+
+Cleanout access limits in Tool, TX frequently extend drain cleaning duration.
+
+Service ledger 728066: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Tool, TX at 32.2800, -96.1700.
+
+Drain map 728066: camera-pass priority and expansion-tank pre-charge noted for Tool, TX postal sector 75143.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 75143.
+
+Field note: Backflow test cock orientation noted in Tool, TX.
+
+On-site sector marker: Henderson County / coords 32.2800, -96.1700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75143-bf2c571f

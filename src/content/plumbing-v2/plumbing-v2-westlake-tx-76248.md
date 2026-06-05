@@ -12,30 +12,43 @@ lng: -97.2000
 zipSample: ["76248", "76262"]
 zipCodes: ["76262", "76248"]
 localPaths: ["Tarrant County / ZIP 76262 sector", "Tarrant County / coords 32.9800, -97.2000", "Tarrant County / ZIP 76248 sector", "Tarrant County / primary ZIP 76248", "Tarrant County / elevation 676 ft band"]
-zillowHomeValueUsd: 589562
 ---
 
 **Engineering Notice for Westlake:** System optimized for 133 mg/L hard water scaling factors in Westlake. Regional dispatch grid: Tarrant County.
 
 
-Property owners in Westlake, TX may see hydro-jetting specialists escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Westlake, TX.
+In Westlake, TX, hydro-jetting specialists visits often begin with sump basin level checks and discharge line freeze separation.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Irrigation cross-connections in Westlake, TX can back-siphon domestic lines during main breaks.
 
-FAQ: What slows drain cleaning most? In Westlake, TX, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Tip: Photograph cleanout cap threads before snaking near ZIP 76248.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 76262/76248.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Westlake, TX.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 76248.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Scope trace: sub-slab moisture gradient cross-checked against water heater T&P discharge path before line-pressure hold test.
+Request a camera-assisted drain review before approving jetting. Postal sector 76248.
 
-Field note: Water line replacement trench path flagged for Tarrant County setbacks.
+Shared main supplies in Westlake, TX duplexes require coordinated shutoff before pressure holds.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 76262/76248.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Westlake, TX older homes.
 
-Dispatch sectors sampled: ZIP 76262, 76248 (county grid: Tarrant County).
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Tankless heater descale intervals in Westlake, TX hard-water zones differ from tank anode schedules.
+
+Stack vent offsets in Westlake, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Cleanout access limits in Westlake, TX frequently extend drain cleaning duration.
+
+Drain map 664781: camera-pass priority and expansion-tank pre-charge noted for Westlake, TX postal sector 76248.
+
+Supply audit 664781: curb-stop orientation and hose-bib freeze flag reviewed for Westlake, TX at coords 32.9800/-97.2000.
+
+On-site sector marker: Tarrant County / coords 32.9800, -97.2000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76248-9a5653e3

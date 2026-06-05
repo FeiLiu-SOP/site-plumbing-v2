@@ -12,28 +12,47 @@ lng: -79.9400
 zipSample: ["29161"]
 zipCodes: ["29161"]
 localPaths: ["Florence County / ZIP 29161 sector", "Florence County / elevation 164 ft band", "Florence County / coords 34.1300, -79.9400", "Florence County / primary ZIP 29161"]
-zillowHomeValueUsd: 176997
 ---
 
 **Engineering Notice for Timmonsville:** System optimized for 178 mg/L hard water scaling factors in Timmonsville. Regional dispatch grid: Florence County.
 
 
-In Timmonsville, SC, basement sump service team visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Drain cleaning scopes in Timmonsville, SC separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Polybutylene manifold tags in Timmonsville, SC basements should be photographed before wall chases open.
 
-Basement Sump Service Team coordination in Timmonsville, SC prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-FAQ: When is water line replacement safer than spot restoration? In Timmonsville, SC, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 29161.
+Our Basement Sump Service Team coordination in Timmonsville, SC prioritizes cleanout access, vent integrity, and measurable flow recovery.
 
-Request a written basement sump service team plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 29161.
+Stack vent offsets in Timmonsville, SC older duplexes can mask tub gurgle as a main-line failure.
 
-Scope trace: branch wet vent compliance note cross-checked against scale coupon sampling before line-pressure hold test.
+Basement floor drains in Timmonsville, SC should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Main cleanout riser height measured against slab finish in Timmonsville, SC.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 29161 (county grid: Florence County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Timmonsville, SC.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Timmonsville, SC.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Timmonsville, SC older homes.
+
+Hard water in Timmonsville, SC accelerates scale on PRV seats and heater elements.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Risk flag: In Timmonsville, SC, slab leaks can misroute as foundation issues without listening equipment.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Fixture roster 887516: toilet flange spacer kit and shower cartridge seat score queued for Timmonsville, SC walk-through.
+
+Supply audit 887516: curb-stop orientation and hose-bib freeze flag reviewed for Timmonsville, SC at coords 34.1300/-79.9400.
+
+Field note: Camera pass stills archived for ZIP 29161 branch line.
+
+On-site sector marker: Florence County / coords 34.1300, -79.9400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29161-577903b3

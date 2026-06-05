@@ -12,28 +12,45 @@ lng: -92.5100
 zipSample: ["70542"]
 zipCodes: ["70542"]
 localPaths: ["Vermilion Parish / primary ZIP 70542", "Vermilion Parish / coords 30.0300, -92.5100", "Vermilion Parish / ZIP 70542 sector", "Vermilion Parish / elevation 20 ft band"]
-zillowHomeValueUsd: 118302
 ---
 
 **Engineering Notice for Gueydan:** System optimized for 134 mg/L hard water scaling factors in Gueydan. Regional dispatch grid: Vermilion Parish.
 
 
-Across Gueydan, LA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Gueydan, LA older homes.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Our intake language for Gueydan, LA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Shared main supplies in Gueydan, LA duplexes require coordinated shutoff before pressure holds.
 
-FAQ: Can sump pump remediation wait until dry season? In Gueydan, LA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 70542.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 70542.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Book a camera-assisted drain review before approving jetting on older Gueydan, LA mains. Serving ZIP Code: 70542.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Field packet: dielectric union checklist plus main line camera pass referenced in Vermilion Parish county grid review.
+Step: photograph curb-stop and meter pit before trenching.
+
+Frost-free sillcock failures in Gueydan, LA often trace to interior shutoff seats.
+
+Confirm cleanout locations during the same visit. Route file 70542.
+
+Step: map sump float travel and check-valve orientation for Gueydan, LA basements.
+
+Trenchless pulls in Gueydan, LA require pit dimensions verified against utility locate marks.
+
+Cast-iron hub corrosion in Gueydan, LA often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+In Gueydan, LA, water heater & pipe experts visits often begin with sump basin level checks and discharge line freeze separation.
+
+Flow dossier 979366: branch wet-vent geometry and PRV seat wear logged for Gueydan, LA county grid Vermilion Parish (ZIP 70542).
+
+Service ledger 979366: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Gueydan, LA at 30.0300, -92.5100.
 
 Field note: Sump pump discharge check-valve orientation verified for ZIP sector 70542.
 
-Dispatch sectors sampled: ZIP 70542 (county grid: Vermilion Parish).
+On-site sector marker: Vermilion Parish / ZIP 70542 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70542-785a0e65

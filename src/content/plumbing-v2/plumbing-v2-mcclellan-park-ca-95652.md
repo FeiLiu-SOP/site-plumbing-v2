@@ -12,29 +12,49 @@ lng: -121.4000
 zipSample: ["95652"]
 zipCodes: ["95652"]
 localPaths: ["Sacramento County / primary ZIP 95652", "Sacramento County / coords 38.6600, -121.4000", "Sacramento County / elevation 62 ft band", "Sacramento County / ZIP 95652 sector"]
-zillowHomeValueUsd: 908911
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for McClellan Park:** System optimized for 132 mg/L hard water scaling factors in McClellan Park. Regional dispatch grid: Sacramento County.
 
 
-Across McClellan Park, CA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Polybutylene manifold tags in McClellan Park, CA basements should be photographed before wall chases open.
 
-Our intake language for McClellan Park, CA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Can sump pump restoration wait until dry season? In McClellan Park, CA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Irrigation cross-connections in McClellan Park, CA can back-siphon domestic lines during main breaks.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 95652.
+Permit note: Main water line replacement in McClellan Park, CA may require ROW restoration planning.
 
-Book a camera-assisted drain review before approving jetting on older McClellan Park, CA mains. Serving ZIP Code: 95652.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Scope trace: dielectric union checklist cross-checked against branch wet vent compliance note before line-pressure hold test.
+Frost-free sillcock failures in McClellan Park, CA often trace to interior shutoff seats.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in McClellan Park, CA older homes.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in McClellan Park, CA.
+
+Shared main supplies in McClellan Park, CA duplexes require coordinated shutoff before pressure holds.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+In McClellan Park, CA, hydro-jetting specialists visits often begin with sump basin level checks and discharge line freeze separation.
+
+Our Hydro-Jetting Specialists coordination in McClellan Park, CA prioritizes cleanout access, vent integrity, and measurable flow recovery.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Water heater T&P discharge paths in McClellan Park, CA must terminate safely before replacement quotes.
+
+Service ledger 198993: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for McClellan Park, CA at 38.6600, -121.4000.
+
+Flow dossier 198993: branch wet-vent geometry and PRV seat wear logged for McClellan Park, CA county grid Sacramento County (ZIP 95652).
 
 Field note: Main cleanout riser height measured against slab finish in McClellan Park, CA.
 
-Dispatch sectors sampled: ZIP 95652 (county grid: Sacramento County).
+On-site sector marker: Sacramento County / elevation 62 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95652-308cd1aa

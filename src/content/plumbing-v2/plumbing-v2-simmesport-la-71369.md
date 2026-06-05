@@ -12,29 +12,45 @@ lng: -91.8100
 zipSample: ["71369"]
 zipCodes: ["71369"]
 localPaths: ["Avoyelles Parish / coords 30.9800, -91.8100", "Avoyelles Parish / ZIP 71369 sector", "Avoyelles Parish / elevation 62 ft band", "Avoyelles Parish / primary ZIP 71369"]
-zillowHomeValueUsd: 196537
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Simmesport:** System optimized for 155 mg/L hard water scaling factors in Simmesport. Regional dispatch grid: Avoyelles Parish.
 
 
-Across Simmesport, LA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Confirm cleanout locations during the same visit. Route file 71369.
 
-Technicians stage basement sump service team jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Our intake language for Simmesport, LA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Material note: Water heater anode type may change with Simmesport, LA hardness profiles.
 
-FAQ: Can sump pump service wait until dry season? In Simmesport, LA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 71369.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Book a camera-assisted drain review before approving jetting on older Simmesport, LA mains. Serving ZIP Code: 71369.
+Polybutylene manifold tags in Simmesport, LA basements should be photographed before wall chases open.
 
-Routing marker: hose bib freeze-risk flag paired with PRV outlet pressure curve near ZIP 71369.
+Frost-free sillcock failures in Simmesport, LA often trace to interior shutoff seats.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 71369.
+Tip: Log water heater flex line dates before wall closure in Simmesport, LA remodel zones.
 
-Dispatch sectors sampled: ZIP 71369 (county grid: Avoyelles Parish).
+Risk flag: In Simmesport, LA, slab leaks can misroute as foundation issues without listening equipment.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 71369.
+
+Branch wet vents in Simmesport, LA can mask gurgling as a main-line issue.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Dual-water-meter setups in Simmesport, LA irrigation zones need backflow logs before line replacement.
+
+Shared main supplies in Simmesport, LA duplexes require coordinated shutoff before pressure holds.
+
+Supply audit 126422: curb-stop orientation and hose-bib freeze flag reviewed for Simmesport, LA at coords 30.9800/-91.8100.
+
+Flow dossier 126422: branch wet-vent geometry and PRV seat wear logged for Simmesport, LA county grid Avoyelles Parish (ZIP 71369).
+
+Field note: Hose bib freeze flags logged for Simmesport, LA.
+
+On-site sector marker: Avoyelles Parish / primary ZIP 71369 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-71369-98a906a2

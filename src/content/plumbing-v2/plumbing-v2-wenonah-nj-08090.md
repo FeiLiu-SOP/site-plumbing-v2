@@ -12,28 +12,47 @@ lng: -75.1500
 zipSample: ["08090"]
 zipCodes: ["08090"]
 localPaths: ["Gloucester County / coords 39.7900, -75.1500", "Gloucester County / elevation 82 ft band", "Gloucester County / primary ZIP 08090", "Gloucester County / ZIP 08090 sector"]
-zillowHomeValueUsd: 362620
 ---
 
 **Engineering Notice for Wenonah:** System optimized for 121 mg/L hard water scaling factors in Wenonah. Regional dispatch grid: Gloucester County.
 
 
-When professional plumbing services scopes are reviewed in Wenonah, NJ, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: In Wenonah, NJ, slab leaks can misroute as foundation issues without listening equipment.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Wenonah, NJ.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Wenonah, NJ.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Wenonah, NJ, soft blockages differ from root intrusion profiles.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 08090.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Open a scheduling request if you need professional plumbing services documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 08090.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 08090.
 
-Dispatch note: copper pinhole cluster map and PRV outlet pressure curve were logged for the Wenonah plumbing intake packet.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Water line replacement trench path flagged for Gloucester County setbacks.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 08090 (county grid: Gloucester County).
+Frost-free sillcock failures in Wenonah, NJ often trace to interior shutoff seats.
+
+Shared main supplies in Wenonah, NJ duplexes require coordinated shutoff before pressure holds.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Stack vent offsets in Wenonah, NJ older duplexes can mask tub gurgle as a main-line failure.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 08090.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Wenonah, NJ older homes.
+
+Across Wenonah, NJ, main-line bellies trap debris even when fixtures drain normally.
+
+Service ledger 161118: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Wenonah, NJ at 39.7900, -75.1500.
+
+Lineage note 161118: recirculation pump amp draw captured before Wenonah, NJ branch isolation.
+
+Field note: Hose bib freeze flags logged for Wenonah, NJ.
+
+On-site sector marker: Gloucester County / coords 39.7900, -75.1500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08090-d9a9dbf2

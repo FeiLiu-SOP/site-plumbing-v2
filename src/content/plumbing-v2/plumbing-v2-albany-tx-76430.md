@@ -12,30 +12,43 @@ lng: -99.3000
 zipSample: ["76430"]
 zipCodes: ["76430"]
 localPaths: ["Shackelford County / coords 32.7300, -99.3000", "Shackelford County / primary ZIP 76430", "Shackelford County / ZIP 76430 sector", "Shackelford County / elevation 1437 ft band"]
-zillowHomeValueUsd: 159627
 ---
 
 **Engineering Notice for Albany:** System optimized for 170 mg/L hard water scaling factors in Albany. Regional dispatch grid: Shackelford County.
 
 
-In Albany, TX, slab leak response unit visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Drain cleaning scopes in Albany, TX separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Albany, TX.
 
-Slab Leak Response Unit coordination in Albany, TX prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Frost-free sillcock failures in Albany, TX often trace to interior shutoff seats.
 
-FAQ: When is water line replacement safer than spot restoration? In Albany, TX, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Hose bib split patterns often follow missed winterization.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 76430.
+Shared main supplies in Albany, TX duplexes require coordinated shutoff before pressure holds.
 
-Request a written slab leak response unit plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 76430.
+Step: log PRV inlet and outlet readings during intake.
 
-Dispatch note: water heater T&P discharge path and hose bib freeze-risk flag were logged for the Albany plumbing intake packet.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Main cleanout riser height measured against slab finish in Albany, TX.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 76430.
+Stack vent offsets in Albany, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 76430 (county grid: Shackelford County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Hydrostatic holds in Albany, TX slab circuits run overnight when listening mics show ambiguous hits.
+
+FAQ: When should sump battery backups be load-tested? In Albany, TX, before spring thaw and heavy rain remnants.
+
+Tip: Log water heater flex line dates before wall closure in Albany, TX remodel zones.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Albany, TX older homes.
+
+Lineage note 487469: recirculation pump amp draw captured before Albany, TX branch isolation.
+
+Drain map 487469: camera-pass priority and expansion-tank pre-charge noted for Albany, TX postal sector 76430.
+
+On-site sector marker: Shackelford County / elevation 1437 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76430-d11ae075

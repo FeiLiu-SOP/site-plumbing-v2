@@ -12,31 +12,43 @@ lng: -83.3000
 zipSample: ["28719"]
 zipCodes: ["28719"]
 localPaths: ["Swain County / elevation 2490 ft band", "Swain County / primary ZIP 28719", "Swain County / coords 35.4900, -83.3000", "Swain County / ZIP 28719 sector"]
-zillowHomeValueUsd: 317398
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Cherokee:** System optimized for 121 mg/L hard water scaling factors in Cherokee. Regional dispatch grid: Swain County.
 
 
-When water heater & pipe experts scopes are reviewed in Cherokee, NC, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Cleanout access limits in Cherokee, NC frequently extend drain cleaning duration.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Cherokee, NC.
+Trenchless pulls in Cherokee, NC require pit dimensions verified against utility locate marks.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: In Cherokee, NC, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Cherokee, NC, soft blockages differ from root intrusion profiles.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 28719.
+Galvanized segments in Cherokee, NC may restrict flow before visible corrosion.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 28719.
+In Cherokee, NC, water heater & pipe experts visits often begin with sump basin level checks and discharge line freeze separation.
 
-Routing marker: jetter nozzle envelope paired with copper pinhole cluster map near ZIP 28719.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 28719.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Swain County.
 
-Field note: Drain cleaning cable head wear logged before second pass in Cherokee, NC.
+Stack vent offsets in Cherokee, NC older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 28719 (county grid: Swain County).
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Permit note: Main water line replacement in Cherokee, NC may require ROW restoration planning.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 28719.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 28719.
+
+Pressure trace 775554: meter-pit clearance and dielectric union checklist staged for Cherokee, NC near elevation 2490 ft.
+
+Service ledger 775554: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Cherokee, NC at 35.4900, -83.3000.
+
+Coordinate-anchored dispatch note: center reference 35.4900, -83.3000 at elevation ~2490 ft aligns with Swain County intake staging.
 
 Service reference: NC-28719-bebd9138

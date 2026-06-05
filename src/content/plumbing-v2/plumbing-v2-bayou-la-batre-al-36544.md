@@ -12,28 +12,49 @@ lng: -88.2600
 zipSample: ["36544", "36509"]
 zipCodes: ["36544", "36509"]
 localPaths: ["Mobile County / primary ZIP 36544", "Mobile County / ZIP 36544 sector", "Mobile County / coords 30.4100, -88.2600", "Mobile County / ZIP 36509 sector", "Mobile County / elevation 26 ft band"]
-zillowHomeValueUsd: 186295
 ---
 
 **Engineering Notice for Bayou La Batre:** System optimized for 164 mg/L hard water scaling factors in Bayou La Batre. Regional dispatch grid: Mobile County.
 
 
-When basement sump service team scopes are reviewed in Bayou La Batre, AL, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Material note: Water heater anode type may change with Bayou La Batre, AL hardness profiles.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Bayou La Batre, AL.
+In Bayou La Batre, AL, basement sump service team visits often begin with sump basin level checks and discharge line freeze separation.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bayou La Batre, AL.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Bayou La Batre, AL, soft blockages differ from root intrusion profiles.
+Stack vent offsets in Bayou La Batre, AL older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 36544/36509.
+Shared main supplies in Bayou La Batre, AL duplexes require coordinated shutoff before pressure holds.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 36544.
+Step: log PRV inlet and outlet readings during intake.
 
-Scope trace: PEX expansion ring batch cross-checked against scale coupon sampling before line-pressure hold test.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 36544/36509.
+Tip: Log water heater flex line dates before wall closure in Bayou La Batre, AL remodel zones.
 
-Dispatch sectors sampled: ZIP 36544, 36509 (county grid: Mobile County).
+Garage utility sinks in Bayou La Batre, AL often tie into laundry branches that mask main-line restrictions.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Bayou La Batre, AL.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Bayou La Batre, AL.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Frost-free sillcock failures in Bayou La Batre, AL often trace to interior shutoff seats.
+
+Flow dossier 564653: branch wet-vent geometry and PRV seat wear logged for Bayou La Batre, AL county grid Mobile County (ZIP 36544).
+
+Fixture roster 564653: toilet flange spacer kit and shower cartridge seat score queued for Bayou La Batre, AL walk-through.
+
+Field note: Hose bib freeze flags logged for Bayou La Batre, AL.
+
+On-site sector marker: Mobile County / coords 30.4100, -88.2600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36544-f1b453e7

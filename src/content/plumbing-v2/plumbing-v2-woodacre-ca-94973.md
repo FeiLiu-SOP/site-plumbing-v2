@@ -12,30 +12,51 @@ lng: -122.6400
 zipSample: ["94973"]
 zipCodes: ["94973"]
 localPaths: ["Marin County / ZIP 94973 sector", "Marin County / coords 38.0100, -122.6400", "Marin County / primary ZIP 94973", "Marin County / elevation 449 ft band"]
-zillowHomeValueUsd: 1099767
 ---
 
 **Engineering Notice for Woodacre:** System optimized for 142 mg/L hard water scaling factors in Woodacre. Regional dispatch grid: Marin County.
 
 
-When basement sump service team scopes are reviewed in Woodacre, CA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: In Woodacre, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Woodacre, CA.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Confirm cleanout locations during the same visit. Route file 94973.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Woodacre, CA, soft blockages differ from root intrusion profiles.
+In Woodacre, CA, basement sump service team visits often begin with sump basin level checks and discharge line freeze separation.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 94973.
+FAQ: When should sump battery backups be load-tested? In Woodacre, CA, before spring thaw and heavy rain remnants.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 94973.
+Trenchless pulls in Woodacre, CA require pit dimensions verified against utility locate marks.
 
-Field packet: jetter nozzle envelope plus branch wet vent compliance note referenced in Marin County county grid review.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Water line replacement trench path flagged for Marin County setbacks.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Drain cleaning cable head wear logged before second pass in Woodacre, CA.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Marin County.
 
-Dispatch sectors sampled: ZIP 94973 (county grid: Marin County).
+Hose bib split patterns often follow missed winterization.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Woodacre, CA.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+CPVC solvent weld times shift with ambient humidity during Woodacre, CA shoulder seasons.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Garage utility sinks in Woodacre, CA often tie into laundry branches that mask main-line restrictions.
+
+Fixture roster 876561: toilet flange spacer kit and shower cartridge seat score queued for Woodacre, CA walk-through.
+
+Flow dossier 876561: branch wet-vent geometry and PRV seat wear logged for Woodacre, CA county grid Marin County (ZIP 94973).
+
+Field note: Hose bib freeze flags logged for Woodacre, CA.
+
+Field note: Backflow test cock orientation noted in Woodacre, CA.
+
+On-site sector marker: Marin County / ZIP 94973 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-94973-dd74e1a5

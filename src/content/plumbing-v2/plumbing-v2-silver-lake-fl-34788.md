@@ -12,28 +12,45 @@ lng: -81.8000
 zipSample: ["34788"]
 zipCodes: ["34788"]
 localPaths: ["Lake County / coords 28.8400, -81.8000", "Lake County / ZIP 34788 sector", "Lake County / primary ZIP 34788", "Lake County / elevation 59 ft band"]
-zillowHomeValueUsd: 280296
 ---
 
 **Engineering Notice for Silver Lake:** System optimized for 134 mg/L hard water scaling factors in Silver Lake. Regional dispatch grid: Lake County.
 
 
-Across Silver Lake, FL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Permit note: Main water line replacement in Silver Lake, FL may require ROW restoration planning.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Trenchless pulls in Silver Lake, FL require pit dimensions verified against utility locate marks.
 
-Our intake language for Silver Lake, FL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Irrigation cross-connections in Silver Lake, FL can back-siphon domestic lines during main breaks.
 
-FAQ: Can sump pump restoration wait until dry season? In Silver Lake, FL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 34788.
+Ask for trenchless feasibility notes before main replacement. County grid Lake County.
 
-Book a camera-assisted drain review before approving jetting on older Silver Lake, FL mains. Serving ZIP Code: 34788.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field packet: copper pinhole cluster map plus PRV outlet pressure curve referenced in Lake County county grid review.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Silver Lake, FL.
 
-Field note: Main cleanout riser height measured against slab finish in Silver Lake, FL.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Silver Lake, FL older homes.
 
-Dispatch sectors sampled: ZIP 34788 (county grid: Lake County).
+Hydro-jetting in Silver Lake, FL requires camera confirmation before nozzle pressure is raised.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Hydrostatic holds in Silver Lake, FL slab circuits run overnight when listening mics show ambiguous hits.
+
+CPVC solvent weld times shift with ambient humidity during Silver Lake, FL shoulder seasons.
+
+Lineage note 818223: recirculation pump amp draw captured before Silver Lake, FL branch isolation.
+
+Drain map 818223: camera-pass priority and expansion-tank pre-charge noted for Silver Lake, FL postal sector 34788.
+
+On-site sector marker: Lake County / coords 28.8400, -81.8000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34788-b80fe14c

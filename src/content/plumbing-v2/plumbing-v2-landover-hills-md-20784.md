@@ -12,30 +12,45 @@ lng: -76.8900
 zipSample: ["20784"]
 zipCodes: ["20784"]
 localPaths: ["Prince George's County / coords 38.9400, -76.8900", "Prince George's County / elevation 157 ft band", "Prince George's County / primary ZIP 20784", "Prince George's County / ZIP 20784 sector"]
-zillowHomeValueUsd: 374908
 ---
 
 **Engineering Notice for Landover Hills:** System optimized for 133 mg/L hard water scaling factors in Landover Hills. Regional dispatch grid: Prince George's County.
 
 
-When drain line restoration crew scopes are reviewed in Landover Hills, MD, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Landover Hills, MD.
+Cleanout access limits in Landover Hills, MD frequently extend drain cleaning duration.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Landover Hills, MD, soft blockages differ from root intrusion profiles.
+Trenchless pulls in Landover Hills, MD require pit dimensions verified against utility locate marks.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 20784.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 20784.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field packet: fixture shutoff torque log plus scale coupon sampling referenced in Prince George's County county grid review.
+FAQ: When should sump battery backups be load-tested? In Landover Hills, MD, before spring thaw and heavy rain remnants.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 20784.
+Garage utility sinks in Landover Hills, MD often tie into laundry branches that mask main-line restrictions.
 
-Field note: Main cleanout riser height measured against slab finish in Landover Hills, MD.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 20784.
 
-Dispatch sectors sampled: ZIP 20784 (county grid: Prince George's County).
+Step: camera-pass main lines in Landover Hills, MD before jetting older clay or cast iron.
+
+Frost-free sillcock failures in Landover Hills, MD often trace to interior shutoff seats.
+
+Polybutylene manifold tags in Landover Hills, MD basements should be photographed before wall chases open.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: In Landover Hills, MD, slab leaks can misroute as foundation issues without listening equipment.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Flow dossier 219927: branch wet-vent geometry and PRV seat wear logged for Landover Hills, MD county grid Prince George's County (ZIP 20784).
+
+Fixture roster 219927: toilet flange spacer kit and shower cartridge seat score queued for Landover Hills, MD walk-through.
+
+Coordinate-anchored dispatch note: center reference 38.9400, -76.8900 at elevation ~157 ft aligns with Prince George's County intake staging.
 
 Service reference: MD-20784-ca9ccd59

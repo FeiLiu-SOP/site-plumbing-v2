@@ -12,30 +12,47 @@ lng: -86.2000
 zipSample: ["35135", "35125"]
 zipCodes: ["35125", "35135"]
 localPaths: ["St. Clair County / ZIP 35125 sector", "St. Clair County / primary ZIP 35135", "St. Clair County / coords 33.6200, -86.2000", "St. Clair County / ZIP 35135 sector", "St. Clair County / elevation 528 ft band"]
-zillowHomeValueUsd: 305043
 ---
 
 **Engineering Notice for Riverside:** System optimized for 139 mg/L hard water scaling factors in Riverside. Regional dispatch grid: St. Clair County.
 
 
-When hydro-jetting specialists scopes are reviewed in Riverside, AL, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Request a camera-assisted drain review before approving jetting. Postal sector 35135.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Riverside, AL.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Riverside, AL, soft blockages differ from root intrusion profiles.
+Irrigation cross-connections in Riverside, AL can back-siphon domestic lines during main breaks.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 35125/35135.
+Branch wet vents in Riverside, AL can mask gurgling as a main-line issue.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 35135.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field packet: Sump pump float travel plus hose bib freeze-risk flag referenced in St. Clair County county grid review.
+Tip: Log water heater flex line dates before wall closure in Riverside, AL remodel zones.
 
-Field note: Drain cleaning cable head wear logged before second pass in Riverside, AL.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Water line replacement trench path flagged for St. Clair County setbacks.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 35125, 35135 (county grid: St. Clair County).
+Hose bib split patterns often follow missed winterization.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid St. Clair County.
+
+Dual-water-meter setups in Riverside, AL irrigation zones need backflow logs before line replacement.
+
+Flow dossier 166139: branch wet-vent geometry and PRV seat wear logged for Riverside, AL county grid St. Clair County (ZIP 35135).
+
+Fixture roster 166139: toilet flange spacer kit and shower cartridge seat score queued for Riverside, AL walk-through.
+
+Field note: Hose bib freeze flags logged for Riverside, AL.
+
+On-site sector marker: St. Clair County / ZIP 35135 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35135-37093b17

@@ -12,30 +12,43 @@ lng: -155.0800
 zipSample: ["96771"]
 zipCodes: ["96771"]
 localPaths: ["Hawaii County / ZIP 96771 sector", "Hawaii County / primary ZIP 96771", "Hawaii County / elevation 1552 ft band", "Hawaii County / coords 19.5100, -155.0800"]
-zillowHomeValueUsd: 319636
 ---
 
 **Engineering Notice for Fern Acres:** System optimized for 132 mg/L hard water scaling factors in Fern Acres. Regional dispatch grid: Hawaii County.
 
 
-When hydro-jetting specialists scopes are reviewed in Fern Acres, HI, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Shared main supplies in Fern Acres, HI duplexes require coordinated shutoff before pressure holds.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Fern Acres, HI.
+Confirm cleanout locations during the same visit. Route file 96771.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Fern Acres, HI, soft blockages differ from root intrusion profiles.
+Tip: Photograph cleanout cap threads before snaking near ZIP 96771.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 96771.
+Slab leak listening windows in Fern Acres, HI depend on quiet periods and isolated branch valves.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 96771.
+Galvanized segments in Fern Acres, HI may restrict flow before visible corrosion.
 
-Scope trace: PRV outlet pressure curve cross-checked against hose bib freeze-risk flag before line-pressure hold test.
+FAQ: When is cabling enough? In Fern Acres, HI, pipe material and blockage type dictate method.
 
-Field note: Drain cleaning cable head wear logged before second pass in Fern Acres, HI.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Fern Acres, HI.
 
-Field note: Water line replacement trench path flagged for Hawaii County setbacks.
+Stack vent offsets in Fern Acres, HI older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 96771 (county grid: Hawaii County).
+Cast-iron hub corrosion in Fern Acres, HI often concentrates at the third joint upstream of the cleanout.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: Water heater anode type may change with Fern Acres, HI hardness profiles.
+
+Supply audit 350873: curb-stop orientation and hose-bib freeze flag reviewed for Fern Acres, HI at coords 19.5100/-155.0800.
+
+Service ledger 350873: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Fern Acres, HI at 19.5100, -155.0800.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Hawaii County and primary ZIP 96771. Terrain reference: 1552 ft. Center point: 19.5100, -155.0800. ZIP sample: 96771. Service perimeter note: Coverage extends through Hawaii County with dispatch centered near ZIP 96771.
 
 Service reference: HI-96771-080deca2

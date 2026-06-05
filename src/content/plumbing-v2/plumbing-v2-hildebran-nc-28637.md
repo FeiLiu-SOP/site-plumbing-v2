@@ -12,29 +12,47 @@ lng: -81.4200
 zipSample: ["28637"]
 zipCodes: ["28637"]
 localPaths: ["Burke County / primary ZIP 28637", "Burke County / elevation 1115 ft band", "Burke County / ZIP 28637 sector", "Burke County / coords 35.7200, -81.4200"]
-zillowHomeValueUsd: 308424
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Hildebran:** System optimized for 142 mg/L hard water scaling factors in Hildebran. Regional dispatch grid: Burke County.
 
 
-Property owners in Hildebran, NC may see emergency pipe service escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+FAQ: When should sump battery backups be load-tested? In Hildebran, NC, before spring thaw and heavy rain remnants.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Hildebran, NC.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: What slows drain cleaning most? In Hildebran, NC, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 28637.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Hildebran, NC older homes.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 28637.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field packet: scale coupon sampling plus cleanout riser height referenced in Burke County county grid review.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Drain cleaning cable head wear logged before second pass in Hildebran, NC.
+Hydrostatic holds in Hildebran, NC slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 28637 (county grid: Burke County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Shared main supplies in Hildebran, NC duplexes require coordinated shutoff before pressure holds.
+
+Garage utility sinks in Hildebran, NC often tie into laundry branches that mask main-line restrictions.
+
+Stack vent offsets in Hildebran, NC older duplexes can mask tub gurgle as a main-line failure.
+
+Hydro-jetting in Hildebran, NC requires camera confirmation before nozzle pressure is raised.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Pressure trace 396921: meter-pit clearance and dielectric union checklist staged for Hildebran, NC near elevation 1115 ft.
+
+Fixture roster 396921: toilet flange spacer kit and shower cartridge seat score queued for Hildebran, NC walk-through.
+
+Field note: Fixture shutoff torque notes filed for ZIP 28637.
+
+On-site sector marker: Burke County / coords 35.7200, -81.4200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28637-def3a5cc

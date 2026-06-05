@@ -12,28 +12,47 @@ lng: -99.2800
 zipSample: ["67669"]
 zipCodes: ["67669"]
 localPaths: ["Rooks County / coords 39.4300, -99.2800", "Rooks County / ZIP 67669 sector", "Rooks County / elevation 1781 ft band", "Rooks County / primary ZIP 67669"]
-zillowHomeValueUsd: 120203
 ---
 
 **Engineering Notice for Stockton:** System optimized for 129 mg/L hard water scaling factors in Stockton. Regional dispatch grid: Rooks County.
 
 
-Across Stockton, KS, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: camera-pass main lines in Stockton, KS before jetting older clay or cast iron.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tankless heater descale intervals in Stockton, KS hard-water zones differ from tank anode schedules.
 
-Our intake language for Stockton, KS work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-FAQ: Can sump pump service wait until dry season? In Stockton, KS, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 67669.
+Hydrostatic holds in Stockton, KS slab circuits run overnight when listening mics show ambiguous hits.
 
-Book a camera-assisted drain review before approving jetting on older Stockton, KS mains. Serving ZIP Code: 67669.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 67669.
 
-Dispatch note: jetter nozzle envelope and PEX expansion ring batch were logged for the Stockton plumbing intake packet.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 67669.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 67669 (county grid: Rooks County).
+FAQ: When is cabling enough? In Stockton, KS, pipe material and blockage type dictate method.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Stockton, KS.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Confirm cleanout locations during the same visit. Route file 67669.
+
+Dual-water-meter setups in Stockton, KS irrigation zones need backflow logs before line replacement.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Service ledger 817034: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Stockton, KS at 39.4300, -99.2800.
+
+Supply audit 817034: curb-stop orientation and hose-bib freeze flag reviewed for Stockton, KS at coords 39.4300/-99.2800.
+
+Field note: Slab listen window scheduled for Rooks County grid.
+
+On-site sector marker: Rooks County / primary ZIP 67669 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KS-67669-534a2363

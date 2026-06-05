@@ -12,28 +12,47 @@ lng: -78.4700
 zipSample: ["14778", "14706", "14760"]
 zipCodes: ["14778", "14760", "14706"]
 localPaths: ["Cattaraugus County / ZIP 14760 sector", "Cattaraugus County / ZIP 14778 sector", "Cattaraugus County / ZIP 14706 sector", "Cattaraugus County / coords 42.0800, -78.4700", "Cattaraugus County / primary ZIP 14760"]
-zillowHomeValueUsd: 119173
 ---
 
 **Engineering Notice for St. Bonaventure:** System optimized for 132 mg/L hard water scaling factors in St. Bonaventure. Regional dispatch grid: Cattaraugus County.
 
 
-When hydro-jetting specialists scopes are reviewed in St. Bonaventure, NY, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for St. Bonaventure, NY.
+Risk flag: In St. Bonaventure, NY, slab leaks can misroute as foundation issues without listening equipment.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Cast-iron hub corrosion in St. Bonaventure, NY often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in St. Bonaventure, NY, soft blockages differ from root intrusion profiles.
+Material note: Water heater anode type may change with St. Bonaventure, NY hardness profiles.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 14706/14760/14778.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 14760.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field packet: main line camera pass plus backflow test cock orientation referenced in Cattaraugus County county grid review.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Drain cleaning cable head wear logged before second pass in St. Bonaventure, NY.
+Ask for trenchless feasibility notes before main replacement. County grid Cattaraugus County.
 
-Dispatch sectors sampled: ZIP 14706, 14760, 14778 (county grid: Cattaraugus County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Tankless heater descale intervals in St. Bonaventure, NY hard-water zones differ from tank anode schedules.
+
+Slab leak listening windows in St. Bonaventure, NY depend on quiet periods and isolated branch valves.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in St. Bonaventure, NY.
+
+Irrigation cross-connections in St. Bonaventure, NY can back-siphon domestic lines during main breaks.
+
+Branch wet vents in St. Bonaventure, NY can mask gurgling as a main-line issue.
+
+CPVC solvent weld times shift with ambient humidity during St. Bonaventure, NY shoulder seasons.
+
+Supply audit 394956: curb-stop orientation and hose-bib freeze flag reviewed for St. Bonaventure, NY at coords 42.0800/-78.4700.
+
+Flow dossier 394956: branch wet-vent geometry and PRV seat wear logged for St. Bonaventure, NY county grid Cattaraugus County (ZIP 14760).
+
+On-site sector marker: Cattaraugus County / ZIP 14706 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14760-ee5a22bd

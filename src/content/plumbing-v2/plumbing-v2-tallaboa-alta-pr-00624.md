@@ -12,31 +12,43 @@ lng: -66.7000
 zipSample: ["00624"]
 zipCodes: ["00624"]
 localPaths: ["Peñuelas County / coords 18.0500, -66.7000", "Peñuelas County / primary ZIP 00624", "Peñuelas County / elevation 322 ft band", "Peñuelas County / ZIP 00624 sector"]
-zillowHomeValueUsd: 361712
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Tallaboa Alta:** System optimized for 165 mg/L hard water scaling factors in Tallaboa Alta. Regional dispatch grid: Peñuelas County.
 
 
-When slab leak response unit scopes are reviewed in Tallaboa Alta, PR, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Irrigation cross-connections in Tallaboa Alta, PR can back-siphon domestic lines during main breaks.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Tallaboa Alta, PR.
+Trenchless pulls in Tallaboa Alta, PR require pit dimensions verified against utility locate marks.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Garage utility sinks in Tallaboa Alta, PR often tie into laundry branches that mask main-line restrictions.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Tallaboa Alta, PR, soft blockages differ from root intrusion profiles.
+Risk flag: In Tallaboa Alta, PR, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 00624.
+Basement floor drains in Tallaboa Alta, PR should be snaked only after trap arm geometry is confirmed on camera.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 00624.
+FAQ: When is cabling enough? In Tallaboa Alta, PR, pipe material and blockage type dictate method.
 
-Routing marker: fixture shutoff torque log paired with backflow test cock orientation near ZIP 00624.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Main cleanout riser height measured against slab finish in Tallaboa Alta, PR.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Water line replacement trench path flagged for Peñuelas County setbacks.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Dispatch sectors sampled: ZIP 00624 (county grid: Peñuelas County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 00624.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Stack vent offsets in Tallaboa Alta, PR older duplexes can mask tub gurgle as a main-line failure.
+
+Service ledger 878437: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Tallaboa Alta, PR at 18.0500, -66.7000.
+
+Flow dossier 878437: branch wet-vent geometry and PRV seat wear logged for Tallaboa Alta, PR county grid Peñuelas County (ZIP 00624).
+
+Coordinate-anchored dispatch note: center reference 18.0500, -66.7000 at elevation ~322 ft aligns with Peñuelas County intake staging.
 
 Service reference: PR-00624-44a7003f

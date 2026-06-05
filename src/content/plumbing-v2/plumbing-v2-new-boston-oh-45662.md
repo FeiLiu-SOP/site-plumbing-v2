@@ -12,30 +12,49 @@ lng: -82.9400
 zipSample: ["45662"]
 zipCodes: ["45662"]
 localPaths: ["Scioto County / coords 38.7500, -82.9400", "Scioto County / ZIP 45662 sector", "Scioto County / elevation 525 ft band", "Scioto County / primary ZIP 45662"]
-zillowHomeValueUsd: 99214
 ---
 
 **Engineering Notice for New Boston:** System optimized for 135 mg/L hard water scaling factors in New Boston. Regional dispatch grid: Scioto County.
 
 
-Across New Boston, OH, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Hydrostatic holds in New Boston, OH slab circuits run overnight when listening mics show ambiguous hits.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Our intake language for New Boston, OH work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: Can sump pump service wait until dry season? In New Boston, OH, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tankless heater descale intervals in New Boston, OH hard-water zones differ from tank anode schedules.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 45662.
+Tip: Log water heater flex line dates before wall closure in New Boston, OH remodel zones.
 
-Book a camera-assisted drain review before approving jetting on older New Boston, OH mains. Serving ZIP Code: 45662.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Routing marker: dielectric union checklist paired with main line camera pass near ZIP 45662.
+Galvanized segments in New Boston, OH may restrict flow before visible corrosion.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 45662.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Main cleanout riser height measured against slab finish in New Boston, OH.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 45662 (county grid: Scioto County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Dispatch packets reference county grid Scioto County near ZIP 45662.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Material note: Water heater anode type may change with New Boston, OH hardness profiles.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Irrigation cross-connections in New Boston, OH can back-siphon domestic lines during main breaks.
+
+Service ledger 768908: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for New Boston, OH at 38.7500, -82.9400.
+
+Lineage note 768908: recirculation pump amp draw captured before New Boston, OH branch isolation.
+
+Field note: Fixture shutoff torque notes filed for ZIP 45662.
+
+Primary postal anchor 45662 with multi-ZIP overlap in New Boston; field packets tag Scioto County for county-grid reconciliation.
 
 Service reference: OH-45662-ab134776

@@ -12,28 +12,45 @@ lng: -98.0300
 zipSample: ["76457"]
 zipCodes: ["76457"]
 localPaths: ["Hamilton County / primary ZIP 76457", "Hamilton County / coords 31.9900, -98.0300", "Hamilton County / ZIP 76457 sector", "Hamilton County / elevation 1070 ft band"]
-zillowHomeValueUsd: 352108
 ---
 
 **Engineering Notice for Hico:** System optimized for 145 mg/L hard water scaling factors in Hico. Regional dispatch grid: Hamilton County.
 
 
-A water heater & pipe experts contact in Hico, TX is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Confirm cleanout locations during the same visit. Route file 76457.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Hico, TX.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Shared main supplies in Hico, TX duplexes require coordinated shutoff before pressure holds.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Hico, TX supply age can diverge sharply.
+Polybutylene manifold tags in Hico, TX basements should be photographed before wall chases open.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 76457.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 76457.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 76457.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Scope trace: copper pinhole cluster map cross-checked against hose bib freeze-risk flag before line-pressure hold test.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 76457.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 76457 (county grid: Hamilton County).
+FAQ: When should sump battery backups be load-tested? In Hico, TX, before spring thaw and heavy rain remnants.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 76457.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Ask for trenchless feasibility notes before main replacement. County grid Hamilton County.
+
+Galvanized segments in Hico, TX may restrict flow before visible corrosion.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Flow dossier 167567: branch wet-vent geometry and PRV seat wear logged for Hico, TX county grid Hamilton County (ZIP 76457).
+
+Fixture roster 167567: toilet flange spacer kit and shower cartridge seat score queued for Hico, TX walk-through.
+
+Field note: Hose bib freeze flags logged for Hico, TX.
+
+ZIP-corridor snapshot for Hico, TX: sampled sectors include 76457; county routing grid remains Hamilton County.
 
 Service reference: TX-76457-459c5213

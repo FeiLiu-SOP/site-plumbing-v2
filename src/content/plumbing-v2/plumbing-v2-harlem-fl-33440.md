@@ -12,28 +12,45 @@ lng: -80.9500
 zipSample: ["33440"]
 zipCodes: ["33440"]
 localPaths: ["Hendry County / primary ZIP 33440", "Hendry County / coords 26.7300, -80.9500", "Hendry County / ZIP 33440 sector", "Hendry County / elevation 33 ft band"]
-zillowHomeValueUsd: 254501
 ---
 
 **Engineering Notice for Harlem:** System optimized for 154 mg/L hard water scaling factors in Harlem. Regional dispatch grid: Hendry County.
 
 
-When slab leak response unit scopes are reviewed in Harlem, FL, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Harlem, FL.
+Risk flag: In Harlem, FL, slab leaks can misroute as foundation issues without listening equipment.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Harlem, FL, soft blockages differ from root intrusion profiles.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Harlem, FL.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 33440.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 33440.
+Step: log PRV inlet and outlet readings during intake.
 
-Routing marker: branch wet vent compliance note paired with main line camera pass near ZIP 33440.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+FAQ: When should sump battery backups be load-tested? In Harlem, FL, before spring thaw and heavy rain remnants.
+
+Dispatch packets reference county grid Hendry County near ZIP 33440.
+
+Cast-iron hub corrosion in Harlem, FL often concentrates at the third joint upstream of the cleanout.
+
+Hose bib split patterns often follow missed winterization.
+
+Hydro-jetting in Harlem, FL requires camera confirmation before nozzle pressure is raised.
+
+Confirm cleanout locations during the same visit. Route file 33440.
+
+Service ledger 524352: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Harlem, FL at 26.7300, -80.9500.
+
+Fixture roster 524352: toilet flange spacer kit and shower cartridge seat score queued for Harlem, FL walk-through.
 
 Field note: Drain cleaning cable head wear logged before second pass in Harlem, FL.
 
-Dispatch sectors sampled: ZIP 33440 (county grid: Hendry County).
+On-site sector marker: Hendry County / ZIP 33440 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33440-6e03031b

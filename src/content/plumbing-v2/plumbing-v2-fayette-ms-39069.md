@@ -12,30 +12,47 @@ lng: -91.0600
 zipSample: ["39069"]
 zipCodes: ["39069"]
 localPaths: ["Jefferson County / elevation 289 ft band", "Jefferson County / primary ZIP 39069", "Jefferson County / ZIP 39069 sector", "Jefferson County / coords 31.7100, -91.0600"]
-zillowHomeValueUsd: 85319
 ---
 
 **Engineering Notice for Fayette:** System optimized for 165 mg/L hard water scaling factors in Fayette. Regional dispatch grid: Jefferson County.
 
 
-In Fayette, MS, professional plumbing services visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Risk flag: In Fayette, MS, slab leaks can misroute as foundation issues without listening equipment.
 
-Drain cleaning scopes in Fayette, MS separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+FAQ: When should sump battery backups be load-tested? In Fayette, MS, before spring thaw and heavy rain remnants.
 
-Professional Plumbing Services coordination in Fayette, MS prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Tankless heater descale intervals in Fayette, MS hard-water zones differ from tank anode schedules.
 
-FAQ: When is water line replacement safer than spot remediation? In Fayette, MS, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 39069.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Request a written professional plumbing services plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 39069.
+Hard water in Fayette, MS accelerates scale on PRV seats and heater elements.
 
-Scope trace: hose bib freeze-risk flag cross-checked against PRV outlet pressure curve before line-pressure hold test.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Main cleanout riser height measured against slab finish in Fayette, MS.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Fayette, MS.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 39069.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 39069 (county grid: Jefferson County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 39069.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 39069.
+
+Shared main supplies in Fayette, MS duplexes require coordinated shutoff before pressure holds.
+
+Cast-iron hub corrosion in Fayette, MS often concentrates at the third joint upstream of the cleanout.
+
+Lineage note 253096: recirculation pump amp draw captured before Fayette, MS branch isolation.
+
+Service ledger 253096: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Fayette, MS at 31.7100, -91.0600.
+
+Field note: Backflow test cock orientation noted in Fayette, MS.
+
+On-site sector marker: Jefferson County / ZIP 39069 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39069-b199c3b3

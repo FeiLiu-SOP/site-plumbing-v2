@@ -12,30 +12,49 @@ lng: -80.0600
 zipSample: ["29455"]
 zipCodes: ["29455"]
 localPaths: ["Charleston County / ZIP 29455 sector", "Charleston County / elevation 20 ft band", "Charleston County / primary ZIP 29455", "Charleston County / coords 32.6200, -80.0600"]
-zillowHomeValueUsd: 739615
 ---
 
 **Engineering Notice for Kiawah Island:** System optimized for 121 mg/L hard water scaling factors in Kiawah Island. Regional dispatch grid: Charleston County.
 
 
-In Kiawah Island, SC, fixture & supply line pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Garage utility sinks in Kiawah Island, SC often tie into laundry branches that mask main-line restrictions.
 
-Drain cleaning scopes in Kiawah Island, SC separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Basement floor drains in Kiawah Island, SC should be snaked only after trap arm geometry is confirmed on camera.
 
-Fixture & Supply Line Pros coordination in Kiawah Island, SC prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: When is water line replacement safer than spot service? In Kiawah Island, SC, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Stack vent offsets in Kiawah Island, SC older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 29455.
+Tankless heater descale intervals in Kiawah Island, SC hard-water zones differ from tank anode schedules.
 
-Request a written fixture & supply line pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 29455.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Scope trace: jetter nozzle envelope cross-checked against backflow test cock orientation before line-pressure hold test.
+Frost-free sillcock failures in Kiawah Island, SC often trace to interior shutoff seats.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 29455.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 29455.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 29455 (county grid: Charleston County).
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 29455.
+
+Hydrostatic holds in Kiawah Island, SC slab circuits run overnight when listening mics show ambiguous hits.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Kiawah Island, SC.
+
+Across Kiawah Island, SC, main-line bellies trap debris even when fixtures drain normally.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Kiawah Island, SC.
+
+Cleanout access limits in Kiawah Island, SC frequently extend drain cleaning duration.
+
+Flow dossier 268168: branch wet-vent geometry and PRV seat wear logged for Kiawah Island, SC county grid Charleston County (ZIP 29455).
+
+Fixture roster 268168: toilet flange spacer kit and shower cartridge seat score queued for Kiawah Island, SC walk-through.
+
+Field note: Hose bib freeze flags logged for Kiawah Island, SC.
+
+On-site sector marker: Charleston County / primary ZIP 29455 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29455-e5292438

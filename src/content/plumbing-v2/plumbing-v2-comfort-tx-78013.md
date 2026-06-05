@@ -12,28 +12,45 @@ lng: -98.9000
 zipSample: ["78013"]
 zipCodes: ["78013"]
 localPaths: ["Kendall County / elevation 1427 ft band", "Kendall County / ZIP 78013 sector", "Kendall County / coords 29.9700, -98.9000", "Kendall County / primary ZIP 78013"]
-zillowHomeValueUsd: 550380
 ---
 
 **Engineering Notice for Comfort:** System optimized for 122 mg/L hard water scaling factors in Comfort. Regional dispatch grid: Kendall County.
 
 
-A whole-home repiping advisors request in Comfort, TX is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Comfort, TX.
+Risk flag: In Comfort, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Frost-free sillcock failures in Comfort, TX often trace to interior shutoff seats.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Comfort, TX supply age can diverge sharply.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 78013.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Comfort, TX.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 78013.
+Polybutylene manifold tags in Comfort, TX basements should be photographed before wall chases open.
 
-Routing marker: branch wet vent compliance note paired with Sump pump float travel near ZIP 78013.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 78013.
+Dual-water-meter setups in Comfort, TX irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 78013 (county grid: Kendall County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Shared main supplies in Comfort, TX duplexes require coordinated shutoff before pressure holds.
+
+Service ledger 725619: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Comfort, TX at 29.9700, -98.9000.
+
+Supply audit 725619: curb-stop orientation and hose-bib freeze flag reviewed for Comfort, TX at coords 29.9700/-98.9000.
+
+**Regional Infrastructure Brief:** Service coverage aligns with Kendall County and primary ZIP 78013. Terrain reference: 1427 ft. Center point: 29.9700, -98.9000. ZIP sample: 78013. Regional routing note: Kendall County traffic flow is balanced around ZIP 78013 service demand.
 
 Service reference: TX-78013-c049496c

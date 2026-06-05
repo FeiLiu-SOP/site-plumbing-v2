@@ -12,30 +12,45 @@ lng: -96.8600
 zipSample: ["75154"]
 zipCodes: ["75154"]
 localPaths: ["Ellis County / primary ZIP 75154", "Ellis County / ZIP 75154 sector", "Ellis County / elevation 617 ft band", "Ellis County / coords 32.5100, -96.8600"]
-zillowHomeValueUsd: 350928
 ---
 
 **Engineering Notice for Oak Leaf:** System optimized for 148 mg/L hard water scaling factors in Oak Leaf. Regional dispatch grid: Ellis County.
 
 
-Across Oak Leaf, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Dispatch packets reference county grid Ellis County near ZIP 75154.
 
-Our intake language for Oak Leaf, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Hydrostatic holds in Oak Leaf, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Can sump pump restoration wait until dry season? In Oak Leaf, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Oak Leaf, TX.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 75154.
+Hydro-jetting in Oak Leaf, TX requires camera confirmation before nozzle pressure is raised.
 
-Book a camera-assisted drain review before approving jetting on older Oak Leaf, TX mains. Serving ZIP Code: 75154.
+Water heater T&P discharge paths in Oak Leaf, TX must terminate safely before replacement quotes.
 
-Scope trace: PEX expansion ring batch cross-checked against scale coupon sampling before line-pressure hold test.
+Trenchless pulls in Oak Leaf, TX require pit dimensions verified against utility locate marks.
 
-Field note: Drain cleaning cable head wear logged before second pass in Oak Leaf, TX.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Oak Leaf, TX older homes.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 75154.
+Across Oak Leaf, TX, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 75154 (county grid: Ellis County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Ask for trenchless feasibility notes before main replacement. County grid Ellis County.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Lineage note 653237: recirculation pump amp draw captured before Oak Leaf, TX branch isolation.
+
+Drain map 653237: camera-pass priority and expansion-tank pre-charge noted for Oak Leaf, TX postal sector 75154.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 75154.
+
+On-site sector marker: Ellis County / primary ZIP 75154 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75154-bc4c0c24

@@ -12,28 +12,45 @@ lng: -88.6500
 zipSample: ["39364", "39342"]
 zipCodes: ["39342", "39364"]
 localPaths: ["Lauderdale County / ZIP 39364 sector", "Lauderdale County / coords 32.4300, -88.6500", "Lauderdale County / primary ZIP 39342", "Lauderdale County / elevation 394 ft band", "Lauderdale County / ZIP 39342 sector"]
-zillowHomeValueUsd: 173873
 ---
 
 **Engineering Notice for Marion:** System optimized for 180 mg/L hard water scaling factors in Marion. Regional dispatch grid: Lauderdale County.
 
 
-Property owners in Marion, MS may see professional plumbing services escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Marion, MS.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Marion, MS.
+Branch wet vents in Marion, MS can mask gurgling as a main-line issue.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Book sump and supply-line checks in one written scope. Postal sector 39342.
 
-FAQ: What slows drain cleaning most? In Marion, MS, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 39364/39342.
+Stack vent offsets in Marion, MS older duplexes can mask tub gurgle as a main-line failure.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 39342.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field packet: scale coupon sampling plus backflow test cock orientation referenced in Lauderdale County county grid review.
+Risk flag: In Marion, MS, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Drain cleaning cable head wear logged before second pass in Marion, MS.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 39364, 39342 (county grid: Lauderdale County).
+Hydro-jetting in Marion, MS requires camera confirmation before nozzle pressure is raised.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 39342.
+
+Polybutylene manifold tags in Marion, MS basements should be photographed before wall chases open.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Pressure trace 941116: meter-pit clearance and dielectric union checklist staged for Marion, MS near elevation 394 ft.
+
+Flow dossier 941116: branch wet-vent geometry and PRV seat wear logged for Marion, MS county grid Lauderdale County (ZIP 39342).
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 39364/39342.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Lauderdale County. Reference elevation: 394 ft. Primary coordinates: 32.4300, -88.6500. ZIP sample: 39364, 39342. Service perimeter note: Coverage extends through Lauderdale County with dispatch centered near ZIP 39342.
 
 Service reference: MS-39342-1e1afe2e

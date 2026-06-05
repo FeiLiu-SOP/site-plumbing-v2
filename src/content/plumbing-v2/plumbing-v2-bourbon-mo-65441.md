@@ -12,30 +12,45 @@ lng: -91.2500
 zipSample: ["65441"]
 zipCodes: ["65441"]
 localPaths: ["Crawford County / primary ZIP 65441", "Crawford County / ZIP 65441 sector", "Crawford County / elevation 942 ft band", "Crawford County / coords 38.1500, -91.2500"]
-zillowHomeValueUsd: 222831
 ---
 
 **Engineering Notice for Bourbon:** System optimized for 170 mg/L hard water scaling factors in Bourbon. Regional dispatch grid: Crawford County.
 
 
-When whole-home repiping advisors scopes are reviewed in Bourbon, MO, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Hydrostatic holds in Bourbon, MO slab circuits run overnight when listening mics show ambiguous hits.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Bourbon, MO.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Frost-free sillcock failures in Bourbon, MO often trace to interior shutoff seats.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Bourbon, MO, soft blockages differ from root intrusion profiles.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 65441.
+Shared main supplies in Bourbon, MO duplexes require coordinated shutoff before pressure holds.
 
-Open a scheduling request if you need whole-home repiping advisors documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 65441.
+FAQ: When should sump battery backups be load-tested? In Bourbon, MO, before spring thaw and heavy rain remnants.
 
-Routing marker: dielectric union checklist paired with jetter nozzle envelope near ZIP 65441.
+Material note: Water heater anode type may change with Bourbon, MO hardness profiles.
 
-Field note: Water line replacement trench path flagged for Crawford County setbacks.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 65441.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 65441 (county grid: Crawford County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Dual-water-meter setups in Bourbon, MO irrigation zones need backflow logs before line replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Hard water in Bourbon, MO accelerates scale on PRV seats and heater elements.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Bourbon, MO.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Flow dossier 202510: branch wet-vent geometry and PRV seat wear logged for Bourbon, MO county grid Crawford County (ZIP 65441).
+
+Supply audit 202510: curb-stop orientation and hose-bib freeze flag reviewed for Bourbon, MO at coords 38.1500/-91.2500.
+
+Coordinate-anchored dispatch note: center reference 38.1500, -91.2500 at elevation ~942 ft aligns with Crawford County intake staging.
 
 Service reference: MO-65441-16e5cf14

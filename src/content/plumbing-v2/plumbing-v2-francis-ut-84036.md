@@ -12,28 +12,49 @@ lng: -111.2700
 zipSample: ["84036"]
 zipCodes: ["84036"]
 localPaths: ["Summit County / ZIP 84036 sector", "Summit County / primary ZIP 84036", "Summit County / coords 40.6100, -111.2700", "Summit County / elevation 6594 ft band"]
-zillowHomeValueUsd: 1017791
 ---
 
 **Engineering Notice for Francis:** System optimized for 135 mg/L hard water scaling factors in Francis. Regional dispatch grid: Summit County.
 
 
-Across Francis, UT, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+In Francis, UT, drain line restoration crew visits often begin with sump basin level checks and discharge line freeze separation.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Galvanized segments in Francis, UT may restrict flow before visible corrosion.
 
-Our intake language for Francis, UT work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Can sump pump remediation wait until dry season? In Francis, UT, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Francis, UT older homes.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 84036.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Summit County.
 
-Book a camera-assisted drain review before approving jetting on older Francis, UT mains. Serving ZIP Code: 84036.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Scope trace: main line camera pass cross-checked against Sump pump float travel before line-pressure hold test.
+Step: photograph curb-stop and meter pit before trenching.
+
+Hose bib split patterns often follow missed winterization.
+
+Branch wet vents in Francis, UT can mask gurgling as a main-line issue.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Hydro-jetting in Francis, UT requires camera confirmation before nozzle pressure is raised.
+
+Dual-water-meter setups in Francis, UT irrigation zones need backflow logs before line replacement.
+
+Service ledger 633180: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Francis, UT at 40.6100, -111.2700.
+
+Lineage note 633180: recirculation pump amp draw captured before Francis, UT branch isolation.
 
 Field note: Main cleanout riser height measured against slab finish in Francis, UT.
 
-Dispatch sectors sampled: ZIP 84036 (county grid: Summit County).
+Coordinate-anchored dispatch note: center reference 40.6100, -111.2700 at elevation ~6594 ft aligns with Summit County intake staging.
 
 Service reference: UT-84036-cb8a746a

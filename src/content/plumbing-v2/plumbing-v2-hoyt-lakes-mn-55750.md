@@ -12,28 +12,45 @@ lng: -92.1200
 zipSample: ["55750"]
 zipCodes: ["55750"]
 localPaths: ["St. Louis County / ZIP 55750 sector", "St. Louis County / elevation 1522 ft band", "St. Louis County / primary ZIP 55750", "St. Louis County / coords 47.5600, -92.1200"]
-zillowHomeValueUsd: 117536
 ---
 
 **Engineering Notice for Hoyt Lakes:** System optimized for 177 mg/L hard water scaling factors in Hoyt Lakes. Regional dispatch grid: St. Louis County.
 
 
-Across Hoyt Lakes, MN, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Our intake language for Hoyt Lakes, MN work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: Can sump pump service wait until dry season? In Hoyt Lakes, MN, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: When is cabling enough? In Hoyt Lakes, MN, pipe material and blockage type dictate method.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 55750.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 55750.
 
-Book a camera-assisted drain review before approving jetting on older Hoyt Lakes, MN mains. Serving ZIP Code: 55750.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch note: copper pinhole cluster map and cleanout riser height were logged for the Hoyt Lakes plumbing intake packet.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Field note: Drain cleaning cable head wear logged before second pass in Hoyt Lakes, MN.
+Irrigation cross-connections in Hoyt Lakes, MN can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 55750 (county grid: St. Louis County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Polybutylene manifold tags in Hoyt Lakes, MN basements should be photographed before wall chases open.
+
+Frost-free sillcock failures in Hoyt Lakes, MN often trace to interior shutoff seats.
+
+Hydrostatic holds in Hoyt Lakes, MN slab circuits run overnight when listening mics show ambiguous hits.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Lineage note 602389: recirculation pump amp draw captured before Hoyt Lakes, MN branch isolation.
+
+Flow dossier 602389: branch wet-vent geometry and PRV seat wear logged for Hoyt Lakes, MN county grid St. Louis County (ZIP 55750).
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 55750.
+
+On-site sector marker: St. Louis County / coords 47.5600, -92.1200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MN-55750-61554c1c

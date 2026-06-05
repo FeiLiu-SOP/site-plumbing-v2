@@ -12,28 +12,47 @@ lng: -87.3000
 zipSample: ["36726"]
 zipCodes: ["36726"]
 localPaths: ["Wilcox County / elevation 266 ft band", "Wilcox County / ZIP 36726 sector", "Wilcox County / coords 32.0000, -87.3000", "Wilcox County / primary ZIP 36726"]
-zillowHomeValueUsd: 154279
 ---
 
 **Engineering Notice for Camden:** System optimized for 161 mg/L hard water scaling factors in Camden. Regional dispatch grid: Wilcox County.
 
 
-Across Camden, AL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Confirm cleanout locations during the same visit. Route file 36726.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Cast-iron hub corrosion in Camden, AL often concentrates at the third joint upstream of the cleanout.
 
-Our intake language for Camden, AL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Camden, AL.
 
-FAQ: Can sump pump remediation wait until dry season? In Camden, AL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Polybutylene manifold tags in Camden, AL basements should be photographed before wall chases open.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 36726.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Book a camera-assisted drain review before approving jetting on older Camden, AL mains. Serving ZIP Code: 36726.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Dispatch note: main line camera pass and copper pinhole cluster map were logged for the Camden plumbing intake packet.
+FAQ: Is hydro-jetting always appropriate? In Camden, AL, pipe material and blockage type dictate method.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 36726.
+CPVC solvent weld times shift with ambient humidity during Camden, AL shoulder seasons.
 
-Dispatch sectors sampled: ZIP 36726 (county grid: Wilcox County).
+Hydrostatic holds in Camden, AL slab circuits run overnight when listening mics show ambiguous hits.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 36726.
+
+FAQ: When should sump battery backups be load-tested? In Camden, AL, before spring thaw and heavy rain remnants.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Hose bib split patterns often follow missed winterization.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 36726.
+
+Dispatch packets reference county grid Wilcox County near ZIP 36726.
+
+Supply audit 293944: curb-stop orientation and hose-bib freeze flag reviewed for Camden, AL at coords 32.0000/-87.3000.
+
+Lineage note 293944: recirculation pump amp draw captured before Camden, AL branch isolation.
+
+Field note: Slab listen window scheduled for Wilcox County grid.
+
+On-site sector marker: Wilcox County / ZIP 36726 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36726-169220cf

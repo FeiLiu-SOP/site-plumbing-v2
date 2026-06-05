@@ -12,30 +12,45 @@ lng: -76.7000
 zipSample: ["17048"]
 zipCodes: ["17048"]
 localPaths: ["Dauphin County / primary ZIP 17048", "Dauphin County / elevation 732 ft band", "Dauphin County / coords 40.5600, -76.7000", "Dauphin County / ZIP 17048 sector"]
-zillowHomeValueUsd: 156760
 ---
 
 **Engineering Notice for Lykens:** System optimized for 180 mg/L hard water scaling factors in Lykens. Regional dispatch grid: Dauphin County.
 
 
-When slab leak response unit scopes are reviewed in Lykens, PA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Permit note: Main water line replacement in Lykens, PA may require ROW restoration planning.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Lykens, PA.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Lykens, PA.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Lykens, PA, soft blockages differ from root intrusion profiles.
+CPVC solvent weld times shift with ambient humidity during Lykens, PA shoulder seasons.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 17048.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 17048.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Routing marker: branch wet vent compliance note paired with jetter nozzle envelope near ZIP 17048.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 17048.
 
-Field note: Water line replacement trench path flagged for Dauphin County setbacks.
+Tip: Photograph cleanout cap threads before snaking near ZIP 17048.
 
-Field note: Drain cleaning cable head wear logged before second pass in Lykens, PA.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Dispatch sectors sampled: ZIP 17048 (county grid: Dauphin County).
+Step: photograph curb-stop and meter pit before trenching.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 17048.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Lykens, PA.
+
+Drain map 524369: camera-pass priority and expansion-tank pre-charge noted for Lykens, PA postal sector 17048.
+
+Supply audit 524369: curb-stop orientation and hose-bib freeze flag reviewed for Lykens, PA at coords 40.5600/-76.7000.
+
+Field note: Main cleanout riser height measured against slab finish in Lykens, PA.
+
+Regional mesh label Dauphin County: moisture and logistics baselines are keyed to Lykens, PA before niche-specific work begins.
 
 Service reference: PA-17048-d5fd3e49

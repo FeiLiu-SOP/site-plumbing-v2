@@ -12,30 +12,45 @@ lng: -82.3100
 zipSample: ["37601"]
 zipCodes: ["37601"]
 localPaths: ["Carter County / ZIP 37601 sector", "Carter County / primary ZIP 37601", "Carter County / coords 36.3000, -82.3100", "Carter County / elevation 1663 ft band"]
-zillowHomeValueUsd: 262940
 ---
 
 **Engineering Notice for Pine Crest:** System optimized for 137 mg/L hard water scaling factors in Pine Crest. Regional dispatch grid: Carter County.
 
 
-Across Pine Crest, TN, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Our intake language for Pine Crest, TN work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Pine Crest, TN.
 
-FAQ: Can sump pump restoration wait until dry season? In Pine Crest, TN, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 37601.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Book a camera-assisted drain review before approving jetting on older Pine Crest, TN mains. Serving ZIP Code: 37601.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field packet: water heater T&P discharge path plus PRV outlet pressure curve referenced in Carter County county grid review.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 37601.
+Polybutylene manifold tags in Pine Crest, TN basements should be photographed before wall chases open.
 
-Field note: Drain cleaning cable head wear logged before second pass in Pine Crest, TN.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 37601 (county grid: Carter County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Stack vent offsets in Pine Crest, TN older duplexes can mask tub gurgle as a main-line failure.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Fixture roster 217573: toilet flange spacer kit and shower cartridge seat score queued for Pine Crest, TN walk-through.
+
+Supply audit 217573: curb-stop orientation and hose-bib freeze flag reviewed for Pine Crest, TN at coords 36.3000/-82.3100.
+
+Field note: Meter-pit clearance photographed near ZIP 37601.
+
+Coordinate-anchored dispatch note: center reference 36.3000, -82.3100 at elevation ~1663 ft aligns with Carter County intake staging.
 
 Service reference: TN-37601-8ebe135d

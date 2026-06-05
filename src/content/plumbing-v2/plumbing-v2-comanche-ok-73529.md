@@ -12,28 +12,47 @@ lng: -97.9500
 zipSample: ["73529"]
 zipCodes: ["73529"]
 localPaths: ["Stephens County / ZIP 73529 sector", "Stephens County / elevation 1033 ft band", "Stephens County / primary ZIP 73529", "Stephens County / coords 34.3600, -97.9500"]
-zillowHomeValueUsd: 132837
 ---
 
 **Engineering Notice for Comanche:** System optimized for 150 mg/L hard water scaling factors in Comanche. Regional dispatch grid: Stephens County.
 
 
-Property owners in Comanche, OK may see drain line restoration crew escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Garage utility sinks in Comanche, OK often tie into laundry branches that mask main-line restrictions.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Comanche, OK.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Comanche, OK.
 
-FAQ: What slows drain cleaning most? In Comanche, OK, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Across Comanche, OK, main-line bellies trap debris even when fixtures drain normally.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 73529.
+Cleanout access limits in Comanche, OK frequently extend drain cleaning duration.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 73529.
+Permit note: Main water line replacement in Comanche, OK may require ROW restoration planning.
 
-Dispatch note: jetter nozzle envelope and branch wet vent compliance note were logged for the Comanche plumbing intake packet.
+Risk flag: In Comanche, OK, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 73529.
+Galvanized segments in Comanche, OK may restrict flow before visible corrosion.
 
-Dispatch sectors sampled: ZIP 73529 (county grid: Stephens County).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Shared main supplies in Comanche, OK duplexes require coordinated shutoff before pressure holds.
+
+Confirm cleanout locations during the same visit. Route file 73529.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Tip: Log water heater flex line dates before wall closure in Comanche, OK remodel zones.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Service ledger 957043: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Comanche, OK at 34.3600, -97.9500.
+
+Drain map 957043: camera-pass priority and expansion-tank pre-charge noted for Comanche, OK postal sector 73529.
+
+Primary postal anchor 73529 with multi-ZIP overlap in Comanche; field packets tag Stephens County for county-grid reconciliation.
 
 Service reference: OK-73529-39b0d47d

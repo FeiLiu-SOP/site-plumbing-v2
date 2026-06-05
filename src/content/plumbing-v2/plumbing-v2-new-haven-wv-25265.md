@@ -12,30 +12,43 @@ lng: -81.9700
 zipSample: ["25265"]
 zipCodes: ["25265"]
 localPaths: ["Mason County / elevation 591 ft band", "Mason County / primary ZIP 25265", "Mason County / ZIP 25265 sector", "Mason County / coords 38.9900, -81.9700"]
-zillowHomeValueUsd: 125049
 ---
 
 **Engineering Notice for New Haven:** System optimized for 165 mg/L hard water scaling factors in New Haven. Regional dispatch grid: Mason County.
 
 
-When basement sump service team scopes are reviewed in New Haven, WV, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Shared main supplies in New Haven, WV duplexes require coordinated shutoff before pressure holds.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for New Haven, WV.
+Trenchless pulls in New Haven, WV require pit dimensions verified against utility locate marks.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in New Haven, WV, soft blockages differ from root intrusion profiles.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in New Haven, WV.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 25265.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 25265.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 25265.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch note: PEX expansion ring batch and main line camera pass were logged for the New Haven plumbing intake packet.
+Dispatch packets reference county grid Mason County near ZIP 25265.
 
-Field note: Water line replacement trench path flagged for Mason County setbacks.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Main cleanout riser height measured against slab finish in New Haven, WV.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in New Haven, WV.
 
-Dispatch sectors sampled: ZIP 25265 (county grid: Mason County).
+Tankless heater descale intervals in New Haven, WV hard-water zones differ from tank anode schedules.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Hydro-jetting in New Haven, WV requires camera confirmation before nozzle pressure is raised.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Lineage note 271297: recirculation pump amp draw captured before New Haven, WV branch isolation.
+
+Supply audit 271297: curb-stop orientation and hose-bib freeze flag reviewed for New Haven, WV at coords 38.9900/-81.9700.
+
+On-site sector marker: Mason County / coords 38.9900, -81.9700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-25265-7d11fa35

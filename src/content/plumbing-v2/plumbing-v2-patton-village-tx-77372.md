@@ -12,30 +12,45 @@ lng: -95.1600
 zipSample: ["77357", "77372"]
 zipCodes: ["77372", "77357"]
 localPaths: ["Montgomery County / primary ZIP 77372", "Montgomery County / elevation 112 ft band", "Montgomery County / ZIP 77372 sector", "Montgomery County / ZIP 77357 sector", "Montgomery County / coords 30.2000, -95.1600"]
-zillowHomeValueUsd: 240754
 ---
 
 **Engineering Notice for Patton Village:** System optimized for 152 mg/L hard water scaling factors in Patton Village. Regional dispatch grid: Montgomery County.
 
 
-In Patton Village, TX, leak detection pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Garage utility sinks in Patton Village, TX often tie into laundry branches that mask main-line restrictions.
 
-Drain cleaning scopes in Patton Village, TX separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Patton Village, TX older homes.
 
-Leak Detection Pros coordination in Patton Village, TX prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Cast-iron hub corrosion in Patton Village, TX often concentrates at the third joint upstream of the cleanout.
 
-FAQ: When is water line replacement safer than spot remediation? In Patton Village, TX, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 77372/77357.
+FAQ: Is hydro-jetting always appropriate? In Patton Village, TX, pipe material and blockage type dictate method.
 
-Request a written leak detection pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 77372.
+Tip: Photograph cleanout cap threads before snaking near ZIP 77372.
 
-Scope trace: water heater T&P discharge path cross-checked against jetter nozzle envelope before line-pressure hold test.
+Ask for trenchless feasibility notes before main replacement. County grid Montgomery County.
+
+Step: map sump float travel and check-valve orientation for Patton Village, TX basements.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 77372.
+
+Step: log PRV inlet and outlet readings during intake.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Tankless heater descale intervals in Patton Village, TX hard-water zones differ from tank anode schedules.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Supply audit 425293: curb-stop orientation and hose-bib freeze flag reviewed for Patton Village, TX at coords 30.2000/-95.1600.
+
+Flow dossier 425293: branch wet-vent geometry and PRV seat wear logged for Patton Village, TX county grid Montgomery County (ZIP 77372).
 
 Field note: Main cleanout riser height measured against slab finish in Patton Village, TX.
 
-Field note: Drain cleaning cable head wear logged before second pass in Patton Village, TX.
-
-Dispatch sectors sampled: ZIP 77372, 77357 (county grid: Montgomery County).
+On-site sector marker: Montgomery County / elevation 112 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77372-f8bcc6c8

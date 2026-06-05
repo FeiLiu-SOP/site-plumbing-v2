@@ -12,30 +12,43 @@ lng: -88.5000
 zipSample: ["49908"]
 zipCodes: ["49908"]
 localPaths: ["Baraga County / primary ZIP 49908", "Baraga County / elevation 689 ft band", "Baraga County / coords 46.7800, -88.5000", "Baraga County / ZIP 49908 sector"]
-zillowHomeValueUsd: 159665
 ---
 
 **Engineering Notice for Baraga:** System optimized for 161 mg/L hard water scaling factors in Baraga. Regional dispatch grid: Baraga County.
 
 
-Across Baraga, MI, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Baraga, MI.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our intake language for Baraga, MI work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-FAQ: Can sump pump remediation wait until dry season? In Baraga, MI, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Irrigation cross-connections in Baraga, MI can back-siphon domestic lines during main breaks.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 49908.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Baraga, MI.
 
-Book a camera-assisted drain review before approving jetting on older Baraga, MI mains. Serving ZIP Code: 49908.
+Confirm cleanout locations during the same visit. Route file 49908.
 
-Routing marker: cleanout riser height paired with PEX expansion ring batch near ZIP 49908.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 49908.
+In Baraga, MI, drain line restoration crew visits often begin with sump basin level checks and discharge line freeze separation.
 
-Field note: Water line replacement trench path flagged for Baraga County setbacks.
+Tip: Log water heater flex line dates before wall closure in Baraga, MI remodel zones.
 
-Dispatch sectors sampled: ZIP 49908 (county grid: Baraga County).
+FAQ: When should sump battery backups be load-tested? In Baraga, MI, before spring thaw and heavy rain remnants.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Stack vent offsets in Baraga, MI older duplexes can mask tub gurgle as a main-line failure.
+
+Garage utility sinks in Baraga, MI often tie into laundry branches that mask main-line restrictions.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Supply audit 921769: curb-stop orientation and hose-bib freeze flag reviewed for Baraga, MI at coords 46.7800/-88.5000.
+
+Fixture roster 921769: toilet flange spacer kit and shower cartridge seat score queued for Baraga, MI walk-through.
+
+On-site sector marker: Baraga County / primary ZIP 49908 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49908-ff8d01c8

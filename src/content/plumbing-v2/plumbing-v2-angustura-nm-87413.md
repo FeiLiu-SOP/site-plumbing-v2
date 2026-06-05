@@ -12,28 +12,47 @@ lng: -107.9200
 zipSample: ["87413"]
 zipCodes: ["87413"]
 localPaths: ["San Juan County / ZIP 87413 sector", "San Juan County / elevation 5505 ft band", "San Juan County / primary ZIP 87413", "San Juan County / coords 36.7100, -107.9200"]
-zillowHomeValueUsd: 252800
 ---
 
 **Engineering Notice for Angustura:** System optimized for 162 mg/L hard water scaling factors in Angustura. Regional dispatch grid: San Juan County.
 
 
-When drain line restoration crew scopes are reviewed in Angustura, NM, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Angustura, NM.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Angustura, NM.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Angustura, NM, soft blockages differ from root intrusion profiles.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 87413.
+Hard water in Angustura, NM accelerates scale on PRV seats and heater elements.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 87413.
+Material note: Water heater anode type may change with Angustura, NM hardness profiles.
 
-Routing marker: hose bib freeze-risk flag paired with cleanout riser height near ZIP 87413.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Water line replacement trench path flagged for San Juan County setbacks.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 87413 (county grid: San Juan County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Angustura, NM older homes.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Angustura, NM.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Tankless heater descale intervals in Angustura, NM hard-water zones differ from tank anode schedules.
+
+Shared main supplies in Angustura, NM duplexes require coordinated shutoff before pressure holds.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Service ledger 822128: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Angustura, NM at 36.7100, -107.9200.
+
+Fixture roster 822128: toilet flange spacer kit and shower cartridge seat score queued for Angustura, NM walk-through.
+
+Coordinate-anchored dispatch note: center reference 36.7100, -107.9200 at elevation ~5505 ft aligns with San Juan County intake staging.
 
 Service reference: NM-87413-2bbad59a

@@ -12,28 +12,49 @@ lng: -101.6400
 zipSample: ["69033"]
 zipCodes: ["69033"]
 localPaths: ["Chase County / coords 40.5100, -101.6400", "Chase County / ZIP 69033 sector", "Chase County / elevation 3284 ft band", "Chase County / primary ZIP 69033"]
-zillowHomeValueUsd: 230922
 ---
 
 **Engineering Notice for Imperial:** System optimized for 126 mg/L hard water scaling factors in Imperial. Regional dispatch grid: Chase County.
 
 
-Across Imperial, NE, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Irrigation cross-connections in Imperial, NE can back-siphon domestic lines during main breaks.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Dual-water-meter setups in Imperial, NE irrigation zones need backflow logs before line replacement.
 
-Our intake language for Imperial, NE work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Imperial, NE.
 
-FAQ: Can sump pump remediation wait until dry season? In Imperial, NE, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Stack vent offsets in Imperial, NE older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 69033.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Book a camera-assisted drain review before approving jetting on older Imperial, NE mains. Serving ZIP Code: 69033.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Scope trace: backflow test cock orientation cross-checked against PRV outlet pressure curve before line-pressure hold test.
+Risk flag: In Imperial, NE, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Drain cleaning cable head wear logged before second pass in Imperial, NE.
+Material note: Water heater anode type may change with Imperial, NE hardness profiles.
 
-Dispatch sectors sampled: ZIP 69033 (county grid: Chase County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Our Slab Leak Response Unit coordination in Imperial, NE prioritizes cleanout access, vent integrity, and measurable flow recovery.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Imperial, NE.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Cast-iron hub corrosion in Imperial, NE often concentrates at the third joint upstream of the cleanout.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Fixture roster 792314: toilet flange spacer kit and shower cartridge seat score queued for Imperial, NE walk-through.
+
+Flow dossier 792314: branch wet-vent geometry and PRV seat wear logged for Imperial, NE county grid Chase County (ZIP 69033).
+
+Field note: Fixture shutoff torque notes filed for ZIP 69033.
+
+Field note: Backflow test cock orientation noted in Imperial, NE.
+
+On-site sector marker: Chase County / coords 40.5100, -101.6400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-69033-aa97e3ef

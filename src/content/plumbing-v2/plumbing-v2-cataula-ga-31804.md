@@ -12,28 +12,49 @@ lng: -84.8700
 zipSample: ["31804"]
 zipCodes: ["31804"]
 localPaths: ["Harris County / coords 32.6600, -84.8700", "Harris County / ZIP 31804 sector", "Harris County / primary ZIP 31804", "Harris County / elevation 709 ft band"]
-zillowHomeValueUsd: 374559
 ---
 
 **Engineering Notice for Cataula:** System optimized for 179 mg/L hard water scaling factors in Cataula. Regional dispatch grid: Harris County.
 
 
-When leak detection pros scopes are reviewed in Cataula, GA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Cataula, GA.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Trenchless pulls in Cataula, GA require pit dimensions verified against utility locate marks.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Cataula, GA, soft blockages differ from root intrusion profiles.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 31804.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 31804.
 
-Open a scheduling request if you need leak detection pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 31804.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Cataula, GA.
 
-Routing marker: jetter nozzle envelope paired with backflow test cock orientation near ZIP 31804.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 31804.
+Tip: Log water heater flex line dates before wall closure in Cataula, GA remodel zones.
 
-Dispatch sectors sampled: ZIP 31804 (county grid: Harris County).
+FAQ: When should sump battery backups be load-tested? In Cataula, GA, before spring thaw and heavy rain remnants.
+
+Permit note: Main water line replacement in Cataula, GA may require ROW restoration planning.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Stack vent offsets in Cataula, GA older duplexes can mask tub gurgle as a main-line failure.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 31804.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Cataula, GA older homes.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 31804.
+
+Hydrostatic holds in Cataula, GA slab circuits run overnight when listening mics show ambiguous hits.
+
+Service ledger 271876: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Cataula, GA at 32.6600, -84.8700.
+
+Fixture roster 271876: toilet flange spacer kit and shower cartridge seat score queued for Cataula, GA walk-through.
+
+Field note: Camera pass stills archived for ZIP 31804 branch line.
+
+On-site sector marker: Harris County / primary ZIP 31804 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31804-9120c210

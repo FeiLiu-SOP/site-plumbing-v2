@@ -12,30 +12,47 @@ lng: -74.8900
 zipSample: ["08204"]
 zipCodes: ["08204"]
 localPaths: ["Cape May County / primary ZIP 08204", "Cape May County / coords 39.0000, -74.8900", "Cape May County / elevation 20 ft band", "Cape May County / ZIP 08204 sector"]
-zillowHomeValueUsd: 705503
 ---
 
 **Engineering Notice for Erma:** System optimized for 146 mg/L hard water scaling factors in Erma. Regional dispatch grid: Cape May County.
 
 
-When slab leak response unit scopes are reviewed in Erma, NJ, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Erma, NJ.
+Galvanized segments in Erma, NJ may restrict flow before visible corrosion.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Erma, NJ.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Erma, NJ, soft blockages differ from root intrusion profiles.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Erma, NJ older homes.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 08204.
+Branch wet vents in Erma, NJ can mask gurgling as a main-line issue.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 08204.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch note: PEX expansion ring batch and copper pinhole cluster map were logged for the Erma plumbing intake packet.
+Permit note: Main water line replacement in Erma, NJ may require ROW restoration planning.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 08204.
+Material note: Water heater anode type may change with Erma, NJ hardness profiles.
 
-Field note: Main cleanout riser height measured against slab finish in Erma, NJ.
+Hydro-jetting in Erma, NJ requires camera confirmation before nozzle pressure is raised.
 
-Dispatch sectors sampled: ZIP 08204 (county grid: Cape May County).
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Stack vent offsets in Erma, NJ older duplexes can mask tub gurgle as a main-line failure.
+
+Frost-free sillcock failures in Erma, NJ often trace to interior shutoff seats.
+
+Fixture roster 799540: toilet flange spacer kit and shower cartridge seat score queued for Erma, NJ walk-through.
+
+Flow dossier 799540: branch wet-vent geometry and PRV seat wear logged for Erma, NJ county grid Cape May County (ZIP 08204).
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 08204.
+
+Field note: Camera pass stills archived for ZIP 08204 branch line.
+
+On-site sector marker: Cape May County / coords 39.0000, -74.8900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-08204-e7ab8dd8

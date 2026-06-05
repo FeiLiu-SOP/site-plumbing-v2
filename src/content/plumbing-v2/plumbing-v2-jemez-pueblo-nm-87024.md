@@ -12,30 +12,45 @@ lng: -106.7300
 zipSample: ["87024"]
 zipCodes: ["87024"]
 localPaths: ["Sandoval County / elevation 5551 ft band", "Sandoval County / coords 35.6100, -106.7300", "Sandoval County / ZIP 87024 sector", "Sandoval County / primary ZIP 87024"]
-zillowHomeValueUsd: 356605
 ---
 
 **Engineering Notice for Jemez Pueblo:** System optimized for 167 mg/L hard water scaling factors in Jemez Pueblo. Regional dispatch grid: Sandoval County.
 
 
-Property owners in Jemez Pueblo, NM may see whole-home repiping advisors escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Request a camera-assisted drain review before approving jetting. Postal sector 87024.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Jemez Pueblo, NM.
+Garage utility sinks in Jemez Pueblo, NM often tie into laundry branches that mask main-line restrictions.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-FAQ: What slows drain cleaning most? In Jemez Pueblo, NM, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Hydrostatic holds in Jemez Pueblo, NM slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 87024.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 87024.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 87024.
 
-Dispatch note: PRV outlet pressure curve and backflow test cock orientation were logged for the Jemez Pueblo plumbing intake packet.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Water line replacement trench path flagged for Sandoval County setbacks.
+Polybutylene manifold tags in Jemez Pueblo, NM basements should be photographed before wall chases open.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 87024.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Jemez Pueblo, NM.
 
-Dispatch sectors sampled: ZIP 87024 (county grid: Sandoval County).
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 87024.
+
+Material note: Water heater anode type may change with Jemez Pueblo, NM hardness profiles.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Fixture roster 132224: toilet flange spacer kit and shower cartridge seat score queued for Jemez Pueblo, NM walk-through.
+
+Pressure trace 132224: meter-pit clearance and dielectric union checklist staged for Jemez Pueblo, NM near elevation 5551 ft.
+
+Field note: Dielectric union checklist completed in Jemez Pueblo, NM.
+
+Primary postal anchor 87024 with multi-ZIP overlap in Jemez Pueblo; field packets tag Sandoval County for county-grid reconciliation.
 
 Service reference: NM-87024-407ad393

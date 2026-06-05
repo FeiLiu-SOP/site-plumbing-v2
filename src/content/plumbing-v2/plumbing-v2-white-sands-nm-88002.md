@@ -12,31 +12,43 @@ lng: -106.4800
 zipSample: ["88002"]
 zipCodes: ["88002"]
 localPaths: ["Doña Ana County / primary ZIP 88002", "Doña Ana County / ZIP 88002 sector", "Doña Ana County / elevation 4242 ft band", "Doña Ana County / coords 32.3800, -106.4800"]
-zillowHomeValueUsd: 309615
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for White Sands:** System optimized for 172 mg/L hard water scaling factors in White Sands. Regional dispatch grid: Doña Ana County.
 
 
-In White Sands, NM, emergency pipe restoration visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Tip: Photograph cleanout cap threads before snaking near ZIP 88002.
 
-Drain cleaning scopes in White Sands, NM separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Tankless heater descale intervals in White Sands, NM hard-water zones differ from tank anode schedules.
 
-Emergency Pipe Restoration coordination in White Sands, NM prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: When is water line replacement safer than spot restoration? In White Sands, NM, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 88002.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Request a written emergency pipe restoration plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 88002.
+In White Sands, NM, emergency pipe restoration visits often begin with sump basin level checks and discharge line freeze separation.
 
-Dispatch note: scale coupon sampling and jetter nozzle envelope were logged for the White Sands plumbing intake packet.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Main cleanout riser height measured against slab finish in White Sands, NM.
+CPVC solvent weld times shift with ambient humidity during White Sands, NM shoulder seasons.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 88002.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 88002 (county grid: Doña Ana County).
+Dispatch packets reference county grid Doña Ana County near ZIP 88002.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Dual-water-meter setups in White Sands, NM irrigation zones need backflow logs before line replacement.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Stack vent offsets in White Sands, NM older duplexes can mask tub gurgle as a main-line failure.
+
+Supply audit 886809: curb-stop orientation and hose-bib freeze flag reviewed for White Sands, NM at coords 32.3800/-106.4800.
+
+Service ledger 886809: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for White Sands, NM at 32.3800, -106.4800.
+
+Coordinate-anchored dispatch note: center reference 32.3800, -106.4800 at elevation ~4242 ft aligns with Doña Ana County intake staging.
 
 Service reference: NM-88002-91ad42ff

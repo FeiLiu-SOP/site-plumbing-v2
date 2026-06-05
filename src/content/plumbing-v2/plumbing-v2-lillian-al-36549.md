@@ -12,30 +12,47 @@ lng: -87.4300
 zipSample: ["36549"]
 zipCodes: ["36549"]
 localPaths: ["Baldwin County / ZIP 36549 sector", "Baldwin County / elevation 0 ft band", "Baldwin County / primary ZIP 36549", "Baldwin County / coords 30.4100, -87.4300"]
-zillowHomeValueUsd: 312608
 ---
 
 **Engineering Notice for Lillian:** System optimized for 172 mg/L hard water scaling factors in Lillian. Regional dispatch grid: Baldwin County.
 
 
-Property owners in Lillian, AL may see professional plumbing services escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Lillian, AL.
+Water heater T&P discharge paths in Lillian, AL must terminate safely before replacement quotes.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Irrigation cross-connections in Lillian, AL can back-siphon domestic lines during main breaks.
 
-FAQ: What slows drain cleaning most? In Lillian, AL, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 36549.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 36549.
+Trenchless pulls in Lillian, AL require pit dimensions verified against utility locate marks.
 
-Field packet: branch wet vent compliance note plus main line camera pass referenced in Baldwin County county grid review.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Drain cleaning cable head wear logged before second pass in Lillian, AL.
+FAQ: When should sump battery backups be load-tested? In Lillian, AL, before spring thaw and heavy rain remnants.
 
-Field note: Main cleanout riser height measured against slab finish in Lillian, AL.
+Tip: Photograph cleanout cap threads before snaking near ZIP 36549.
 
-Dispatch sectors sampled: ZIP 36549 (county grid: Baldwin County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 36549.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Hard water in Lillian, AL accelerates scale on PRV seats and heater elements.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Lillian, AL.
+
+Lineage note 268239: recirculation pump amp draw captured before Lillian, AL branch isolation.
+
+Fixture roster 268239: toilet flange spacer kit and shower cartridge seat score queued for Lillian, AL walk-through.
+
+Field note: Camera pass stills archived for ZIP 36549 branch line.
+
+On-site sector marker: Baldwin County / elevation 0 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36549-b2224f97

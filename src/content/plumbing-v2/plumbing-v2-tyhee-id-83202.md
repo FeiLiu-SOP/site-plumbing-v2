@@ -12,30 +12,47 @@ lng: -112.4600
 zipSample: ["83202"]
 zipCodes: ["83202"]
 localPaths: ["Bannock County / ZIP 83202 sector", "Bannock County / elevation 4472 ft band", "Bannock County / coords 42.9600, -112.4600", "Bannock County / primary ZIP 83202"]
-zillowHomeValueUsd: 391606
 ---
 
 **Engineering Notice for Tyhee:** System optimized for 173 mg/L hard water scaling factors in Tyhee. Regional dispatch grid: Bannock County.
 
 
-When slab leak response unit scopes are reviewed in Tyhee, ID, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Tyhee, ID.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Tyhee, ID.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+FAQ: Is hydro-jetting always appropriate? In Tyhee, ID, pipe material and blockage type dictate method.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Tyhee, ID, soft blockages differ from root intrusion profiles.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 83202.
+Confirm cleanout locations during the same visit. Route file 83202.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 83202.
+Ask for trenchless feasibility notes before main replacement. County grid Bannock County.
 
-Scope trace: scale coupon sampling cross-checked against PRV outlet pressure curve before line-pressure hold test.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 83202.
+Polybutylene manifold tags in Tyhee, ID basements should be photographed before wall chases open.
 
-Field note: Water line replacement trench path flagged for Bannock County setbacks.
+Hydrostatic holds in Tyhee, ID slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 83202 (county grid: Bannock County).
+Shared main supplies in Tyhee, ID duplexes require coordinated shutoff before pressure holds.
+
+FAQ: When should sump battery backups be load-tested? In Tyhee, ID, before spring thaw and heavy rain remnants.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 83202.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Tyhee, ID.
+
+Service ledger 908483: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Tyhee, ID at 42.9600, -112.4600.
+
+Fixture roster 908483: toilet flange spacer kit and shower cartridge seat score queued for Tyhee, ID walk-through.
+
+Field note: Main cleanout riser height measured against slab finish in Tyhee, ID.
+
+On-site sector marker: Bannock County / primary ZIP 83202 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83202-a2008720

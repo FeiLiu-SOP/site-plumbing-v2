@@ -12,28 +12,45 @@ lng: -121.2100
 zipSample: ["97734"]
 zipCodes: ["97734"]
 localPaths: ["Jefferson County / ZIP 97734 sector", "Jefferson County / elevation 2635 ft band", "Jefferson County / coords 44.5200, -121.2100", "Jefferson County / primary ZIP 97734"]
-zillowHomeValueUsd: 408817
 ---
 
 **Engineering Notice for Culver:** System optimized for 141 mg/L hard water scaling factors in Culver. Regional dispatch grid: Jefferson County.
 
 
-Across Culver, OR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Culver, OR.
 
-Our intake language for Culver, OR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Can sump pump remediation wait until dry season? In Culver, OR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 97734.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Book a camera-assisted drain review before approving jetting on older Culver, OR mains. Serving ZIP Code: 97734.
+Trenchless pulls in Culver, OR require pit dimensions verified against utility locate marks.
 
-Field packet: cleanout riser height plus Sump pump float travel referenced in Jefferson County county grid review.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Main cleanout riser height measured against slab finish in Culver, OR.
+Confirm cleanout locations during the same visit. Route file 97734.
 
-Dispatch sectors sampled: ZIP 97734 (county grid: Jefferson County).
+Hose bib split patterns often follow missed winterization.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Basement floor drains in Culver, OR should be snaked only after trap arm geometry is confirmed on camera.
+
+Polybutylene manifold tags in Culver, OR basements should be photographed before wall chases open.
+
+Cleanout access limits in Culver, OR frequently extend drain cleaning duration.
+
+Ask for trenchless feasibility notes before main replacement. County grid Jefferson County.
+
+Supply audit 219058: curb-stop orientation and hose-bib freeze flag reviewed for Culver, OR at coords 44.5200/-121.2100.
+
+Service ledger 219058: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Culver, OR at 44.5200, -121.2100.
+
+ZIP-corridor snapshot for Culver, OR: sampled sectors include 97734; county routing grid remains Jefferson County.
 
 Service reference: OR-97734-ed646ded

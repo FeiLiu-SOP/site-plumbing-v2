@@ -12,30 +12,51 @@ lng: -97.0300
 zipSample: ["74604"]
 zipCodes: ["74604"]
 localPaths: ["Osage County / elevation 1079 ft band", "Osage County / coords 36.6800, -97.0300", "Osage County / primary ZIP 74604", "Osage County / ZIP 74604 sector"]
-zillowHomeValueUsd: 216996
 ---
 
 **Engineering Notice for McCord:** System optimized for 167 mg/L hard water scaling factors in McCord. Regional dispatch grid: Osage County.
 
 
-Property owners in McCord, OK may see whole-home repiping advisors escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in McCord, OK.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for McCord, OK.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Tip: Photograph cleanout cap threads before snaking near ZIP 74604.
 
-FAQ: What slows drain cleaning most? In McCord, OK, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Risk flag: In McCord, OK, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 74604.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 74604.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch note: fixture shutoff torque log and water heater T&P discharge path were logged for the McCord plumbing intake packet.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Drain cleaning cable head wear logged before second pass in McCord, OK.
+Tip: Log water heater flex line dates before wall closure in McCord, OK remodel zones.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 74604.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 74604 (county grid: Osage County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Frost-free sillcock failures in McCord, OK often trace to interior shutoff seats.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Irrigation cross-connections in McCord, OK can back-siphon domestic lines during main breaks.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Stack vent offsets in McCord, OK older duplexes can mask tub gurgle as a main-line failure.
+
+Pressure trace 567511: meter-pit clearance and dielectric union checklist staged for McCord, OK near elevation 1079 ft.
+
+Fixture roster 567511: toilet flange spacer kit and shower cartridge seat score queued for McCord, OK walk-through.
+
+Field note: Expansion tank pre-charge verified in McCord, OK.
+
+Field note: Backflow test cock orientation noted in McCord, OK.
+
+On-site sector marker: Osage County / primary ZIP 74604 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74604-5130408e

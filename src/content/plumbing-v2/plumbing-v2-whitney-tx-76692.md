@@ -12,30 +12,49 @@ lng: -97.3200
 zipSample: ["76692"]
 zipCodes: ["76692"]
 localPaths: ["Hill County / primary ZIP 76692", "Hill County / coords 31.9500, -97.3200", "Hill County / ZIP 76692 sector", "Hill County / elevation 591 ft band"]
-zillowHomeValueUsd: 219921
 ---
 
 **Engineering Notice for Whitney:** System optimized for 152 mg/L hard water scaling factors in Whitney. Regional dispatch grid: Hill County.
 
 
-Across Whitney, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Technicians stage basement sump service team jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: When is cabling enough? In Whitney, TX, pipe material and blockage type dictate method.
 
-Our intake language for Whitney, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Step: camera-pass main lines in Whitney, TX before jetting older clay or cast iron.
 
-FAQ: Can sump pump service wait until dry season? In Whitney, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Whitney, TX.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 76692.
+Tip: Log water heater flex line dates before wall closure in Whitney, TX remodel zones.
 
-Book a camera-assisted drain review before approving jetting on older Whitney, TX mains. Serving ZIP Code: 76692.
+FAQ: When should sump battery backups be load-tested? In Whitney, TX, before spring thaw and heavy rain remnants.
 
-Field packet: branch wet vent compliance note plus hose bib freeze-risk flag referenced in Hill County county grid review.
+Frost-free sillcock failures in Whitney, TX often trace to interior shutoff seats.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 76692.
+
+Hose bib split patterns often follow missed winterization.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Dual-water-meter setups in Whitney, TX irrigation zones need backflow logs before line replacement.
+
+Our Basement Sump Service Team coordination in Whitney, TX prioritizes cleanout access, vent integrity, and measurable flow recovery.
+
+Drain map 843064: camera-pass priority and expansion-tank pre-charge noted for Whitney, TX postal sector 76692.
+
+Fixture roster 843064: toilet flange spacer kit and shower cartridge seat score queued for Whitney, TX walk-through.
 
 Field note: Drain cleaning cable head wear logged before second pass in Whitney, TX.
 
-Field note: Main cleanout riser height measured against slab finish in Whitney, TX.
+Field note: Expansion tank pre-charge verified in Whitney, TX.
 
-Dispatch sectors sampled: ZIP 76692 (county grid: Hill County).
+Regional mesh label Hill County: moisture and logistics baselines are keyed to Whitney, TX before niche-specific work begins.
 
 Service reference: TX-76692-62626b4a

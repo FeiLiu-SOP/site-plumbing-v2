@@ -12,30 +12,49 @@ lng: -90.4100
 zipSample: ["39154"]
 zipCodes: ["39154"]
 localPaths: ["Hinds County / primary ZIP 39154", "Hinds County / ZIP 39154 sector", "Hinds County / elevation 318 ft band", "Hinds County / coords 32.2600, -90.4100"]
-zillowHomeValueUsd: 257589
 ---
 
 **Engineering Notice for Raymond:** System optimized for 124 mg/L hard water scaling factors in Raymond. Regional dispatch grid: Hinds County.
 
 
-Across Raymond, MS, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Hinds County.
 
-Our intake language for Raymond, MS work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: Can sump pump remediation wait until dry season? In Raymond, MS, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 39154.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Book a camera-assisted drain review before approving jetting on older Raymond, MS mains. Serving ZIP Code: 39154.
+Branch wet vents in Raymond, MS can mask gurgling as a main-line issue.
 
-Field packet: sub-slab moisture gradient plus jetter nozzle envelope referenced in Hinds County county grid review.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 39154.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 39154.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Main cleanout riser height measured against slab finish in Raymond, MS.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 39154 (county grid: Hinds County).
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Raymond, MS.
+
+Stack vent offsets in Raymond, MS older duplexes can mask tub gurgle as a main-line failure.
+
+Dispatch packets reference county grid Hinds County near ZIP 39154.
+
+Garage utility sinks in Raymond, MS often tie into laundry branches that mask main-line restrictions.
+
+Tip: Log water heater flex line dates before wall closure in Raymond, MS remodel zones.
+
+Our Fixture & Supply Line Pros coordination in Raymond, MS prioritizes cleanout access, vent integrity, and measurable flow recovery.
+
+Supply audit 231182: curb-stop orientation and hose-bib freeze flag reviewed for Raymond, MS at coords 32.2600/-90.4100.
+
+Pressure trace 231182: meter-pit clearance and dielectric union checklist staged for Raymond, MS near elevation 318 ft.
+
+Field note: Backflow test cock orientation noted in Raymond, MS.
+
+On-site sector marker: Hinds County / ZIP 39154 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39154-5194defb

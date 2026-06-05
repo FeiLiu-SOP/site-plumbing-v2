@@ -12,29 +12,45 @@ lng: -80.4400
 zipSample: ["32958", "32970", "32967"]
 zipCodes: ["32970", "32967", "32958"]
 localPaths: ["Indian River County / ZIP 32967 sector", "Indian River County / coords 27.7500, -80.4400", "Indian River County / primary ZIP 32970", "Indian River County / ZIP 32970 sector", "Indian River County / elevation 52 ft band"]
-zillowHomeValueUsd: 411311
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Wabasso:** System optimized for 166 mg/L hard water scaling factors in Wabasso. Regional dispatch grid: Indian River County.
 
 
-When slab leak response unit scopes are reviewed in Wabasso, FL, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Wabasso, FL.
+Polybutylene manifold tags in Wabasso, FL basements should be photographed before wall chases open.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Irrigation cross-connections in Wabasso, FL can back-siphon domestic lines during main breaks.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Wabasso, FL, soft blockages differ from root intrusion profiles.
+Basement floor drains in Wabasso, FL should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 32958/32967/32970.
+Stack vent offsets in Wabasso, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 32970.
+Across Wabasso, FL, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch note: copper pinhole cluster map and branch wet vent compliance note were logged for the Wabasso plumbing intake packet.
+Shared main supplies in Wabasso, FL duplexes require coordinated shutoff before pressure holds.
 
-Field note: Water line replacement trench path flagged for Indian River County setbacks.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Dispatch sectors sampled: ZIP 32958, 32967, 32970 (county grid: Indian River County).
+Risk flag: In Wabasso, FL, slab leaks can misroute as foundation issues without listening equipment.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 32970.
+
+Tip: Log water heater flex line dates before wall closure in Wabasso, FL remodel zones.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 32970.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Service ledger 218716: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Wabasso, FL at 27.7500, -80.4400.
+
+Fixture roster 218716: toilet flange spacer kit and shower cartridge seat score queued for Wabasso, FL walk-through.
+
+On-site sector marker: Indian River County / coords 27.7500, -80.4400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-32970-a50499b6

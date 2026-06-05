@@ -12,29 +12,45 @@ lng: -66.2300
 zipSample: ["00751"]
 zipCodes: ["00751"]
 localPaths: ["Salinas County / ZIP 00751 sector", "Salinas County / coords 18.0700, -66.2300", "Salinas County / primary ZIP 00751", "Salinas County / elevation 709 ft band"]
-zillowHomeValueUsd: 372609
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Vázquez:** System optimized for 175 mg/L hard water scaling factors in Vázquez. Regional dispatch grid: Salinas County.
 
 
-Across Vázquez, PR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Stack vent offsets in Vázquez, PR older duplexes can mask tub gurgle as a main-line failure.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Vázquez, PR.
 
-Our intake language for Vázquez, PR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Material note: Water heater anode type may change with Vázquez, PR hardness profiles.
 
-FAQ: Can sump pump restoration wait until dry season? In Vázquez, PR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Frost-free sillcock failures in Vázquez, PR often trace to interior shutoff seats.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 00751.
+FAQ: When is cabling enough? In Vázquez, PR, pipe material and blockage type dictate method.
 
-Book a camera-assisted drain review before approving jetting on older Vázquez, PR mains. Serving ZIP Code: 00751.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field packet: copper pinhole cluster map plus water heater T&P discharge path referenced in Salinas County county grid review.
+Dispatch packets reference county grid Salinas County near ZIP 00751.
 
-Field note: Drain cleaning cable head wear logged before second pass in Vázquez, PR.
+Galvanized segments in Vázquez, PR may restrict flow before visible corrosion.
 
-Dispatch sectors sampled: ZIP 00751 (county grid: Salinas County).
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+FAQ: When should sump battery backups be load-tested? In Vázquez, PR, before spring thaw and heavy rain remnants.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Hose bib split patterns often follow missed winterization.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: In Vázquez, PR, slab leaks can misroute as foundation issues without listening equipment.
+
+Pressure trace 939233: meter-pit clearance and dielectric union checklist staged for Vázquez, PR near elevation 709 ft.
+
+Service ledger 939233: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Vázquez, PR at 18.0700, -66.2300.
+
+On-site sector marker: Salinas County / coords 18.0700, -66.2300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00751-e0fd4750

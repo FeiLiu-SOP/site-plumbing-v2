@@ -12,30 +12,47 @@ lng: -96.8000
 zipSample: ["77968"]
 zipCodes: ["77968"]
 localPaths: ["Victoria County / elevation 69 ft band", "Victoria County / ZIP 77968 sector", "Victoria County / primary ZIP 77968", "Victoria County / coords 28.8700, -96.8000"]
-zillowHomeValueUsd: 363186
 ---
 
 **Engineering Notice for Inez:** System optimized for 154 mg/L hard water scaling factors in Inez. Regional dispatch grid: Victoria County.
 
 
-Across Inez, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Inez, TX.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Book sump and supply-line checks in one written scope. Postal sector 77968.
 
-Our intake language for Inez, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: Can sump pump restoration wait until dry season? In Inez, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 77968.
+FAQ: When is cabling enough? In Inez, TX, pipe material and blockage type dictate method.
 
-Book a camera-assisted drain review before approving jetting on older Inez, TX mains. Serving ZIP Code: 77968.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Routing marker: PRV outlet pressure curve paired with backflow test cock orientation near ZIP 77968.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field note: Main cleanout riser height measured against slab finish in Inez, TX.
+Risk flag: In Inez, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Drain cleaning cable head wear logged before second pass in Inez, TX.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Dispatch sectors sampled: ZIP 77968 (county grid: Victoria County).
+Step: document dielectric unions before mixed-metal replacements.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Inez, TX.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Hard water in Inez, TX accelerates scale on PRV seats and heater elements.
+
+Drain map 766008: camera-pass priority and expansion-tank pre-charge noted for Inez, TX postal sector 77968.
+
+Service ledger 766008: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Inez, TX at 28.8700, -96.8000.
+
+Field note: Camera pass stills archived for ZIP 77968 branch line.
+
+ZIP-corridor snapshot for Inez, TX: sampled sectors include 77968; county routing grid remains Victoria County.
 
 Service reference: TX-77968-f5d0705e

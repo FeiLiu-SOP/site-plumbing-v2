@@ -12,28 +12,47 @@ lng: -82.1700
 zipSample: ["37658"]
 zipCodes: ["37658"]
 localPaths: ["Carter County / coords 36.2800, -82.1700", "Carter County / elevation 1818 ft band", "Carter County / ZIP 37658 sector", "Carter County / primary ZIP 37658"]
-zillowHomeValueUsd: 206437
 ---
 
 **Engineering Notice for Hampton:** System optimized for 157 mg/L hard water scaling factors in Hampton. Regional dispatch grid: Carter County.
 
 
-Across Hampton, TN, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: In Hampton, TN, slab leaks can misroute as foundation issues without listening equipment.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Hydrostatic holds in Hampton, TN slab circuits run overnight when listening mics show ambiguous hits.
 
-Our intake language for Hampton, TN work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-FAQ: Can sump pump restoration wait until dry season? In Hampton, TN, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 37658.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Hampton, TN.
 
-Book a camera-assisted drain review before approving jetting on older Hampton, TN mains. Serving ZIP Code: 37658.
+Tip: Photograph cleanout cap threads before snaking near ZIP 37658.
 
-Field packet: fixture shutoff torque log plus cleanout riser height referenced in Carter County county grid review.
+Material note: Water heater anode type may change with Hampton, TN hardness profiles.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 37658.
+Dual-water-meter setups in Hampton, TN irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 37658 (county grid: Carter County).
+FAQ: Is hydro-jetting always appropriate? In Hampton, TN, pipe material and blockage type dictate method.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Tankless heater descale intervals in Hampton, TN hard-water zones differ from tank anode schedules.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Hard water in Hampton, TN accelerates scale on PRV seats and heater elements.
+
+Dispatch packets reference county grid Carter County near ZIP 37658.
+
+Supply audit 523027: curb-stop orientation and hose-bib freeze flag reviewed for Hampton, TN at coords 36.2800/-82.1700.
+
+Fixture roster 523027: toilet flange spacer kit and shower cartridge seat score queued for Hampton, TN walk-through.
+
+Coordinate-anchored dispatch note: center reference 36.2800, -82.1700 at elevation ~1818 ft aligns with Carter County intake staging.
 
 Service reference: TN-37658-6f1c1ffb

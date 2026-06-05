@@ -12,30 +12,45 @@ lng: -115.0500
 zipSample: ["59917"]
 zipCodes: ["59917"]
 localPaths: ["Lincoln County / primary ZIP 59917", "Lincoln County / coords 48.8800, -115.0500", "Lincoln County / ZIP 59917 sector", "Lincoln County / elevation 2687 ft band"]
-zillowHomeValueUsd: 529369
 ---
 
 **Engineering Notice for Eureka:** System optimized for 176 mg/L hard water scaling factors in Eureka. Regional dispatch grid: Lincoln County.
 
 
-Across Eureka, MT, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Our intake language for Eureka, MT work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Dispatch packets reference county grid Lincoln County near ZIP 59917.
 
-FAQ: Can sump pump remediation wait until dry season? In Eureka, MT, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Garage utility sinks in Eureka, MT often tie into laundry branches that mask main-line restrictions.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 59917.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Book a camera-assisted drain review before approving jetting on older Eureka, MT mains. Serving ZIP Code: 59917.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Lincoln County.
 
-Field packet: backflow test cock orientation plus water heater T&P discharge path referenced in Lincoln County county grid review.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 59917.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Water line replacement trench path flagged for Lincoln County setbacks.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 59917 (county grid: Lincoln County).
+Shared main supplies in Eureka, MT duplexes require coordinated shutoff before pressure holds.
+
+Frost-free sillcock failures in Eureka, MT often trace to interior shutoff seats.
+
+Dual-water-meter setups in Eureka, MT irrigation zones need backflow logs before line replacement.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Basement floor drains in Eureka, MT should be snaked only after trap arm geometry is confirmed on camera.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Drain map 236309: camera-pass priority and expansion-tank pre-charge noted for Eureka, MT postal sector 59917.
+
+Flow dossier 236309: branch wet-vent geometry and PRV seat wear logged for Eureka, MT county grid Lincoln County (ZIP 59917).
+
+**Regional Infrastructure Brief:** Service coverage aligns with Lincoln County and primary ZIP 59917. Terrain reference: 2687 ft. Center point: 48.8800, -115.0500. ZIP sample: 59917. Regional routing note: Lincoln County traffic flow is balanced around ZIP 59917 service demand.
 
 Service reference: MT-59917-e3eeda26

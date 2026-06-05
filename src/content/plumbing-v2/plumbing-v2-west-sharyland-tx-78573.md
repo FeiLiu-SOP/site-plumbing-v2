@@ -12,30 +12,47 @@ lng: -98.3400
 zipSample: ["78573"]
 zipCodes: ["78573"]
 localPaths: ["Hidalgo County / elevation 187 ft band", "Hidalgo County / coords 26.2700, -98.3400", "Hidalgo County / ZIP 78573 sector", "Hidalgo County / primary ZIP 78573"]
-zillowHomeValueUsd: 216764
 ---
 
 **Engineering Notice for West Sharyland:** System optimized for 178 mg/L hard water scaling factors in West Sharyland. Regional dispatch grid: Hidalgo County.
 
 
-A fixture & supply line pros request in West Sharyland, TX is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Shared main supplies in West Sharyland, TX duplexes require coordinated shutoff before pressure holds.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for West Sharyland, TX.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and West Sharyland, TX supply age can diverge sharply.
+Dispatch packets reference county grid Hidalgo County near ZIP 78573.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 78573.
+Stack vent offsets in West Sharyland, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 78573.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch note: copper pinhole cluster map and scale coupon sampling were logged for the West Sharyland plumbing intake packet.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Water line replacement trench path flagged for Hidalgo County setbacks.
+Cleanout access limits in West Sharyland, TX frequently extend drain cleaning duration.
 
-Field note: Drain cleaning cable head wear logged before second pass in West Sharyland, TX.
+Risk flag: In West Sharyland, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 78573 (county grid: Hidalgo County).
+Water heater T&P discharge paths in West Sharyland, TX must terminate safely before replacement quotes.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Hydrostatic holds in West Sharyland, TX slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: camera-pass main lines in West Sharyland, TX before jetting older clay or cast iron.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Branch wet vents in West Sharyland, TX can mask gurgling as a main-line issue.
+
+Lineage note 418987: recirculation pump amp draw captured before West Sharyland, TX branch isolation.
+
+Fixture roster 418987: toilet flange spacer kit and shower cartridge seat score queued for West Sharyland, TX walk-through.
+
+Field note: Main cleanout riser height measured against slab finish in West Sharyland, TX.
+
+On-site sector marker: Hidalgo County / elevation 187 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78573-1178aa8e

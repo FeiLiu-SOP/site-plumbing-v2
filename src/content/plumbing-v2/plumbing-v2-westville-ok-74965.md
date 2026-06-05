@@ -12,30 +12,45 @@ lng: -94.5800
 zipSample: ["74965"]
 zipCodes: ["74965"]
 localPaths: ["Adair County / coords 35.9900, -94.5800", "Adair County / elevation 1168 ft band", "Adair County / ZIP 74965 sector", "Adair County / primary ZIP 74965"]
-zillowHomeValueUsd: 188946
 ---
 
 **Engineering Notice for Westville:** System optimized for 165 mg/L hard water scaling factors in Westville. Regional dispatch grid: Adair County.
 
 
-Across Westville, OK, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Dispatch packets reference county grid Adair County near ZIP 74965.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Our intake language for Westville, OK work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Across Westville, OK, main-line bellies trap debris even when fixtures drain normally.
 
-FAQ: Can sump pump remediation wait until dry season? In Westville, OK, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 74965.
+Stack vent offsets in Westville, OK older duplexes can mask tub gurgle as a main-line failure.
 
-Book a camera-assisted drain review before approving jetting on older Westville, OK mains. Serving ZIP Code: 74965.
+CPVC solvent weld times shift with ambient humidity during Westville, OK shoulder seasons.
 
-Scope trace: cleanout riser height cross-checked against PRV outlet pressure curve before line-pressure hold test.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 74965.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Drain cleaning cable head wear logged before second pass in Westville, OK.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Westville, OK.
 
-Dispatch sectors sampled: ZIP 74965 (county grid: Adair County).
+Branch wet vents in Westville, OK can mask gurgling as a main-line issue.
+
+Tankless heater descale intervals in Westville, OK hard-water zones differ from tank anode schedules.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Shared main supplies in Westville, OK duplexes require coordinated shutoff before pressure holds.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Service ledger 821054: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Westville, OK at 35.9900, -94.5800.
+
+Pressure trace 821054: meter-pit clearance and dielectric union checklist staged for Westville, OK near elevation 1168 ft.
+
+Field note: PRV inlet and outlet curves captured for ZIP 74965.
+
+Coordinate-anchored dispatch note: center reference 35.9900, -94.5800 at elevation ~1168 ft aligns with Adair County intake staging.
 
 Service reference: OK-74965-707e0d4f

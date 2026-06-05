@@ -12,28 +12,47 @@ lng: -74.5000
 zipSample: ["07462"]
 zipCodes: ["07462"]
 localPaths: ["Sussex County / elevation 843 ft band", "Sussex County / primary ZIP 07462", "Sussex County / coords 41.1900, -74.5000", "Sussex County / ZIP 07462 sector"]
-zillowHomeValueUsd: 302617
 ---
 
 **Engineering Notice for Vernon Center:** System optimized for 167 mg/L hard water scaling factors in Vernon Center. Regional dispatch grid: Sussex County.
 
 
-Across Vernon Center, NJ, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tankless heater descale intervals in Vernon Center, NJ hard-water zones differ from tank anode schedules.
 
-Our intake language for Vernon Center, NJ work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Stack vent offsets in Vernon Center, NJ older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: Can sump pump restoration wait until dry season? In Vernon Center, NJ, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Vernon Center, NJ older homes.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 07462.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Book a camera-assisted drain review before approving jetting on older Vernon Center, NJ mains. Serving ZIP Code: 07462.
+Polybutylene manifold tags in Vernon Center, NJ basements should be photographed before wall chases open.
 
-Scope trace: water heater T&P discharge path cross-checked against fixture shutoff torque log before line-pressure hold test.
+Cleanout access limits in Vernon Center, NJ frequently extend drain cleaning duration.
 
-Field note: Drain cleaning cable head wear logged before second pass in Vernon Center, NJ.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 07462 (county grid: Sussex County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Material note: Water heater anode type may change with Vernon Center, NJ hardness profiles.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Vernon Center, NJ.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Lineage note 438845: recirculation pump amp draw captured before Vernon Center, NJ branch isolation.
+
+Service ledger 438845: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Vernon Center, NJ at 41.1900, -74.5000.
+
+Field note: Dielectric union checklist completed in Vernon Center, NJ.
+
+On-site sector marker: Sussex County / ZIP 07462 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07462-4dd6417f

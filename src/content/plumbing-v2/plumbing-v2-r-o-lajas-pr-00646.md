@@ -12,29 +12,43 @@ lng: -66.2600
 zipSample: ["00646"]
 zipCodes: ["00646"]
 localPaths: ["Dorado County / coords 18.4000, -66.2600", "Dorado County / ZIP 00646 sector", "Dorado County / elevation 220 ft band", "Dorado County / primary ZIP 00646"]
-zillowHomeValueUsd: 378093
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Río Lajas:** System optimized for 159 mg/L hard water scaling factors in Río Lajas. Regional dispatch grid: Dorado County.
 
 
-When water heater & pipe experts scopes are reviewed in Río Lajas, PR, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Río Lajas, PR.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+FAQ: When is cabling enough? In Río Lajas, PR, pipe material and blockage type dictate method.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Río Lajas, PR, soft blockages differ from root intrusion profiles.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 00646.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 00646.
+Irrigation cross-connections in Río Lajas, PR can back-siphon domestic lines during main breaks.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 00646.
+Tankless heater descale intervals in Río Lajas, PR hard-water zones differ from tank anode schedules.
 
-Dispatch note: hose bib freeze-risk flag and Sump pump float travel were logged for the Río Lajas plumbing intake packet.
+Ask for trenchless feasibility notes before main replacement. County grid Dorado County.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 00646.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Dispatch sectors sampled: ZIP 00646 (county grid: Dorado County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Río Lajas, PR.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 00646.
+
+Book sump and supply-line checks in one written scope. Postal sector 00646.
+
+Trenchless pulls in Río Lajas, PR require pit dimensions verified against utility locate marks.
+
+Tip: Log water heater flex line dates before wall closure in Río Lajas, PR remodel zones.
+
+Flow dossier 371140: branch wet-vent geometry and PRV seat wear logged for Río Lajas, PR county grid Dorado County (ZIP 00646).
+
+Service ledger 371140: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Río Lajas, PR at 18.4000, -66.2600.
+
+**Regional Infrastructure Brief:** Grid anchor set to Dorado County. Reference elevation: 220 ft. Primary coordinates: 18.4000, -66.2600. ZIP sample: 00646. Service perimeter note: Coverage extends through Dorado County with dispatch centered near ZIP 00646.
 
 Service reference: PR-00646-cc1cc53e

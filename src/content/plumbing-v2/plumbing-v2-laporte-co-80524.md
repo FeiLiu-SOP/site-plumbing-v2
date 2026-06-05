@@ -12,30 +12,49 @@ lng: -105.1400
 zipSample: ["80524", "80535"]
 zipCodes: ["80535", "80524"]
 localPaths: ["Larimer County / primary ZIP 80524", "Larimer County / ZIP 80535 sector", "Larimer County / elevation 5118 ft band", "Larimer County / coords 40.6400, -105.1400", "Larimer County / ZIP 80524 sector"]
-zillowHomeValueUsd: 588206
 ---
 
 **Engineering Notice for Laporte:** System optimized for 160 mg/L hard water scaling factors in Laporte. Regional dispatch grid: Larimer County.
 
 
-Across Laporte, CO, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Galvanized segments in Laporte, CO may restrict flow before visible corrosion.
 
-Our intake language for Laporte, CO work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Branch wet vents in Laporte, CO can mask gurgling as a main-line issue.
 
-FAQ: Can sump pump remediation wait until dry season? In Laporte, CO, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 80535/80524.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Book a camera-assisted drain review before approving jetting on older Laporte, CO mains. Serving ZIP Code: 80524.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Laporte, CO older homes.
 
-Field packet: PEX expansion ring batch plus cleanout riser height referenced in Larimer County county grid review.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Drain cleaning cable head wear logged before second pass in Laporte, CO.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 80524.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 80535/80524.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 80535, 80524 (county grid: Larimer County).
+Trenchless pulls in Laporte, CO require pit dimensions verified against utility locate marks.
+
+Tip: Log water heater flex line dates before wall closure in Laporte, CO remodel zones.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Water heater T&P discharge paths in Laporte, CO must terminate safely before replacement quotes.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Shared main supplies in Laporte, CO duplexes require coordinated shutoff before pressure holds.
+
+Flow dossier 662684: branch wet-vent geometry and PRV seat wear logged for Laporte, CO county grid Larimer County (ZIP 80524).
+
+Drain map 662684: camera-pass priority and expansion-tank pre-charge noted for Laporte, CO postal sector 80524.
+
+Field note: Expansion tank pre-charge verified in Laporte, CO.
+
+On-site sector marker: Larimer County / ZIP 80535 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80524-3b0fd905

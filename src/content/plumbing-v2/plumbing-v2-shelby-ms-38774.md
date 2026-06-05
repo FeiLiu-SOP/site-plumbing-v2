@@ -12,29 +12,47 @@ lng: -90.7700
 zipSample: ["38774"]
 zipCodes: ["38774"]
 localPaths: ["Bolivar County / elevation 161 ft band", "Bolivar County / coords 33.9500, -90.7700", "Bolivar County / primary ZIP 38774", "Bolivar County / ZIP 38774 sector"]
-zillowHomeValueUsd: 156327
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Shelby:** System optimized for 138 mg/L hard water scaling factors in Shelby. Regional dispatch grid: Bolivar County.
 
 
-Across Shelby, MS, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Shelby, MS.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Water heater T&P discharge paths in Shelby, MS must terminate safely before replacement quotes.
 
-Our intake language for Shelby, MS work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-FAQ: Can sump pump service wait until dry season? In Shelby, MS, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Permit note: Main water line replacement in Shelby, MS may require ROW restoration planning.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 38774.
+Shared main supplies in Shelby, MS duplexes require coordinated shutoff before pressure holds.
 
-Book a camera-assisted drain review before approving jetting on older Shelby, MS mains. Serving ZIP Code: 38774.
+Cleanout access limits in Shelby, MS frequently extend drain cleaning duration.
 
-Routing marker: hose bib freeze-risk flag paired with water heater T&P discharge path near ZIP 38774.
+Polybutylene manifold tags in Shelby, MS basements should be photographed before wall chases open.
 
-Field note: Drain cleaning cable head wear logged before second pass in Shelby, MS.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 38774 (county grid: Bolivar County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Irrigation cross-connections in Shelby, MS can back-siphon domestic lines during main breaks.
+
+Material note: Water heater anode type may change with Shelby, MS hardness profiles.
+
+Stack vent offsets in Shelby, MS older duplexes can mask tub gurgle as a main-line failure.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Shelby, MS.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Lineage note 753147: recirculation pump amp draw captured before Shelby, MS branch isolation.
+
+Pressure trace 753147: meter-pit clearance and dielectric union checklist staged for Shelby, MS near elevation 161 ft.
+
+Coordinate-anchored dispatch note: center reference 33.9500, -90.7700 at elevation ~161 ft aligns with Bolivar County intake staging.
 
 Service reference: MS-38774-972bc95a

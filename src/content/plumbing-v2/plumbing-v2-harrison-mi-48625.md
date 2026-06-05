@@ -12,28 +12,47 @@ lng: -84.8100
 zipSample: ["48625"]
 zipCodes: ["48625"]
 localPaths: ["Clare County / ZIP 48625 sector", "Clare County / elevation 1188 ft band", "Clare County / coords 44.0200, -84.8100", "Clare County / primary ZIP 48625"]
-zillowHomeValueUsd: 127871
 ---
 
 **Engineering Notice for Harrison:** System optimized for 139 mg/L hard water scaling factors in Harrison. Regional dispatch grid: Clare County.
 
 
-In Harrison, MI, slab leak response unit visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Polybutylene manifold tags in Harrison, MI basements should be photographed before wall chases open.
 
-Drain cleaning scopes in Harrison, MI separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Shared main supplies in Harrison, MI duplexes require coordinated shutoff before pressure holds.
 
-Slab Leak Response Unit coordination in Harrison, MI prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 48625.
 
-FAQ: When is water line replacement safer than spot remediation? In Harrison, MI, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 48625.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Harrison, MI.
 
-Request a written slab leak response unit plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 48625.
+Our Slab Leak Response Unit coordination in Harrison, MI prioritizes cleanout access, vent integrity, and measurable flow recovery.
 
-Field packet: cleanout riser height plus PEX expansion ring batch referenced in Clare County county grid review.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Main cleanout riser height measured against slab finish in Harrison, MI.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 48625 (county grid: Clare County).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Hose bib split patterns often follow missed winterization.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Book sump and supply-line checks in one written scope. Postal sector 48625.
+
+Slab leak listening windows in Harrison, MI depend on quiet periods and isolated branch valves.
+
+Drain map 327897: camera-pass priority and expansion-tank pre-charge noted for Harrison, MI postal sector 48625.
+
+Fixture roster 327897: toilet flange spacer kit and shower cartridge seat score queued for Harrison, MI walk-through.
+
+Field note: Expansion tank pre-charge verified in Harrison, MI.
+
+On-site sector marker: Clare County / ZIP 48625 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48625-cb7795cc

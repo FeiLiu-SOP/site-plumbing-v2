@@ -12,30 +12,47 @@ lng: -84.0300
 zipSample: ["28906"]
 zipCodes: ["28906"]
 localPaths: ["Cherokee County / primary ZIP 28906", "Cherokee County / ZIP 28906 sector", "Cherokee County / coords 35.0900, -84.0300", "Cherokee County / elevation 1555 ft band"]
-zillowHomeValueUsd: 278327
 ---
 
 **Engineering Notice for Murphy:** System optimized for 131 mg/L hard water scaling factors in Murphy. Regional dispatch grid: Cherokee County.
 
 
-When slab leak response unit scopes are reviewed in Murphy, NC, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Dispatch packets reference county grid Cherokee County near ZIP 28906.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Murphy, NC.
+Step: document dielectric unions before mixed-metal replacements.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 28906.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Murphy, NC, soft blockages differ from root intrusion profiles.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 28906.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Cherokee County.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 28906.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Murphy, NC.
 
-Routing marker: PRV outlet pressure curve paired with sub-slab moisture gradient near ZIP 28906.
+FAQ: When should sump battery backups be load-tested? In Murphy, NC, before spring thaw and heavy rain remnants.
 
-Field note: Main cleanout riser height measured against slab finish in Murphy, NC.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 28906.
+In Murphy, NC, slab leak response unit visits often begin with sump basin level checks and discharge line freeze separation.
 
-Dispatch sectors sampled: ZIP 28906 (county grid: Cherokee County).
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 28906.
+
+Step: camera-pass main lines in Murphy, NC before jetting older clay or cast iron.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Tankless heater descale intervals in Murphy, NC hard-water zones differ from tank anode schedules.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Frost-free sillcock failures in Murphy, NC often trace to interior shutoff seats.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Murphy, NC.
+
+Lineage note 203594: recirculation pump amp draw captured before Murphy, NC branch isolation.
+
+Flow dossier 203594: branch wet-vent geometry and PRV seat wear logged for Murphy, NC county grid Cherokee County (ZIP 28906).
+
+On-site sector marker: Cherokee County / primary ZIP 28906 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28906-02f88cfa

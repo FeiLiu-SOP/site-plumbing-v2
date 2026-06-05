@@ -12,30 +12,45 @@ lng: -98.4900
 zipSample: ["78212"]
 zipCodes: ["78212"]
 localPaths: ["Bexar County / coords 29.4700, -98.4900", "Bexar County / ZIP 78212 sector", "Bexar County / primary ZIP 78212", "Bexar County / elevation 764 ft band"]
-zillowHomeValueUsd: 284266
 ---
 
 **Engineering Notice for Olmos Park:** System optimized for 129 mg/L hard water scaling factors in Olmos Park. Regional dispatch grid: Bexar County.
 
 
-A whole-home repiping advisors contact in Olmos Park, TX is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Slab leak listening windows in Olmos Park, TX depend on quiet periods and isolated branch valves.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Olmos Park, TX.
+Stack vent offsets in Olmos Park, TX older duplexes can mask tub gurgle as a main-line failure.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Olmos Park, TX supply age can diverge sharply.
+Tankless heater descale intervals in Olmos Park, TX hard-water zones differ from tank anode schedules.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 78212.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 78212.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Olmos Park, TX.
 
-Scope trace: water heater T&P discharge path cross-checked against branch wet vent compliance note before line-pressure hold test.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Olmos Park, TX.
 
-Field note: Water line replacement trench path flagged for Bexar County setbacks.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Main cleanout riser height measured against slab finish in Olmos Park, TX.
+FAQ: When should sump battery backups be load-tested? In Olmos Park, TX, before spring thaw and heavy rain remnants.
 
-Dispatch sectors sampled: ZIP 78212 (county grid: Bexar County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 78212.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Service ledger 250953: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Olmos Park, TX at 29.4700, -98.4900.
+
+Supply audit 250953: curb-stop orientation and hose-bib freeze flag reviewed for Olmos Park, TX at coords 29.4700/-98.4900.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 78212.
+
+On-site sector marker: Bexar County / coords 29.4700, -98.4900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78212-57706ab0

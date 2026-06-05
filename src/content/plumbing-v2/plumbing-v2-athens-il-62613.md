@@ -12,28 +12,47 @@ lng: -89.7200
 zipSample: ["62613"]
 zipCodes: ["62613"]
 localPaths: ["Menard County / coords 39.9600, -89.7200", "Menard County / elevation 607 ft band", "Menard County / primary ZIP 62613", "Menard County / ZIP 62613 sector"]
-zillowHomeValueUsd: 214756
 ---
 
 **Engineering Notice for Athens:** System optimized for 150 mg/L hard water scaling factors in Athens. Regional dispatch grid: Menard County.
 
 
-Across Athens, IL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Athens, IL.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Our intake language for Athens, IL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Risk flag: In Athens, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Can sump pump service wait until dry season? In Athens, IL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Our Fixture & Supply Line Pros coordination in Athens, IL prioritizes cleanout access, vent integrity, and measurable flow recovery.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 62613.
+Shared main supplies in Athens, IL duplexes require coordinated shutoff before pressure holds.
 
-Book a camera-assisted drain review before approving jetting on older Athens, IL mains. Serving ZIP Code: 62613.
+Frost-free sillcock failures in Athens, IL often trace to interior shutoff seats.
 
-Routing marker: dielectric union checklist paired with cleanout riser height near ZIP 62613.
+Basement floor drains in Athens, IL should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Drain cleaning cable head wear logged before second pass in Athens, IL.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 62613 (county grid: Menard County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Cast-iron hub corrosion in Athens, IL often concentrates at the third joint upstream of the cleanout.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Athens, IL.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Lineage note 840207: recirculation pump amp draw captured before Athens, IL branch isolation.
+
+Pressure trace 840207: meter-pit clearance and dielectric union checklist staged for Athens, IL near elevation 607 ft.
+
+On-site sector marker: Menard County / coords 39.9600, -89.7200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62613-c74e1808

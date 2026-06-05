@@ -12,30 +12,43 @@ lng: -87.2600
 zipSample: ["32535"]
 zipCodes: ["32535"]
 localPaths: ["Escambia County / ZIP 32535 sector", "Escambia County / elevation 112 ft band", "Escambia County / primary ZIP 32535", "Escambia County / coords 30.9800, -87.2600"]
-zillowHomeValueUsd: 201949
 ---
 
 **Engineering Notice for Century:** System optimized for 178 mg/L hard water scaling factors in Century. Regional dispatch grid: Escambia County.
 
 
-Property owners in Century, FL may see drain line restoration crew escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Hydrostatic holds in Century, FL slab circuits run overnight when listening mics show ambiguous hits.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Century, FL.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 32535.
 
-FAQ: What slows drain cleaning most? In Century, FL, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Dual-water-meter setups in Century, FL irrigation zones need backflow logs before line replacement.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 32535.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 32535.
+Garage utility sinks in Century, FL often tie into laundry branches that mask main-line restrictions.
 
-Routing marker: backflow test cock orientation paired with PRV outlet pressure curve near ZIP 32535.
+Trenchless pulls in Century, FL require pit dimensions verified against utility locate marks.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 32535.
+Stack vent offsets in Century, FL older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Drain cleaning cable head wear logged before second pass in Century, FL.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 32535 (county grid: Escambia County).
+Tankless heater descale intervals in Century, FL hard-water zones differ from tank anode schedules.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 32535.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Cleanout access limits in Century, FL frequently extend drain cleaning duration.
+
+Material note: Water heater anode type may change with Century, FL hardness profiles.
+
+Service ledger 584601: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Century, FL at 30.9800, -87.2600.
+
+Lineage note 584601: recirculation pump amp draw captured before Century, FL branch isolation.
+
+Coordinate-anchored dispatch note: center reference 30.9800, -87.2600 at elevation ~112 ft aligns with Escambia County intake staging.
 
 Service reference: FL-32535-157b488a

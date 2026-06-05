@@ -12,30 +12,43 @@ lng: -88.2100
 zipSample: ["36904"]
 zipCodes: ["36904"]
 localPaths: ["Choctaw County / ZIP 36904 sector", "Choctaw County / coords 32.1000, -88.2100", "Choctaw County / elevation 161 ft band", "Choctaw County / primary ZIP 36904"]
-zillowHomeValueUsd: 137353
 ---
 
 **Engineering Notice for Butler:** System optimized for 148 mg/L hard water scaling factors in Butler. Regional dispatch grid: Choctaw County.
 
 
-Across Butler, AL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tankless heater descale intervals in Butler, AL hard-water zones differ from tank anode schedules.
 
-Our intake language for Butler, AL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Can sump pump service wait until dry season? In Butler, AL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Ask for trenchless feasibility notes before main replacement. County grid Choctaw County.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 36904.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Book a camera-assisted drain review before approving jetting on older Butler, AL mains. Serving ZIP Code: 36904.
+Permit note: Main water line replacement in Butler, AL may require ROW restoration planning.
 
-Dispatch note: dielectric union checklist and PRV outlet pressure curve were logged for the Butler plumbing intake packet.
+Across Butler, AL, main-line bellies trap debris even when fixtures drain normally.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 36904.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Butler, AL.
 
-Field note: Drain cleaning cable head wear logged before second pass in Butler, AL.
+Tip: Log water heater flex line dates before wall closure in Butler, AL remodel zones.
 
-Dispatch sectors sampled: ZIP 36904 (county grid: Choctaw County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Butler, AL.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Basement floor drains in Butler, AL should be snaked only after trap arm geometry is confirmed on camera.
+
+Pressure trace 149144: meter-pit clearance and dielectric union checklist staged for Butler, AL near elevation 161 ft.
+
+Lineage note 149144: recirculation pump amp draw captured before Butler, AL branch isolation.
+
+On-site sector marker: Choctaw County / ZIP 36904 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36904-1d41ea1f

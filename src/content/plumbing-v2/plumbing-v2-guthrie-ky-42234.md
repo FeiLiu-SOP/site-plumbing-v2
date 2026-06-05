@@ -12,30 +12,47 @@ lng: -87.1700
 zipSample: ["42234"]
 zipCodes: ["42234"]
 localPaths: ["Todd County / primary ZIP 42234", "Todd County / coords 36.6500, -87.1700", "Todd County / elevation 545 ft band", "Todd County / ZIP 42234 sector"]
-zillowHomeValueUsd: 194393
 ---
 
 **Engineering Notice for Guthrie:** System optimized for 134 mg/L hard water scaling factors in Guthrie. Regional dispatch grid: Todd County.
 
 
-In Guthrie, KY, leak detection pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Hose bib split patterns often follow missed winterization.
 
-Drain cleaning scopes in Guthrie, KY separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Leak Detection Pros coordination in Guthrie, KY prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Confirm cleanout locations during the same visit. Route file 42234.
 
-FAQ: When is water line replacement safer than spot remediation? In Guthrie, KY, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Guthrie, KY.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 42234.
+Stack vent offsets in Guthrie, KY older duplexes can mask tub gurgle as a main-line failure.
 
-Request a written leak detection pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 42234.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Scope trace: jetter nozzle envelope cross-checked against main line camera pass before line-pressure hold test.
+FAQ: When should sump battery backups be load-tested? In Guthrie, KY, before spring thaw and heavy rain remnants.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 42234.
+Trenchless pulls in Guthrie, KY require pit dimensions verified against utility locate marks.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 42234.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Guthrie, KY.
 
-Dispatch sectors sampled: ZIP 42234 (county grid: Todd County).
+Dispatch packets reference county grid Todd County near ZIP 42234.
+
+Cast-iron hub corrosion in Guthrie, KY often concentrates at the third joint upstream of the cleanout.
+
+Shared main supplies in Guthrie, KY duplexes require coordinated shutoff before pressure holds.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Tip: Log water heater flex line dates before wall closure in Guthrie, KY remodel zones.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Service ledger 836823: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Guthrie, KY at 36.6500, -87.1700.
+
+Supply audit 836823: curb-stop orientation and hose-bib freeze flag reviewed for Guthrie, KY at coords 36.6500/-87.1700.
+
+Field note: Fixture shutoff torque notes filed for ZIP 42234.
+
+On-site sector marker: Todd County / elevation 545 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-42234-d7548547

@@ -12,28 +12,43 @@ lng: -76.9100
 zipSample: ["20743"]
 zipCodes: ["20743"]
 localPaths: ["Prince George's County / coords 38.9000, -76.9100", "Prince George's County / ZIP 20743 sector", "Prince George's County / elevation 98 ft band", "Prince George's County / primary ZIP 20743"]
-zillowHomeValueUsd: 334571
 ---
 
 **Engineering Notice for Cedar Heights:** System optimized for 121 mg/L hard water scaling factors in Cedar Heights. Regional dispatch grid: Prince George's County.
 
 
-In Cedar Heights, MD, slab leak response unit visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Drain cleaning scopes in Cedar Heights, MD separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+FAQ: When should sump battery backups be load-tested? In Cedar Heights, MD, before spring thaw and heavy rain remnants.
 
-Slab Leak Response Unit coordination in Cedar Heights, MD prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Risk flag: In Cedar Heights, MD, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: When is water line replacement safer than spot service? In Cedar Heights, MD, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 20743.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Request a written slab leak response unit plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 20743.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 20743.
 
-Dispatch note: cleanout riser height and sub-slab moisture gradient were logged for the Cedar Heights plumbing intake packet.
+Polybutylene manifold tags in Cedar Heights, MD basements should be photographed before wall chases open.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 20743.
+CPVC solvent weld times shift with ambient humidity during Cedar Heights, MD shoulder seasons.
 
-Dispatch sectors sampled: ZIP 20743 (county grid: Prince George's County).
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Cedar Heights, MD older homes.
+
+Permit note: Main water line replacement in Cedar Heights, MD may require ROW restoration planning.
+
+Tankless heater descale intervals in Cedar Heights, MD hard-water zones differ from tank anode schedules.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Material note: Water heater anode type may change with Cedar Heights, MD hardness profiles.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Lineage note 876096: recirculation pump amp draw captured before Cedar Heights, MD branch isolation.
+
+Supply audit 876096: curb-stop orientation and hose-bib freeze flag reviewed for Cedar Heights, MD at coords 38.9000/-76.9100.
+
+Coordinate-anchored dispatch note: center reference 38.9000, -76.9100 at elevation ~98 ft aligns with Prince George's County intake staging.
 
 Service reference: MD-20743-787870ef

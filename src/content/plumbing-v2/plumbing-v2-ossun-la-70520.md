@@ -12,30 +12,45 @@ lng: -92.1100
 zipSample: ["70507", "70583", "70520"]
 zipCodes: ["70507", "70583", "70520"]
 localPaths: ["Lafayette Parish / elevation 46 ft band", "Lafayette Parish / ZIP 70583 sector", "Lafayette Parish / ZIP 70520 sector", "Lafayette Parish / coords 30.2800, -92.1100", "Lafayette Parish / ZIP 70507 sector"]
-zillowHomeValueUsd: 211670
 ---
 
 **Engineering Notice for Ossun:** System optimized for 147 mg/L hard water scaling factors in Ossun. Regional dispatch grid: Lafayette Parish.
 
 
-Across Ossun, LA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Ossun, LA.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Our intake language for Ossun, LA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Hydrostatic holds in Ossun, LA slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Can sump pump service wait until dry season? In Ossun, LA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Ossun, LA.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 70520/70507/70583.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Book a camera-assisted drain review before approving jetting on older Ossun, LA mains. Serving ZIP Code: 70520.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Dispatch note: hose bib freeze-risk flag and PRV outlet pressure curve were logged for the Ossun plumbing intake packet.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 70520/70507/70583.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 70520/70507/70583.
+Tip: Log water heater flex line dates before wall closure in Ossun, LA remodel zones.
 
-Dispatch sectors sampled: ZIP 70520, 70507, 70583 (county grid: Lafayette Parish).
+Tip: Photograph cleanout cap threads before snaking near ZIP 70520.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Supply audit 326647: curb-stop orientation and hose-bib freeze flag reviewed for Ossun, LA at coords 30.2800/-92.1100.
+
+Drain map 326647: camera-pass priority and expansion-tank pre-charge noted for Ossun, LA postal sector 70520.
+
+Field note: Slab listen window scheduled for Lafayette Parish grid.
+
+On-site sector marker: Lafayette Parish / coords 30.2800, -92.1100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70520-40a18eef

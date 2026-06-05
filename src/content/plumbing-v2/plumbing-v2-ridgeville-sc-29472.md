@@ -12,30 +12,45 @@ lng: -80.3100
 zipSample: ["29472"]
 zipCodes: ["29472"]
 localPaths: ["Dorchester County / coords 33.0900, -80.3100", "Dorchester County / ZIP 29472 sector", "Dorchester County / elevation 66 ft band", "Dorchester County / primary ZIP 29472"]
-zillowHomeValueUsd: 327342
 ---
 
 **Engineering Notice for Ridgeville:** System optimized for 174 mg/L hard water scaling factors in Ridgeville. Regional dispatch grid: Dorchester County.
 
 
-A whole-home repiping advisors request in Ridgeville, SC is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Ridgeville, SC.
+Tankless heater descale intervals in Ridgeville, SC hard-water zones differ from tank anode schedules.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 29472.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Ridgeville, SC supply age can diverge sharply.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 29472.
+Shared main supplies in Ridgeville, SC duplexes require coordinated shutoff before pressure holds.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 29472.
+Hard water in Ridgeville, SC accelerates scale on PRV seats and heater elements.
 
-Scope trace: dielectric union checklist cross-checked against PRV outlet pressure curve before line-pressure hold test.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 29472.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field note: Water line replacement trench path flagged for Dorchester County setbacks.
+Material note: Water heater anode type may change with Ridgeville, SC hardness profiles.
 
-Dispatch sectors sampled: ZIP 29472 (county grid: Dorchester County).
+Risk flag: In Ridgeville, SC, slab leaks can misroute as foundation issues without listening equipment.
+
+Permit note: Main water line replacement in Ridgeville, SC may require ROW restoration planning.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Branch wet vents in Ridgeville, SC can mask gurgling as a main-line issue.
+
+Step: map sump float travel and check-valve orientation for Ridgeville, SC basements.
+
+Pressure trace 966760: meter-pit clearance and dielectric union checklist staged for Ridgeville, SC near elevation 66 ft.
+
+Flow dossier 966760: branch wet-vent geometry and PRV seat wear logged for Ridgeville, SC county grid Dorchester County (ZIP 29472).
+
+Field note: PRV inlet and outlet curves captured for ZIP 29472.
+
+On-site sector marker: Dorchester County / primary ZIP 29472 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29472-95e35fc0

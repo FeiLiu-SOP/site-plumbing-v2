@@ -12,30 +12,45 @@ lng: -149.7500
 zipSample: ["99694", "99688"]
 zipCodes: ["99694", "99688"]
 localPaths: ["Matanuska-Susitna County / ZIP 99694 sector", "Matanuska-Susitna County / primary ZIP 99694", "Matanuska-Susitna County / coords 61.8200, -149.7500", "Matanuska-Susitna County / ZIP 99688 sector", "Matanuska-Susitna County / elevation 0 ft band"]
-zillowHomeValueUsd: 250878
 ---
 
 **Engineering Notice for Willow:** System optimized for 160 mg/L hard water scaling factors in Willow. Regional dispatch grid: Matanuska-Susitna County.
 
 
-Across Willow, AK, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Ask for trenchless feasibility notes before main replacement. County grid Matanuska-Susitna County.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Our intake language for Willow, AK work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Can sump pump remediation wait until dry season? In Willow, AK, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 99688/99694.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Willow, AK.
 
-Book a camera-assisted drain review before approving jetting on older Willow, AK mains. Serving ZIP Code: 99694.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch note: scale coupon sampling and jetter nozzle envelope were logged for the Willow plumbing intake packet.
+Water heater T&P discharge paths in Willow, AK must terminate safely before replacement quotes.
 
-Field note: Drain cleaning cable head wear logged before second pass in Willow, AK.
+Slab leak listening windows in Willow, AK depend on quiet periods and isolated branch valves.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 99688/99694.
+Shared main supplies in Willow, AK duplexes require coordinated shutoff before pressure holds.
 
-Dispatch sectors sampled: ZIP 99688, 99694 (county grid: Matanuska-Susitna County).
+Step: map sump float travel and check-valve orientation for Willow, AK basements.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Stack vent offsets in Willow, AK older duplexes can mask tub gurgle as a main-line failure.
+
+Fixture roster 204689: toilet flange spacer kit and shower cartridge seat score queued for Willow, AK walk-through.
+
+Drain map 204689: camera-pass priority and expansion-tank pre-charge noted for Willow, AK postal sector 99694.
+
+Field note: Water line replacement trench path flagged for Matanuska-Susitna County setbacks.
+
+Regional mesh label Matanuska-Susitna County: moisture and logistics baselines are keyed to Willow, AK before niche-specific work begins.
 
 Service reference: AK-99694-952b623d

@@ -12,30 +12,45 @@ lng: -86.1500
 zipSample: ["46181"]
 zipCodes: ["46181"]
 localPaths: ["Johnson County / primary ZIP 46181", "Johnson County / elevation 843 ft band", "Johnson County / ZIP 46181 sector", "Johnson County / coords 39.4100, -86.1500"]
-zillowHomeValueUsd: 369057
 ---
 
 **Engineering Notice for Trafalgar:** System optimized for 157 mg/L hard water scaling factors in Trafalgar. Regional dispatch grid: Johnson County.
 
 
-Across Trafalgar, IN, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: log PRV inlet and outlet readings during intake.
 
-Our intake language for Trafalgar, IN work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Galvanized segments in Trafalgar, IN may restrict flow before visible corrosion.
 
-FAQ: Can sump pump service wait until dry season? In Trafalgar, IN, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 46181.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Trafalgar, IN.
 
-Book a camera-assisted drain review before approving jetting on older Trafalgar, IN mains. Serving ZIP Code: 46181.
+Polybutylene manifold tags in Trafalgar, IN basements should be photographed before wall chases open.
 
-Dispatch note: scale coupon sampling and sub-slab moisture gradient were logged for the Trafalgar plumbing intake packet.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Trafalgar, IN older homes.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 46181.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Drain cleaning cable head wear logged before second pass in Trafalgar, IN.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Dispatch sectors sampled: ZIP 46181 (county grid: Johnson County).
+Permit note: Main water line replacement in Trafalgar, IN may require ROW restoration planning.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: In Trafalgar, IN, slab leaks can misroute as foundation issues without listening equipment.
+
+Cast-iron hub corrosion in Trafalgar, IN often concentrates at the third joint upstream of the cleanout.
+
+Service ledger 252761: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Trafalgar, IN at 39.4100, -86.1500.
+
+Drain map 252761: camera-pass priority and expansion-tank pre-charge noted for Trafalgar, IN postal sector 46181.
+
+Field note: Slab listen window scheduled for Johnson County grid.
+
+On-site sector marker: Johnson County / coords 39.4100, -86.1500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46181-9840f698

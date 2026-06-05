@@ -12,28 +12,49 @@ lng: -108.0600
 zipSample: ["87410"]
 zipCodes: ["87410"]
 localPaths: ["San Juan County / coords 36.7900, -108.0600", "San Juan County / ZIP 87410 sector", "San Juan County / elevation 5571 ft band", "San Juan County / primary ZIP 87410"]
-zillowHomeValueUsd: 275808
 ---
 
 **Engineering Notice for South River:** System optimized for 137 mg/L hard water scaling factors in South River. Regional dispatch grid: San Juan County.
 
 
-Across South River, NM, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in South River, NM older homes.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Hydro-jetting in South River, NM requires camera confirmation before nozzle pressure is raised.
 
-Our intake language for South River, NM work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 87410.
 
-FAQ: Can sump pump remediation wait until dry season? In South River, NM, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Photograph cleanout cap threads before snaking near ZIP 87410.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 87410.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Book a camera-assisted drain review before approving jetting on older South River, NM mains. Serving ZIP Code: 87410.
+Risk flag: In South River, NM, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch note: PEX expansion ring batch and jetter nozzle envelope were logged for the South River plumbing intake packet.
+Tip: Log water heater flex line dates before wall closure in South River, NM remodel zones.
 
-Field note: Water line replacement trench path flagged for San Juan County setbacks.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 87410 (county grid: San Juan County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Frost-free sillcock failures in South River, NM often trace to interior shutoff seats.
+
+Permit note: Main water line replacement in South River, NM may require ROW restoration planning.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Flow dossier 414016: branch wet-vent geometry and PRV seat wear logged for South River, NM county grid San Juan County (ZIP 87410).
+
+Pressure trace 414016: meter-pit clearance and dielectric union checklist staged for South River, NM near elevation 5571 ft.
+
+Field note: Drain cleaning cable head wear logged before second pass in South River, NM.
+
+**Regional Infrastructure Brief:** Grid anchor set to San Juan County. Reference elevation: 5571 ft. Primary coordinates: 36.7900, -108.0600. ZIP sample: 87410. Logistics priority: Serving residential sectors across San Juan County and north-east ZIP 87410 grid.
 
 Service reference: NM-87410-c2baa1d7

@@ -12,30 +12,47 @@ lng: -84.2400
 zipSample: ["48661"]
 zipCodes: ["48661"]
 localPaths: ["Ogemaw County / coords 44.2700, -84.2400", "Ogemaw County / elevation 945 ft band", "Ogemaw County / primary ZIP 48661", "Ogemaw County / ZIP 48661 sector"]
-zillowHomeValueUsd: 213600
 ---
 
 **Engineering Notice for West Branch:** System optimized for 127 mg/L hard water scaling factors in West Branch. Regional dispatch grid: Ogemaw County.
 
 
-Across West Branch, MI, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Our intake language for West Branch, MI work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Hard water in West Branch, MI accelerates scale on PRV seats and heater elements.
 
-FAQ: Can sump pump remediation wait until dry season? In West Branch, MI, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 48661.
+Ask for trenchless feasibility notes before main replacement. County grid Ogemaw County.
 
-Book a camera-assisted drain review before approving jetting on older West Branch, MI mains. Serving ZIP Code: 48661.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Scope trace: main line camera pass cross-checked against water heater T&P discharge path before line-pressure hold test.
+Hydrostatic holds in West Branch, MI slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Water line replacement trench path flagged for Ogemaw County setbacks.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 48661.
+Tip: Photograph cleanout cap threads before snaking near ZIP 48661.
 
-Dispatch sectors sampled: ZIP 48661 (county grid: Ogemaw County).
+Cleanout access limits in West Branch, MI frequently extend drain cleaning duration.
+
+Material note: Water heater anode type may change with West Branch, MI hardness profiles.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Risk flag: In West Branch, MI, slab leaks can misroute as foundation issues without listening equipment.
+
+Polybutylene manifold tags in West Branch, MI basements should be photographed before wall chases open.
+
+Service ledger 871499: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for West Branch, MI at 44.2700, -84.2400.
+
+Flow dossier 871499: branch wet-vent geometry and PRV seat wear logged for West Branch, MI county grid Ogemaw County (ZIP 48661).
+
+Field note: Hose bib freeze flags logged for West Branch, MI.
+
+Regional mesh label Ogemaw County: moisture and logistics baselines are keyed to West Branch, MI before niche-specific work begins.
 
 Service reference: MI-48661-a9451fba

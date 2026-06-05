@@ -12,30 +12,43 @@ lng: -80.2000
 zipSample: ["34958", "34996"]
 zipCodes: ["34958", "34996"]
 localPaths: ["Martin County / ZIP 34958 sector", "Martin County / elevation 33 ft band", "Martin County / ZIP 34996 sector", "Martin County / primary ZIP 34996", "Martin County / coords 27.2000, -80.2000"]
-zillowHomeValueUsd: 430757
 ---
 
 **Engineering Notice for Sewall's Point:** System optimized for 141 mg/L hard water scaling factors in Sewall's Point. Regional dispatch grid: Martin County.
 
 
-In Sewall's Point, FL, basement sump service team visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 34996.
 
-Drain cleaning scopes in Sewall's Point, FL separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Basement Sump Service Team coordination in Sewall's Point, FL prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: When is water line replacement safer than spot remediation? In Sewall's Point, FL, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Hydrostatic holds in Sewall's Point, FL slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 34958/34996.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Request a written basement sump service team plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 34996.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Sewall's Point, FL.
 
-Routing marker: hose bib freeze-risk flag paired with water heater T&P discharge path near ZIP 34996.
+Basement floor drains in Sewall's Point, FL should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Main cleanout riser height measured against slab finish in Sewall's Point, FL.
+Water heater T&P discharge paths in Sewall's Point, FL must terminate safely before replacement quotes.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 34958/34996.
+Book sump and supply-line checks in one written scope. Postal sector 34996.
 
-Dispatch sectors sampled: ZIP 34958, 34996 (county grid: Martin County).
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Across Sewall's Point, FL, main-line bellies trap debris even when fixtures drain normally.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Sewall's Point, FL.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Flow dossier 513695: branch wet-vent geometry and PRV seat wear logged for Sewall's Point, FL county grid Martin County (ZIP 34996).
+
+Pressure trace 513695: meter-pit clearance and dielectric union checklist staged for Sewall's Point, FL near elevation 33 ft.
+
+On-site sector marker: Martin County / ZIP 34996 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-34996-3129bef4

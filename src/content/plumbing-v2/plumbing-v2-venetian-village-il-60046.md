@@ -12,28 +12,49 @@ lng: -88.0500
 zipSample: ["60046"]
 zipCodes: ["60046"]
 localPaths: ["Lake County / primary ZIP 60046", "Lake County / elevation 787 ft band", "Lake County / ZIP 60046 sector", "Lake County / coords 42.4000, -88.0500"]
-zillowHomeValueUsd: 347431
 ---
 
 **Engineering Notice for Venetian Village:** System optimized for 151 mg/L hard water scaling factors in Venetian Village. Regional dispatch grid: Lake County.
 
 
-Across Venetian Village, IL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Water heater T&P discharge paths in Venetian Village, IL must terminate safely before replacement quotes.
 
-Our intake language for Venetian Village, IL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: Can sump pump restoration wait until dry season? In Venetian Village, IL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 60046.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Book a camera-assisted drain review before approving jetting on older Venetian Village, IL mains. Serving ZIP Code: 60046.
+Dual-water-meter setups in Venetian Village, IL irrigation zones need backflow logs before line replacement.
 
-Scope trace: backflow test cock orientation cross-checked against hose bib freeze-risk flag before line-pressure hold test.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field note: Water line replacement trench path flagged for Lake County setbacks.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Venetian Village, IL.
 
-Dispatch sectors sampled: ZIP 60046 (county grid: Lake County).
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Basement floor drains in Venetian Village, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Shared main supplies in Venetian Village, IL duplexes require coordinated shutoff before pressure holds.
+
+Pressure trace 754382: meter-pit clearance and dielectric union checklist staged for Venetian Village, IL near elevation 787 ft.
+
+Service ledger 754382: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Venetian Village, IL at 42.4000, -88.0500.
+
+Field note: Hose bib freeze flags logged for Venetian Village, IL.
+
+Field note: Backflow test cock orientation noted in Venetian Village, IL.
+
+On-site sector marker: Lake County / coords 42.4000, -88.0500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60046-bc44a1db

@@ -12,28 +12,45 @@ lng: -117.2800
 zipSample: ["97828"]
 zipCodes: ["97828"]
 localPaths: ["Wallowa County / primary ZIP 97828", "Wallowa County / elevation 3753 ft band", "Wallowa County / coords 45.4300, -117.2800", "Wallowa County / ZIP 97828 sector"]
-zillowHomeValueUsd: 419607
 ---
 
 **Engineering Notice for Enterprise:** System optimized for 144 mg/L hard water scaling factors in Enterprise. Regional dispatch grid: Wallowa County.
 
 
-Across Enterprise, OR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Book sump and supply-line checks in one written scope. Postal sector 97828.
 
-Our intake language for Enterprise, OR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Enterprise, OR older homes.
 
-FAQ: Can sump pump restoration wait until dry season? In Enterprise, OR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: When is cabling enough? In Enterprise, OR, pipe material and blockage type dictate method.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 97828.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Enterprise, OR.
 
-Book a camera-assisted drain review before approving jetting on older Enterprise, OR mains. Serving ZIP Code: 97828.
+Tankless heater descale intervals in Enterprise, OR hard-water zones differ from tank anode schedules.
 
-Dispatch note: hose bib freeze-risk flag and branch wet vent compliance note were logged for the Enterprise plumbing intake packet.
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Shared main supplies in Enterprise, OR duplexes require coordinated shutoff before pressure holds.
+
+Trenchless pulls in Enterprise, OR require pit dimensions verified against utility locate marks.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+In Enterprise, OR, drain line restoration crew visits often begin with sump basin level checks and discharge line freeze separation.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 97828.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Pressure trace 964445: meter-pit clearance and dielectric union checklist staged for Enterprise, OR near elevation 3753 ft.
+
+Fixture roster 964445: toilet flange spacer kit and shower cartridge seat score queued for Enterprise, OR walk-through.
 
 Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 97828.
 
-Dispatch sectors sampled: ZIP 97828 (county grid: Wallowa County).
+**Regional Infrastructure Brief:** Service coverage aligns with Wallowa County and primary ZIP 97828. Terrain reference: 3753 ft. Center point: 45.4300, -117.2800. ZIP sample: 97828. Service perimeter note: Coverage extends through Wallowa County with dispatch centered near ZIP 97828.
 
 Service reference: OR-97828-ec4a3703

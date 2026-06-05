@@ -12,28 +12,45 @@ lng: -90.7200
 zipSample: ["72432"]
 zipCodes: ["72432"]
 localPaths: ["Poinsett County / elevation 279 ft band", "Poinsett County / primary ZIP 72432", "Poinsett County / coords 35.5600, -90.7200", "Poinsett County / ZIP 72432 sector"]
-zillowHomeValueUsd: 148065
 ---
 
 **Engineering Notice for Harrisburg:** System optimized for 155 mg/L hard water scaling factors in Harrisburg. Regional dispatch grid: Poinsett County.
 
 
-In Harrisburg, AR, fixture & supply line pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Drain cleaning scopes in Harrisburg, AR separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Fixture & Supply Line Pros coordination in Harrisburg, AR prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Harrisburg, AR.
 
-FAQ: When is water line replacement safer than spot remediation? In Harrisburg, AR, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Material note: Water heater anode type may change with Harrisburg, AR hardness profiles.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 72432.
+Request a camera-assisted drain review before approving jetting. Postal sector 72432.
 
-Request a written fixture & supply line pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 72432.
+Step: camera-pass main lines in Harrisburg, AR before jetting older clay or cast iron.
 
-Scope trace: dielectric union checklist cross-checked against cleanout riser height before line-pressure hold test.
+Galvanized segments in Harrisburg, AR may restrict flow before visible corrosion.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 72432.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 72432 (county grid: Poinsett County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Harrisburg, AR.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Drain map 405506: camera-pass priority and expansion-tank pre-charge noted for Harrisburg, AR postal sector 72432.
+
+Lineage note 405506: recirculation pump amp draw captured before Harrisburg, AR branch isolation.
+
+Field note: Slab listen window scheduled for Poinsett County grid.
+
+On-site sector marker: Poinsett County / coords 35.5600, -90.7200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72432-6bcbf5d5

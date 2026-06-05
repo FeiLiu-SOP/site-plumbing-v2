@@ -12,30 +12,49 @@ lng: -106.6900
 zipSample: ["87031"]
 zipCodes: ["87031"]
 localPaths: ["Valencia County / elevation 4846 ft band", "Valencia County / coords 34.8100, -106.6900", "Valencia County / primary ZIP 87031", "Valencia County / ZIP 87031 sector"]
-zillowHomeValueUsd: 323800
 ---
 
 **Engineering Notice for Valencia:** System optimized for 143 mg/L hard water scaling factors in Valencia. Regional dispatch grid: Valencia County.
 
 
-Across Valencia, NM, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Book sump and supply-line checks in one written scope. Postal sector 87031.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Our intake language for Valencia, NM work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Valencia, NM.
 
-FAQ: Can sump pump remediation wait until dry season? In Valencia, NM, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 87031.
+Branch wet vents in Valencia, NM can mask gurgling as a main-line issue.
 
-Book a camera-assisted drain review before approving jetting on older Valencia, NM mains. Serving ZIP Code: 87031.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field packet: branch wet vent compliance note plus cleanout riser height referenced in Valencia County county grid review.
+Garage utility sinks in Valencia, NM often tie into laundry branches that mask main-line restrictions.
 
-Field note: Water line replacement trench path flagged for Valencia County setbacks.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 87031.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 87031 (county grid: Valencia County).
+Galvanized segments in Valencia, NM may restrict flow before visible corrosion.
+
+Hydrostatic holds in Valencia, NM slab circuits run overnight when listening mics show ambiguous hits.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Frost-free sillcock failures in Valencia, NM often trace to interior shutoff seats.
+
+Trenchless pulls in Valencia, NM require pit dimensions verified against utility locate marks.
+
+Supply audit 496153: curb-stop orientation and hose-bib freeze flag reviewed for Valencia, NM at coords 34.8100/-106.6900.
+
+Fixture roster 496153: toilet flange spacer kit and shower cartridge seat score queued for Valencia, NM walk-through.
+
+Field note: Main cleanout riser height measured against slab finish in Valencia, NM.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 87031.
+
+On-site sector marker: Valencia County / coords 34.8100, -106.6900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87031-c489b0ca

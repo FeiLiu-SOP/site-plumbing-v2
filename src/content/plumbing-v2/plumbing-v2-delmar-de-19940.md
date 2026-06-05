@@ -12,30 +12,43 @@ lng: -75.5600
 zipSample: ["19940"]
 zipCodes: ["19940"]
 localPaths: ["Sussex County / ZIP 19940 sector", "Sussex County / primary ZIP 19940", "Sussex County / elevation 52 ft band", "Sussex County / coords 38.4700, -75.5600"]
-zillowHomeValueUsd: 335328
 ---
 
 **Engineering Notice for Delmar:** System optimized for 140 mg/L hard water scaling factors in Delmar. Regional dispatch grid: Sussex County.
 
 
-A whole-home repiping advisors reach out in Delmar, DE is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Delmar, DE.
+Confirm cleanout locations during the same visit. Route file 19940.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Risk flag: In Delmar, DE, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Delmar, DE supply age can diverge sharply.
+Frost-free sillcock failures in Delmar, DE often trace to interior shutoff seats.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 19940.
+Hydrostatic holds in Delmar, DE slab circuits run overnight when listening mics show ambiguous hits.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 19940.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch note: main line camera pass and PEX expansion ring batch were logged for the Delmar plumbing intake packet.
+Request a camera-assisted drain review before approving jetting. Postal sector 19940.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 19940.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Drain cleaning cable head wear logged before second pass in Delmar, DE.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 19940 (county grid: Sussex County).
+Water heater T&P discharge paths in Delmar, DE must terminate safely before replacement quotes.
+
+Permit note: Main water line replacement in Delmar, DE may require ROW restoration planning.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Material note: Water heater anode type may change with Delmar, DE hardness profiles.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Service ledger 478700: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Delmar, DE at 38.4700, -75.5600.
+
+Fixture roster 478700: toilet flange spacer kit and shower cartridge seat score queued for Delmar, DE walk-through.
+
+ZIP-corridor snapshot for Delmar, DE: sampled sectors include 19940; county routing grid remains Sussex County.
 
 Service reference: DE-19940-1736f22c

@@ -12,30 +12,47 @@ lng: -81.5700
 zipSample: ["25315"]
 zipCodes: ["25315"]
 localPaths: ["Kanawha County / elevation 771 ft band", "Kanawha County / coords 38.2500, -81.5700", "Kanawha County / primary ZIP 25315", "Kanawha County / ZIP 25315 sector"]
-zillowHomeValueUsd: 89101
 ---
 
 **Engineering Notice for Marmet:** System optimized for 157 mg/L hard water scaling factors in Marmet. Regional dispatch grid: Kanawha County.
 
 
-A slab leak response unit contact in Marmet, WV is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Marmet, WV.
+Confirm cleanout locations during the same visit. Route file 25315.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Cast-iron hub corrosion in Marmet, WV often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Marmet, WV supply age can diverge sharply.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 25315.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 25315.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 25315.
+Irrigation cross-connections in Marmet, WV can back-siphon domestic lines during main breaks.
 
-Field packet: jetter nozzle envelope plus hose bib freeze-risk flag referenced in Kanawha County county grid review.
+Book sump and supply-line checks in one written scope. Postal sector 25315.
 
-Field note: Drain cleaning cable head wear logged before second pass in Marmet, WV.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Marmet, WV.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 25315.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Kanawha County.
 
-Dispatch sectors sampled: ZIP 25315 (county grid: Kanawha County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Across Marmet, WV, main-line bellies trap debris even when fixtures drain normally.
+
+Galvanized segments in Marmet, WV may restrict flow before visible corrosion.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Marmet, WV.
+
+Shared main supplies in Marmet, WV duplexes require coordinated shutoff before pressure holds.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 25315.
+
+Flow dossier 157342: branch wet-vent geometry and PRV seat wear logged for Marmet, WV county grid Kanawha County (ZIP 25315).
+
+Supply audit 157342: curb-stop orientation and hose-bib freeze flag reviewed for Marmet, WV at coords 38.2500/-81.5700.
+
+Coordinate-anchored dispatch note: center reference 38.2500, -81.5700 at elevation ~771 ft aligns with Kanawha County intake staging.
 
 Service reference: WV-25315-be42e59d

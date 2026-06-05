@@ -12,28 +12,43 @@ lng: -114.4100
 zipSample: ["83352"]
 zipCodes: ["83352"]
 localPaths: ["Lincoln County / ZIP 83352 sector", "Lincoln County / coords 42.9400, -114.4100", "Lincoln County / primary ZIP 83352", "Lincoln County / elevation 3973 ft band"]
-zillowHomeValueUsd: 302774
 ---
 
 **Engineering Notice for Shoshone:** System optimized for 137 mg/L hard water scaling factors in Shoshone. Regional dispatch grid: Lincoln County.
 
 
-A hydro-jetting specialists reach out in Shoshone, ID is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Shoshone, ID.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Shoshone, ID.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Risk flag: In Shoshone, ID, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Shoshone, ID supply age can diverge sharply.
+Polybutylene manifold tags in Shoshone, ID basements should be photographed before wall chases open.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 83352.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 83352.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch note: PRV outlet pressure curve and PEX expansion ring batch were logged for the Shoshone plumbing intake packet.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 83352.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Shoshone, ID older homes.
 
-Dispatch sectors sampled: ZIP 83352 (county grid: Lincoln County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Shared main supplies in Shoshone, ID duplexes require coordinated shutoff before pressure holds.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Hydro-jetting in Shoshone, ID requires camera confirmation before nozzle pressure is raised.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Hose bib split patterns often follow missed winterization.
+
+Service ledger 544508: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Shoshone, ID at 42.9400, -114.4100.
+
+Fixture roster 544508: toilet flange spacer kit and shower cartridge seat score queued for Shoshone, ID walk-through.
+
+On-site sector marker: Lincoln County / coords 42.9400, -114.4100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83352-6df08de6

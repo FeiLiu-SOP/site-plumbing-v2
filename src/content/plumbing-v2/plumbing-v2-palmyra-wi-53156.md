@@ -12,30 +12,45 @@ lng: -88.6000
 zipSample: ["53156"]
 zipCodes: ["53156"]
 localPaths: ["Jefferson County / ZIP 53156 sector", "Jefferson County / elevation 840 ft band", "Jefferson County / primary ZIP 53156", "Jefferson County / coords 42.8800, -88.6000"]
-zillowHomeValueUsd: 368566
 ---
 
 **Engineering Notice for Palmyra:** System optimized for 138 mg/L hard water scaling factors in Palmyra. Regional dispatch grid: Jefferson County.
 
 
-Across Palmyra, WI, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Technicians stage basement sump service team jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Palmyra, WI.
 
-Our intake language for Palmyra, WI work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Can sump pump remediation wait until dry season? In Palmyra, WI, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 53156.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Book a camera-assisted drain review before approving jetting on older Palmyra, WI mains. Serving ZIP Code: 53156.
+Hydro-jetting in Palmyra, WI requires camera confirmation before nozzle pressure is raised.
 
-Dispatch note: fixture shutoff torque log and main line camera pass were logged for the Palmyra plumbing intake packet.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Water line replacement trench path flagged for Jefferson County setbacks.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Palmyra, WI.
 
-Field note: Drain cleaning cable head wear logged before second pass in Palmyra, WI.
+Tip: Photograph cleanout cap threads before snaking near ZIP 53156.
 
-Dispatch sectors sampled: ZIP 53156 (county grid: Jefferson County).
+Risk flag: In Palmyra, WI, slab leaks can misroute as foundation issues without listening equipment.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Polybutylene manifold tags in Palmyra, WI basements should be photographed before wall chases open.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: Water heater anode type may change with Palmyra, WI hardness profiles.
+
+Hydrostatic holds in Palmyra, WI slab circuits run overnight when listening mics show ambiguous hits.
+
+Supply audit 848535: curb-stop orientation and hose-bib freeze flag reviewed for Palmyra, WI at coords 42.8800/-88.6000.
+
+Service ledger 848535: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Palmyra, WI at 42.8800, -88.6000.
+
+On-site sector marker: Jefferson County / elevation 840 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53156-95fa7f28

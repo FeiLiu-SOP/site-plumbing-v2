@@ -12,28 +12,45 @@ lng: -105.2700
 zipSample: ["80540"]
 zipCodes: ["80540"]
 localPaths: ["Boulder County / primary ZIP 80540", "Boulder County / ZIP 80540 sector", "Boulder County / coords 40.2200, -105.2700", "Boulder County / elevation 5361 ft band"]
-zillowHomeValueUsd: 748426
 ---
 
 **Engineering Notice for Lyons:** System optimized for 173 mg/L hard water scaling factors in Lyons. Regional dispatch grid: Boulder County.
 
 
-When fixture & supply line pros scopes are reviewed in Lyons, CO, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Lyons, CO.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Lyons, CO.
+Polybutylene manifold tags in Lyons, CO basements should be photographed before wall chases open.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 80540.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Lyons, CO, soft blockages differ from root intrusion profiles.
+Tip: Log water heater flex line dates before wall closure in Lyons, CO remodel zones.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 80540.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Open a scheduling request if you need fixture & supply line pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 80540.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Scope trace: jetter nozzle envelope cross-checked against scale coupon sampling before line-pressure hold test.
+Risk flag: In Lyons, CO, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 80540.
+Trenchless pulls in Lyons, CO require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 80540 (county grid: Boulder County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Book sump and supply-line checks in one written scope. Postal sector 80540.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Lyons, CO.
+
+Flow dossier 684498: branch wet-vent geometry and PRV seat wear logged for Lyons, CO county grid Boulder County (ZIP 80540).
+
+Supply audit 684498: curb-stop orientation and hose-bib freeze flag reviewed for Lyons, CO at coords 40.2200/-105.2700.
+
+Field note: Dielectric union checklist completed in Lyons, CO.
+
+On-site sector marker: Boulder County / coords 40.2200, -105.2700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-80540-2b2bf5a5

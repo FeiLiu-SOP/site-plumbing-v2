@@ -12,30 +12,45 @@ lng: -120.4100
 zipSample: ["95310", "95370"]
 zipCodes: ["95370", "95310"]
 localPaths: ["Tuolumne County / elevation 2136 ft band", "Tuolumne County / ZIP 95370 sector", "Tuolumne County / coords 38.0300, -120.4100", "Tuolumne County / ZIP 95310 sector", "Tuolumne County / primary ZIP 95310"]
-zillowHomeValueUsd: 389264
 ---
 
 **Engineering Notice for Columbia:** System optimized for 131 mg/L hard water scaling factors in Columbia. Regional dispatch grid: Tuolumne County.
 
 
-Across Columbia, CA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: In Columbia, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Dual-water-meter setups in Columbia, CA irrigation zones need backflow logs before line replacement.
 
-Our intake language for Columbia, CA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: Can sump pump service wait until dry season? In Columbia, CA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: When is cabling enough? In Columbia, CA, pipe material and blockage type dictate method.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 95310/95370.
+Shared main supplies in Columbia, CA duplexes require coordinated shutoff before pressure holds.
 
-Book a camera-assisted drain review before approving jetting on older Columbia, CA mains. Serving ZIP Code: 95310.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Scope trace: cleanout riser height cross-checked against fixture shutoff torque log before line-pressure hold test.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Drain cleaning cable head wear logged before second pass in Columbia, CA.
+Basement floor drains in Columbia, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 95310/95370.
+Tankless heater descale intervals in Columbia, CA hard-water zones differ from tank anode schedules.
 
-Dispatch sectors sampled: ZIP 95310, 95370 (county grid: Tuolumne County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Ask for trenchless feasibility notes before main replacement. County grid Tuolumne County.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 95310.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Supply audit 300416: curb-stop orientation and hose-bib freeze flag reviewed for Columbia, CA at coords 38.0300/-120.4100.
+
+Flow dossier 300416: branch wet-vent geometry and PRV seat wear logged for Columbia, CA county grid Tuolumne County (ZIP 95310).
+
+Field note: Meter-pit clearance photographed near ZIP 95310/95370.
+
+On-site sector marker: Tuolumne County / ZIP 95370 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95310-fafd67cd

@@ -12,30 +12,47 @@ lng: -78.4000
 zipSample: ["16673"]
 zipCodes: ["16673"]
 localPaths: ["Blair County / ZIP 16673 sector", "Blair County / primary ZIP 16673", "Blair County / elevation 1273 ft band", "Blair County / coords 40.3300, -78.4000"]
-zillowHomeValueUsd: 193906
 ---
 
 **Engineering Notice for Roaring Spring:** System optimized for 134 mg/L hard water scaling factors in Roaring Spring. Regional dispatch grid: Blair County.
 
 
-When fixture & supply line pros scopes are reviewed in Roaring Spring, PA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Roaring Spring, PA.
+Trenchless pulls in Roaring Spring, PA require pit dimensions verified against utility locate marks.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Cast-iron hub corrosion in Roaring Spring, PA often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Roaring Spring, PA, soft blockages differ from root intrusion profiles.
+In Roaring Spring, PA, fixture & supply line pros visits often begin with sump basin level checks and discharge line freeze separation.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 16673.
+Polybutylene manifold tags in Roaring Spring, PA basements should be photographed before wall chases open.
 
-Open a scheduling request if you need fixture & supply line pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 16673.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Roaring Spring, PA.
 
-Dispatch note: copper pinhole cluster map and main line camera pass were logged for the Roaring Spring plumbing intake packet.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Drain cleaning cable head wear logged before second pass in Roaring Spring, PA.
+Basement floor drains in Roaring Spring, PA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Main cleanout riser height measured against slab finish in Roaring Spring, PA.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Dispatch sectors sampled: ZIP 16673 (county grid: Blair County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Book sump and supply-line checks in one written scope. Postal sector 16673.
+
+Dual-water-meter setups in Roaring Spring, PA irrigation zones need backflow logs before line replacement.
+
+FAQ: When should sump battery backups be load-tested? In Roaring Spring, PA, before spring thaw and heavy rain remnants.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Fixture roster 355739: toilet flange spacer kit and shower cartridge seat score queued for Roaring Spring, PA walk-through.
+
+Flow dossier 355739: branch wet-vent geometry and PRV seat wear logged for Roaring Spring, PA county grid Blair County (ZIP 16673).
+
+Field note: Hose bib freeze flags logged for Roaring Spring, PA.
+
+Field note: Fixture shutoff torque notes filed for ZIP 16673.
+
+On-site sector marker: Blair County / coords 40.3300, -78.4000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-16673-d58edaec

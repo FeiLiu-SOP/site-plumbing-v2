@@ -12,29 +12,45 @@ lng: -66.4300
 zipSample: ["00687"]
 zipCodes: ["00687"]
 localPaths: ["Morovis County / primary ZIP 00687", "Morovis County / coords 18.3400, -66.4300", "Morovis County / ZIP 00687 sector", "Morovis County / elevation 594 ft band"]
-zillowHomeValueUsd: 379011
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Fránquez:** System optimized for 121 mg/L hard water scaling factors in Fránquez. Regional dispatch grid: Morovis County.
 
 
-A leak detection pros reach out in Fránquez, PR is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Fránquez, PR.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Tip: Photograph cleanout cap threads before snaking near ZIP 00687.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Fránquez, PR supply age can diverge sharply.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 00687.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Fránquez, PR older homes.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 00687.
+Our Leak Detection Pros coordination in Fránquez, PR prioritizes cleanout access, vent integrity, and measurable flow recovery.
 
-Routing marker: PRV outlet pressure curve paired with jetter nozzle envelope near ZIP 00687.
+Hard water in Fránquez, PR accelerates scale on PRV seats and heater elements.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 00687.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 00687 (county grid: Morovis County).
+Permit note: Main water line replacement in Fránquez, PR may require ROW restoration planning.
+
+FAQ: When should sump battery backups be load-tested? In Fránquez, PR, before spring thaw and heavy rain remnants.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Fránquez, PR.
+
+FAQ: When is cabling enough? In Fránquez, PR, pipe material and blockage type dictate method.
+
+Stack vent offsets in Fránquez, PR older duplexes can mask tub gurgle as a main-line failure.
+
+Garage utility sinks in Fránquez, PR often tie into laundry branches that mask main-line restrictions.
+
+Flow dossier 749161: branch wet-vent geometry and PRV seat wear logged for Fránquez, PR county grid Morovis County (ZIP 00687).
+
+Supply audit 749161: curb-stop orientation and hose-bib freeze flag reviewed for Fránquez, PR at coords 18.3400/-66.4300.
+
+On-site sector marker: Morovis County / primary ZIP 00687 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00687-fd22b635

@@ -12,30 +12,45 @@ lng: -93.7600
 zipSample: ["77632"]
 zipCodes: ["77632"]
 localPaths: ["Orange County / primary ZIP 77632", "Orange County / ZIP 77632 sector", "Orange County / elevation 49 ft band", "Orange County / coords 30.2300, -93.7600"]
-zillowHomeValueUsd: 222904
 ---
 
 **Engineering Notice for Forest Heights:** System optimized for 158 mg/L hard water scaling factors in Forest Heights. Regional dispatch grid: Orange County.
 
 
-Across Forest Heights, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Shared main supplies in Forest Heights, TX duplexes require coordinated shutoff before pressure holds.
 
-Our intake language for Forest Heights, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Can sump pump restoration wait until dry season? In Forest Heights, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Forest Heights, TX older homes.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 77632.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Book a camera-assisted drain review before approving jetting on older Forest Heights, TX mains. Serving ZIP Code: 77632.
+Stack vent offsets in Forest Heights, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Scope trace: dielectric union checklist cross-checked against branch wet vent compliance note before line-pressure hold test.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Forest Heights, TX.
 
-Field note: Water line replacement trench path flagged for Orange County setbacks.
+Tip: Log water heater flex line dates before wall closure in Forest Heights, TX remodel zones.
 
-Field note: Main cleanout riser height measured against slab finish in Forest Heights, TX.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 77632 (county grid: Orange County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Frost-free sillcock failures in Forest Heights, TX often trace to interior shutoff seats.
+
+Risk flag: In Forest Heights, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: Is hydro-jetting always appropriate? In Forest Heights, TX, pipe material and blockage type dictate method.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Service ledger 827252: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Forest Heights, TX at 30.2300, -93.7600.
+
+Lineage note 827252: recirculation pump amp draw captured before Forest Heights, TX branch isolation.
+
+Field note: Hose bib freeze flags logged for Forest Heights, TX.
+
+On-site sector marker: Orange County / primary ZIP 77632 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77632-5353997e

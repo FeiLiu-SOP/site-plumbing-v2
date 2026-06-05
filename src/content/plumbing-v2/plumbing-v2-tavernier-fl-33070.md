@@ -12,30 +12,49 @@ lng: -80.5100
 zipSample: ["33070"]
 zipCodes: ["33070"]
 localPaths: ["Monroe County / primary ZIP 33070", "Monroe County / elevation 3 ft band", "Monroe County / ZIP 33070 sector", "Monroe County / coords 25.0200, -80.5100"]
-zillowHomeValueUsd: 904677
 ---
 
 **Engineering Notice for Tavernier:** System optimized for 163 mg/L hard water scaling factors in Tavernier. Regional dispatch grid: Monroe County.
 
 
-Property owners in Tavernier, FL may see professional plumbing services escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Tavernier, FL.
+Polybutylene manifold tags in Tavernier, FL basements should be photographed before wall chases open.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Frost-free sillcock failures in Tavernier, FL often trace to interior shutoff seats.
 
-FAQ: What slows drain cleaning most? In Tavernier, FL, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 33070.
+FAQ: When should sump battery backups be load-tested? In Tavernier, FL, before spring thaw and heavy rain remnants.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 33070.
+Across Tavernier, FL, main-line bellies trap debris even when fixtures drain normally.
 
-Scope trace: backflow test cock orientation cross-checked against hose bib freeze-risk flag before line-pressure hold test.
+Hose bib split patterns often follow missed winterization.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 33070.
+Slab leak listening windows in Tavernier, FL depend on quiet periods and isolated branch valves.
 
-Field note: Drain cleaning cable head wear logged before second pass in Tavernier, FL.
+Confirm cleanout locations during the same visit. Route file 33070.
 
-Dispatch sectors sampled: ZIP 33070 (county grid: Monroe County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 33070.
+
+Tip: Log water heater flex line dates before wall closure in Tavernier, FL remodel zones.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Material note: Water heater anode type may change with Tavernier, FL hardness profiles.
+
+Supply audit 482969: curb-stop orientation and hose-bib freeze flag reviewed for Tavernier, FL at coords 25.0200/-80.5100.
+
+Service ledger 482969: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Tavernier, FL at 25.0200, -80.5100.
+
+Field note: PRV inlet and outlet curves captured for ZIP 33070.
+
+On-site sector marker: Monroe County / elevation 3 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33070-821e0b73

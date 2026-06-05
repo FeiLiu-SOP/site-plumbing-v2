@@ -12,30 +12,47 @@ lng: -78.7600
 zipSample: ["26757"]
 zipCodes: ["26757"]
 localPaths: ["Hampshire County / ZIP 26757 sector", "Hampshire County / primary ZIP 26757", "Hampshire County / elevation 791 ft band", "Hampshire County / coords 39.3500, -78.7600"]
-zillowHomeValueUsd: 224622
 ---
 
 **Engineering Notice for Romney:** System optimized for 136 mg/L hard water scaling factors in Romney. Regional dispatch grid: Hampshire County.
 
 
-In Romney, WV, drain line restoration crew visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Drain cleaning scopes in Romney, WV separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Drain Line Restoration Crew coordination in Romney, WV prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Dispatch packets reference county grid Hampshire County near ZIP 26757.
 
-FAQ: When is water line replacement safer than spot service? In Romney, WV, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 26757.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 26757.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Request a written drain line restoration crew plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 26757.
+Confirm cleanout locations during the same visit. Route file 26757.
 
-Dispatch note: cleanout riser height and water heater T&P discharge path were logged for the Romney plumbing intake packet.
+Polybutylene manifold tags in Romney, WV basements should be photographed before wall chases open.
 
-Field note: Water line replacement trench path flagged for Hampshire County setbacks.
+Permit note: Main water line replacement in Romney, WV may require ROW restoration planning.
 
-Field note: Drain cleaning cable head wear logged before second pass in Romney, WV.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Romney, WV.
 
-Dispatch sectors sampled: ZIP 26757 (county grid: Hampshire County).
+Step: log PRV inlet and outlet readings during intake.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 26757.
+
+Hydro-jetting in Romney, WV requires camera confirmation before nozzle pressure is raised.
+
+Cast-iron hub corrosion in Romney, WV often concentrates at the third joint upstream of the cleanout.
+
+Tip: Log water heater flex line dates before wall closure in Romney, WV remodel zones.
+
+Shared main supplies in Romney, WV duplexes require coordinated shutoff before pressure holds.
+
+Stack vent offsets in Romney, WV older duplexes can mask tub gurgle as a main-line failure.
+
+Supply audit 544226: curb-stop orientation and hose-bib freeze flag reviewed for Romney, WV at coords 39.3500/-78.7600.
+
+Fixture roster 544226: toilet flange spacer kit and shower cartridge seat score queued for Romney, WV walk-through.
+
+On-site sector marker: Hampshire County / elevation 791 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-26757-bb2a3137

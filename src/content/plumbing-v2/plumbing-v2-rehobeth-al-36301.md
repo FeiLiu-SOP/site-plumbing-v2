@@ -12,28 +12,47 @@ lng: -85.4400
 zipSample: ["36301"]
 zipCodes: ["36301"]
 localPaths: ["Houston County / elevation 249 ft band", "Houston County / coords 31.1200, -85.4400", "Houston County / primary ZIP 36301", "Houston County / ZIP 36301 sector"]
-zillowHomeValueUsd: 181231
 ---
 
 **Engineering Notice for Rehobeth:** System optimized for 163 mg/L hard water scaling factors in Rehobeth. Regional dispatch grid: Houston County.
 
 
-Across Rehobeth, AL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Stack vent offsets in Rehobeth, AL older duplexes can mask tub gurgle as a main-line failure.
 
-Technicians stage professional plumbing services jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Hard water in Rehobeth, AL accelerates scale on PRV seats and heater elements.
 
-Our intake language for Rehobeth, AL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Can sump pump restoration wait until dry season? In Rehobeth, AL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: map sump float travel and check-valve orientation for Rehobeth, AL basements.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 36301.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 36301.
 
-Book a camera-assisted drain review before approving jetting on older Rehobeth, AL mains. Serving ZIP Code: 36301.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch note: PRV outlet pressure curve and jetter nozzle envelope were logged for the Rehobeth plumbing intake packet.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Water line replacement trench path flagged for Houston County setbacks.
+Dispatch packets reference county grid Houston County near ZIP 36301.
 
-Dispatch sectors sampled: ZIP 36301 (county grid: Houston County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Confirm cleanout locations during the same visit. Route file 36301.
+
+CPVC solvent weld times shift with ambient humidity during Rehobeth, AL shoulder seasons.
+
+Dual-water-meter setups in Rehobeth, AL irrigation zones need backflow logs before line replacement.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Rehobeth, AL.
+
+Lineage note 299069: recirculation pump amp draw captured before Rehobeth, AL branch isolation.
+
+Pressure trace 299069: meter-pit clearance and dielectric union checklist staged for Rehobeth, AL near elevation 249 ft.
+
+On-site sector marker: Houston County / primary ZIP 36301 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36301-3a2dce89

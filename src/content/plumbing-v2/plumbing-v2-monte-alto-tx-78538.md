@@ -12,28 +12,43 @@ lng: -97.9700
 zipSample: ["78538"]
 zipCodes: ["78538"]
 localPaths: ["Hidalgo County / ZIP 78538 sector", "Hidalgo County / primary ZIP 78538", "Hidalgo County / coords 26.3700, -97.9700", "Hidalgo County / elevation 75 ft band"]
-zillowHomeValueUsd: 151756
 ---
 
 **Engineering Notice for Monte Alto:** System optimized for 125 mg/L hard water scaling factors in Monte Alto. Regional dispatch grid: Hidalgo County.
 
 
-Across Monte Alto, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Dual-water-meter setups in Monte Alto, TX irrigation zones need backflow logs before line replacement.
 
-Our intake language for Monte Alto, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Shared main supplies in Monte Alto, TX duplexes require coordinated shutoff before pressure holds.
 
-FAQ: Can sump pump remediation wait until dry season? In Monte Alto, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 78538.
+Hydrostatic holds in Monte Alto, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Book a camera-assisted drain review before approving jetting on older Monte Alto, TX mains. Serving ZIP Code: 78538.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field packet: branch wet vent compliance note plus fixture shutoff torque log referenced in Hidalgo County county grid review.
+Basement floor drains in Monte Alto, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Water line replacement trench path flagged for Hidalgo County setbacks.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 78538 (county grid: Hidalgo County).
+Cast-iron hub corrosion in Monte Alto, TX often concentrates at the third joint upstream of the cleanout.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 78538.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Lineage note 896175: recirculation pump amp draw captured before Monte Alto, TX branch isolation.
+
+Drain map 896175: camera-pass priority and expansion-tank pre-charge noted for Monte Alto, TX postal sector 78538.
+
+On-site sector marker: Hidalgo County / primary ZIP 78538 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78538-b4f85324

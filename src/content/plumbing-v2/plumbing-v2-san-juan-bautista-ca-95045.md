@@ -12,30 +12,51 @@ lng: -121.5400
 zipSample: ["95045"]
 zipCodes: ["95045"]
 localPaths: ["San Benito County / ZIP 95045 sector", "San Benito County / coords 36.8400, -121.5400", "San Benito County / elevation 207 ft band", "San Benito County / primary ZIP 95045"]
-zillowHomeValueUsd: 918079
 ---
 
 **Engineering Notice for San Juan Bautista:** System optimized for 144 mg/L hard water scaling factors in San Juan Bautista. Regional dispatch grid: San Benito County.
 
 
-A water heater & pipe experts request in San Juan Bautista, CA is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for San Juan Bautista, CA.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and San Juan Bautista, CA supply age can diverge sharply.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in San Juan Bautista, CA.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 95045.
+FAQ: Is hydro-jetting always appropriate? In San Juan Bautista, CA, pipe material and blockage type dictate method.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 95045.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Scope trace: main line camera pass cross-checked against copper pinhole cluster map before line-pressure hold test.
+Basement floor drains in San Juan Bautista, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Water line replacement trench path flagged for San Benito County setbacks.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in San Juan Bautista, CA.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 95045.
+Stack vent offsets in San Juan Bautista, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 95045 (county grid: San Benito County).
+Step: camera-pass main lines in San Juan Bautista, CA before jetting older clay or cast iron.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 95045.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in San Juan Bautista, CA.
+
+Tip: Log water heater flex line dates before wall closure in San Juan Bautista, CA remodel zones.
+
+Fixture roster 463335: toilet flange spacer kit and shower cartridge seat score queued for San Juan Bautista, CA walk-through.
+
+Flow dossier 463335: branch wet-vent geometry and PRV seat wear logged for San Juan Bautista, CA county grid San Benito County (ZIP 95045).
+
+Field note: Hose bib freeze flags logged for San Juan Bautista, CA.
+
+Field note: Fixture shutoff torque notes filed for ZIP 95045.
+
+Regional mesh label San Benito County: moisture and logistics baselines are keyed to San Juan Bautista, CA before niche-specific work begins.
 
 Service reference: CA-95045-8ae6379c

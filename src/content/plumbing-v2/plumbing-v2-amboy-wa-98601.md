@@ -12,28 +12,49 @@ lng: -122.4800
 zipSample: ["98675", "98601"]
 zipCodes: ["98601", "98675"]
 localPaths: ["Clark County / elevation 787 ft band", "Clark County / ZIP 98675 sector", "Clark County / ZIP 98601 sector", "Clark County / coords 45.9100, -122.4800", "Clark County / primary ZIP 98601"]
-zillowHomeValueUsd: 703385
 ---
 
 **Engineering Notice for Amboy:** System optimized for 173 mg/L hard water scaling factors in Amboy. Regional dispatch grid: Clark County.
 
 
-When drain line restoration crew scopes are reviewed in Amboy, WA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Amboy, WA.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Amboy, WA, soft blockages differ from root intrusion profiles.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Amboy, WA.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 98675/98601.
+Cleanout access limits in Amboy, WA frequently extend drain cleaning duration.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 98601.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Amboy, WA.
 
-Field packet: backflow test cock orientation plus PEX expansion ring batch referenced in Clark County county grid review.
+Irrigation cross-connections in Amboy, WA can back-siphon domestic lines during main breaks.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 98675/98601.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 98675, 98601 (county grid: Clark County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Clark County.
+
+Permit note: Main water line replacement in Amboy, WA may require ROW restoration planning.
+
+Drain map 569348: camera-pass priority and expansion-tank pre-charge noted for Amboy, WA postal sector 98601.
+
+Pressure trace 569348: meter-pit clearance and dielectric union checklist staged for Amboy, WA near elevation 787 ft.
+
+Field note: PRV inlet and outlet curves captured for ZIP 98675/98601.
+
+Field note: Slab listen window scheduled for Clark County grid.
+
+Primary postal anchor 98601 with multi-ZIP overlap in Amboy; field packets tag Clark County for county-grid reconciliation.
 
 Service reference: WA-98601-46c3c1df

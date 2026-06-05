@@ -12,28 +12,47 @@ lng: -105.5100
 zipSample: ["80308", "80466"]
 zipCodes: ["80308", "80466"]
 localPaths: ["Boulder County / ZIP 80308 sector", "Boulder County / primary ZIP 80466", "Boulder County / coords 39.9600, -105.5100", "Boulder County / ZIP 80466 sector", "Boulder County / elevation 8238 ft band"]
-zillowHomeValueUsd: 677756
 ---
 
 **Engineering Notice for Nederland:** System optimized for 129 mg/L hard water scaling factors in Nederland. Regional dispatch grid: Boulder County.
 
 
-Across Nederland, CO, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Irrigation cross-connections in Nederland, CO can back-siphon domestic lines during main breaks.
 
-Technicians stage professional plumbing services jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our intake language for Nederland, CO work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Basement floor drains in Nederland, CO should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Can sump pump restoration wait until dry season? In Nederland, CO, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 80466/80308.
+Permit note: Main water line replacement in Nederland, CO may require ROW restoration planning.
 
-Book a camera-assisted drain review before approving jetting on older Nederland, CO mains. Serving ZIP Code: 80466.
+Frost-free sillcock failures in Nederland, CO often trace to interior shutoff seats.
 
-Routing marker: scale coupon sampling paired with main line camera pass near ZIP 80466.
+Material note: Water heater anode type may change with Nederland, CO hardness profiles.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 80466/80308.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 80466.
 
-Dispatch sectors sampled: ZIP 80466, 80308 (county grid: Boulder County).
+Garage utility sinks in Nederland, CO often tie into laundry branches that mask main-line restrictions.
+
+Polybutylene manifold tags in Nederland, CO basements should be photographed before wall chases open.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Nederland, CO.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Nederland, CO.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Flow dossier 447733: branch wet-vent geometry and PRV seat wear logged for Nederland, CO county grid Boulder County (ZIP 80466).
+
+Lineage note 447733: recirculation pump amp draw captured before Nederland, CO branch isolation.
+
+Field note: Expansion tank pre-charge verified in Nederland, CO.
+
+Primary postal anchor 80466 with multi-ZIP overlap in Nederland; field packets tag Boulder County for county-grid reconciliation.
 
 Service reference: CO-80466-6a0acf72

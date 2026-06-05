@@ -12,30 +12,45 @@ lng: -90.7700
 zipSample: ["38773"]
 zipCodes: ["38773"]
 localPaths: ["Bolivar County / elevation 148 ft band", "Bolivar County / primary ZIP 38773", "Bolivar County / ZIP 38773 sector", "Bolivar County / coords 33.6000, -90.7700"]
-zillowHomeValueUsd: 102174
 ---
 
 **Engineering Notice for Shaw:** System optimized for 176 mg/L hard water scaling factors in Shaw. Regional dispatch grid: Bolivar County.
 
 
-In Shaw, MS, professional plumbing services visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 38773.
 
-Drain cleaning scopes in Shaw, MS separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Material note: Water heater anode type may change with Shaw, MS hardness profiles.
 
-Professional Plumbing Services coordination in Shaw, MS prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-FAQ: When is water line replacement safer than spot restoration? In Shaw, MS, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 38773.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Request a written professional plumbing services plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 38773.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Routing marker: PEX expansion ring batch paired with jetter nozzle envelope near ZIP 38773.
+Basement floor drains in Shaw, MS should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 38773.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 38773.
 
-Field note: Water line replacement trench path flagged for Bolivar County setbacks.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 38773 (county grid: Bolivar County).
+Shared main supplies in Shaw, MS duplexes require coordinated shutoff before pressure holds.
+
+CPVC solvent weld times shift with ambient humidity during Shaw, MS shoulder seasons.
+
+FAQ: When is cabling enough? In Shaw, MS, pipe material and blockage type dictate method.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 38773.
+
+Irrigation cross-connections in Shaw, MS can back-siphon domestic lines during main breaks.
+
+Tankless heater descale intervals in Shaw, MS hard-water zones differ from tank anode schedules.
+
+Drain map 815722: camera-pass priority and expansion-tank pre-charge noted for Shaw, MS postal sector 38773.
+
+Supply audit 815722: curb-stop orientation and hose-bib freeze flag reviewed for Shaw, MS at coords 33.6000/-90.7700.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~148 ft across the Bolivar County area. Coordinates: 33.6000, -90.7700. ZIP sample: 38773. Regional routing note: Bolivar County traffic flow is balanced around ZIP 38773 service demand.
 
 Service reference: MS-38773-01736998

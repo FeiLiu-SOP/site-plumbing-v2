@@ -12,30 +12,51 @@ lng: -89.3900
 zipSample: ["39402"]
 zipCodes: ["39402"]
 localPaths: ["Forrest County / elevation 233 ft band", "Forrest County / primary ZIP 39402", "Forrest County / ZIP 39402 sector", "Forrest County / coords 31.3800, -89.3900"]
-zillowHomeValueUsd: 276413
 ---
 
 **Engineering Notice for Rawls Springs:** System optimized for 128 mg/L hard water scaling factors in Rawls Springs. Regional dispatch grid: Forrest County.
 
 
-A basement sump service team reach out in Rawls Springs, MS is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Rawls Springs, MS.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Rawls Springs, MS.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Rawls Springs, MS supply age can diverge sharply.
+Basement floor drains in Rawls Springs, MS should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 39402.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 39402.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Routing marker: jetter nozzle envelope paired with sub-slab moisture gradient near ZIP 39402.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Rawls Springs, MS older homes.
+
+FAQ: When should sump battery backups be load-tested? In Rawls Springs, MS, before spring thaw and heavy rain remnants.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Hose bib split patterns often follow missed winterization.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Stack vent offsets in Rawls Springs, MS older duplexes can mask tub gurgle as a main-line failure.
+
+CPVC solvent weld times shift with ambient humidity during Rawls Springs, MS shoulder seasons.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tankless heater descale intervals in Rawls Springs, MS hard-water zones differ from tank anode schedules.
+
+Drain map 717122: camera-pass priority and expansion-tank pre-charge noted for Rawls Springs, MS postal sector 39402.
+
+Lineage note 717122: recirculation pump amp draw captured before Rawls Springs, MS branch isolation.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 39402.
 
 Field note: Water line replacement trench path flagged for Forrest County setbacks.
 
-Field note: Drain cleaning cable head wear logged before second pass in Rawls Springs, MS.
-
-Dispatch sectors sampled: ZIP 39402 (county grid: Forrest County).
+On-site sector marker: Forrest County / primary ZIP 39402 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MS-39402-741c8735

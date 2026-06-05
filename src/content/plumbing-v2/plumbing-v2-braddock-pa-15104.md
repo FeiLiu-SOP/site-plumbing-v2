@@ -12,28 +12,45 @@ lng: -79.8700
 zipSample: ["15104"]
 zipCodes: ["15104"]
 localPaths: ["Allegheny County / ZIP 15104 sector", "Allegheny County / primary ZIP 15104", "Allegheny County / elevation 748 ft band", "Allegheny County / coords 40.4000, -79.8700"]
-zillowHomeValueUsd: 58344
 ---
 
 **Engineering Notice for Braddock:** System optimized for 170 mg/L hard water scaling factors in Braddock. Regional dispatch grid: Allegheny County.
 
 
-A drain line restoration crew reach out in Braddock, PA is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Braddock, PA.
+Tankless heater descale intervals in Braddock, PA hard-water zones differ from tank anode schedules.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Water heater T&P discharge paths in Braddock, PA must terminate safely before replacement quotes.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Braddock, PA supply age can diverge sharply.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Braddock, PA.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 15104.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Braddock, PA.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 15104.
+Permit note: Main water line replacement in Braddock, PA may require ROW restoration planning.
 
-Dispatch note: jetter nozzle envelope and sub-slab moisture gradient were logged for the Braddock plumbing intake packet.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Water line replacement trench path flagged for Allegheny County setbacks.
+Branch wet vents in Braddock, PA can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 15104 (county grid: Allegheny County).
+Dual-water-meter setups in Braddock, PA irrigation zones need backflow logs before line replacement.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Galvanized segments in Braddock, PA may restrict flow before visible corrosion.
+
+Dispatch packets reference county grid Allegheny County near ZIP 15104.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Braddock, PA.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 15104.
+
+Lineage note 788700: recirculation pump amp draw captured before Braddock, PA branch isolation.
+
+Service ledger 788700: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Braddock, PA at 40.4000, -79.8700.
+
+On-site sector marker: Allegheny County / ZIP 15104 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15104-c823e07c

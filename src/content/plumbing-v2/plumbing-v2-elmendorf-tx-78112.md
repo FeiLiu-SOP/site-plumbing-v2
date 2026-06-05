@@ -12,30 +12,43 @@ lng: -98.3200
 zipSample: ["78112"]
 zipCodes: ["78112"]
 localPaths: ["Bexar County / coords 29.2600, -98.3200", "Bexar County / ZIP 78112 sector", "Bexar County / elevation 545 ft band", "Bexar County / primary ZIP 78112"]
-zillowHomeValueUsd: 233964
 ---
 
 **Engineering Notice for Elmendorf:** System optimized for 180 mg/L hard water scaling factors in Elmendorf. Regional dispatch grid: Bexar County.
 
 
-When whole-home repiping advisors scopes are reviewed in Elmendorf, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: In Elmendorf, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Elmendorf, TX.
+Ask for trenchless feasibility notes before main replacement. County grid Bexar County.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Dispatch packets reference county grid Bexar County near ZIP 78112.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Elmendorf, TX, soft blockages differ from root intrusion profiles.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 78112.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Elmendorf, TX.
 
-Open a scheduling request if you need whole-home repiping advisors documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 78112.
+Shared main supplies in Elmendorf, TX duplexes require coordinated shutoff before pressure holds.
 
-Routing marker: sub-slab moisture gradient paired with backflow test cock orientation near ZIP 78112.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Water line replacement trench path flagged for Bexar County setbacks.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 78112.
+Hydrostatic holds in Elmendorf, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 78112 (county grid: Bexar County).
+In Elmendorf, TX, whole-home repiping advisors visits often begin with sump basin level checks and discharge line freeze separation.
+
+Book sump and supply-line checks in one written scope. Postal sector 78112.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Elmendorf, TX.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 78112.
+
+Fixture roster 995726: toilet flange spacer kit and shower cartridge seat score queued for Elmendorf, TX walk-through.
+
+Lineage note 995726: recirculation pump amp draw captured before Elmendorf, TX branch isolation.
+
+On-site sector marker: Bexar County / coords 29.2600, -98.3200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78112-76638c66

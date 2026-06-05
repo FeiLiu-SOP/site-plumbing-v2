@@ -12,29 +12,43 @@ lng: -110.9600
 zipSample: ["83127"]
 zipCodes: ["83127"]
 localPaths: ["Lincoln County / primary ZIP 83127", "Lincoln County / coords 42.9800, -110.9600", "Lincoln County / elevation 6293 ft band", "Lincoln County / ZIP 83127 sector"]
-zillowHomeValueUsd: 445335
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Star Valley Ranch:** System optimized for 167 mg/L hard water scaling factors in Star Valley Ranch. Regional dispatch grid: Lincoln County.
 
 
-In Star Valley Ranch, WY, drain line restoration crew visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Drain cleaning scopes in Star Valley Ranch, WY separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Drain Line Restoration Crew coordination in Star Valley Ranch, WY prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-FAQ: When is water line replacement safer than spot remediation? In Star Valley Ranch, WY, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 83127.
+Request a camera-assisted drain review before approving jetting. Postal sector 83127.
 
-Request a written drain line restoration crew plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 83127.
+Hose bib split patterns often follow missed winterization.
 
-Scope trace: cleanout riser height cross-checked against fixture shutoff torque log before line-pressure hold test.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Water line replacement trench path flagged for Lincoln County setbacks.
+Galvanized segments in Star Valley Ranch, WY may restrict flow before visible corrosion.
 
-Dispatch sectors sampled: ZIP 83127 (county grid: Lincoln County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Permit note: Main water line replacement in Star Valley Ranch, WY may require ROW restoration planning.
+
+Cleanout access limits in Star Valley Ranch, WY frequently extend drain cleaning duration.
+
+Shared main supplies in Star Valley Ranch, WY duplexes require coordinated shutoff before pressure holds.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Dual-water-meter setups in Star Valley Ranch, WY irrigation zones need backflow logs before line replacement.
+
+Pressure trace 313357: meter-pit clearance and dielectric union checklist staged for Star Valley Ranch, WY near elevation 6293 ft.
+
+Drain map 313357: camera-pass priority and expansion-tank pre-charge noted for Star Valley Ranch, WY postal sector 83127.
+
+On-site sector marker: Lincoln County / primary ZIP 83127 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WY-83127-2b66a28a

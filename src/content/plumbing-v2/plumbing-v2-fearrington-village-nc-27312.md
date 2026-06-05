@@ -12,30 +12,45 @@ lng: -79.0800
 zipSample: ["27312"]
 zipCodes: ["27312"]
 localPaths: ["Chatham County / elevation 446 ft band", "Chatham County / primary ZIP 27312", "Chatham County / ZIP 27312 sector", "Chatham County / coords 35.8000, -79.0800"]
-zillowHomeValueUsd: 562590
 ---
 
 **Engineering Notice for Fearrington Village:** System optimized for 162 mg/L hard water scaling factors in Fearrington Village. Regional dispatch grid: Chatham County.
 
 
-In Fearrington Village, NC, fixture & supply line pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+FAQ: When should sump battery backups be load-tested? In Fearrington Village, NC, before spring thaw and heavy rain remnants.
 
-Drain cleaning scopes in Fearrington Village, NC separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Fixture & Supply Line Pros coordination in Fearrington Village, NC prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: When is water line replacement safer than spot restoration? In Fearrington Village, NC, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 27312.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 27312.
+Shared main supplies in Fearrington Village, NC duplexes require coordinated shutoff before pressure holds.
 
-Request a written fixture & supply line pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 27312.
+Request a camera-assisted drain review before approving jetting. Postal sector 27312.
 
-Scope trace: scale coupon sampling cross-checked against branch wet vent compliance note before line-pressure hold test.
+Ask for trenchless feasibility notes before main replacement. County grid Chatham County.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 27312.
+Confirm cleanout locations during the same visit. Route file 27312.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 27312.
+Polybutylene manifold tags in Fearrington Village, NC basements should be photographed before wall chases open.
 
-Dispatch sectors sampled: ZIP 27312 (county grid: Chatham County).
+Garage utility sinks in Fearrington Village, NC often tie into laundry branches that mask main-line restrictions.
+
+Basement floor drains in Fearrington Village, NC should be snaked only after trap arm geometry is confirmed on camera.
+
+Frost-free sillcock failures in Fearrington Village, NC often trace to interior shutoff seats.
+
+Irrigation cross-connections in Fearrington Village, NC can back-siphon domestic lines during main breaks.
+
+In Fearrington Village, NC, fixture & supply line pros visits often begin with sump basin level checks and discharge line freeze separation.
+
+Supply audit 205207: curb-stop orientation and hose-bib freeze flag reviewed for Fearrington Village, NC at coords 35.8000/-79.0800.
+
+Lineage note 205207: recirculation pump amp draw captured before Fearrington Village, NC branch isolation.
+
+Field note: Fixture shutoff torque notes filed for ZIP 27312.
+
+Coordinate-anchored dispatch note: center reference 35.8000, -79.0800 at elevation ~446 ft aligns with Chatham County intake staging.
 
 Service reference: NC-27312-149f4606

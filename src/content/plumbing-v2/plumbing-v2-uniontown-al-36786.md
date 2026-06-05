@@ -12,29 +12,45 @@ lng: -87.5000
 zipSample: ["36786"]
 zipCodes: ["36786"]
 localPaths: ["Perry County / coords 32.4500, -87.5000", "Perry County / ZIP 36786 sector", "Perry County / elevation 233 ft band", "Perry County / primary ZIP 36786"]
-zillowHomeValueUsd: 216354
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Uniontown:** System optimized for 130 mg/L hard water scaling factors in Uniontown. Regional dispatch grid: Perry County.
 
 
-A drain line restoration crew request in Uniontown, AL is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Step: map sump float travel and check-valve orientation for Uniontown, AL basements.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Uniontown, AL.
+Hydrostatic holds in Uniontown, AL slab circuits run overnight when listening mics show ambiguous hits.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Uniontown, AL.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Uniontown, AL supply age can diverge sharply.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 36786.
+Basement floor drains in Uniontown, AL should be snaked only after trap arm geometry is confirmed on camera.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 36786.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Scope trace: hose bib freeze-risk flag cross-checked against sub-slab moisture gradient before line-pressure hold test.
+Shared main supplies in Uniontown, AL duplexes require coordinated shutoff before pressure holds.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 36786.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Dispatch sectors sampled: ZIP 36786 (county grid: Perry County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Hard water in Uniontown, AL accelerates scale on PRV seats and heater elements.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Cast-iron hub corrosion in Uniontown, AL often concentrates at the third joint upstream of the cleanout.
+
+Permit note: Main water line replacement in Uniontown, AL may require ROW restoration planning.
+
+Pressure trace 517294: meter-pit clearance and dielectric union checklist staged for Uniontown, AL near elevation 233 ft.
+
+Fixture roster 517294: toilet flange spacer kit and shower cartridge seat score queued for Uniontown, AL walk-through.
+
+Field note: Main cleanout riser height measured against slab finish in Uniontown, AL.
+
+ZIP-corridor snapshot for Uniontown, AL: sampled sectors include 36786; county routing grid remains Perry County.
 
 Service reference: AL-36786-46ff01ef

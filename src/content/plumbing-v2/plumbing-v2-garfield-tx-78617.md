@@ -12,30 +12,45 @@ lng: -97.5500
 zipSample: ["78617"]
 zipCodes: ["78617"]
 localPaths: ["Travis County / ZIP 78617 sector", "Travis County / primary ZIP 78617", "Travis County / elevation 482 ft band", "Travis County / coords 30.2000, -97.5500"]
-zillowHomeValueUsd: 291198
 ---
 
 **Engineering Notice for Garfield:** System optimized for 157 mg/L hard water scaling factors in Garfield. Regional dispatch grid: Travis County.
 
 
-Property owners in Garfield, TX may see hydro-jetting specialists escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Garfield, TX.
+Shared main supplies in Garfield, TX duplexes require coordinated shutoff before pressure holds.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-FAQ: What slows drain cleaning most? In Garfield, TX, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 78617.
+Polybutylene manifold tags in Garfield, TX basements should be photographed before wall chases open.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 78617.
+Step: document dielectric unions before mixed-metal replacements.
 
-Scope trace: dielectric union checklist cross-checked against hose bib freeze-risk flag before line-pressure hold test.
+Basement floor drains in Garfield, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Water line replacement trench path flagged for Travis County setbacks.
+Frost-free sillcock failures in Garfield, TX often trace to interior shutoff seats.
 
-Field note: Drain cleaning cable head wear logged before second pass in Garfield, TX.
+Tip: Photograph cleanout cap threads before snaking near ZIP 78617.
 
-Dispatch sectors sampled: ZIP 78617 (county grid: Travis County).
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 78617.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: In Garfield, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+Dual-water-meter setups in Garfield, TX irrigation zones need backflow logs before line replacement.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Pressure trace 257022: meter-pit clearance and dielectric union checklist staged for Garfield, TX near elevation 482 ft.
+
+Fixture roster 257022: toilet flange spacer kit and shower cartridge seat score queued for Garfield, TX walk-through.
+
+On-site sector marker: Travis County / coords 30.2000, -97.5500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78617-aae00b2c

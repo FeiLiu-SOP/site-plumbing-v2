@@ -12,28 +12,47 @@ lng: -94.9500
 zipSample: ["74331"]
 zipCodes: ["74331"]
 localPaths: ["Delaware County / coords 36.5700, -94.9500", "Delaware County / elevation 797 ft band", "Delaware County / primary ZIP 74331", "Delaware County / ZIP 74331 sector"]
-zillowHomeValueUsd: 357905
 ---
 
 **Engineering Notice for Cleora:** System optimized for 160 mg/L hard water scaling factors in Cleora. Regional dispatch grid: Delaware County.
 
 
-When fixture & supply line pros scopes are reviewed in Cleora, OK, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Cleora, OK.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Cleora, OK.
+Polybutylene manifold tags in Cleora, OK basements should be photographed before wall chases open.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Cleora, OK, soft blockages differ from root intrusion profiles.
+Step: camera-pass main lines in Cleora, OK before jetting older clay or cast iron.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 74331.
+Shared main supplies in Cleora, OK duplexes require coordinated shutoff before pressure holds.
 
-Open a scheduling request if you need fixture & supply line pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 74331.
+Dispatch packets reference county grid Delaware County near ZIP 74331.
 
-Dispatch note: cleanout riser height and jetter nozzle envelope were logged for the Cleora plumbing intake packet.
+Branch wet vents in Cleora, OK can mask gurgling as a main-line issue.
 
-Field note: Main cleanout riser height measured against slab finish in Cleora, OK.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 74331 (county grid: Delaware County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Confirm cleanout locations during the same visit. Route file 74331.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Flow dossier 876827: branch wet-vent geometry and PRV seat wear logged for Cleora, OK county grid Delaware County (ZIP 74331).
+
+Lineage note 876827: recirculation pump amp draw captured before Cleora, OK branch isolation.
+
+On-site sector marker: Delaware County / primary ZIP 74331 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-74331-96585773

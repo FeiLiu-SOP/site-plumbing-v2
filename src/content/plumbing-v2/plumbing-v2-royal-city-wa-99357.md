@@ -12,30 +12,49 @@ lng: -119.6200
 zipSample: ["99357"]
 zipCodes: ["99357"]
 localPaths: ["Grant County / coords 46.9000, -119.6200", "Grant County / primary ZIP 99357", "Grant County / ZIP 99357 sector", "Grant County / elevation 991 ft band"]
-zillowHomeValueUsd: 348616
 ---
 
 **Engineering Notice for Royal City:** System optimized for 121 mg/L hard water scaling factors in Royal City. Regional dispatch grid: Grant County.
 
 
-When drain line restoration crew scopes are reviewed in Royal City, WA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Royal City, WA.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Royal City, WA, soft blockages differ from root intrusion profiles.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Royal City, WA.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 99357.
+Step: photograph curb-stop and meter pit before trenching.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 99357.
+Tip: Log water heater flex line dates before wall closure in Royal City, WA remodel zones.
 
-Field packet: fixture shutoff torque log plus copper pinhole cluster map referenced in Grant County county grid review.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Royal City, WA.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 99357.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 99357.
+
+Polybutylene manifold tags in Royal City, WA basements should be photographed before wall chases open.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: When is cabling enough? In Royal City, WA, pipe material and blockage type dictate method.
+
+Basement floor drains in Royal City, WA should be snaked only after trap arm geometry is confirmed on camera.
+
+Service ledger 893802: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Royal City, WA at 46.9000, -119.6200.
+
+Drain map 893802: camera-pass priority and expansion-tank pre-charge noted for Royal City, WA postal sector 99357.
+
+Field note: Dielectric union checklist completed in Royal City, WA.
 
 Field note: Drain cleaning cable head wear logged before second pass in Royal City, WA.
 
-Dispatch sectors sampled: ZIP 99357 (county grid: Grant County).
+Primary postal anchor 99357 with multi-ZIP overlap in Royal City; field packets tag Grant County for county-grid reconciliation.
 
 Service reference: WA-99357-46d09963

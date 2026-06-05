@@ -12,30 +12,47 @@ lng: -94.2800
 zipSample: ["75561"]
 zipCodes: ["75561"]
 localPaths: ["Bowie County / primary ZIP 75561", "Bowie County / ZIP 75561 sector", "Bowie County / elevation 390 ft band", "Bowie County / coords 33.4700, -94.2800"]
-zillowHomeValueUsd: 160002
 ---
 
 **Engineering Notice for Hooks:** System optimized for 149 mg/L hard water scaling factors in Hooks. Regional dispatch grid: Bowie County.
 
 
-When fixture & supply line pros scopes are reviewed in Hooks, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: map sump float travel and check-valve orientation for Hooks, TX basements.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Hooks, TX.
+Trenchless pulls in Hooks, TX require pit dimensions verified against utility locate marks.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Hooks, TX, soft blockages differ from root intrusion profiles.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 75561.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Open a scheduling request if you need fixture & supply line pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 75561.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field packet: cleanout riser height plus backflow test cock orientation referenced in Bowie County county grid review.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Hooks, TX.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Basement floor drains in Hooks, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Cleanout access limits in Hooks, TX frequently extend drain cleaning duration.
+
+Branch wet vents in Hooks, TX can mask gurgling as a main-line issue.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Flow dossier 942800: branch wet-vent geometry and PRV seat wear logged for Hooks, TX county grid Bowie County (ZIP 75561).
+
+Lineage note 942800: recirculation pump amp draw captured before Hooks, TX branch isolation.
 
 Field note: Sump pump discharge check-valve orientation verified for ZIP sector 75561.
 
-Field note: Drain cleaning cable head wear logged before second pass in Hooks, TX.
-
-Dispatch sectors sampled: ZIP 75561 (county grid: Bowie County).
+Coordinate-anchored dispatch note: center reference 33.4700, -94.2800 at elevation ~390 ft aligns with Bowie County intake staging.
 
 Service reference: TX-75561-fdef19d2

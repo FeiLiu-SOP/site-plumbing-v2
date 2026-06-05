@@ -12,28 +12,49 @@ lng: -87.9700
 zipSample: ["37134"]
 zipCodes: ["37134"]
 localPaths: ["Humphreys County / primary ZIP 37134", "Humphreys County / elevation 400 ft band", "Humphreys County / coords 36.0200, -87.9700", "Humphreys County / ZIP 37134 sector"]
-zillowHomeValueUsd: 223182
 ---
 
 **Engineering Notice for New Johnsonville:** System optimized for 160 mg/L hard water scaling factors in New Johnsonville. Regional dispatch grid: Humphreys County.
 
 
-Across New Johnsonville, TN, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Water heater T&P discharge paths in New Johnsonville, TN must terminate safely before replacement quotes.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Our intake language for New Johnsonville, TN work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Basement floor drains in New Johnsonville, TN should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Can sump pump remediation wait until dry season? In New Johnsonville, TN, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 37134.
+Tip: Log water heater flex line dates before wall closure in New Johnsonville, TN remodel zones.
 
-Book a camera-assisted drain review before approving jetting on older New Johnsonville, TN mains. Serving ZIP Code: 37134.
+Material note: Water heater anode type may change with New Johnsonville, TN hardness profiles.
 
-Routing marker: main line camera pass paired with cleanout riser height near ZIP 37134.
+Dual-water-meter setups in New Johnsonville, TN irrigation zones need backflow logs before line replacement.
 
-Field note: Drain cleaning cable head wear logged before second pass in New Johnsonville, TN.
+Stack vent offsets in New Johnsonville, TN older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 37134 (county grid: Humphreys County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Across New Johnsonville, TN, main-line bellies trap debris even when fixtures drain normally.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: Is hydro-jetting always appropriate? In New Johnsonville, TN, pipe material and blockage type dictate method.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Galvanized segments in New Johnsonville, TN may restrict flow before visible corrosion.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Drain map 563350: camera-pass priority and expansion-tank pre-charge noted for New Johnsonville, TN postal sector 37134.
+
+Lineage note 563350: recirculation pump amp draw captured before New Johnsonville, TN branch isolation.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 37134.
+
+On-site sector marker: Humphreys County / ZIP 37134 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37134-76da745f

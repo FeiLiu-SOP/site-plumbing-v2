@@ -12,28 +12,47 @@ lng: -95.0000
 zipSample: ["77371"]
 zipCodes: ["77371"]
 localPaths: ["San Jacinto County / coords 30.4900, -95.0000", "San Jacinto County / ZIP 77371 sector", "San Jacinto County / primary ZIP 77371", "San Jacinto County / elevation 180 ft band"]
-zillowHomeValueUsd: 207377
 ---
 
 **Engineering Notice for Shepherd:** System optimized for 160 mg/L hard water scaling factors in Shepherd. Regional dispatch grid: San Jacinto County.
 
 
-When water heater & pipe experts scopes are reviewed in Shepherd, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Shepherd, TX.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Shepherd, TX, soft blockages differ from root intrusion profiles.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 77371.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 77371.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 77371.
+Tankless heater descale intervals in Shepherd, TX hard-water zones differ from tank anode schedules.
 
-Routing marker: sub-slab moisture gradient paired with hose bib freeze-risk flag near ZIP 77371.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 77371.
+Step: camera-pass main lines in Shepherd, TX before jetting older clay or cast iron.
 
-Dispatch sectors sampled: ZIP 77371 (county grid: San Jacinto County).
+Shared main supplies in Shepherd, TX duplexes require coordinated shutoff before pressure holds.
+
+CPVC solvent weld times shift with ambient humidity during Shepherd, TX shoulder seasons.
+
+Material note: Water heater anode type may change with Shepherd, TX hardness profiles.
+
+FAQ: When should sump battery backups be load-tested? In Shepherd, TX, before spring thaw and heavy rain remnants.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 77371.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Service ledger 545128: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Shepherd, TX at 30.4900, -95.0000.
+
+Drain map 545128: camera-pass priority and expansion-tank pre-charge noted for Shepherd, TX postal sector 77371.
+
+Field note: Drain cleaning cable head wear logged before second pass in Shepherd, TX.
+
+On-site sector marker: San Jacinto County / coords 30.4900, -95.0000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-77371-69518bae

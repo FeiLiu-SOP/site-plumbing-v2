@@ -12,28 +12,47 @@ lng: -86.0800
 zipSample: ["37355"]
 zipCodes: ["37355"]
 localPaths: ["Coffee County / primary ZIP 37355", "Coffee County / coords 35.5300, -86.0800", "Coffee County / elevation 1086 ft band", "Coffee County / ZIP 37355 sector"]
-zillowHomeValueUsd: 325414
 ---
 
 **Engineering Notice for New Union:** System optimized for 122 mg/L hard water scaling factors in New Union. Regional dispatch grid: Coffee County.
 
 
-Across New Union, TN, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Our intake language for New Union, TN work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: Can sump pump service wait until dry season? In New Union, TN, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 37355.
+Tankless heater descale intervals in New Union, TN hard-water zones differ from tank anode schedules.
 
-Book a camera-assisted drain review before approving jetting on older New Union, TN mains. Serving ZIP Code: 37355.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Routing marker: main line camera pass paired with sub-slab moisture gradient near ZIP 37355.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Main cleanout riser height measured against slab finish in New Union, TN.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 37355 (county grid: Coffee County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Galvanized segments in New Union, TN may restrict flow before visible corrosion.
+
+Step: map sump float travel and check-valve orientation for New Union, TN basements.
+
+Frost-free sillcock failures in New Union, TN often trace to interior shutoff seats.
+
+CPVC solvent weld times shift with ambient humidity during New Union, TN shoulder seasons.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 37355.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Fixture roster 945334: toilet flange spacer kit and shower cartridge seat score queued for New Union, TN walk-through.
+
+Lineage note 945334: recirculation pump amp draw captured before New Union, TN branch isolation.
+
+Field note: PRV inlet and outlet curves captured for ZIP 37355.
+
+**Regional Infrastructure Brief:** Grid anchor set to Coffee County. Reference elevation: 1086 ft. Primary coordinates: 35.5300, -86.0800. ZIP sample: 37355. Regional routing note: Coffee County traffic flow is balanced around ZIP 37355 service demand.
 
 Service reference: TN-37355-d4004512

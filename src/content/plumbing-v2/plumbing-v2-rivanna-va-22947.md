@@ -12,28 +12,45 @@ lng: -78.3800
 zipSample: ["22947"]
 zipCodes: ["22947"]
 localPaths: ["Albemarle County / primary ZIP 22947", "Albemarle County / coords 37.9900, -78.3800", "Albemarle County / ZIP 22947 sector", "Albemarle County / elevation 381 ft band"]
-zillowHomeValueUsd: 818864
 ---
 
 **Engineering Notice for Rivanna:** System optimized for 139 mg/L hard water scaling factors in Rivanna. Regional dispatch grid: Albemarle County.
 
 
-Property owners in Rivanna, VA may see fixture & supply line pros escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Frost-free sillcock failures in Rivanna, VA often trace to interior shutoff seats.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Rivanna, VA.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Basement floor drains in Rivanna, VA should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: What slows drain cleaning most? In Rivanna, VA, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 22947.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 22947.
+Dual-water-meter setups in Rivanna, VA irrigation zones need backflow logs before line replacement.
 
-Routing marker: backflow test cock orientation paired with Sump pump float travel near ZIP 22947.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Albemarle County.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 22947.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Rivanna, VA.
 
-Dispatch sectors sampled: ZIP 22947 (county grid: Albemarle County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Rivanna, VA.
+
+Hard water in Rivanna, VA accelerates scale on PRV seats and heater elements.
+
+Dispatch packets reference county grid Albemarle County near ZIP 22947.
+
+Tankless heater descale intervals in Rivanna, VA hard-water zones differ from tank anode schedules.
+
+Supply audit 201309: curb-stop orientation and hose-bib freeze flag reviewed for Rivanna, VA at coords 37.9900/-78.3800.
+
+Service ledger 201309: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Rivanna, VA at 37.9900, -78.3800.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 22947.
+
+On-site sector marker: Albemarle County / coords 37.9900, -78.3800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22947-2903ad87

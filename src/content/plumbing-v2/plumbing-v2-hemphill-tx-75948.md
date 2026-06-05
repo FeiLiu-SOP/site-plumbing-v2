@@ -12,28 +12,47 @@ lng: -93.8500
 zipSample: ["75948"]
 zipCodes: ["75948"]
 localPaths: ["Sabine County / ZIP 75948 sector", "Sabine County / elevation 299 ft band", "Sabine County / coords 31.3400, -93.8500", "Sabine County / primary ZIP 75948"]
-zillowHomeValueUsd: 213070
 ---
 
 **Engineering Notice for Hemphill:** System optimized for 134 mg/L hard water scaling factors in Hemphill. Regional dispatch grid: Sabine County.
 
 
-When basement sump service team scopes are reviewed in Hemphill, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Hemphill, TX.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Hemphill, TX older homes.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Hemphill, TX, soft blockages differ from root intrusion profiles.
+Permit note: Main water line replacement in Hemphill, TX may require ROW restoration planning.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 75948.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 75948.
+Irrigation cross-connections in Hemphill, TX can back-siphon domestic lines during main breaks.
 
-Scope trace: dielectric union checklist cross-checked against fixture shutoff torque log before line-pressure hold test.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 75948.
+Tankless heater descale intervals in Hemphill, TX hard-water zones differ from tank anode schedules.
 
-Dispatch sectors sampled: ZIP 75948 (county grid: Sabine County).
+Stack vent offsets in Hemphill, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Polybutylene manifold tags in Hemphill, TX basements should be photographed before wall chases open.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Flow dossier 724480: branch wet-vent geometry and PRV seat wear logged for Hemphill, TX county grid Sabine County (ZIP 75948).
+
+Pressure trace 724480: meter-pit clearance and dielectric union checklist staged for Hemphill, TX near elevation 299 ft.
+
+On-site sector marker: Sabine County / elevation 299 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75948-7301073d

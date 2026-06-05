@@ -12,30 +12,45 @@ lng: -96.9300
 zipSample: ["76682"]
 zipCodes: ["76682"]
 localPaths: ["McLennan County / primary ZIP 76682", "McLennan County / coords 31.4800, -96.9300", "McLennan County / ZIP 76682 sector", "McLennan County / elevation 495 ft band"]
-zillowHomeValueUsd: 256323
 ---
 
 **Engineering Notice for Riesel:** System optimized for 142 mg/L hard water scaling factors in Riesel. Regional dispatch grid: McLennan County.
 
 
-A whole-home repiping advisors reach out in Riesel, TX is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Riesel, TX.
+Request a camera-assisted drain review before approving jetting. Postal sector 76682.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Garage utility sinks in Riesel, TX often tie into laundry branches that mask main-line restrictions.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Riesel, TX supply age can diverge sharply.
+Tankless heater descale intervals in Riesel, TX hard-water zones differ from tank anode schedules.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 76682.
+Branch wet vents in Riesel, TX can mask gurgling as a main-line issue.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 76682.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field packet: copper pinhole cluster map plus hose bib freeze-risk flag referenced in McLennan County county grid review.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Water line replacement trench path flagged for McLennan County setbacks.
+Step: map sump float travel and check-valve orientation for Riesel, TX basements.
 
-Field note: Main cleanout riser height measured against slab finish in Riesel, TX.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Riesel, TX.
 
-Dispatch sectors sampled: ZIP 76682 (county grid: McLennan County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Irrigation cross-connections in Riesel, TX can back-siphon domestic lines during main breaks.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+CPVC solvent weld times shift with ambient humidity during Riesel, TX shoulder seasons.
+
+Galvanized segments in Riesel, TX may restrict flow before visible corrosion.
+
+Lineage note 226988: recirculation pump amp draw captured before Riesel, TX branch isolation.
+
+Supply audit 226988: curb-stop orientation and hose-bib freeze flag reviewed for Riesel, TX at coords 31.4800/-96.9300.
+
+Field note: Backflow test cock orientation noted in Riesel, TX.
+
+On-site sector marker: McLennan County / elevation 495 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76682-c9414d7f

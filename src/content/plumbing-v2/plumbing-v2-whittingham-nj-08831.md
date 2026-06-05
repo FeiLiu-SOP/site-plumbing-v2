@@ -12,30 +12,45 @@ lng: -74.4500
 zipSample: ["08831"]
 zipCodes: ["08831"]
 localPaths: ["Middlesex County / primary ZIP 08831", "Middlesex County / coords 40.3300, -74.4500", "Middlesex County / elevation 174 ft band", "Middlesex County / ZIP 08831 sector"]
-zillowHomeValueUsd: 602288
 ---
 
 **Engineering Notice for Whittingham:** System optimized for 129 mg/L hard water scaling factors in Whittingham. Regional dispatch grid: Middlesex County.
 
 
-When drain line restoration crew scopes are reviewed in Whittingham, NJ, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Whittingham, NJ.
+Hose bib split patterns often follow missed winterization.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: In Whittingham, NJ, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Whittingham, NJ, soft blockages differ from root intrusion profiles.
+Stack vent offsets in Whittingham, NJ older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 08831.
+Request a camera-assisted drain review before approving jetting. Postal sector 08831.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 08831.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field packet: PRV outlet pressure curve plus dielectric union checklist referenced in Middlesex County county grid review.
+Ask for trenchless feasibility notes before main replacement. County grid Middlesex County.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 08831.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 08831.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 08831 (county grid: Middlesex County).
+Polybutylene manifold tags in Whittingham, NJ basements should be photographed before wall chases open.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Frost-free sillcock failures in Whittingham, NJ often trace to interior shutoff seats.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 08831.
+
+Lineage note 882229: recirculation pump amp draw captured before Whittingham, NJ branch isolation.
+
+Pressure trace 882229: meter-pit clearance and dielectric union checklist staged for Whittingham, NJ near elevation 174 ft.
+
+Coordinate-anchored dispatch note: center reference 40.3300, -74.4500 at elevation ~174 ft aligns with Middlesex County intake staging.
 
 Service reference: NJ-08831-ee221da3

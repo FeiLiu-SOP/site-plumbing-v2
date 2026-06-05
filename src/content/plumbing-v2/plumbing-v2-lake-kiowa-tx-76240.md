@@ -12,30 +12,45 @@ lng: -97.0100
 zipSample: ["76240"]
 zipCodes: ["76240"]
 localPaths: ["Cooke County / ZIP 76240 sector", "Cooke County / elevation 725 ft band", "Cooke County / coords 33.5700, -97.0100", "Cooke County / primary ZIP 76240"]
-zillowHomeValueUsd: 278326
 ---
 
 **Engineering Notice for Lake Kiowa:** System optimized for 168 mg/L hard water scaling factors in Lake Kiowa. Regional dispatch grid: Cooke County.
 
 
-Across Lake Kiowa, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Technicians stage basement sump service team jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: camera-pass main lines in Lake Kiowa, TX before jetting older clay or cast iron.
 
-Our intake language for Lake Kiowa, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Can sump pump restoration wait until dry season? In Lake Kiowa, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tankless heater descale intervals in Lake Kiowa, TX hard-water zones differ from tank anode schedules.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 76240.
+Step: photograph curb-stop and meter pit before trenching.
 
-Book a camera-assisted drain review before approving jetting on older Lake Kiowa, TX mains. Serving ZIP Code: 76240.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch note: copper pinhole cluster map and hose bib freeze-risk flag were logged for the Lake Kiowa plumbing intake packet.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Water line replacement trench path flagged for Cooke County setbacks.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Lake Kiowa, TX.
 
-Field note: Drain cleaning cable head wear logged before second pass in Lake Kiowa, TX.
+Cast-iron hub corrosion in Lake Kiowa, TX often concentrates at the third joint upstream of the cleanout.
 
-Dispatch sectors sampled: ZIP 76240 (county grid: Cooke County).
+Recirculation pump failures can mimic fixture-specific clogs.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Polybutylene manifold tags in Lake Kiowa, TX basements should be photographed before wall chases open.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Service ledger 752748: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Lake Kiowa, TX at 33.5700, -97.0100.
+
+Pressure trace 752748: meter-pit clearance and dielectric union checklist staged for Lake Kiowa, TX near elevation 725 ft.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 76240.
+
+On-site sector marker: Cooke County / primary ZIP 76240 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76240-9371fe0a

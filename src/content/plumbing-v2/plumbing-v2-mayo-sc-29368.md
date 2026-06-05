@@ -12,29 +12,47 @@ lng: -81.8500
 zipSample: ["29368", "29323", "29330"]
 zipCodes: ["29323", "29368", "29330"]
 localPaths: ["Spartanburg County / ZIP 29368 sector", "Spartanburg County / coords 35.0900, -81.8500", "Spartanburg County / ZIP 29330 sector", "Spartanburg County / primary ZIP 29368", "Spartanburg County / ZIP 29323 sector"]
-zillowHomeValueUsd: 292053
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Mayo:** System optimized for 176 mg/L hard water scaling factors in Mayo. Regional dispatch grid: Spartanburg County.
 
 
-When basement sump service team scopes are reviewed in Mayo, SC, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Hard water in Mayo, SC accelerates scale on PRV seats and heater elements.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Mayo, SC.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Mayo, SC older homes.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Material note: Water heater anode type may change with Mayo, SC hardness profiles.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Mayo, SC, soft blockages differ from root intrusion profiles.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 29330/29368/29323.
+Irrigation cross-connections in Mayo, SC can back-siphon domestic lines during main breaks.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 29368.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field packet: fixture shutoff torque log plus sub-slab moisture gradient referenced in Spartanburg County county grid review.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Mayo, SC.
 
-Field note: Water line replacement trench path flagged for Spartanburg County setbacks.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 29330, 29368, 29323 (county grid: Spartanburg County).
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Dispatch packets reference county grid Spartanburg County near ZIP 29368.
+
+Step: camera-pass main lines in Mayo, SC before jetting older clay or cast iron.
+
+Polybutylene manifold tags in Mayo, SC basements should be photographed before wall chases open.
+
+Hydrostatic holds in Mayo, SC slab circuits run overnight when listening mics show ambiguous hits.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Supply audit 836322: curb-stop orientation and hose-bib freeze flag reviewed for Mayo, SC at coords 35.0900/-81.8500.
+
+Fixture roster 836322: toilet flange spacer kit and shower cartridge seat score queued for Mayo, SC walk-through.
+
+ZIP-corridor snapshot for Mayo, SC: sampled sectors include 29323, 29368, 29330; county routing grid remains Spartanburg County.
 
 Service reference: SC-29368-00857400

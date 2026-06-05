@@ -12,28 +12,47 @@ lng: -83.7600
 zipSample: ["40962"]
 zipCodes: ["40962"]
 localPaths: ["Clay County / elevation 909 ft band", "Clay County / coords 37.1500, -83.7600", "Clay County / primary ZIP 40962", "Clay County / ZIP 40962 sector"]
-zillowHomeValueUsd: 123010
 ---
 
 **Engineering Notice for Manchester:** System optimized for 140 mg/L hard water scaling factors in Manchester. Regional dispatch grid: Clay County.
 
 
-When leak detection pros scopes are reviewed in Manchester, KY, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Manchester, KY.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Manchester, KY, soft blockages differ from root intrusion profiles.
+FAQ: When should sump battery backups be load-tested? In Manchester, KY, before spring thaw and heavy rain remnants.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 40962.
+Trenchless pulls in Manchester, KY require pit dimensions verified against utility locate marks.
 
-Open a scheduling request if you need leak detection pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 40962.
+Hard water in Manchester, KY accelerates scale on PRV seats and heater elements.
 
-Scope trace: scale coupon sampling cross-checked against water heater T&P discharge path before line-pressure hold test.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 40962.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 40962 (county grid: Clay County).
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 40962.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Cast-iron hub corrosion in Manchester, KY often concentrates at the third joint upstream of the cleanout.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 40962.
+
+Water heater T&P discharge paths in Manchester, KY must terminate safely before replacement quotes.
+
+Pressure trace 775993: meter-pit clearance and dielectric union checklist staged for Manchester, KY near elevation 909 ft.
+
+Fixture roster 775993: toilet flange spacer kit and shower cartridge seat score queued for Manchester, KY walk-through.
+
+Field note: Meter-pit clearance photographed near ZIP 40962.
+
+On-site sector marker: Clay County / primary ZIP 40962 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40962-8504251b

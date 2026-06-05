@@ -12,30 +12,49 @@ lng: -99.5000
 zipSample: ["78046"]
 zipCodes: ["78046"]
 localPaths: ["Webb County / ZIP 78046 sector", "Webb County / elevation 423 ft band", "Webb County / primary ZIP 78046", "Webb County / coords 27.3300, -99.5000"]
-zillowHomeValueUsd: 192595
 ---
 
 **Engineering Notice for El Cenizo:** System optimized for 142 mg/L hard water scaling factors in El Cenizo. Regional dispatch grid: Webb County.
 
 
-When slab leak response unit scopes are reviewed in El Cenizo, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 78046.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for El Cenizo, TX.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 78046.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in El Cenizo, TX.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in El Cenizo, TX, soft blockages differ from root intrusion profiles.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 78046.
+Material note: Water heater anode type may change with El Cenizo, TX hardness profiles.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 78046.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field packet: copper pinhole cluster map plus branch wet vent compliance note referenced in Webb County county grid review.
+Tip: Log water heater flex line dates before wall closure in El Cenizo, TX remodel zones.
 
-Field note: Drain cleaning cable head wear logged before second pass in El Cenizo, TX.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 78046.
+Step: camera-pass main lines in El Cenizo, TX before jetting older clay or cast iron.
 
-Dispatch sectors sampled: ZIP 78046 (county grid: Webb County).
+Our Slab Leak Response Unit coordination in El Cenizo, TX prioritizes cleanout access, vent integrity, and measurable flow recovery.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in El Cenizo, TX.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 78046.
+
+FAQ: When is cabling enough? In El Cenizo, TX, pipe material and blockage type dictate method.
+
+Lineage note 566381: recirculation pump amp draw captured before El Cenizo, TX branch isolation.
+
+Flow dossier 566381: branch wet-vent geometry and PRV seat wear logged for El Cenizo, TX county grid Webb County (ZIP 78046).
+
+Field note: PRV inlet and outlet curves captured for ZIP 78046.
+
+Coordinate-anchored dispatch note: center reference 27.3300, -99.5000 at elevation ~423 ft aligns with Webb County intake staging.
 
 Service reference: TX-78046-a6fee2d3

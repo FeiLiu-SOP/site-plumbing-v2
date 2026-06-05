@@ -12,30 +12,45 @@ lng: -95.0200
 zipSample: ["77565"]
 zipCodes: ["77565"]
 localPaths: ["Galveston County / coords 29.5300, -95.0200", "Galveston County / elevation 30 ft band", "Galveston County / ZIP 77565 sector", "Galveston County / primary ZIP 77565"]
-zillowHomeValueUsd: 358112
 ---
 
 **Engineering Notice for Kemah:** System optimized for 177 mg/L hard water scaling factors in Kemah. Regional dispatch grid: Galveston County.
 
 
-When basement sump service team scopes are reviewed in Kemah, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Galveston County.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Kemah, TX.
+In Kemah, TX, basement sump service team visits often begin with sump basin level checks and discharge line freeze separation.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Kemah, TX, soft blockages differ from root intrusion profiles.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 77565.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 77565.
+Irrigation cross-connections in Kemah, TX can back-siphon domestic lines during main breaks.
 
-Field packet: cleanout riser height plus branch wet vent compliance note referenced in Galveston County county grid review.
+Confirm cleanout locations during the same visit. Route file 77565.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 77565.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 77565.
+Basement floor drains in Kemah, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 77565 (county grid: Galveston County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Cast-iron hub corrosion in Kemah, TX often concentrates at the third joint upstream of the cleanout.
+
+Polybutylene manifold tags in Kemah, TX basements should be photographed before wall chases open.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Tip: Log water heater flex line dates before wall closure in Kemah, TX remodel zones.
+
+Drain map 991105: camera-pass priority and expansion-tank pre-charge noted for Kemah, TX postal sector 77565.
+
+Service ledger 991105: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Kemah, TX at 29.5300, -95.0200.
+
+Field note: Water line replacement trench path flagged for Galveston County setbacks.
+
+ZIP-corridor snapshot for Kemah, TX: sampled sectors include 77565; county routing grid remains Galveston County.
 
 Service reference: TX-77565-9f754a07

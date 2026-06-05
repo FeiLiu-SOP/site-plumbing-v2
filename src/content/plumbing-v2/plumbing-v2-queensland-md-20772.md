@@ -12,30 +12,49 @@ lng: -76.7900
 zipSample: ["20772"]
 zipCodes: ["20772"]
 localPaths: ["Prince George's County / coords 38.8000, -76.7900", "Prince George's County / primary ZIP 20772", "Prince George's County / ZIP 20772 sector", "Prince George's County / elevation 174 ft band"]
-zillowHomeValueUsd: 475818
 ---
 
 **Engineering Notice for Queensland:** System optimized for 121 mg/L hard water scaling factors in Queensland. Regional dispatch grid: Prince George's County.
 
 
-Across Queensland, MD, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+CPVC solvent weld times shift with ambient humidity during Queensland, MD shoulder seasons.
 
-Our intake language for Queensland, MD work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Irrigation cross-connections in Queensland, MD can back-siphon domestic lines during main breaks.
 
-FAQ: Can sump pump remediation wait until dry season? In Queensland, MD, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Permit note: Main water line replacement in Queensland, MD may require ROW restoration planning.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 20772.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Book a camera-assisted drain review before approving jetting on older Queensland, MD mains. Serving ZIP Code: 20772.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Prince George's County.
 
-Dispatch note: main line camera pass and water heater T&P discharge path were logged for the Queensland plumbing intake packet.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Main cleanout riser height measured against slab finish in Queensland, MD.
+Stack vent offsets in Queensland, MD older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Drain cleaning cable head wear logged before second pass in Queensland, MD.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Queensland, MD.
 
-Dispatch sectors sampled: ZIP 20772 (county grid: Prince George's County).
+Hydrostatic holds in Queensland, MD slab circuits run overnight when listening mics show ambiguous hits.
+
+Dual-water-meter setups in Queensland, MD irrigation zones need backflow logs before line replacement.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 20772.
+
+Shared main supplies in Queensland, MD duplexes require coordinated shutoff before pressure holds.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 20772.
+
+Step: camera-pass main lines in Queensland, MD before jetting older clay or cast iron.
+
+Flow dossier 638862: branch wet-vent geometry and PRV seat wear logged for Queensland, MD county grid Prince George's County (ZIP 20772).
+
+Lineage note 638862: recirculation pump amp draw captured before Queensland, MD branch isolation.
+
+Field note: PRV inlet and outlet curves captured for ZIP 20772.
+
+On-site sector marker: Prince George's County / ZIP 20772 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20772-1fc48648

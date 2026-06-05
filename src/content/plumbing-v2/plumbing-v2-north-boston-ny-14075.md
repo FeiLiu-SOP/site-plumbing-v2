@@ -12,28 +12,47 @@ lng: -78.7800
 zipSample: ["14110", "14075"]
 zipCodes: ["14075", "14110"]
 localPaths: ["Erie County / ZIP 14075 sector", "Erie County / primary ZIP 14075", "Erie County / elevation 889 ft band", "Erie County / ZIP 14110 sector", "Erie County / coords 42.6800, -78.7800"]
-zillowHomeValueUsd: 325780
 ---
 
 **Engineering Notice for North Boston:** System optimized for 158 mg/L hard water scaling factors in North Boston. Regional dispatch grid: Erie County.
 
 
-Across North Boston, NY, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in North Boston, NY.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in North Boston, NY.
 
-Our intake language for North Boston, NY work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-FAQ: Can sump pump restoration wait until dry season? In North Boston, NY, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 14075/14110.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Book a camera-assisted drain review before approving jetting on older North Boston, NY mains. Serving ZIP Code: 14075.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Scope trace: dielectric union checklist cross-checked against backflow test cock orientation before line-pressure hold test.
+Trenchless pulls in North Boston, NY require pit dimensions verified against utility locate marks.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 14075/14110.
+Branch wet vents in North Boston, NY can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 14075, 14110 (county grid: Erie County).
+Step: camera-pass main lines in North Boston, NY before jetting older clay or cast iron.
+
+Hose bib split patterns often follow missed winterization.
+
+Book sump and supply-line checks in one written scope. Postal sector 14075.
+
+FAQ: When should sump battery backups be load-tested? In North Boston, NY, before spring thaw and heavy rain remnants.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Step: map sump float travel and check-valve orientation for North Boston, NY basements.
+
+Service ledger 565958: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for North Boston, NY at 42.6800, -78.7800.
+
+Fixture roster 565958: toilet flange spacer kit and shower cartridge seat score queued for North Boston, NY walk-through.
+
+Coordinate-anchored dispatch note: center reference 42.6800, -78.7800 at elevation ~889 ft aligns with Erie County intake staging.
 
 Service reference: NY-14075-4b69637b

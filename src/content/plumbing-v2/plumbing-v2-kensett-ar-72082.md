@@ -12,29 +12,49 @@ lng: -91.6700
 zipSample: ["72082"]
 zipCodes: ["72082"]
 localPaths: ["White County / ZIP 72082 sector", "White County / elevation 226 ft band", "White County / primary ZIP 72082", "White County / coords 35.2400, -91.6700"]
-zillowHomeValueUsd: 196688
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Kensett:** System optimized for 177 mg/L hard water scaling factors in Kensett. Regional dispatch grid: White County.
 
 
-Across Kensett, AR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Trenchless pulls in Kensett, AR require pit dimensions verified against utility locate marks.
 
-Technicians stage emergency pipe restoration jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Dispatch packets reference county grid White County near ZIP 72082.
 
-Our intake language for Kensett, AR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Basement floor drains in Kensett, AR should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Can sump pump remediation wait until dry season? In Kensett, AR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: Water heater anode type may change with Kensett, AR hardness profiles.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 72082.
+FAQ: When should sump battery backups be load-tested? In Kensett, AR, before spring thaw and heavy rain remnants.
 
-Book a camera-assisted drain review before approving jetting on older Kensett, AR mains. Serving ZIP Code: 72082.
+Across Kensett, AR, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch note: Sump pump float travel and main line camera pass were logged for the Kensett plumbing intake packet.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Water line replacement trench path flagged for White County setbacks.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Dispatch sectors sampled: ZIP 72082 (county grid: White County).
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Confirm cleanout locations during the same visit. Route file 72082.
+
+Shared main supplies in Kensett, AR duplexes require coordinated shutoff before pressure holds.
+
+Tip: Log water heater flex line dates before wall closure in Kensett, AR remodel zones.
+
+Frost-free sillcock failures in Kensett, AR often trace to interior shutoff seats.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Lineage note 881651: recirculation pump amp draw captured before Kensett, AR branch isolation.
+
+Supply audit 881651: curb-stop orientation and hose-bib freeze flag reviewed for Kensett, AR at coords 35.2400/-91.6700.
+
+Field note: Meter-pit clearance photographed near ZIP 72082.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 72082.
+
+Primary postal anchor 72082 with multi-ZIP overlap in Kensett; field packets tag White County for county-grid reconciliation.
 
 Service reference: AR-72082-3d66e61b

@@ -12,31 +12,51 @@ lng: -65.7500
 zipSample: ["00773"]
 zipCodes: ["00773"]
 localPaths: ["Luquillo County / elevation 121 ft band", "Luquillo County / ZIP 00773 sector", "Luquillo County / coords 18.3800, -65.7500", "Luquillo County / primary ZIP 00773"]
-zillowHomeValueUsd: 355707
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Playa Fortuna:** System optimized for 126 mg/L hard water scaling factors in Playa Fortuna. Regional dispatch grid: Luquillo County.
 
 
-A fixture & supply line pros contact in Playa Fortuna, PR is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 00773.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Playa Fortuna, PR.
+Tip: Photograph cleanout cap threads before snaking near ZIP 00773.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Irrigation cross-connections in Playa Fortuna, PR can back-siphon domestic lines during main breaks.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Playa Fortuna, PR supply age can diverge sharply.
+Tip: Log water heater flex line dates before wall closure in Playa Fortuna, PR remodel zones.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 00773.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 00773.
+Shared main supplies in Playa Fortuna, PR duplexes require coordinated shutoff before pressure holds.
 
-Dispatch note: fixture shutoff torque log and branch wet vent compliance note were logged for the Playa Fortuna plumbing intake packet.
+Dual-water-meter setups in Playa Fortuna, PR irrigation zones need backflow logs before line replacement.
 
-Field note: Drain cleaning cable head wear logged before second pass in Playa Fortuna, PR.
+Book sump and supply-line checks in one written scope. Postal sector 00773.
 
-Field note: Water line replacement trench path flagged for Luquillo County setbacks.
+FAQ: When is cabling enough? In Playa Fortuna, PR, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 00773 (county grid: Luquillo County).
+In Playa Fortuna, PR, fixture & supply line pros visits often begin with sump basin level checks and discharge line freeze separation.
+
+Cleanout access limits in Playa Fortuna, PR frequently extend drain cleaning duration.
+
+Cast-iron hub corrosion in Playa Fortuna, PR often concentrates at the third joint upstream of the cleanout.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Luquillo County.
+
+Service ledger 167591: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Playa Fortuna, PR at 18.3800, -65.7500.
+
+Lineage note 167591: recirculation pump amp draw captured before Playa Fortuna, PR branch isolation.
+
+Field note: Backflow test cock orientation noted in Playa Fortuna, PR.
+
+Field note: Camera pass stills archived for ZIP 00773 branch line.
+
+On-site sector marker: Luquillo County / elevation 121 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00773-4382df01

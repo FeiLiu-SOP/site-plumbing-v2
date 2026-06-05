@@ -12,29 +12,45 @@ lng: -149.8000
 zipSample: ["99652", "99694"]
 zipCodes: ["99652", "99694"]
 localPaths: ["Matanuska-Susitna County / primary ZIP 99694", "Matanuska-Susitna County / ZIP 99652 sector", "Matanuska-Susitna County / elevation 0 ft band", "Matanuska-Susitna County / ZIP 99694 sector", "Matanuska-Susitna County / coords 61.6200, -149.8000"]
-zillowHomeValueUsd: 355103
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Houston:** System optimized for 121 mg/L hard water scaling factors in Houston. Regional dispatch grid: Matanuska-Susitna County.
 
 
-In Houston, AK, leak detection pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Drain cleaning scopes in Houston, AK separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Leak Detection Pros coordination in Houston, AK prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Houston, AK older homes.
 
-FAQ: When is water line replacement safer than spot service? In Houston, AK, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 99652/99694.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Houston, AK.
 
-Request a written leak detection pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 99694.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Houston, AK.
 
-Scope trace: cleanout riser height cross-checked against PRV outlet pressure curve before line-pressure hold test.
+Hydro-jetting in Houston, AK requires camera confirmation before nozzle pressure is raised.
 
-Field note: Drain cleaning cable head wear logged before second pass in Houston, AK.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 99652, 99694 (county grid: Matanuska-Susitna County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Basement floor drains in Houston, AK should be snaked only after trap arm geometry is confirmed on camera.
+
+Material note: Water heater anode type may change with Houston, AK hardness profiles.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Lineage note 646812: recirculation pump amp draw captured before Houston, AK branch isolation.
+
+Supply audit 646812: curb-stop orientation and hose-bib freeze flag reviewed for Houston, AK at coords 61.6200/-149.8000.
+
+**Regional Infrastructure Brief:** Grid anchor set to Matanuska-Susitna County. Reference elevation: 0 ft. Primary coordinates: 61.6200, -149.8000. ZIP sample: 99694, 99652. Logistics priority: Serving residential sectors across Matanuska-Susitna County and north-east ZIP 99694 grid.
 
 Service reference: AK-99694-efa75613

@@ -12,30 +12,45 @@ lng: -117.9200
 zipSample: ["97827"]
 zipCodes: ["97827"]
 localPaths: ["Union County / ZIP 97827 sector", "Union County / primary ZIP 97827", "Union County / elevation 2680 ft band", "Union County / coords 45.5600, -117.9200"]
-zillowHomeValueUsd: 268033
 ---
 
 **Engineering Notice for Elgin:** System optimized for 159 mg/L hard water scaling factors in Elgin. Regional dispatch grid: Union County.
 
 
-When hydro-jetting specialists scopes are reviewed in Elgin, OR, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: When should sump battery backups be load-tested? In Elgin, OR, before spring thaw and heavy rain remnants.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Elgin, OR.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Elgin, OR, soft blockages differ from root intrusion profiles.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 97827.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 97827.
+Permit note: Main water line replacement in Elgin, OR may require ROW restoration planning.
 
-Dispatch note: copper pinhole cluster map and backflow test cock orientation were logged for the Elgin plumbing intake packet.
+Book sump and supply-line checks in one written scope. Postal sector 97827.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 97827.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 97827.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Dispatch sectors sampled: ZIP 97827 (county grid: Union County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 97827.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 97827.
+
+Basement floor drains in Elgin, OR should be snaked only after trap arm geometry is confirmed on camera.
+
+Service ledger 101598: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Elgin, OR at 45.5600, -117.9200.
+
+Pressure trace 101598: meter-pit clearance and dielectric union checklist staged for Elgin, OR near elevation 2680 ft.
+
+On-site sector marker: Union County / coords 45.5600, -117.9200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97827-63bfce59

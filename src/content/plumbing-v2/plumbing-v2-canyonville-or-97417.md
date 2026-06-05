@@ -12,28 +12,49 @@ lng: -123.2800
 zipSample: ["97417"]
 zipCodes: ["97417"]
 localPaths: ["Douglas County / primary ZIP 97417", "Douglas County / elevation 745 ft band", "Douglas County / coords 42.9300, -123.2800", "Douglas County / ZIP 97417 sector"]
-zillowHomeValueUsd: 264053
 ---
 
 **Engineering Notice for Canyonville:** System optimized for 176 mg/L hard water scaling factors in Canyonville. Regional dispatch grid: Douglas County.
 
 
-Across Canyonville, OR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: Is hydro-jetting always appropriate? In Canyonville, OR, pipe material and blockage type dictate method.
 
-Our intake language for Canyonville, OR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Irrigation cross-connections in Canyonville, OR can back-siphon domestic lines during main breaks.
 
-FAQ: Can sump pump service wait until dry season? In Canyonville, OR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 97417.
+Risk flag: In Canyonville, OR, slab leaks can misroute as foundation issues without listening equipment.
 
-Book a camera-assisted drain review before approving jetting on older Canyonville, OR mains. Serving ZIP Code: 97417.
+Branch wet vents in Canyonville, OR can mask gurgling as a main-line issue.
 
-Field packet: sub-slab moisture gradient plus main line camera pass referenced in Douglas County county grid review.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Main cleanout riser height measured against slab finish in Canyonville, OR.
+Book sump and supply-line checks in one written scope. Postal sector 97417.
 
-Dispatch sectors sampled: ZIP 97417 (county grid: Douglas County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Basement floor drains in Canyonville, OR should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Across Canyonville, OR, main-line bellies trap debris even when fixtures drain normally.
+
+Lineage note 795923: recirculation pump amp draw captured before Canyonville, OR branch isolation.
+
+Drain map 795923: camera-pass priority and expansion-tank pre-charge noted for Canyonville, OR postal sector 97417.
+
+Field note: Hose bib freeze flags logged for Canyonville, OR.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Douglas County. Reference elevation: 745 ft. Primary coordinates: 42.9300, -123.2800. ZIP sample: 97417. Logistics priority: Serving residential sectors across Douglas County and north-east ZIP 97417 grid.
 
 Service reference: OR-97417-f8482720

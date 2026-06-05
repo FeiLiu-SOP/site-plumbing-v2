@@ -12,30 +12,43 @@ lng: -90.2100
 zipSample: ["62691"]
 zipCodes: ["62691"]
 localPaths: ["Cass County / elevation 627 ft band", "Cass County / coords 39.9500, -90.2100", "Cass County / ZIP 62691 sector", "Cass County / primary ZIP 62691"]
-zillowHomeValueUsd: 103415
 ---
 
 **Engineering Notice for Virginia:** System optimized for 151 mg/L hard water scaling factors in Virginia. Regional dispatch grid: Cass County.
 
 
-When emergency pipe service scopes are reviewed in Virginia, IL, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Material note: Water heater anode type may change with Virginia, IL hardness profiles.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Virginia, IL.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: In Virginia, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Virginia, IL, soft blockages differ from root intrusion profiles.
+Frost-free sillcock failures in Virginia, IL often trace to interior shutoff seats.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 62691.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Open a scheduling request if you need emergency pipe restoration documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 62691.
+FAQ: When should sump battery backups be load-tested? In Virginia, IL, before spring thaw and heavy rain remnants.
 
-Routing marker: sub-slab moisture gradient paired with branch wet vent compliance note near ZIP 62691.
+Hydro-jetting in Virginia, IL requires camera confirmation before nozzle pressure is raised.
 
-Field note: Drain cleaning cable head wear logged before second pass in Virginia, IL.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Main cleanout riser height measured against slab finish in Virginia, IL.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 62691 (county grid: Cass County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Across Virginia, IL, main-line bellies trap debris even when fixtures drain normally.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Virginia, IL.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Cass County.
+
+Fixture roster 708099: toilet flange spacer kit and shower cartridge seat score queued for Virginia, IL walk-through.
+
+Pressure trace 708099: meter-pit clearance and dielectric union checklist staged for Virginia, IL near elevation 627 ft.
+
+On-site sector marker: Cass County / primary ZIP 62691 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62691-18a73471

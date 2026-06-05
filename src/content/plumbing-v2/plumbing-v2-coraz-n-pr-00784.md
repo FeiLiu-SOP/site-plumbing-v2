@@ -12,29 +12,45 @@ lng: -66.0800
 zipSample: ["00784"]
 zipCodes: ["00784"]
 localPaths: ["Guayama County / elevation 253 ft band", "Guayama County / coords 17.9900, -66.0800", "Guayama County / primary ZIP 00784", "Guayama County / ZIP 00784 sector"]
-zillowHomeValueUsd: 355836
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Corazón:** System optimized for 131 mg/L hard water scaling factors in Corazón. Regional dispatch grid: Guayama County.
 
 
-A hydro-jetting specialists request in Corazón, PR is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Corazón, PR.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Corazón, PR.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+In Corazón, PR, hydro-jetting specialists visits often begin with sump basin level checks and discharge line freeze separation.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Corazón, PR supply age can diverge sharply.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 00784.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 00784.
+Frost-free sillcock failures in Corazón, PR often trace to interior shutoff seats.
 
-Scope trace: jetter nozzle envelope cross-checked against main line camera pass before line-pressure hold test.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Main cleanout riser height measured against slab finish in Corazón, PR.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 00784 (county grid: Guayama County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Corazón, PR older homes.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Basement floor drains in Corazón, PR should be snaked only after trap arm geometry is confirmed on camera.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: When should sump battery backups be load-tested? In Corazón, PR, before spring thaw and heavy rain remnants.
+
+Drain map 629572: camera-pass priority and expansion-tank pre-charge noted for Corazón, PR postal sector 00784.
+
+Lineage note 629572: recirculation pump amp draw captured before Corazón, PR branch isolation.
+
+Field note: PRV inlet and outlet curves captured for ZIP 00784.
+
+Coordinate-anchored dispatch note: center reference 17.9900, -66.0800 at elevation ~253 ft aligns with Guayama County intake staging.
 
 Service reference: PR-00784-e2c616e6

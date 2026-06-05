@@ -12,28 +12,43 @@ lng: -92.1900
 zipSample: ["50651"]
 zipCodes: ["50651"]
 localPaths: ["Black Hawk County / ZIP 50651 sector", "Black Hawk County / elevation 830 ft band", "Black Hawk County / coords 42.3100, -92.1900", "Black Hawk County / primary ZIP 50651"]
-zillowHomeValueUsd: 230423
 ---
 
 **Engineering Notice for La Porte City:** System optimized for 178 mg/L hard water scaling factors in La Porte City. Regional dispatch grid: Black Hawk County.
 
 
-Across La Porte City, IA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Photograph cleanout cap threads before snaking near ZIP 50651.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: photograph curb-stop and meter pit before trenching.
 
-Our intake language for La Porte City, IA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-FAQ: Can sump pump service wait until dry season? In La Porte City, IA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Shared main supplies in La Porte City, IA duplexes require coordinated shutoff before pressure holds.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 50651.
+Step: map sump float travel and check-valve orientation for La Porte City, IA basements.
 
-Book a camera-assisted drain review before approving jetting on older La Porte City, IA mains. Serving ZIP Code: 50651.
+CPVC solvent weld times shift with ambient humidity during La Porte City, IA shoulder seasons.
 
-Field packet: dielectric union checklist plus branch wet vent compliance note referenced in Black Hawk County county grid review.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field note: Drain cleaning cable head wear logged before second pass in La Porte City, IA.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 50651 (county grid: Black Hawk County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved in La Porte City, IA.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in La Porte City, IA.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 50651.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in La Porte City, IA.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Pressure trace 730662: meter-pit clearance and dielectric union checklist staged for La Porte City, IA near elevation 830 ft.
+
+Supply audit 730662: curb-stop orientation and hose-bib freeze flag reviewed for La Porte City, IA at coords 42.3100/-92.1900.
+
+On-site sector marker: Black Hawk County / primary ZIP 50651 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-50651-14837822

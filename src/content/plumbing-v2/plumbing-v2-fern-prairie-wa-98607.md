@@ -12,28 +12,47 @@ lng: -122.4000
 zipSample: ["98607"]
 zipCodes: ["98607"]
 localPaths: ["Clark County / ZIP 98607 sector", "Clark County / primary ZIP 98607", "Clark County / elevation 489 ft band", "Clark County / coords 45.6400, -122.4000"]
-zillowHomeValueUsd: 751826
 ---
 
 **Engineering Notice for Fern Prairie:** System optimized for 170 mg/L hard water scaling factors in Fern Prairie. Regional dispatch grid: Clark County.
 
 
-When fixture & supply line pros scopes are reviewed in Fern Prairie, WA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: In Fern Prairie, WA, slab leaks can misroute as foundation issues without listening equipment.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Fern Prairie, WA.
+Hose bib split patterns often follow missed winterization.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 98607.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Fern Prairie, WA, soft blockages differ from root intrusion profiles.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 98607.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Open a scheduling request if you need fixture & supply line pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 98607.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Fern Prairie, WA.
 
-Routing marker: fixture shutoff torque log paired with jetter nozzle envelope near ZIP 98607.
+Galvanized segments in Fern Prairie, WA may restrict flow before visible corrosion.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Hydro-jetting in Fern Prairie, WA requires camera confirmation before nozzle pressure is raised.
+
+FAQ: When should sump battery backups be load-tested? In Fern Prairie, WA, before spring thaw and heavy rain remnants.
+
+Shared main supplies in Fern Prairie, WA duplexes require coordinated shutoff before pressure holds.
+
+Irrigation cross-connections in Fern Prairie, WA can back-siphon domestic lines during main breaks.
+
+Hydrostatic holds in Fern Prairie, WA slab circuits run overnight when listening mics show ambiguous hits.
+
+Tankless heater descale intervals in Fern Prairie, WA hard-water zones differ from tank anode schedules.
+
+Supply audit 154469: curb-stop orientation and hose-bib freeze flag reviewed for Fern Prairie, WA at coords 45.6400/-122.4000.
+
+Fixture roster 154469: toilet flange spacer kit and shower cartridge seat score queued for Fern Prairie, WA walk-through.
 
 Field note: Sump pump discharge check-valve orientation verified for ZIP sector 98607.
 
-Dispatch sectors sampled: ZIP 98607 (county grid: Clark County).
+On-site sector marker: Clark County / coords 45.6400, -122.4000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98607-a669719f

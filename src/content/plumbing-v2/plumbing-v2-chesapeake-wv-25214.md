@@ -12,30 +12,51 @@ lng: -81.5400
 zipSample: ["25214", "25315"]
 zipCodes: ["25315", "25214"]
 localPaths: ["Kanawha County / elevation 610 ft band", "Kanawha County / primary ZIP 25214", "Kanawha County / coords 38.2200, -81.5400", "Kanawha County / ZIP 25315 sector", "Kanawha County / ZIP 25214 sector"]
-zillowHomeValueUsd: 90945
 ---
 
 **Engineering Notice for Chesapeake:** System optimized for 138 mg/L hard water scaling factors in Chesapeake. Regional dispatch grid: Kanawha County.
 
 
-Property owners in Chesapeake, WV may see leak detection pros escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Shared main supplies in Chesapeake, WV duplexes require coordinated shutoff before pressure holds.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Chesapeake, WV.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Chesapeake, WV.
 
-FAQ: What slows drain cleaning most? In Chesapeake, WV, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Frost-free sillcock failures in Chesapeake, WV often trace to interior shutoff seats.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 25214/25315.
+Dual-water-meter setups in Chesapeake, WV irrigation zones need backflow logs before line replacement.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 25214.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field packet: main line camera pass plus jetter nozzle envelope referenced in Kanawha County county grid review.
+In Chesapeake, WV, leak detection pros visits often begin with sump basin level checks and discharge line freeze separation.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 25214/25315.
+Tip: Photograph cleanout cap threads before snaking near ZIP 25214.
 
-Field note: Drain cleaning cable head wear logged before second pass in Chesapeake, WV.
+CPVC solvent weld times shift with ambient humidity during Chesapeake, WV shoulder seasons.
 
-Dispatch sectors sampled: ZIP 25214, 25315 (county grid: Kanawha County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Hydrostatic holds in Chesapeake, WV slab circuits run overnight when listening mics show ambiguous hits.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Chesapeake, WV.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Chesapeake, WV.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Chesapeake, WV older homes.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Fixture roster 978440: toilet flange spacer kit and shower cartridge seat score queued for Chesapeake, WV walk-through.
+
+Supply audit 978440: curb-stop orientation and hose-bib freeze flag reviewed for Chesapeake, WV at coords 38.2200/-81.5400.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 25315/25214.
+
+Field note: Camera pass stills archived for ZIP 25315/25214 branch line.
+
+On-site sector marker: Kanawha County / ZIP 25315 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-25214-4aa845ba

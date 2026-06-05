@@ -12,29 +12,49 @@ lng: -87.8700
 zipSample: ["62466"]
 zipCodes: ["62466"]
 localPaths: ["Lawrence County / primary ZIP 62466", "Lawrence County / coords 38.7200, -87.8700", "Lawrence County / ZIP 62466 sector", "Lawrence County / elevation 466 ft band"]
-zillowHomeValueUsd: 233666
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Sumner:** System optimized for 173 mg/L hard water scaling factors in Sumner. Regional dispatch grid: Lawrence County.
 
 
-Across Sumner, IL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Photograph cleanout cap threads before snaking near ZIP 62466.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Sumner, IL.
 
-Our intake language for Sumner, IL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: Is hydro-jetting always appropriate? In Sumner, IL, pipe material and blockage type dictate method.
 
-FAQ: Can sump pump remediation wait until dry season? In Sumner, IL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Hydro-jetting in Sumner, IL requires camera confirmation before nozzle pressure is raised.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 62466.
+Ask for trenchless feasibility notes before main replacement. County grid Lawrence County.
 
-Book a camera-assisted drain review before approving jetting on older Sumner, IL mains. Serving ZIP Code: 62466.
+Risk flag: In Sumner, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Field packet: hose bib freeze-risk flag plus Sump pump float travel referenced in Lawrence County county grid review.
+Stack vent offsets in Sumner, IL older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Water line replacement trench path flagged for Lawrence County setbacks.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Dispatch sectors sampled: ZIP 62466 (county grid: Lawrence County).
+Basement floor drains in Sumner, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Log water heater flex line dates before wall closure in Sumner, IL remodel zones.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Sumner, IL.
+
+Cast-iron hub corrosion in Sumner, IL often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Fixture roster 469568: toilet flange spacer kit and shower cartridge seat score queued for Sumner, IL walk-through.
+
+Pressure trace 469568: meter-pit clearance and dielectric union checklist staged for Sumner, IL near elevation 466 ft.
+
+Field note: Dielectric union checklist completed in Sumner, IL.
+
+Coordinate-anchored dispatch note: center reference 38.7200, -87.8700 at elevation ~466 ft aligns with Lawrence County intake staging.
 
 Service reference: IL-62466-4896ae33

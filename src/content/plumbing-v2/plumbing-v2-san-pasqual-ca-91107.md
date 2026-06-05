@@ -12,28 +12,47 @@ lng: -118.1000
 zipSample: ["91107"]
 zipCodes: ["91107"]
 localPaths: ["Los Angeles County / coords 34.1400, -118.1000", "Los Angeles County / primary ZIP 91107", "Los Angeles County / ZIP 91107 sector", "Los Angeles County / elevation 712 ft band"]
-zillowHomeValueUsd: 1331273
 ---
 
 **Engineering Notice for San Pasqual:** System optimized for 140 mg/L hard water scaling factors in San Pasqual. Regional dispatch grid: Los Angeles County.
 
 
-Across San Pasqual, CA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Technicians stage emergency pipe restoration jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Our intake language for San Pasqual, CA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-FAQ: Can sump pump remediation wait until dry season? In San Pasqual, CA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 91107.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Book a camera-assisted drain review before approving jetting on older San Pasqual, CA mains. Serving ZIP Code: 91107.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Scope trace: main line camera pass cross-checked against Sump pump float travel before line-pressure hold test.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 91107.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 91107.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 91107 (county grid: Los Angeles County).
+Step: tag shutoffs and meter orientation before opening walls.
+
+Risk flag: In San Pasqual, CA, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: When should sump battery backups be load-tested? In San Pasqual, CA, before spring thaw and heavy rain remnants.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Cleanout access limits in San Pasqual, CA frequently extend drain cleaning duration.
+
+Material note: Water heater anode type may change with San Pasqual, CA hardness profiles.
+
+Hydrostatic holds in San Pasqual, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Service ledger 517203: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for San Pasqual, CA at 34.1400, -118.1000.
+
+Pressure trace 517203: meter-pit clearance and dielectric union checklist staged for San Pasqual, CA near elevation 712 ft.
+
+On-site sector marker: Los Angeles County / primary ZIP 91107 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-91107-6c0b9fc7

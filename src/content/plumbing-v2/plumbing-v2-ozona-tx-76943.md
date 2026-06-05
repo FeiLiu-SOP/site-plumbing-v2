@@ -12,28 +12,47 @@ lng: -101.2100
 zipSample: ["76943"]
 zipCodes: ["76943"]
 localPaths: ["Crockett County / ZIP 76943 sector", "Crockett County / coords 30.7100, -101.2100", "Crockett County / primary ZIP 76943", "Crockett County / elevation 2333 ft band"]
-zillowHomeValueUsd: 114072
 ---
 
 **Engineering Notice for Ozona:** System optimized for 126 mg/L hard water scaling factors in Ozona. Regional dispatch grid: Crockett County.
 
 
-Property owners in Ozona, TX may see fixture & supply line pros escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Hydrostatic holds in Ozona, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Ozona, TX.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: What slows drain cleaning most? In Ozona, TX, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Trenchless pulls in Ozona, TX require pit dimensions verified against utility locate marks.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 76943.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 76943.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch note: dielectric union checklist and water heater T&P discharge path were logged for the Ozona plumbing intake packet.
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Ozona, TX.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 76943.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Polybutylene manifold tags in Ozona, TX basements should be photographed before wall chases open.
+
+CPVC solvent weld times shift with ambient humidity during Ozona, TX shoulder seasons.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Fixture roster 227839: toilet flange spacer kit and shower cartridge seat score queued for Ozona, TX walk-through.
+
+Flow dossier 227839: branch wet-vent geometry and PRV seat wear logged for Ozona, TX county grid Crockett County (ZIP 76943).
 
 Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 76943.
 
-Dispatch sectors sampled: ZIP 76943 (county grid: Crockett County).
+Primary postal anchor 76943 with multi-ZIP overlap in Ozona; field packets tag Crockett County for county-grid reconciliation.
 
 Service reference: TX-76943-5c131a5b

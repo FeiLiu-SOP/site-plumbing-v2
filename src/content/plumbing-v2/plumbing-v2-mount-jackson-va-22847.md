@@ -12,30 +12,45 @@ lng: -78.6500
 zipSample: ["22842", "22847"]
 zipCodes: ["22847", "22842"]
 localPaths: ["Shenandoah County / coords 38.7400, -78.6500", "Shenandoah County / ZIP 22842 sector", "Shenandoah County / elevation 932 ft band", "Shenandoah County / ZIP 22847 sector", "Shenandoah County / primary ZIP 22847"]
-zillowHomeValueUsd: 368744
 ---
 
 **Engineering Notice for Mount Jackson:** System optimized for 179 mg/L hard water scaling factors in Mount Jackson. Regional dispatch grid: Shenandoah County.
 
 
-When leak detection pros scopes are reviewed in Mount Jackson, VA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Log water heater flex line dates before wall closure in Mount Jackson, VA remodel zones.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Mount Jackson, VA.
+Dual-water-meter setups in Mount Jackson, VA irrigation zones need backflow logs before line replacement.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Permit note: Main water line replacement in Mount Jackson, VA may require ROW restoration planning.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Mount Jackson, VA, soft blockages differ from root intrusion profiles.
+Tip: Photograph cleanout cap threads before snaking near ZIP 22847.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 22847/22842.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Mount Jackson, VA.
 
-Open a scheduling request if you need leak detection pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 22847.
+Polybutylene manifold tags in Mount Jackson, VA basements should be photographed before wall chases open.
 
-Field packet: Sump pump float travel plus backflow test cock orientation referenced in Shenandoah County county grid review.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Drain cleaning cable head wear logged before second pass in Mount Jackson, VA.
+Basement floor drains in Mount Jackson, VA should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Water line replacement trench path flagged for Shenandoah County setbacks.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 22847, 22842 (county grid: Shenandoah County).
+Step: photograph curb-stop and meter pit before trenching.
+
+FAQ: When should sump battery backups be load-tested? In Mount Jackson, VA, before spring thaw and heavy rain remnants.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Mount Jackson, VA older homes.
+
+Risk flag: In Mount Jackson, VA, slab leaks can misroute as foundation issues without listening equipment.
+
+Garage utility sinks in Mount Jackson, VA often tie into laundry branches that mask main-line restrictions.
+
+Material note: Water heater anode type may change with Mount Jackson, VA hardness profiles.
+
+Supply audit 758299: curb-stop orientation and hose-bib freeze flag reviewed for Mount Jackson, VA at coords 38.7400/-78.6500.
+
+Pressure trace 758299: meter-pit clearance and dielectric union checklist staged for Mount Jackson, VA near elevation 932 ft.
+
+On-site sector marker: Shenandoah County / coords 38.7400, -78.6500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22847-667222d5

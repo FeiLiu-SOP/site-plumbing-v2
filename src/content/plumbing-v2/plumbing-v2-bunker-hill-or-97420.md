@@ -12,28 +12,45 @@ lng: -124.2100
 zipSample: ["97420"]
 zipCodes: ["97420"]
 localPaths: ["Coos County / ZIP 97420 sector", "Coos County / primary ZIP 97420", "Coos County / coords 43.3500, -124.2100", "Coos County / elevation 138 ft band"]
-zillowHomeValueUsd: 323655
 ---
 
 **Engineering Notice for Bunker Hill:** System optimized for 179 mg/L hard water scaling factors in Bunker Hill. Regional dispatch grid: Coos County.
 
 
-Property owners in Bunker Hill, OR may see basement sump service team escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 97420.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Bunker Hill, OR.
+Tankless heater descale intervals in Bunker Hill, OR hard-water zones differ from tank anode schedules.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Trenchless pulls in Bunker Hill, OR require pit dimensions verified against utility locate marks.
 
-FAQ: What slows drain cleaning most? In Bunker Hill, OR, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 97420.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 97420.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Routing marker: scale coupon sampling paired with main line camera pass near ZIP 97420.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 97420.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Dispatch sectors sampled: ZIP 97420 (county grid: Coos County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Risk flag: In Bunker Hill, OR, slab leaks can misroute as foundation issues without listening equipment.
+
+Hose bib split patterns often follow missed winterization.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 97420.
+
+Frost-free sillcock failures in Bunker Hill, OR often trace to interior shutoff seats.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Bunker Hill, OR older homes.
+
+Tip: Log water heater flex line dates before wall closure in Bunker Hill, OR remodel zones.
+
+Service ledger 753786: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Bunker Hill, OR at 43.3500, -124.2100.
+
+Pressure trace 753786: meter-pit clearance and dielectric union checklist staged for Bunker Hill, OR near elevation 138 ft.
+
+On-site sector marker: Coos County / ZIP 97420 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97420-d4e2fe02

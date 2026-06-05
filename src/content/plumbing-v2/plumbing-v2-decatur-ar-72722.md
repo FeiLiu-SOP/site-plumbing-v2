@@ -12,30 +12,45 @@ lng: -94.4600
 zipSample: ["72722"]
 zipCodes: ["72722"]
 localPaths: ["Benton County / primary ZIP 72722", "Benton County / ZIP 72722 sector", "Benton County / elevation 1240 ft band", "Benton County / coords 36.3400, -94.4600"]
-zillowHomeValueUsd: 286839
 ---
 
 **Engineering Notice for Decatur:** System optimized for 175 mg/L hard water scaling factors in Decatur. Regional dispatch grid: Benton County.
 
 
-When whole-home repiping advisors scopes are reviewed in Decatur, AR, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Decatur, AR.
+Shared main supplies in Decatur, AR duplexes require coordinated shutoff before pressure holds.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Decatur, AR, soft blockages differ from root intrusion profiles.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 72722.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Open a scheduling request if you need whole-home repiping advisors documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 72722.
+Trenchless pulls in Decatur, AR require pit dimensions verified against utility locate marks.
 
-Scope trace: sub-slab moisture gradient cross-checked against branch wet vent compliance note before line-pressure hold test.
+Tip: Photograph cleanout cap threads before snaking near ZIP 72722.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 72722.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Drain cleaning cable head wear logged before second pass in Decatur, AR.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Dispatch sectors sampled: ZIP 72722 (county grid: Benton County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Step: map sump float travel and check-valve orientation for Decatur, AR basements.
+
+Irrigation cross-connections in Decatur, AR can back-siphon domestic lines during main breaks.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Benton County.
+
+Fixture roster 583292: toilet flange spacer kit and shower cartridge seat score queued for Decatur, AR walk-through.
+
+Supply audit 583292: curb-stop orientation and hose-bib freeze flag reviewed for Decatur, AR at coords 36.3400/-94.4600.
+
+Field note: Water line replacement trench path flagged for Benton County setbacks.
+
+On-site sector marker: Benton County / coords 36.3400, -94.4600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72722-b5734f60

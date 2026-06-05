@@ -12,28 +12,49 @@ lng: -74.3100
 zipSample: ["07016"]
 zipCodes: ["07016"]
 localPaths: ["Union County / elevation 85 ft band", "Union County / primary ZIP 07016", "Union County / coords 40.6500, -74.3100", "Union County / ZIP 07016 sector"]
-zillowHomeValueUsd: 764363
 ---
 
 **Engineering Notice for Cranford:** System optimized for 122 mg/L hard water scaling factors in Cranford. Regional dispatch grid: Union County.
 
 
-Across Cranford, NJ, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Shared main supplies in Cranford, NJ duplexes require coordinated shutoff before pressure holds.
 
-Our intake language for Cranford, NJ work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Can sump pump remediation wait until dry season? In Cranford, NJ, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tankless heater descale intervals in Cranford, NJ hard-water zones differ from tank anode schedules.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 07016.
+Permit note: Main water line replacement in Cranford, NJ may require ROW restoration planning.
 
-Book a camera-assisted drain review before approving jetting on older Cranford, NJ mains. Serving ZIP Code: 07016.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch note: dielectric union checklist and cleanout riser height were logged for the Cranford plumbing intake packet.
+Garage utility sinks in Cranford, NJ often tie into laundry branches that mask main-line restrictions.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 07016.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 07016 (county grid: Union County).
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Cranford, NJ.
+
+FAQ: Is hydro-jetting always appropriate? In Cranford, NJ, pipe material and blockage type dictate method.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: In Cranford, NJ, slab leaks can misroute as foundation issues without listening equipment.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 07016.
+
+Water heater T&P discharge paths in Cranford, NJ must terminate safely before replacement quotes.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Fixture roster 699499: toilet flange spacer kit and shower cartridge seat score queued for Cranford, NJ walk-through.
+
+Lineage note 699499: recirculation pump amp draw captured before Cranford, NJ branch isolation.
+
+Field note: PRV inlet and outlet curves captured for ZIP 07016.
+
+On-site sector marker: Union County / elevation 85 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07016-69f4bc98

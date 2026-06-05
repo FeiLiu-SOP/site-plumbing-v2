@@ -12,30 +12,45 @@ lng: -100.3800
 zipSample: ["79014"]
 zipCodes: ["79014"]
 localPaths: ["Hemphill County / primary ZIP 79014", "Hemphill County / ZIP 79014 sector", "Hemphill County / coords 35.9100, -100.3800", "Hemphill County / elevation 2448 ft band"]
-zillowHomeValueUsd: 170811
 ---
 
 **Engineering Notice for Canadian:** System optimized for 145 mg/L hard water scaling factors in Canadian. Regional dispatch grid: Hemphill County.
 
 
-When basement sump service team scopes are reviewed in Canadian, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Canadian, TX.
+Ask for trenchless feasibility notes before main replacement. County grid Hemphill County.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Dual-water-meter setups in Canadian, TX irrigation zones need backflow logs before line replacement.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Canadian, TX, soft blockages differ from root intrusion profiles.
+Permit note: Main water line replacement in Canadian, TX may require ROW restoration planning.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 79014.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 79014.
+Tip: Log water heater flex line dates before wall closure in Canadian, TX remodel zones.
 
-Scope trace: branch wet vent compliance note cross-checked against sub-slab moisture gradient before line-pressure hold test.
+Garage utility sinks in Canadian, TX often tie into laundry branches that mask main-line restrictions.
 
-Field note: Main cleanout riser height measured against slab finish in Canadian, TX.
+Water heater T&P discharge paths in Canadian, TX must terminate safely before replacement quotes.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 79014.
+Galvanized segments in Canadian, TX may restrict flow before visible corrosion.
 
-Dispatch sectors sampled: ZIP 79014 (county grid: Hemphill County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Polybutylene manifold tags in Canadian, TX basements should be photographed before wall chases open.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Shared main supplies in Canadian, TX duplexes require coordinated shutoff before pressure holds.
+
+Fixture roster 469262: toilet flange spacer kit and shower cartridge seat score queued for Canadian, TX walk-through.
+
+Pressure trace 469262: meter-pit clearance and dielectric union checklist staged for Canadian, TX near elevation 2448 ft.
+
+Field note: Drain cleaning cable head wear logged before second pass in Canadian, TX.
+
+On-site sector marker: Hemphill County / coords 35.9100, -100.3800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79014-c651eabc

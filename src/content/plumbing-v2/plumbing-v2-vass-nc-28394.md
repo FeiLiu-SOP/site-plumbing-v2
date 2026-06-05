@@ -12,30 +12,47 @@ lng: -79.2800
 zipSample: ["28394"]
 zipCodes: ["28394"]
 localPaths: ["Moore County / coords 35.2500, -79.2800", "Moore County / ZIP 28394 sector", "Moore County / primary ZIP 28394", "Moore County / elevation 299 ft band"]
-zillowHomeValueUsd: 361505
 ---
 
 **Engineering Notice for Vass:** System optimized for 142 mg/L hard water scaling factors in Vass. Regional dispatch grid: Moore County.
 
 
-In Vass, NC, basement sump service team visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Water heater T&P discharge paths in Vass, NC must terminate safely before replacement quotes.
 
-Drain cleaning scopes in Vass, NC separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Hydro-jetting in Vass, NC requires camera confirmation before nozzle pressure is raised.
 
-Basement Sump Service Team coordination in Vass, NC prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Dispatch packets reference county grid Moore County near ZIP 28394.
 
-FAQ: When is water line replacement safer than spot service? In Vass, NC, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Branch wet vents in Vass, NC can mask gurgling as a main-line issue.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 28394.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Request a written basement sump service team plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 28394.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Routing marker: PRV outlet pressure curve paired with jetter nozzle envelope near ZIP 28394.
+Across Vass, NC, main-line bellies trap debris even when fixtures drain normally.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 28394.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 28394.
+Book sump and supply-line checks in one written scope. Postal sector 28394.
 
-Dispatch sectors sampled: ZIP 28394 (county grid: Moore County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Frost-free sillcock failures in Vass, NC often trace to interior shutoff seats.
+
+Cast-iron hub corrosion in Vass, NC often concentrates at the third joint upstream of the cleanout.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 28394.
+
+Galvanized segments in Vass, NC may restrict flow before visible corrosion.
+
+Pressure trace 335410: meter-pit clearance and dielectric union checklist staged for Vass, NC near elevation 299 ft.
+
+Fixture roster 335410: toilet flange spacer kit and shower cartridge seat score queued for Vass, NC walk-through.
+
+Field note: Main cleanout riser height measured against slab finish in Vass, NC.
+
+On-site sector marker: Moore County / coords 35.2500, -79.2800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28394-6c1f71d0

@@ -12,28 +12,47 @@ lng: -82.8500
 zipSample: ["31642"]
 zipCodes: ["31642"]
 localPaths: ["Atkinson County / primary ZIP 31642", "Atkinson County / coords 31.3000, -82.8500", "Atkinson County / ZIP 31642 sector", "Atkinson County / elevation 207 ft band"]
-zillowHomeValueUsd: 126474
 ---
 
 **Engineering Notice for Pearson:** System optimized for 167 mg/L hard water scaling factors in Pearson. Regional dispatch grid: Atkinson County.
 
 
-In Pearson, GA, water heater & pipe experts visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Drain cleaning scopes in Pearson, GA separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+FAQ: When should sump battery backups be load-tested? In Pearson, GA, before spring thaw and heavy rain remnants.
 
-Water Heater & Pipe Experts coordination in Pearson, GA prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Stack vent offsets in Pearson, GA older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: When is water line replacement safer than spot restoration? In Pearson, GA, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+FAQ: When is cabling enough? In Pearson, GA, pipe material and blockage type dictate method.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 31642.
+Step: log PRV inlet and outlet readings during intake.
 
-Request a written water heater & pipe experts plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 31642.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Routing marker: cleanout riser height paired with branch wet vent compliance note near ZIP 31642.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 31642.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 31642 (county grid: Atkinson County).
+Shared main supplies in Pearson, GA duplexes require coordinated shutoff before pressure holds.
+
+Garage utility sinks in Pearson, GA often tie into laundry branches that mask main-line restrictions.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Pearson, GA.
+
+Basement floor drains in Pearson, GA should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Pearson, GA.
+
+Dual-water-meter setups in Pearson, GA irrigation zones need backflow logs before line replacement.
+
+Our Water Heater & Pipe Experts coordination in Pearson, GA prioritizes cleanout access, vent integrity, and measurable flow recovery.
+
+Frost-free sillcock failures in Pearson, GA often trace to interior shutoff seats.
+
+Supply audit 333096: curb-stop orientation and hose-bib freeze flag reviewed for Pearson, GA at coords 31.3000/-82.8500.
+
+Fixture roster 333096: toilet flange spacer kit and shower cartridge seat score queued for Pearson, GA walk-through.
+
+Coordinate-anchored dispatch note: center reference 31.3000, -82.8500 at elevation ~207 ft aligns with Atkinson County intake staging.
 
 Service reference: GA-31642-76481218

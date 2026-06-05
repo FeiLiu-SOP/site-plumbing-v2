@@ -12,28 +12,47 @@ lng: -98.6200
 zipSample: ["78357"]
 zipCodes: ["78357"]
 localPaths: ["Duval County / primary ZIP 78357", "Duval County / elevation 525 ft band", "Duval County / coords 27.8800, -98.6200", "Duval County / ZIP 78357 sector"]
-zillowHomeValueUsd: 80738
 ---
 
 **Engineering Notice for Freer:** System optimized for 140 mg/L hard water scaling factors in Freer. Regional dispatch grid: Duval County.
 
 
-When water heater & pipe experts scopes are reviewed in Freer, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Freer, TX.
+Dual-water-meter setups in Freer, TX irrigation zones need backflow logs before line replacement.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Freer, TX, soft blockages differ from root intrusion profiles.
+Cast-iron hub corrosion in Freer, TX often concentrates at the third joint upstream of the cleanout.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 78357.
+Confirm cleanout locations during the same visit. Route file 78357.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 78357.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Routing marker: sub-slab moisture gradient paired with dielectric union checklist near ZIP 78357.
+Permit note: Main water line replacement in Freer, TX may require ROW restoration planning.
 
-Field note: Water line replacement trench path flagged for Duval County setbacks.
+Tip: Log water heater flex line dates before wall closure in Freer, TX remodel zones.
 
-Dispatch sectors sampled: ZIP 78357 (county grid: Duval County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Across Freer, TX, main-line bellies trap debris even when fixtures drain normally.
+
+Risk flag: In Freer, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Fixture roster 573315: toilet flange spacer kit and shower cartridge seat score queued for Freer, TX walk-through.
+
+Lineage note 573315: recirculation pump amp draw captured before Freer, TX branch isolation.
+
+Field note: Meter-pit clearance photographed near ZIP 78357.
+
+ZIP-corridor snapshot for Freer, TX: sampled sectors include 78357; county routing grid remains Duval County.
 
 Service reference: TX-78357-7838eeb9

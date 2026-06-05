@@ -12,30 +12,43 @@ lng: -80.5600
 zipSample: ["44442"]
 zipCodes: ["44442"]
 localPaths: ["Mahoning County / primary ZIP 44442", "Mahoning County / coords 40.9600, -80.5600", "Mahoning County / elevation 1217 ft band", "Mahoning County / ZIP 44442 sector"]
-zillowHomeValueUsd: 238477
 ---
 
 **Engineering Notice for New Middletown:** System optimized for 173 mg/L hard water scaling factors in New Middletown. Regional dispatch grid: Mahoning County.
 
 
-When slab leak response unit scopes are reviewed in New Middletown, OH, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for New Middletown, OH.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 44442.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in New Middletown, OH, soft blockages differ from root intrusion profiles.
+Confirm cleanout locations during the same visit. Route file 44442.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 44442.
+Irrigation cross-connections in New Middletown, OH can back-siphon domestic lines during main breaks.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 44442.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch note: backflow test cock orientation and hose bib freeze-risk flag were logged for the New Middletown plumbing intake packet.
+Hard water in New Middletown, OH accelerates scale on PRV seats and heater elements.
 
-Field note: Main cleanout riser height measured against slab finish in New Middletown, OH.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 44442.
+Ask for trenchless feasibility notes before main replacement. County grid Mahoning County.
 
-Dispatch sectors sampled: ZIP 44442 (county grid: Mahoning County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Polybutylene manifold tags in New Middletown, OH basements should be photographed before wall chases open.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in New Middletown, OH.
+
+Drain map 260017: camera-pass priority and expansion-tank pre-charge noted for New Middletown, OH postal sector 44442.
+
+Supply audit 260017: curb-stop orientation and hose-bib freeze flag reviewed for New Middletown, OH at coords 40.9600/-80.5600.
+
+Coordinate-anchored dispatch note: center reference 40.9600, -80.5600 at elevation ~1217 ft aligns with Mahoning County intake staging.
 
 Service reference: OH-44442-ca7ba498

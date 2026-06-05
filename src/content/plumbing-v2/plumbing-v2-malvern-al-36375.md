@@ -12,28 +12,45 @@ lng: -85.5200
 zipSample: ["36301", "36305", "36375"]
 zipCodes: ["36375", "36305", "36301"]
 localPaths: ["Geneva County / elevation 305 ft band", "Geneva County / primary ZIP 36375", "Geneva County / coords 31.1400, -85.5200", "Geneva County / ZIP 36301 sector", "Geneva County / ZIP 36375 sector"]
-zillowHomeValueUsd: 173802
 ---
 
 **Engineering Notice for Malvern:** System optimized for 135 mg/L hard water scaling factors in Malvern. Regional dispatch grid: Geneva County.
 
 
-A water heater & pipe experts request in Malvern, AL is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 36375.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Malvern, AL.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Malvern, AL.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Cast-iron hub corrosion in Malvern, AL often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Malvern, AL supply age can diverge sharply.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Malvern, AL.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 36375/36301/36305.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 36375.
+Tip: Log water heater flex line dates before wall closure in Malvern, AL remodel zones.
 
-Scope trace: Sump pump float travel cross-checked against cleanout riser height before line-pressure hold test.
+Tankless heater descale intervals in Malvern, AL hard-water zones differ from tank anode schedules.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 36375/36301/36305.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 36375, 36301, 36305 (county grid: Geneva County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Shared main supplies in Malvern, AL duplexes require coordinated shutoff before pressure holds.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Malvern, AL.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Geneva County.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Supply audit 934442: curb-stop orientation and hose-bib freeze flag reviewed for Malvern, AL at coords 31.1400/-85.5200.
+
+Drain map 934442: camera-pass priority and expansion-tank pre-charge noted for Malvern, AL postal sector 36375.
+
+Field note: Camera pass stills archived for ZIP 36301/36375/36305 branch line.
+
+On-site sector marker: Geneva County / ZIP 36305 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36375-7e586fba

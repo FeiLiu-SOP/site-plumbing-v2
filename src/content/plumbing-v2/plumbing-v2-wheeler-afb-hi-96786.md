@@ -12,28 +12,45 @@ lng: -158.0400
 zipSample: ["96854", "96786"]
 zipCodes: ["96854", "96786"]
 localPaths: ["Honolulu County / ZIP 96786 sector", "Honolulu County / ZIP 96854 sector", "Honolulu County / coords 21.4800, -158.0400", "Honolulu County / primary ZIP 96786", "Honolulu County / elevation 801 ft band"]
-zillowHomeValueUsd: 850665
 ---
 
 **Engineering Notice for Wheeler AFB:** System optimized for 155 mg/L hard water scaling factors in Wheeler AFB. Regional dispatch grid: Honolulu County.
 
 
-When leak detection pros scopes are reviewed in Wheeler AFB, HI, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: map sump float travel and check-valve orientation for Wheeler AFB, HI basements.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Wheeler AFB, HI.
+Hydrostatic holds in Wheeler AFB, HI slab circuits run overnight when listening mics show ambiguous hits.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Wheeler AFB, HI, soft blockages differ from root intrusion profiles.
+Basement floor drains in Wheeler AFB, HI should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 96854/96786.
+Garage utility sinks in Wheeler AFB, HI often tie into laundry branches that mask main-line restrictions.
 
-Open a scheduling request if you need leak detection pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 96786.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Wheeler AFB, HI.
 
-Scope trace: PRV outlet pressure curve cross-checked against Sump pump float travel before line-pressure hold test.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Drain cleaning cable head wear logged before second pass in Wheeler AFB, HI.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Dispatch sectors sampled: ZIP 96854, 96786 (county grid: Honolulu County).
+Cast-iron hub corrosion in Wheeler AFB, HI often concentrates at the third joint upstream of the cleanout.
+
+Tip: Log water heater flex line dates before wall closure in Wheeler AFB, HI remodel zones.
+
+Irrigation cross-connections in Wheeler AFB, HI can back-siphon domestic lines during main breaks.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Shared main supplies in Wheeler AFB, HI duplexes require coordinated shutoff before pressure holds.
+
+Pressure trace 446958: meter-pit clearance and dielectric union checklist staged for Wheeler AFB, HI near elevation 801 ft.
+
+Flow dossier 446958: branch wet-vent geometry and PRV seat wear logged for Wheeler AFB, HI county grid Honolulu County (ZIP 96786).
+
+On-site sector marker: Honolulu County / ZIP 96786 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96786-238df01e

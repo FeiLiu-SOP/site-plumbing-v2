@@ -12,28 +12,47 @@ lng: -105.9800
 zipSample: ["87506"]
 zipCodes: ["87506"]
 localPaths: ["Santa Fe County / primary ZIP 87506", "Santa Fe County / coords 35.7400, -105.9800", "Santa Fe County / ZIP 87506 sector", "Santa Fe County / elevation 7064 ft band"]
-zillowHomeValueUsd: 1093127
 ---
 
 **Engineering Notice for Tano Road:** System optimized for 144 mg/L hard water scaling factors in Tano Road. Regional dispatch grid: Santa Fe County.
 
 
-Property owners in Tano Road, NM may see fixture & supply line pros escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Garage utility sinks in Tano Road, NM often tie into laundry branches that mask main-line restrictions.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Tano Road, NM.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: What slows drain cleaning most? In Tano Road, NM, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Cast-iron hub corrosion in Tano Road, NM often concentrates at the third joint upstream of the cleanout.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 87506.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 87506.
+FAQ: When should sump battery backups be load-tested? In Tano Road, NM, before spring thaw and heavy rain remnants.
 
-Scope trace: fixture shutoff torque log cross-checked against cleanout riser height before line-pressure hold test.
+Material note: Water heater anode type may change with Tano Road, NM hardness profiles.
 
-Field note: Water line replacement trench path flagged for Santa Fe County setbacks.
+Tip: Log water heater flex line dates before wall closure in Tano Road, NM remodel zones.
 
-Dispatch sectors sampled: ZIP 87506 (county grid: Santa Fe County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Hydro-jetting in Tano Road, NM requires camera confirmation before nozzle pressure is raised.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Tano Road, NM older homes.
+
+Shared main supplies in Tano Road, NM duplexes require coordinated shutoff before pressure holds.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+CPVC solvent weld times shift with ambient humidity during Tano Road, NM shoulder seasons.
+
+Service ledger 525534: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Tano Road, NM at 35.7400, -105.9800.
+
+Supply audit 525534: curb-stop orientation and hose-bib freeze flag reviewed for Tano Road, NM at coords 35.7400/-105.9800.
+
+Field note: Camera pass stills archived for ZIP 87506 branch line.
+
+On-site sector marker: Santa Fe County / coords 35.7400, -105.9800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87506-3c5a7aba

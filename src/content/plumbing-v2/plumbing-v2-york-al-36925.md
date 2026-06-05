@@ -12,30 +12,51 @@ lng: -88.2900
 zipSample: ["36925"]
 zipCodes: ["36925"]
 localPaths: ["Sumter County / primary ZIP 36925", "Sumter County / coords 32.5000, -88.2900", "Sumter County / elevation 233 ft band", "Sumter County / ZIP 36925 sector"]
-zillowHomeValueUsd: 55892
 ---
 
 **Engineering Notice for York:** System optimized for 154 mg/L hard water scaling factors in York. Regional dispatch grid: Sumter County.
 
 
-When whole-home repiping advisors scopes are reviewed in York, AL, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: photograph curb-stop and meter pit before trenching.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for York, AL.
+Step: camera-pass main lines in York, AL before jetting older clay or cast iron.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in York, AL older homes.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in York, AL, soft blockages differ from root intrusion profiles.
+Our Whole-Home Repiping Advisors coordination in York, AL prioritizes cleanout access, vent integrity, and measurable flow recovery.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 36925.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in York, AL.
 
-Open a scheduling request if you need whole-home repiping advisors documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 36925.
+Frost-free sillcock failures in York, AL often trace to interior shutoff seats.
 
-Field packet: sub-slab moisture gradient plus PEX expansion ring batch referenced in Sumter County county grid review.
+Dispatch packets reference county grid Sumter County near ZIP 36925.
+
+FAQ: Is hydro-jetting always appropriate? In York, AL, pipe material and blockage type dictate method.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Tip: Log water heater flex line dates before wall closure in York, AL remodel zones.
+
+Trenchless pulls in York, AL require pit dimensions verified against utility locate marks.
+
+Irrigation cross-connections in York, AL can back-siphon domestic lines during main breaks.
+
+Shared main supplies in York, AL duplexes require coordinated shutoff before pressure holds.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Tankless heater descale intervals in York, AL hard-water zones differ from tank anode schedules.
+
+Flow dossier 854752: branch wet-vent geometry and PRV seat wear logged for York, AL county grid Sumter County (ZIP 36925).
+
+Drain map 854752: camera-pass priority and expansion-tank pre-charge noted for York, AL postal sector 36925.
 
 Field note: Water line replacement trench path flagged for Sumter County setbacks.
 
-Field note: Drain cleaning cable head wear logged before second pass in York, AL.
+Field note: Slab listen window scheduled for Sumter County grid.
 
-Dispatch sectors sampled: ZIP 36925 (county grid: Sumter County).
+Coordinate-anchored dispatch note: center reference 32.5000, -88.2900 at elevation ~233 ft aligns with Sumter County intake staging.
 
 Service reference: AL-36925-4d118c1c

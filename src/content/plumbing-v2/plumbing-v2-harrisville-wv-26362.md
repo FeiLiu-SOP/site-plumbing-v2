@@ -12,28 +12,47 @@ lng: -81.0500
 zipSample: ["26362"]
 zipCodes: ["26362"]
 localPaths: ["Ritchie County / primary ZIP 26362", "Ritchie County / ZIP 26362 sector", "Ritchie County / elevation 830 ft band", "Ritchie County / coords 39.2100, -81.0500"]
-zillowHomeValueUsd: 127872
 ---
 
 **Engineering Notice for Harrisville:** System optimized for 130 mg/L hard water scaling factors in Harrisville. Regional dispatch grid: Ritchie County.
 
 
-A slab leak response unit reach out in Harrisville, WV is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Harrisville, WV.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Stack vent offsets in Harrisville, WV older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Harrisville, WV supply age can diverge sharply.
+Tip: Photograph cleanout cap threads before snaking near ZIP 26362.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 26362.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 26362.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Scope trace: fixture shutoff torque log cross-checked against main line camera pass before line-pressure hold test.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 26362.
+Garage utility sinks in Harrisville, WV often tie into laundry branches that mask main-line restrictions.
 
-Dispatch sectors sampled: ZIP 26362 (county grid: Ritchie County).
+Dispatch packets reference county grid Ritchie County near ZIP 26362.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Harrisville, WV.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+FAQ: When should sump battery backups be load-tested? In Harrisville, WV, before spring thaw and heavy rain remnants.
+
+Frost-free sillcock failures in Harrisville, WV often trace to interior shutoff seats.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Permit note: Main water line replacement in Harrisville, WV may require ROW restoration planning.
+
+Material note: Water heater anode type may change with Harrisville, WV hardness profiles.
+
+Flow dossier 884860: branch wet-vent geometry and PRV seat wear logged for Harrisville, WV county grid Ritchie County (ZIP 26362).
+
+Lineage note 884860: recirculation pump amp draw captured before Harrisville, WV branch isolation.
+
+On-site sector marker: Ritchie County / primary ZIP 26362 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-26362-4e095074

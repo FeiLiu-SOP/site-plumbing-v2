@@ -12,28 +12,45 @@ lng: -85.5000
 zipSample: ["42743"]
 zipCodes: ["42743"]
 localPaths: ["Green County / primary ZIP 42743", "Green County / coords 37.2600, -85.5000", "Green County / elevation 640 ft band", "Green County / ZIP 42743 sector"]
-zillowHomeValueUsd: 183673
 ---
 
 **Engineering Notice for Greensburg:** System optimized for 128 mg/L hard water scaling factors in Greensburg. Regional dispatch grid: Green County.
 
 
-When fixture & supply line pros scopes are reviewed in Greensburg, KY, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Dispatch packets reference county grid Green County near ZIP 42743.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Greensburg, KY.
+Garage utility sinks in Greensburg, KY often tie into laundry branches that mask main-line restrictions.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Dual-water-meter setups in Greensburg, KY irrigation zones need backflow logs before line replacement.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Greensburg, KY, soft blockages differ from root intrusion profiles.
+Trenchless pulls in Greensburg, KY require pit dimensions verified against utility locate marks.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 42743.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Greensburg, KY.
 
-Open a scheduling request if you need fixture & supply line pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 42743.
+Hose bib split patterns often follow missed winterization.
 
-Dispatch note: copper pinhole cluster map and PEX expansion ring batch were logged for the Greensburg plumbing intake packet.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Drain cleaning cable head wear logged before second pass in Greensburg, KY.
+Across Greensburg, KY, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 42743 (county grid: Green County).
+Tip: Log water heater flex line dates before wall closure in Greensburg, KY remodel zones.
+
+Step: map sump float travel and check-valve orientation for Greensburg, KY basements.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Basement floor drains in Greensburg, KY should be snaked only after trap arm geometry is confirmed on camera.
+
+Lineage note 250038: recirculation pump amp draw captured before Greensburg, KY branch isolation.
+
+Flow dossier 250038: branch wet-vent geometry and PRV seat wear logged for Greensburg, KY county grid Green County (ZIP 42743).
+
+Primary postal anchor 42743 with multi-ZIP overlap in Greensburg; field packets tag Green County for county-grid reconciliation.
 
 Service reference: KY-42743-235e1c04

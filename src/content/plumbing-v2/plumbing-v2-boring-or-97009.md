@@ -12,30 +12,47 @@ lng: -122.3700
 zipSample: ["97009"]
 zipCodes: ["97009"]
 localPaths: ["Clackamas County / elevation 502 ft band", "Clackamas County / primary ZIP 97009", "Clackamas County / coords 45.4300, -122.3700", "Clackamas County / ZIP 97009 sector"]
-zillowHomeValueUsd: 717022
 ---
 
 **Engineering Notice for Boring:** System optimized for 144 mg/L hard water scaling factors in Boring. Regional dispatch grid: Clackamas County.
 
 
-When professional plumbing services scopes are reviewed in Boring, OR, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Permit note: Main water line replacement in Boring, OR may require ROW restoration planning.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Boring, OR.
+Step: camera-pass main lines in Boring, OR before jetting older clay or cast iron.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Boring, OR, soft blockages differ from root intrusion profiles.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 97009.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 97009.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Boring, OR.
 
-Open a scheduling request if you need professional plumbing services documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 97009.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field packet: dielectric union checklist plus backflow test cock orientation referenced in Clackamas County county grid review.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Field note: Main cleanout riser height measured against slab finish in Boring, OR.
+Request a camera-assisted drain review before approving jetting. Postal sector 97009.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 97009.
+Our Professional Plumbing Services coordination in Boring, OR prioritizes cleanout access, vent integrity, and measurable flow recovery.
 
-Dispatch sectors sampled: ZIP 97009 (county grid: Clackamas County).
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Basement floor drains in Boring, OR should be snaked only after trap arm geometry is confirmed on camera.
+
+Shared main supplies in Boring, OR duplexes require coordinated shutoff before pressure holds.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Clackamas County.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Fixture roster 905025: toilet flange spacer kit and shower cartridge seat score queued for Boring, OR walk-through.
+
+Flow dossier 905025: branch wet-vent geometry and PRV seat wear logged for Boring, OR county grid Clackamas County (ZIP 97009).
+
+On-site sector marker: Clackamas County / primary ZIP 97009 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97009-2dedf2bb

@@ -12,30 +12,45 @@ lng: -78.9400
 zipSample: ["22821"]
 zipCodes: ["22821"]
 localPaths: ["Rockingham County / elevation 1234 ft band", "Rockingham County / ZIP 22821 sector", "Rockingham County / primary ZIP 22821", "Rockingham County / coords 38.4200, -78.9400"]
-zillowHomeValueUsd: 359885
 ---
 
 **Engineering Notice for Dayton:** System optimized for 127 mg/L hard water scaling factors in Dayton. Regional dispatch grid: Rockingham County.
 
 
-In Dayton, VA, slab leak response unit visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Drain cleaning scopes in Dayton, VA separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Slab Leak Response Unit coordination in Dayton, VA prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: When is water line replacement safer than spot service? In Dayton, VA, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Dayton, VA.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 22821.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Dayton, VA.
 
-Request a written slab leak response unit plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 22821.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Routing marker: scale coupon sampling paired with hose bib freeze-risk flag near ZIP 22821.
+Hydrostatic holds in Dayton, VA slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Main cleanout riser height measured against slab finish in Dayton, VA.
+Frost-free sillcock failures in Dayton, VA often trace to interior shutoff seats.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 22821.
+FAQ: Is hydro-jetting always appropriate? In Dayton, VA, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 22821 (county grid: Rockingham County).
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Shared main supplies in Dayton, VA duplexes require coordinated shutoff before pressure holds.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Basement floor drains in Dayton, VA should be snaked only after trap arm geometry is confirmed on camera.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Dayton, VA.
+
+Supply audit 461832: curb-stop orientation and hose-bib freeze flag reviewed for Dayton, VA at coords 38.4200/-78.9400.
+
+Pressure trace 461832: meter-pit clearance and dielectric union checklist staged for Dayton, VA near elevation 1234 ft.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 22821.
+
+On-site sector marker: Rockingham County / ZIP 22821 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-22821-b330ebfe

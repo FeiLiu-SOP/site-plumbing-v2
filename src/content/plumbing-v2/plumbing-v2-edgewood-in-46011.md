@@ -12,28 +12,49 @@ lng: -85.7400
 zipSample: ["46011"]
 zipCodes: ["46011"]
 localPaths: ["Madison County / elevation 883 ft band", "Madison County / coords 40.1000, -85.7400", "Madison County / primary ZIP 46011", "Madison County / ZIP 46011 sector"]
-zillowHomeValueUsd: 209955
 ---
 
 **Engineering Notice for Edgewood:** System optimized for 141 mg/L hard water scaling factors in Edgewood. Regional dispatch grid: Madison County.
 
 
-Across Edgewood, IN, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Material note: Water heater anode type may change with Edgewood, IN hardness profiles.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Book sump and supply-line checks in one written scope. Postal sector 46011.
 
-Our intake language for Edgewood, IN work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Irrigation cross-connections in Edgewood, IN can back-siphon domestic lines during main breaks.
 
-FAQ: Can sump pump service wait until dry season? In Edgewood, IN, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 46011.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Book a camera-assisted drain review before approving jetting on older Edgewood, IN mains. Serving ZIP Code: 46011.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Edgewood, IN.
 
-Field packet: PEX expansion ring batch plus branch wet vent compliance note referenced in Madison County county grid review.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Water line replacement trench path flagged for Madison County setbacks.
+Tankless heater descale intervals in Edgewood, IN hard-water zones differ from tank anode schedules.
 
-Dispatch sectors sampled: ZIP 46011 (county grid: Madison County).
+Garage utility sinks in Edgewood, IN often tie into laundry branches that mask main-line restrictions.
+
+Dual-water-meter setups in Edgewood, IN irrigation zones need backflow logs before line replacement.
+
+Cleanout access limits in Edgewood, IN frequently extend drain cleaning duration.
+
+Cast-iron hub corrosion in Edgewood, IN often concentrates at the third joint upstream of the cleanout.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+CPVC solvent weld times shift with ambient humidity during Edgewood, IN shoulder seasons.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Permit note: Main water line replacement in Edgewood, IN may require ROW restoration planning.
+
+Pressure trace 635768: meter-pit clearance and dielectric union checklist staged for Edgewood, IN near elevation 883 ft.
+
+Drain map 635768: camera-pass priority and expansion-tank pre-charge noted for Edgewood, IN postal sector 46011.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 46011.
+
+On-site sector marker: Madison County / coords 40.1000, -85.7400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46011-44474049

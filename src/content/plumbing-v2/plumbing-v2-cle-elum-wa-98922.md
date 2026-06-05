@@ -12,28 +12,51 @@ lng: -120.9500
 zipSample: ["98922"]
 zipCodes: ["98922"]
 localPaths: ["Kittitas County / coords 47.1900, -120.9500", "Kittitas County / primary ZIP 98922", "Kittitas County / ZIP 98922 sector", "Kittitas County / elevation 2014 ft band"]
-zillowHomeValueUsd: 613694
 ---
 
 **Engineering Notice for Cle Elum:** System optimized for 122 mg/L hard water scaling factors in Cle Elum. Regional dispatch grid: Kittitas County.
 
 
-Across Cle Elum, WA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Technicians stage basement sump service team jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Our intake language for Cle Elum, WA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Trenchless pulls in Cle Elum, WA require pit dimensions verified against utility locate marks.
 
-FAQ: Can sump pump service wait until dry season? In Cle Elum, WA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Hydro-jetting in Cle Elum, WA requires camera confirmation before nozzle pressure is raised.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 98922.
+Permit note: Main water line replacement in Cle Elum, WA may require ROW restoration planning.
 
-Book a camera-assisted drain review before approving jetting on older Cle Elum, WA mains. Serving ZIP Code: 98922.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Routing marker: PEX expansion ring batch paired with Sump pump float travel near ZIP 98922.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 98922.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Cle Elum, WA.
 
-Dispatch sectors sampled: ZIP 98922 (county grid: Kittitas County).
+Request a camera-assisted drain review before approving jetting. Postal sector 98922.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 98922.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Kittitas County.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Drain map 486522: camera-pass priority and expansion-tank pre-charge noted for Cle Elum, WA postal sector 98922.
+
+Service ledger 486522: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Cle Elum, WA at 47.1900, -120.9500.
+
+Field note: Fixture shutoff torque notes filed for ZIP 98922.
+
+Field note: Drain cleaning cable head wear logged before second pass in Cle Elum, WA.
+
+On-site sector marker: Kittitas County / primary ZIP 98922 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98922-1f9efad3

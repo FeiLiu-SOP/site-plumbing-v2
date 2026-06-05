@@ -12,30 +12,47 @@ lng: -95.4800
 zipSample: ["51346"]
 zipCodes: ["51346"]
 localPaths: ["O'Brien County / ZIP 51346 sector", "O'Brien County / elevation 1453 ft band", "O'Brien County / primary ZIP 51346", "O'Brien County / coords 43.1800, -95.4800"]
-zillowHomeValueUsd: 174398
 ---
 
 **Engineering Notice for Hartley:** System optimized for 170 mg/L hard water scaling factors in Hartley. Regional dispatch grid: O'Brien County.
 
 
-Across Hartley, IA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Trenchless pulls in Hartley, IA require pit dimensions verified against utility locate marks.
 
-Technicians stage basement sump service team jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Our intake language for Hartley, IA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Across Hartley, IA, main-line bellies trap debris even when fixtures drain normally.
 
-FAQ: Can sump pump remediation wait until dry season? In Hartley, IA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Hartley, IA.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 51346.
+Garage utility sinks in Hartley, IA often tie into laundry branches that mask main-line restrictions.
 
-Book a camera-assisted drain review before approving jetting on older Hartley, IA mains. Serving ZIP Code: 51346.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Dispatch note: scale coupon sampling and water heater T&P discharge path were logged for the Hartley plumbing intake packet.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 51346.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 51346.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 51346.
 
-Dispatch sectors sampled: ZIP 51346 (county grid: O'Brien County).
+Basement floor drains in Hartley, IA should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: When should sump battery backups be load-tested? In Hartley, IA, before spring thaw and heavy rain remnants.
+
+Permit note: Main water line replacement in Hartley, IA may require ROW restoration planning.
+
+Hydrostatic holds in Hartley, IA slab circuits run overnight when listening mics show ambiguous hits.
+
+Frost-free sillcock failures in Hartley, IA often trace to interior shutoff seats.
+
+Drain map 963397: camera-pass priority and expansion-tank pre-charge noted for Hartley, IA postal sector 51346.
+
+Lineage note 963397: recirculation pump amp draw captured before Hartley, IA branch isolation.
+
+Field note: Expansion tank pre-charge verified in Hartley, IA.
+
+ZIP-corridor snapshot for Hartley, IA: sampled sectors include 51346; county routing grid remains O'Brien County.
 
 Service reference: IA-51346-aee08437

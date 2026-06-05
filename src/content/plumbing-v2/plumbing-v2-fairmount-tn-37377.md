@@ -12,30 +12,51 @@ lng: -85.3300
 zipSample: ["37377"]
 zipCodes: ["37377"]
 localPaths: ["Hamilton County / ZIP 37377 sector", "Hamilton County / elevation 1939 ft band", "Hamilton County / coords 35.1900, -85.3300", "Hamilton County / primary ZIP 37377"]
-zillowHomeValueUsd: 628049
 ---
 
 **Engineering Notice for Fairmount:** System optimized for 150 mg/L hard water scaling factors in Fairmount. Regional dispatch grid: Hamilton County.
 
 
-Across Fairmount, TN, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Fairmount, TN.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Our intake language for Fairmount, TN work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Log water heater flex line dates before wall closure in Fairmount, TN remodel zones.
 
-FAQ: Can sump pump remediation wait until dry season? In Fairmount, TN, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 37377.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 37377.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Book a camera-assisted drain review before approving jetting on older Fairmount, TN mains. Serving ZIP Code: 37377.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field packet: fixture shutoff torque log plus main line camera pass referenced in Hamilton County county grid review.
+Across Fairmount, TN, main-line bellies trap debris even when fixtures drain normally.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Book sump and supply-line checks in one written scope. Postal sector 37377.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Tankless heater descale intervals in Fairmount, TN hard-water zones differ from tank anode schedules.
+
+Dispatch packets reference county grid Hamilton County near ZIP 37377.
+
+Branch wet vents in Fairmount, TN can mask gurgling as a main-line issue.
+
+Hydrostatic holds in Fairmount, TN slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Fairmount, TN.
+
+Service ledger 903002: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Fairmount, TN at 35.1900, -85.3300.
+
+Supply audit 903002: curb-stop orientation and hose-bib freeze flag reviewed for Fairmount, TN at coords 35.1900/-85.3300.
+
+Field note: PRV inlet and outlet curves captured for ZIP 37377.
 
 Field note: Water line replacement trench path flagged for Hamilton County setbacks.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 37377.
-
-Dispatch sectors sampled: ZIP 37377 (county grid: Hamilton County).
+Coordinate-anchored dispatch note: center reference 35.1900, -85.3300 at elevation ~1939 ft aligns with Hamilton County intake staging.
 
 Service reference: TN-37377-0acaa3c7

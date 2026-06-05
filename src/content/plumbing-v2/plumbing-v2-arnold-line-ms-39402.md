@@ -12,28 +12,45 @@ lng: -89.3800
 zipSample: ["39402"]
 zipCodes: ["39402"]
 localPaths: ["Lamar County / ZIP 39402 sector", "Lamar County / elevation 262 ft band", "Lamar County / coords 31.3400, -89.3800", "Lamar County / primary ZIP 39402"]
-zillowHomeValueUsd: 276411
 ---
 
 **Engineering Notice for Arnold Line:** System optimized for 125 mg/L hard water scaling factors in Arnold Line. Regional dispatch grid: Lamar County.
 
 
-In Arnold Line, MS, slab leak response unit visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Drain cleaning scopes in Arnold Line, MS separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Permit note: Main water line replacement in Arnold Line, MS may require ROW restoration planning.
 
-Slab Leak Response Unit coordination in Arnold Line, MS prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Hydrostatic holds in Arnold Line, MS slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: When is water line replacement safer than spot service? In Arnold Line, MS, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Slab leak listening windows in Arnold Line, MS depend on quiet periods and isolated branch valves.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 39402.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Request a written slab leak response unit plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 39402.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Field packet: branch wet vent compliance note plus sub-slab moisture gradient referenced in Lamar County county grid review.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Drain cleaning cable head wear logged before second pass in Arnold Line, MS.
+Basement floor drains in Arnold Line, MS should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 39402 (county grid: Lamar County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Tip: Log water heater flex line dates before wall closure in Arnold Line, MS remodel zones.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Book sump and supply-line checks in one written scope. Postal sector 39402.
+
+Flow dossier 206397: branch wet-vent geometry and PRV seat wear logged for Arnold Line, MS county grid Lamar County (ZIP 39402).
+
+Pressure trace 206397: meter-pit clearance and dielectric union checklist staged for Arnold Line, MS near elevation 262 ft.
+
+Coordinate-anchored dispatch note: center reference 31.3400, -89.3800 at elevation ~262 ft aligns with Lamar County intake staging.
 
 Service reference: MS-39402-239d1901

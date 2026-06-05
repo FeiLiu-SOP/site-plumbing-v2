@@ -12,28 +12,45 @@ lng: -90.5800
 zipSample: ["70462"]
 zipCodes: ["70462"]
 localPaths: ["Livingston Parish / ZIP 70462 sector", "Livingston Parish / coords 30.3500, -90.5800", "Livingston Parish / elevation 59 ft band", "Livingston Parish / primary ZIP 70462"]
-zillowHomeValueUsd: 253326
 ---
 
 **Engineering Notice for Killian:** System optimized for 168 mg/L hard water scaling factors in Killian. Regional dispatch grid: Livingston Parish.
 
 
-When basement sump service team scopes are reviewed in Killian, LA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Killian, LA.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Basement floor drains in Killian, LA should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Killian, LA, soft blockages differ from root intrusion profiles.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 70462.
+CPVC solvent weld times shift with ambient humidity during Killian, LA shoulder seasons.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 70462.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field packet: copper pinhole cluster map plus jetter nozzle envelope referenced in Livingston Parish county grid review.
+Across Killian, LA, main-line bellies trap debris even when fixtures drain normally.
 
-Field note: Drain cleaning cable head wear logged before second pass in Killian, LA.
+Dual-water-meter setups in Killian, LA irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 70462 (county grid: Livingston Parish).
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Cast-iron hub corrosion in Killian, LA often concentrates at the third joint upstream of the cleanout.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Killian, LA.
+
+Garage utility sinks in Killian, LA often tie into laundry branches that mask main-line restrictions.
+
+Flow dossier 762678: branch wet-vent geometry and PRV seat wear logged for Killian, LA county grid Livingston Parish (ZIP 70462).
+
+Drain map 762678: camera-pass priority and expansion-tank pre-charge noted for Killian, LA postal sector 70462.
+
+Field note: Main cleanout riser height measured against slab finish in Killian, LA.
+
+On-site sector marker: Livingston Parish / elevation 59 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70462-0cce9b0d

@@ -12,30 +12,49 @@ lng: -84.9300
 zipSample: ["42539"]
 zipCodes: ["42539"]
 localPaths: ["Casey County / elevation 810 ft band", "Casey County / coords 37.3200, -84.9300", "Casey County / ZIP 42539 sector", "Casey County / primary ZIP 42539"]
-zillowHomeValueUsd: 152233
 ---
 
 **Engineering Notice for Liberty:** System optimized for 164 mg/L hard water scaling factors in Liberty. Regional dispatch grid: Casey County.
 
 
-Across Liberty, KY, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Our intake language for Liberty, KY work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Photograph cleanout cap threads before snaking near ZIP 42539.
 
-FAQ: Can sump pump remediation wait until dry season? In Liberty, KY, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: Is hydro-jetting always appropriate? In Liberty, KY, pipe material and blockage type dictate method.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 42539.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Book a camera-assisted drain review before approving jetting on older Liberty, KY mains. Serving ZIP Code: 42539.
+Slab leak listening windows in Liberty, KY depend on quiet periods and isolated branch valves.
 
-Scope trace: PRV outlet pressure curve cross-checked against fixture shutoff torque log before line-pressure hold test.
+Risk flag: In Liberty, KY, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 42539.
+Polybutylene manifold tags in Liberty, KY basements should be photographed before wall chases open.
 
-Field note: Drain cleaning cable head wear logged before second pass in Liberty, KY.
+Hydrostatic holds in Liberty, KY slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 42539 (county grid: Casey County).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Liberty, KY.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Irrigation cross-connections in Liberty, KY can back-siphon domestic lines during main breaks.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Liberty, KY older homes.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Liberty, KY.
+
+Service ledger 862177: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Liberty, KY at 37.3200, -84.9300.
+
+Drain map 862177: camera-pass priority and expansion-tank pre-charge noted for Liberty, KY postal sector 42539.
+
+Field note: Meter-pit clearance photographed near ZIP 42539.
+
+On-site sector marker: Casey County / ZIP 42539 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-42539-70efff04

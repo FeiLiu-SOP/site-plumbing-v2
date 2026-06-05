@@ -12,30 +12,47 @@ lng: -155.9100
 zipSample: ["96750"]
 zipCodes: ["96750"]
 localPaths: ["Hawaii County / ZIP 96750 sector", "Hawaii County / coords 19.5300, -155.9100", "Hawaii County / primary ZIP 96750", "Hawaii County / elevation 2014 ft band"]
-zillowHomeValueUsd: 764333
 ---
 
 **Engineering Notice for Kealakekua:** System optimized for 163 mg/L hard water scaling factors in Kealakekua. Regional dispatch grid: Hawaii County.
 
 
-When hydro-jetting specialists scopes are reviewed in Kealakekua, HI, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Shared main supplies in Kealakekua, HI duplexes require coordinated shutoff before pressure holds.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Kealakekua, HI.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Hydro-jetting in Kealakekua, HI requires camera confirmation before nozzle pressure is raised.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Kealakekua, HI, soft blockages differ from root intrusion profiles.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 96750.
+Cast-iron hub corrosion in Kealakekua, HI often concentrates at the third joint upstream of the cleanout.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 96750.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Routing marker: fixture shutoff torque log paired with sub-slab moisture gradient near ZIP 96750.
+Branch wet vents in Kealakekua, HI can mask gurgling as a main-line issue.
 
-Field note: Water line replacement trench path flagged for Hawaii County setbacks.
+Permit note: Main water line replacement in Kealakekua, HI may require ROW restoration planning.
 
-Field note: Drain cleaning cable head wear logged before second pass in Kealakekua, HI.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 96750 (county grid: Hawaii County).
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Kealakekua, HI older homes.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Polybutylene manifold tags in Kealakekua, HI basements should be photographed before wall chases open.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Hawaii County.
+
+Material note: Water heater anode type may change with Kealakekua, HI hardness profiles.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Book sump and supply-line checks in one written scope. Postal sector 96750.
+
+Service ledger 203850: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Kealakekua, HI at 19.5300, -155.9100.
+
+Lineage note 203850: recirculation pump amp draw captured before Kealakekua, HI branch isolation.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Hawaii County. Reference elevation: 2014 ft. Primary coordinates: 19.5300, -155.9100. ZIP sample: 96750. Logistics priority: Serving residential sectors across Hawaii County and north-east ZIP 96750 grid.
 
 Service reference: HI-96750-f78c7b2f

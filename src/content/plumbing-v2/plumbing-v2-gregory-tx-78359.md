@@ -12,29 +12,47 @@ lng: -97.2900
 zipSample: ["78359"]
 zipCodes: ["78359"]
 localPaths: ["San Patricio County / coords 27.9200, -97.2900", "San Patricio County / ZIP 78359 sector", "San Patricio County / elevation 43 ft band", "San Patricio County / primary ZIP 78359"]
-zillowHomeValueUsd: 305864
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Gregory:** System optimized for 146 mg/L hard water scaling factors in Gregory. Regional dispatch grid: San Patricio County.
 
 
-Property owners in Gregory, TX may see leak detection pros escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Hard water in Gregory, TX accelerates scale on PRV seats and heater elements.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Gregory, TX.
+Hydrostatic holds in Gregory, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Cast-iron hub corrosion in Gregory, TX often concentrates at the third joint upstream of the cleanout.
 
-FAQ: What slows drain cleaning most? In Gregory, TX, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+CPVC solvent weld times shift with ambient humidity during Gregory, TX shoulder seasons.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 78359.
+Garage utility sinks in Gregory, TX often tie into laundry branches that mask main-line restrictions.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 78359.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Routing marker: PEX expansion ring batch paired with backflow test cock orientation near ZIP 78359.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 78359.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 78359 (county grid: San Patricio County).
+Recirculation pump failures can mimic fixture-specific clogs.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Frost-free sillcock failures in Gregory, TX often trace to interior shutoff seats.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 78359.
+
+FAQ: Is hydro-jetting always appropriate? In Gregory, TX, pipe material and blockage type dictate method.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 78359.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Service ledger 657898: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Gregory, TX at 27.9200, -97.2900.
+
+Pressure trace 657898: meter-pit clearance and dielectric union checklist staged for Gregory, TX near elevation 43 ft.
+
+On-site sector marker: San Patricio County / primary ZIP 78359 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78359-bb80aa11

@@ -12,30 +12,51 @@ lng: -81.8000
 zipSample: ["29330"]
 zipCodes: ["29330"]
 localPaths: ["Spartanburg County / primary ZIP 29330", "Spartanburg County / ZIP 29330 sector", "Spartanburg County / coords 35.0200, -81.8000", "Spartanburg County / elevation 879 ft band"]
-zillowHomeValueUsd: 207137
 ---
 
 **Engineering Notice for Cowpens:** System optimized for 133 mg/L hard water scaling factors in Cowpens. Regional dispatch grid: Spartanburg County.
 
 
-When basement sump service team scopes are reviewed in Cowpens, SC, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Cowpens, SC.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Cowpens, SC, soft blockages differ from root intrusion profiles.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 29330.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 29330.
+Across Cowpens, SC, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch note: fixture shutoff torque log and dielectric union checklist were logged for the Cowpens plumbing intake packet.
+Stack vent offsets in Cowpens, SC older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Main cleanout riser height measured against slab finish in Cowpens, SC.
+Branch wet vents in Cowpens, SC can mask gurgling as a main-line issue.
+
+Trenchless pulls in Cowpens, SC require pit dimensions verified against utility locate marks.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 29330.
+
+FAQ: Is hydro-jetting always appropriate? In Cowpens, SC, pipe material and blockage type dictate method.
+
+Irrigation cross-connections in Cowpens, SC can back-siphon domestic lines during main breaks.
+
+FAQ: When should sump battery backups be load-tested? In Cowpens, SC, before spring thaw and heavy rain remnants.
+
+Shared main supplies in Cowpens, SC duplexes require coordinated shutoff before pressure holds.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Polybutylene manifold tags in Cowpens, SC basements should be photographed before wall chases open.
+
+Supply audit 200100: curb-stop orientation and hose-bib freeze flag reviewed for Cowpens, SC at coords 35.0200/-81.8000.
+
+Lineage note 200100: recirculation pump amp draw captured before Cowpens, SC branch isolation.
 
 Field note: Water line replacement trench path flagged for Spartanburg County setbacks.
 
-Dispatch sectors sampled: ZIP 29330 (county grid: Spartanburg County).
+Field note: Main cleanout riser height measured against slab finish in Cowpens, SC.
+
+On-site sector marker: Spartanburg County / elevation 879 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29330-4dead8cf

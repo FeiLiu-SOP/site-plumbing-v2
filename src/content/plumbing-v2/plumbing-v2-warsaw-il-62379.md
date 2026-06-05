@@ -12,30 +12,47 @@ lng: -91.4300
 zipSample: ["62379"]
 zipCodes: ["62379"]
 localPaths: ["Hancock County / coords 40.3500, -91.4300", "Hancock County / primary ZIP 62379", "Hancock County / elevation 659 ft band", "Hancock County / ZIP 62379 sector"]
-zillowHomeValueUsd: 111179
 ---
 
 **Engineering Notice for Warsaw:** System optimized for 163 mg/L hard water scaling factors in Warsaw. Regional dispatch grid: Hancock County.
 
 
-Across Warsaw, IL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: In Warsaw, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Our intake language for Warsaw, IL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Basement floor drains in Warsaw, IL should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Can sump pump remediation wait until dry season? In Warsaw, IL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: When is cabling enough? In Warsaw, IL, pipe material and blockage type dictate method.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 62379.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 62379.
 
-Book a camera-assisted drain review before approving jetting on older Warsaw, IL mains. Serving ZIP Code: 62379.
+Irrigation cross-connections in Warsaw, IL can back-siphon domestic lines during main breaks.
 
-Scope trace: PEX expansion ring batch cross-checked against branch wet vent compliance note before line-pressure hold test.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Drain cleaning cable head wear logged before second pass in Warsaw, IL.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 62379.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 62379 (county grid: Hancock County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Log water heater flex line dates before wall closure in Warsaw, IL remodel zones.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Garage utility sinks in Warsaw, IL often tie into laundry branches that mask main-line restrictions.
+
+Stack vent offsets in Warsaw, IL older duplexes can mask tub gurgle as a main-line failure.
+
+Drain map 869041: camera-pass priority and expansion-tank pre-charge noted for Warsaw, IL postal sector 62379.
+
+Flow dossier 869041: branch wet-vent geometry and PRV seat wear logged for Warsaw, IL county grid Hancock County (ZIP 62379).
+
+Field note: Slab listen window scheduled for Hancock County grid.
+
+On-site sector marker: Hancock County / ZIP 62379 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62379-70b80631

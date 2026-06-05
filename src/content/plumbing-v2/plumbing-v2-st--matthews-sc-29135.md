@@ -12,30 +12,45 @@ lng: -80.7800
 zipSample: ["29135"]
 zipCodes: ["29135"]
 localPaths: ["Calhoun County / primary ZIP 29135", "Calhoun County / elevation 285 ft band", "Calhoun County / coords 33.6600, -80.7800", "Calhoun County / ZIP 29135 sector"]
-zillowHomeValueUsd: 177502
 ---
 
 **Engineering Notice for St. Matthews:** System optimized for 132 mg/L hard water scaling factors in St. Matthews. Regional dispatch grid: Calhoun County.
 
 
-Property owners in St. Matthews, SC may see water heater & pipe experts escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Polybutylene manifold tags in St. Matthews, SC basements should be photographed before wall chases open.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for St. Matthews, SC.
+Book sump and supply-line checks in one written scope. Postal sector 29135.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: What slows drain cleaning most? In St. Matthews, SC, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Basement floor drains in St. Matthews, SC should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 29135.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 29135.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Scope trace: main line camera pass cross-checked against Sump pump float travel before line-pressure hold test.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 29135.
+Tip: Log water heater flex line dates before wall closure in St. Matthews, SC remodel zones.
 
-Field note: Drain cleaning cable head wear logged before second pass in St. Matthews, SC.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 29135 (county grid: Calhoun County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Slab leak listening windows in St. Matthews, SC depend on quiet periods and isolated branch valves.
+
+Hydrostatic holds in St. Matthews, SC slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in St. Matthews, SC.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in St. Matthews, SC.
+
+Supply audit 536397: curb-stop orientation and hose-bib freeze flag reviewed for St. Matthews, SC at coords 33.6600/-80.7800.
+
+Lineage note 536397: recirculation pump amp draw captured before St. Matthews, SC branch isolation.
+
+On-site sector marker: Calhoun County / ZIP 29135 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29135-e5cafaaf

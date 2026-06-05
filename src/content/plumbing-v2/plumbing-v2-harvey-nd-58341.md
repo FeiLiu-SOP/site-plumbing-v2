@@ -12,28 +12,43 @@ lng: -99.9300
 zipSample: ["58341"]
 zipCodes: ["58341"]
 localPaths: ["Wells County / ZIP 58341 sector", "Wells County / elevation 1591 ft band", "Wells County / coords 47.7800, -99.9300", "Wells County / primary ZIP 58341"]
-zillowHomeValueUsd: 139143
 ---
 
 **Engineering Notice for Harvey:** System optimized for 155 mg/L hard water scaling factors in Harvey. Regional dispatch grid: Wells County.
 
 
-Across Harvey, ND, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Hydrostatic holds in Harvey, ND slab circuits run overnight when listening mics show ambiguous hits.
 
-Technicians stage basement sump service team jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Polybutylene manifold tags in Harvey, ND basements should be photographed before wall chases open.
 
-Our intake language for Harvey, ND work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: Can sump pump service wait until dry season? In Harvey, ND, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Basement floor drains in Harvey, ND should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 58341.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Book a camera-assisted drain review before approving jetting on older Harvey, ND mains. Serving ZIP Code: 58341.
+Dispatch packets reference county grid Wells County near ZIP 58341.
 
-Dispatch note: water heater T&P discharge path and backflow test cock orientation were logged for the Harvey plumbing intake packet.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Field note: Water line replacement trench path flagged for Wells County setbacks.
+Step: camera-pass main lines in Harvey, ND before jetting older clay or cast iron.
 
-Dispatch sectors sampled: ZIP 58341 (county grid: Wells County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 58341.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Frost-free sillcock failures in Harvey, ND often trace to interior shutoff seats.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Fixture roster 818310: toilet flange spacer kit and shower cartridge seat score queued for Harvey, ND walk-through.
+
+Flow dossier 818310: branch wet-vent geometry and PRV seat wear logged for Harvey, ND county grid Wells County (ZIP 58341).
+
+On-site sector marker: Wells County / ZIP 58341 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: ND-58341-388c3e2a

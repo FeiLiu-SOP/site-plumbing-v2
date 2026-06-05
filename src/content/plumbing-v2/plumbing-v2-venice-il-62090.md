@@ -12,29 +12,47 @@ lng: -90.1700
 zipSample: ["62060", "62090"]
 zipCodes: ["62060", "62090"]
 localPaths: ["Madison County / elevation 417 ft band", "Madison County / ZIP 62090 sector", "Madison County / coords 38.6700, -90.1700", "Madison County / primary ZIP 62090", "Madison County / ZIP 62060 sector"]
-zillowHomeValueUsd: 232893
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Venice:** System optimized for 132 mg/L hard water scaling factors in Venice. Regional dispatch grid: Madison County.
 
 
-A emergency pipe remediation request in Venice, IL is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Venice, IL.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Venice, IL.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Venice, IL supply age can diverge sharply.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 62090.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 62060/62090.
+Permit note: Main water line replacement in Venice, IL may require ROW restoration planning.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 62090.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field packet: scale coupon sampling plus hose bib freeze-risk flag referenced in Madison County county grid review.
+Stack vent offsets in Venice, IL older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 62060/62090.
+CPVC solvent weld times shift with ambient humidity during Venice, IL shoulder seasons.
 
-Dispatch sectors sampled: ZIP 62060, 62090 (county grid: Madison County).
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+FAQ: Is hydro-jetting always appropriate? In Venice, IL, pipe material and blockage type dictate method.
+
+Hose bib split patterns often follow missed winterization.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 62090.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Ask for trenchless feasibility notes before main replacement. County grid Madison County.
+
+Service ledger 944593: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Venice, IL at 38.6700, -90.1700.
+
+Lineage note 944593: recirculation pump amp draw captured before Venice, IL branch isolation.
+
+ZIP-corridor snapshot for Venice, IL: sampled sectors include 62090, 62060; county routing grid remains Madison County.
 
 Service reference: IL-62090-897444c4

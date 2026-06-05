@@ -12,30 +12,45 @@ lng: -123.4300
 zipSample: ["97526", "97532"]
 zipCodes: ["97526", "97532"]
 localPaths: ["Josephine County / ZIP 97526 sector", "Josephine County / ZIP 97532 sector", "Josephine County / primary ZIP 97532", "Josephine County / elevation 896 ft band", "Josephine County / coords 42.5200, -123.4300"]
-zillowHomeValueUsd: 464718
 ---
 
 **Engineering Notice for Merlin:** System optimized for 173 mg/L hard water scaling factors in Merlin. Regional dispatch grid: Josephine County.
 
 
-Across Merlin, OR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Irrigation cross-connections in Merlin, OR can back-siphon domestic lines during main breaks.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Basement floor drains in Merlin, OR should be snaked only after trap arm geometry is confirmed on camera.
 
-Our intake language for Merlin, OR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Merlin, OR.
 
-FAQ: Can sump pump remediation wait until dry season? In Merlin, OR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 97532/97526.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Book a camera-assisted drain review before approving jetting on older Merlin, OR mains. Serving ZIP Code: 97532.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Scope trace: copper pinhole cluster map cross-checked against PRV outlet pressure curve before line-pressure hold test.
+Material note: Water heater anode type may change with Merlin, OR hardness profiles.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 97532/97526.
+Tip: Photograph cleanout cap threads before snaking near ZIP 97532.
 
-Field note: Main cleanout riser height measured against slab finish in Merlin, OR.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 97532, 97526 (county grid: Josephine County).
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Merlin, OR.
+
+Our Drain Line Restoration Crew coordination in Merlin, OR prioritizes cleanout access, vent integrity, and measurable flow recovery.
+
+Polybutylene manifold tags in Merlin, OR basements should be photographed before wall chases open.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 97532.
+
+Dual-water-meter setups in Merlin, OR irrigation zones need backflow logs before line replacement.
+
+Flow dossier 387242: branch wet-vent geometry and PRV seat wear logged for Merlin, OR county grid Josephine County (ZIP 97532).
+
+Pressure trace 387242: meter-pit clearance and dielectric union checklist staged for Merlin, OR near elevation 896 ft.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~896 ft across the Josephine County area. Coordinates: 42.5200, -123.4300. ZIP sample: 97532, 97526. Logistics priority: Serving residential sectors across Josephine County and north-east ZIP 97532 grid.
 
 Service reference: OR-97532-fea37122

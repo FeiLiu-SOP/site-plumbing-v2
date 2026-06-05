@@ -12,28 +12,47 @@ lng: -92.5900
 zipSample: ["72619"]
 zipCodes: ["72619"]
 localPaths: ["Marion County / elevation 591 ft band", "Marion County / coords 36.3700, -92.5900", "Marion County / ZIP 72619 sector", "Marion County / primary ZIP 72619"]
-zillowHomeValueUsd: 205761
 ---
 
 **Engineering Notice for Bull Shoals:** System optimized for 141 mg/L hard water scaling factors in Bull Shoals. Regional dispatch grid: Marion County.
 
 
-Across Bull Shoals, AR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Basement floor drains in Bull Shoals, AR should be snaked only after trap arm geometry is confirmed on camera.
 
-Our intake language for Bull Shoals, AR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Bull Shoals, AR.
 
-FAQ: Can sump pump remediation wait until dry season? In Bull Shoals, AR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 72619.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Book a camera-assisted drain review before approving jetting on older Bull Shoals, AR mains. Serving ZIP Code: 72619.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Routing marker: dielectric union checklist paired with PEX expansion ring batch near ZIP 72619.
+Dual-water-meter setups in Bull Shoals, AR irrigation zones need backflow logs before line replacement.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 72619.
+Ask for trenchless feasibility notes before main replacement. County grid Marion County.
 
-Dispatch sectors sampled: ZIP 72619 (county grid: Marion County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Bull Shoals, AR.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Book sump and supply-line checks in one written scope. Postal sector 72619.
+
+CPVC solvent weld times shift with ambient humidity during Bull Shoals, AR shoulder seasons.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Branch wet vents in Bull Shoals, AR can mask gurgling as a main-line issue.
+
+Lineage note 769913: recirculation pump amp draw captured before Bull Shoals, AR branch isolation.
+
+Supply audit 769913: curb-stop orientation and hose-bib freeze flag reviewed for Bull Shoals, AR at coords 36.3700/-92.5900.
+
+On-site sector marker: Marion County / elevation 591 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72619-c41fd963

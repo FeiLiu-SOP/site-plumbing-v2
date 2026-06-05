@@ -12,30 +12,49 @@ lng: -84.1500
 zipSample: ["48655"]
 zipCodes: ["48655"]
 localPaths: ["Saginaw County / primary ZIP 48655", "Saginaw County / coords 43.3000, -84.1500", "Saginaw County / ZIP 48655 sector", "Saginaw County / elevation 617 ft band"]
-zillowHomeValueUsd: 196652
 ---
 
 **Engineering Notice for St. Charles:** System optimized for 171 mg/L hard water scaling factors in St. Charles. Regional dispatch grid: Saginaw County.
 
 
-Across St. Charles, MI, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 48655.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Dual-water-meter setups in St. Charles, MI irrigation zones need backflow logs before line replacement.
 
-Our intake language for St. Charles, MI work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Cast-iron hub corrosion in St. Charles, MI often concentrates at the third joint upstream of the cleanout.
 
-FAQ: Can sump pump restoration wait until dry season? In St. Charles, MI, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 48655.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Book a camera-assisted drain review before approving jetting on older St. Charles, MI mains. Serving ZIP Code: 48655.
+Frost-free sillcock failures in St. Charles, MI often trace to interior shutoff seats.
 
-Dispatch note: dielectric union checklist and Sump pump float travel were logged for the St. Charles plumbing intake packet.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 48655.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Main cleanout riser height measured against slab finish in St. Charles, MI.
+Tip: Log water heater flex line dates before wall closure in St. Charles, MI remodel zones.
 
-Dispatch sectors sampled: ZIP 48655 (county grid: Saginaw County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+CPVC solvent weld times shift with ambient humidity during St. Charles, MI shoulder seasons.
+
+Basement floor drains in St. Charles, MI should be snaked only after trap arm geometry is confirmed on camera.
+
+Step: map sump float travel and check-valve orientation for St. Charles, MI basements.
+
+Ask for trenchless feasibility notes before main replacement. County grid Saginaw County.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Drain map 112234: camera-pass priority and expansion-tank pre-charge noted for St. Charles, MI postal sector 48655.
+
+Fixture roster 112234: toilet flange spacer kit and shower cartridge seat score queued for St. Charles, MI walk-through.
+
+Field note: Expansion tank pre-charge verified in St. Charles, MI.
+
+On-site sector marker: Saginaw County / primary ZIP 48655 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-48655-98ed4381

@@ -12,30 +12,47 @@ lng: -85.9700
 zipSample: ["40162"]
 zipCodes: ["40162"]
 localPaths: ["Hardin County / primary ZIP 40162", "Hardin County / ZIP 40162 sector", "Hardin County / coords 37.7500, -85.9700", "Hardin County / elevation 774 ft band"]
-zillowHomeValueUsd: 292875
 ---
 
 **Engineering Notice for Rineyville:** System optimized for 129 mg/L hard water scaling factors in Rineyville. Regional dispatch grid: Hardin County.
 
 
-When water heater & pipe experts scopes are reviewed in Rineyville, KY, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Photograph cleanout cap threads before snaking near ZIP 40162.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Rineyville, KY.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 40162.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+FAQ: Is hydro-jetting always appropriate? In Rineyville, KY, pipe material and blockage type dictate method.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Rineyville, KY, soft blockages differ from root intrusion profiles.
+Cleanout access limits in Rineyville, KY frequently extend drain cleaning duration.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 40162.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 40162.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 40162.
 
-Dispatch note: backflow test cock orientation and water heater T&P discharge path were logged for the Rineyville plumbing intake packet.
+Permit note: Main water line replacement in Rineyville, KY may require ROW restoration planning.
+
+Trenchless pulls in Rineyville, KY require pit dimensions verified against utility locate marks.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Dual-water-meter setups in Rineyville, KY irrigation zones need backflow logs before line replacement.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Polybutylene manifold tags in Rineyville, KY basements should be photographed before wall chases open.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Rineyville, KY.
+
+Tankless heater descale intervals in Rineyville, KY hard-water zones differ from tank anode schedules.
+
+Dispatch packets reference county grid Hardin County near ZIP 40162.
+
+Fixture roster 785852: toilet flange spacer kit and shower cartridge seat score queued for Rineyville, KY walk-through.
+
+Lineage note 785852: recirculation pump amp draw captured before Rineyville, KY branch isolation.
 
 Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 40162.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 40162.
-
-Dispatch sectors sampled: ZIP 40162 (county grid: Hardin County).
+On-site sector marker: Hardin County / elevation 774 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40162-f33b3398

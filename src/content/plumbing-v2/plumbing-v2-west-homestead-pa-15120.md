@@ -12,30 +12,49 @@ lng: -79.9200
 zipSample: ["15120"]
 zipCodes: ["15120"]
 localPaths: ["Allegheny County / elevation 1040 ft band", "Allegheny County / ZIP 15120 sector", "Allegheny County / primary ZIP 15120", "Allegheny County / coords 40.4000, -79.9200"]
-zillowHomeValueUsd: 143434
 ---
 
 **Engineering Notice for West Homestead:** System optimized for 144 mg/L hard water scaling factors in West Homestead. Regional dispatch grid: Allegheny County.
 
 
-Across West Homestead, PA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Our intake language for West Homestead, PA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Can sump pump remediation wait until dry season? In West Homestead, PA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Our Fixture & Supply Line Pros coordination in West Homestead, PA prioritizes cleanout access, vent integrity, and measurable flow recovery.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 15120.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Book a camera-assisted drain review before approving jetting on older West Homestead, PA mains. Serving ZIP Code: 15120.
+Permit note: Main water line replacement in West Homestead, PA may require ROW restoration planning.
 
-Scope trace: sub-slab moisture gradient cross-checked against water heater T&P discharge path before line-pressure hold test.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 15120.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Main cleanout riser height measured against slab finish in West Homestead, PA.
+Step: log PRV inlet and outlet readings during intake.
 
-Dispatch sectors sampled: ZIP 15120 (county grid: Allegheny County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+CPVC solvent weld times shift with ambient humidity during West Homestead, PA shoulder seasons.
+
+Water heater T&P discharge paths in West Homestead, PA must terminate safely before replacement quotes.
+
+In West Homestead, PA, fixture & supply line pros visits often begin with sump basin level checks and discharge line freeze separation.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in West Homestead, PA older homes.
+
+Material note: Water heater anode type may change with West Homestead, PA hardness profiles.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 15120.
+
+Supply audit 299216: curb-stop orientation and hose-bib freeze flag reviewed for West Homestead, PA at coords 40.4000/-79.9200.
+
+Drain map 299216: camera-pass priority and expansion-tank pre-charge noted for West Homestead, PA postal sector 15120.
+
+Field note: Fixture shutoff torque notes filed for ZIP 15120.
+
+On-site sector marker: Allegheny County / ZIP 15120 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15120-adea7396

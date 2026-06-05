@@ -12,28 +12,45 @@ lng: -90.8700
 zipSample: ["70778", "70737"]
 zipCodes: ["70737", "70778"]
 localPaths: ["Ascension Parish / ZIP 70737 sector", "Ascension Parish / ZIP 70778 sector", "Ascension Parish / coords 30.1800, -90.8700", "Ascension Parish / elevation 30 ft band", "Ascension Parish / primary ZIP 70778"]
-zillowHomeValueUsd: 277401
 ---
 
 **Engineering Notice for Sorrento:** System optimized for 139 mg/L hard water scaling factors in Sorrento. Regional dispatch grid: Ascension Parish.
 
 
-Property owners in Sorrento, LA may see basement sump service team escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Basement floor drains in Sorrento, LA should be snaked only after trap arm geometry is confirmed on camera.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Sorrento, LA.
+Dual-water-meter setups in Sorrento, LA irrigation zones need backflow logs before line replacement.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Sorrento, LA.
 
-FAQ: What slows drain cleaning most? In Sorrento, LA, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Across Sorrento, LA, main-line bellies trap debris even when fixtures drain normally.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 70737/70778.
+Cast-iron hub corrosion in Sorrento, LA often concentrates at the third joint upstream of the cleanout.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 70778.
+Step: camera-pass main lines in Sorrento, LA before jetting older clay or cast iron.
 
-Routing marker: fixture shutoff torque log paired with main line camera pass near ZIP 70778.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Drain cleaning cable head wear logged before second pass in Sorrento, LA.
+FAQ: When should sump battery backups be load-tested? In Sorrento, LA, before spring thaw and heavy rain remnants.
 
-Dispatch sectors sampled: ZIP 70737, 70778 (county grid: Ascension Parish).
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Book sump and supply-line checks in one written scope. Postal sector 70778.
+
+Shared main supplies in Sorrento, LA duplexes require coordinated shutoff before pressure holds.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Lineage note 436303: recirculation pump amp draw captured before Sorrento, LA branch isolation.
+
+Supply audit 436303: curb-stop orientation and hose-bib freeze flag reviewed for Sorrento, LA at coords 30.1800/-90.8700.
+
+On-site sector marker: Ascension Parish / primary ZIP 70778 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70778-06c42d55

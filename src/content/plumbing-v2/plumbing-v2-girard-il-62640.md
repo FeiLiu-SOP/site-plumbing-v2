@@ -12,28 +12,47 @@ lng: -89.7800
 zipSample: ["62640"]
 zipCodes: ["62640"]
 localPaths: ["Macoupin County / coords 39.4500, -89.7800", "Macoupin County / elevation 673 ft band", "Macoupin County / primary ZIP 62640", "Macoupin County / ZIP 62640 sector"]
-zillowHomeValueUsd: 147533
 ---
 
 **Engineering Notice for Girard:** System optimized for 134 mg/L hard water scaling factors in Girard. Regional dispatch grid: Macoupin County.
 
 
-A fixture & supply line pros request in Girard, IL is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Girard, IL.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Girard, IL supply age can diverge sharply.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 62640.
+Stack vent offsets in Girard, IL older duplexes can mask tub gurgle as a main-line failure.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 62640.
+Cast-iron hub corrosion in Girard, IL often concentrates at the third joint upstream of the cleanout.
 
-Scope trace: jetter nozzle envelope cross-checked against main line camera pass before line-pressure hold test.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 62640.
+Garage utility sinks in Girard, IL often tie into laundry branches that mask main-line restrictions.
 
-Dispatch sectors sampled: ZIP 62640 (county grid: Macoupin County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+FAQ: When should sump battery backups be load-tested? In Girard, IL, before spring thaw and heavy rain remnants.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Girard, IL older homes.
+
+Basement floor drains in Girard, IL should be snaked only after trap arm geometry is confirmed on camera.
+
+Hydro-jetting in Girard, IL requires camera confirmation before nozzle pressure is raised.
+
+Tankless heater descale intervals in Girard, IL hard-water zones differ from tank anode schedules.
+
+Lineage note 688333: recirculation pump amp draw captured before Girard, IL branch isolation.
+
+Pressure trace 688333: meter-pit clearance and dielectric union checklist staged for Girard, IL near elevation 673 ft.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 62640.
+
+On-site sector marker: Macoupin County / elevation 673 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62640-9b5e0b58

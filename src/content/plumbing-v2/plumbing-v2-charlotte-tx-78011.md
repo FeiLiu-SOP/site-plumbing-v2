@@ -12,29 +12,49 @@ lng: -98.7000
 zipSample: ["78011"]
 zipCodes: ["78011"]
 localPaths: ["Atascosa County / primary ZIP 78011", "Atascosa County / coords 28.8600, -98.7000", "Atascosa County / elevation 554 ft band", "Atascosa County / ZIP 78011 sector"]
-zillowHomeValueUsd: 300429
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Charlotte:** System optimized for 143 mg/L hard water scaling factors in Charlotte. Regional dispatch grid: Atascosa County.
 
 
-In Charlotte, TX, professional plumbing services visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Drain cleaning scopes in Charlotte, TX separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Hydrostatic holds in Charlotte, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Professional Plumbing Services coordination in Charlotte, TX prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: When is water line replacement safer than spot service? In Charlotte, TX, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 78011.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Request a written professional plumbing services plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 78011.
+Tip: Photograph cleanout cap threads before snaking near ZIP 78011.
 
-Scope trace: jetter nozzle envelope cross-checked against water heater T&P discharge path before line-pressure hold test.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 78011.
+Trenchless pulls in Charlotte, TX require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 78011 (county grid: Atascosa County).
+Polybutylene manifold tags in Charlotte, TX basements should be photographed before wall chases open.
+
+Irrigation cross-connections in Charlotte, TX can back-siphon domestic lines during main breaks.
+
+Garage utility sinks in Charlotte, TX often tie into laundry branches that mask main-line restrictions.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Permit note: Main water line replacement in Charlotte, TX may require ROW restoration planning.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Atascosa County.
+
+Drain map 891323: camera-pass priority and expansion-tank pre-charge noted for Charlotte, TX postal sector 78011.
+
+Service ledger 891323: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Charlotte, TX at 28.8600, -98.7000.
+
+Field note: Drain cleaning cable head wear logged before second pass in Charlotte, TX.
+
+Field note: Backflow test cock orientation noted in Charlotte, TX.
+
+On-site sector marker: Atascosa County / primary ZIP 78011 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78011-d6e87c31

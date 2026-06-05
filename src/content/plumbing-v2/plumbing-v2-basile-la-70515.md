@@ -12,30 +12,49 @@ lng: -92.6000
 zipSample: ["70515"]
 zipCodes: ["70515"]
 localPaths: ["Evangeline Parish / primary ZIP 70515", "Evangeline Parish / elevation 66 ft band", "Evangeline Parish / coords 30.4900, -92.6000", "Evangeline Parish / ZIP 70515 sector"]
-zillowHomeValueUsd: 106348
 ---
 
 **Engineering Notice for Basile:** System optimized for 172 mg/L hard water scaling factors in Basile. Regional dispatch grid: Evangeline Parish.
 
 
-Across Basile, LA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Dual-water-meter setups in Basile, LA irrigation zones need backflow logs before line replacement.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Our intake language for Basile, LA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Slab leak listening windows in Basile, LA depend on quiet periods and isolated branch valves.
 
-FAQ: Can sump pump remediation wait until dry season? In Basile, LA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 70515.
+Polybutylene manifold tags in Basile, LA basements should be photographed before wall chases open.
 
-Book a camera-assisted drain review before approving jetting on older Basile, LA mains. Serving ZIP Code: 70515.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field packet: copper pinhole cluster map plus cleanout riser height referenced in Evangeline Parish county grid review.
+Ask for trenchless feasibility notes before main replacement. County grid Evangeline Parish.
 
-Field note: Drain cleaning cable head wear logged before second pass in Basile, LA.
+Risk flag: In Basile, LA, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Main cleanout riser height measured against slab finish in Basile, LA.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 70515 (county grid: Evangeline Parish).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Basile, LA.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Dispatch packets reference county grid Evangeline Parish near ZIP 70515.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Fixture roster 418833: toilet flange spacer kit and shower cartridge seat score queued for Basile, LA walk-through.
+
+Supply audit 418833: curb-stop orientation and hose-bib freeze flag reviewed for Basile, LA at coords 30.4900/-92.6000.
+
+Field note: Hose bib freeze flags logged for Basile, LA.
+
+Field note: Slab listen window scheduled for Evangeline Parish grid.
+
+On-site sector marker: Evangeline Parish / coords 30.4900, -92.6000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70515-47be0704

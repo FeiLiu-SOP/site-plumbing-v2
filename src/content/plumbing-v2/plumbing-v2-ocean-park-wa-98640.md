@@ -12,28 +12,47 @@ lng: -124.0400
 zipSample: ["98637", "98640"]
 zipCodes: ["98640", "98637"]
 localPaths: ["Pacific County / coords 46.5000, -124.0400", "Pacific County / ZIP 98640 sector", "Pacific County / primary ZIP 98640", "Pacific County / elevation 59 ft band", "Pacific County / ZIP 98637 sector"]
-zillowHomeValueUsd: 343133
 ---
 
 **Engineering Notice for Ocean Park:** System optimized for 164 mg/L hard water scaling factors in Ocean Park. Regional dispatch grid: Pacific County.
 
 
-Property owners in Ocean Park, WA may see basement sump service team escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Ocean Park, WA.
+Tip: Log water heater flex line dates before wall closure in Ocean Park, WA remodel zones.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Shared main supplies in Ocean Park, WA duplexes require coordinated shutoff before pressure holds.
 
-FAQ: What slows drain cleaning most? In Ocean Park, WA, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Risk flag: In Ocean Park, WA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 98637/98640.
+Permit note: Main water line replacement in Ocean Park, WA may require ROW restoration planning.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 98640.
+Confirm cleanout locations during the same visit. Route file 98640.
 
-Dispatch note: main line camera pass and fixture shutoff torque log were logged for the Ocean Park plumbing intake packet.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Water line replacement trench path flagged for Pacific County setbacks.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 98640.
 
-Dispatch sectors sampled: ZIP 98637, 98640 (county grid: Pacific County).
+Irrigation cross-connections in Ocean Park, WA can back-siphon domestic lines during main breaks.
+
+Slab leak listening windows in Ocean Park, WA depend on quiet periods and isolated branch valves.
+
+Cast-iron hub corrosion in Ocean Park, WA often concentrates at the third joint upstream of the cleanout.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 98640.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: When should sump battery backups be load-tested? In Ocean Park, WA, before spring thaw and heavy rain remnants.
+
+Service ledger 162929: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Ocean Park, WA at 46.5000, -124.0400.
+
+Drain map 162929: camera-pass priority and expansion-tank pre-charge noted for Ocean Park, WA postal sector 98640.
+
+On-site sector marker: Pacific County / elevation 59 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98640-1e08f430

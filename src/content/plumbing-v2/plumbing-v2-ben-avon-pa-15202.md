@@ -12,28 +12,49 @@ lng: -80.0800
 zipSample: ["15202"]
 zipCodes: ["15202"]
 localPaths: ["Allegheny County / coords 40.5100, -80.0800", "Allegheny County / ZIP 15202 sector", "Allegheny County / elevation 840 ft band", "Allegheny County / primary ZIP 15202"]
-zillowHomeValueUsd: 220938
 ---
 
 **Engineering Notice for Ben Avon:** System optimized for 175 mg/L hard water scaling factors in Ben Avon. Regional dispatch grid: Allegheny County.
 
 
-Across Ben Avon, PA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Technicians stage professional plumbing services jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Our intake language for Ben Avon, PA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: Can sump pump service wait until dry season? In Ben Avon, PA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 15202.
+Tip: Log water heater flex line dates before wall closure in Ben Avon, PA remodel zones.
 
-Book a camera-assisted drain review before approving jetting on older Ben Avon, PA mains. Serving ZIP Code: 15202.
+Basement floor drains in Ben Avon, PA should be snaked only after trap arm geometry is confirmed on camera.
 
-Scope trace: branch wet vent compliance note cross-checked against water heater T&P discharge path before line-pressure hold test.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Water line replacement trench path flagged for Allegheny County setbacks.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 15202 (county grid: Allegheny County).
+Trenchless pulls in Ben Avon, PA require pit dimensions verified against utility locate marks.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Garage utility sinks in Ben Avon, PA often tie into laundry branches that mask main-line restrictions.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Dispatch packets reference county grid Allegheny County near ZIP 15202.
+
+Polybutylene manifold tags in Ben Avon, PA basements should be photographed before wall chases open.
+
+Fixture roster 958426: toilet flange spacer kit and shower cartridge seat score queued for Ben Avon, PA walk-through.
+
+Service ledger 958426: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Ben Avon, PA at 40.5100, -80.0800.
+
+Field note: Drain cleaning cable head wear logged before second pass in Ben Avon, PA.
+
+Field note: Dielectric union checklist completed in Ben Avon, PA.
+
+On-site sector marker: Allegheny County / primary ZIP 15202 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15202-74ee2087

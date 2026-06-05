@@ -12,30 +12,43 @@ lng: -88.2700
 zipSample: ["60012", "60014", "60050"]
 zipCodes: ["60014", "60012", "60050"]
 localPaths: ["McHenry County / ZIP 60012 sector", "McHenry County / primary ZIP 60014", "McHenry County / ZIP 60050 sector", "McHenry County / coords 42.2800, -88.2700", "McHenry County / elevation 761 ft band"]
-zillowHomeValueUsd: 359945
 ---
 
 **Engineering Notice for Prairie Grove:** System optimized for 140 mg/L hard water scaling factors in Prairie Grove. Regional dispatch grid: McHenry County.
 
 
-Across Prairie Grove, IL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Prairie Grove, IL.
 
-Technicians stage emergency pipe service jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tankless heater descale intervals in Prairie Grove, IL hard-water zones differ from tank anode schedules.
 
-Our intake language for Prairie Grove, IL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Frost-free sillcock failures in Prairie Grove, IL often trace to interior shutoff seats.
 
-FAQ: Can sump pump remediation wait until dry season? In Prairie Grove, IL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid McHenry County.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 60012/60014/60050.
+Shared main supplies in Prairie Grove, IL duplexes require coordinated shutoff before pressure holds.
 
-Book a camera-assisted drain review before approving jetting on older Prairie Grove, IL mains. Serving ZIP Code: 60014.
+Tip: Photograph cleanout cap threads before snaking near ZIP 60014.
 
-Routing marker: hose bib freeze-risk flag paired with backflow test cock orientation near ZIP 60014.
+Risk flag: In Prairie Grove, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Drain cleaning cable head wear logged before second pass in Prairie Grove, IL.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Water line replacement trench path flagged for McHenry County setbacks.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 60012, 60014, 60050 (county grid: McHenry County).
+Garage utility sinks in Prairie Grove, IL often tie into laundry branches that mask main-line restrictions.
+
+In Prairie Grove, IL, emergency pipe service visits often begin with sump basin level checks and discharge line freeze separation.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 60014.
+
+FAQ: When should sump battery backups be load-tested? In Prairie Grove, IL, before spring thaw and heavy rain remnants.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Lineage note 198107: recirculation pump amp draw captured before Prairie Grove, IL branch isolation.
+
+Drain map 198107: camera-pass priority and expansion-tank pre-charge noted for Prairie Grove, IL postal sector 60014.
+
+On-site sector marker: McHenry County / primary ZIP 60014 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-60014-5df4ddec

@@ -12,28 +12,49 @@ lng: -124.2500
 zipSample: ["97415"]
 zipCodes: ["97415"]
 localPaths: ["Curry County / primary ZIP 97415", "Curry County / coords 42.0400, -124.2500", "Curry County / elevation 121 ft band", "Curry County / ZIP 97415 sector"]
-zillowHomeValueUsd: 476243
 ---
 
 **Engineering Notice for Harbor:** System optimized for 124 mg/L hard water scaling factors in Harbor. Regional dispatch grid: Curry County.
 
 
-Property owners in Harbor, OR may see whole-home repiping advisors escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Harbor, OR.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Material note: Water heater anode type may change with Harbor, OR hardness profiles.
 
-FAQ: What slows drain cleaning most? In Harbor, OR, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 97415.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Harbor, OR older homes.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 97415.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Harbor, OR.
 
-Field packet: sub-slab moisture gradient plus dielectric union checklist referenced in Curry County county grid review.
+Garage utility sinks in Harbor, OR often tie into laundry branches that mask main-line restrictions.
 
-Field note: Main cleanout riser height measured against slab finish in Harbor, OR.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 97415.
 
-Dispatch sectors sampled: ZIP 97415 (county grid: Curry County).
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Trenchless pulls in Harbor, OR require pit dimensions verified against utility locate marks.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Hose bib split patterns often follow missed winterization.
+
+Frost-free sillcock failures in Harbor, OR often trace to interior shutoff seats.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Fixture roster 113917: toilet flange spacer kit and shower cartridge seat score queued for Harbor, OR walk-through.
+
+Lineage note 113917: recirculation pump amp draw captured before Harbor, OR branch isolation.
+
+Field note: Camera pass stills archived for ZIP 97415 branch line.
+
+On-site sector marker: Curry County / primary ZIP 97415 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97415-d2cef8a5

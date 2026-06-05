@@ -12,30 +12,47 @@ lng: -73.9200
 zipSample: ["07620"]
 zipCodes: ["07620"]
 localPaths: ["Bergen County / ZIP 07620 sector", "Bergen County / elevation 541 ft band", "Bergen County / coords 40.9600, -73.9200", "Bergen County / primary ZIP 07620"]
-zillowHomeValueUsd: 3050588
 ---
 
 **Engineering Notice for Alpine:** System optimized for 135 mg/L hard water scaling factors in Alpine. Regional dispatch grid: Bergen County.
 
 
-Across Alpine, NJ, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Polybutylene manifold tags in Alpine, NJ basements should be photographed before wall chases open.
 
-Technicians stage basement sump service team jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: In Alpine, NJ, slab leaks can misroute as foundation issues without listening equipment.
 
-Our intake language for Alpine, NJ work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Irrigation cross-connections in Alpine, NJ can back-siphon domestic lines during main breaks.
 
-FAQ: Can sump pump remediation wait until dry season? In Alpine, NJ, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 07620.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Alpine, NJ.
 
-Book a camera-assisted drain review before approving jetting on older Alpine, NJ mains. Serving ZIP Code: 07620.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Alpine, NJ.
 
-Field packet: branch wet vent compliance note plus fixture shutoff torque log referenced in Bergen County county grid review.
+Step: camera-pass main lines in Alpine, NJ before jetting older clay or cast iron.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Alpine, NJ.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Hydrostatic holds in Alpine, NJ slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Service ledger 661692: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Alpine, NJ at 40.9600, -73.9200.
+
+Drain map 661692: camera-pass priority and expansion-tank pre-charge noted for Alpine, NJ postal sector 07620.
+
+Field note: Main cleanout riser height measured against slab finish in Alpine, NJ.
 
 Field note: Sump pump discharge check-valve orientation verified for ZIP sector 07620.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 07620.
-
-Dispatch sectors sampled: ZIP 07620 (county grid: Bergen County).
+On-site sector marker: Bergen County / elevation 541 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NJ-07620-a8068ac1

@@ -12,28 +12,47 @@ lng: -84.9300
 zipSample: ["47353"]
 zipCodes: ["47353"]
 localPaths: ["Union County / elevation 1017 ft band", "Union County / primary ZIP 47353", "Union County / ZIP 47353 sector", "Union County / coords 39.6300, -84.9300"]
-zillowHomeValueUsd: 189804
 ---
 
 **Engineering Notice for Liberty:** System optimized for 147 mg/L hard water scaling factors in Liberty. Regional dispatch grid: Union County.
 
 
-When basement sump service team scopes are reviewed in Liberty, IN, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+CPVC solvent weld times shift with ambient humidity during Liberty, IN shoulder seasons.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Liberty, IN.
+Ask for trenchless feasibility notes before main replacement. County grid Union County.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Trenchless pulls in Liberty, IN require pit dimensions verified against utility locate marks.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Liberty, IN, soft blockages differ from root intrusion profiles.
+Permit note: Main water line replacement in Liberty, IN may require ROW restoration planning.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 47353.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 47353.
+Step: log PRV inlet and outlet readings during intake.
 
-Routing marker: fixture shutoff torque log paired with sub-slab moisture gradient near ZIP 47353.
+Step: map sump float travel and check-valve orientation for Liberty, IN basements.
 
-Field note: Water line replacement trench path flagged for Union County setbacks.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Dispatch sectors sampled: ZIP 47353 (county grid: Union County).
+Book sump and supply-line checks in one written scope. Postal sector 47353.
+
+Cast-iron hub corrosion in Liberty, IN often concentrates at the third joint upstream of the cleanout.
+
+Tankless heater descale intervals in Liberty, IN hard-water zones differ from tank anode schedules.
+
+Branch wet vents in Liberty, IN can mask gurgling as a main-line issue.
+
+FAQ: When should sump battery backups be load-tested? In Liberty, IN, before spring thaw and heavy rain remnants.
+
+Risk flag: In Liberty, IN, slab leaks can misroute as foundation issues without listening equipment.
+
+Material note: Water heater anode type may change with Liberty, IN hardness profiles.
+
+Supply audit 658810: curb-stop orientation and hose-bib freeze flag reviewed for Liberty, IN at coords 39.6300/-84.9300.
+
+Pressure trace 658810: meter-pit clearance and dielectric union checklist staged for Liberty, IN near elevation 1017 ft.
+
+Field note: Drain cleaning cable head wear logged before second pass in Liberty, IN.
+
+On-site sector marker: Union County / primary ZIP 47353 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47353-a7f9f86a

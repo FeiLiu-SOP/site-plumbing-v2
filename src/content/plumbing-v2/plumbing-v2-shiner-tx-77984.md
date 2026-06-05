@@ -12,30 +12,49 @@ lng: -97.1700
 zipSample: ["77984"]
 zipCodes: ["77984"]
 localPaths: ["Lavaca County / primary ZIP 77984", "Lavaca County / coords 29.4300, -97.1700", "Lavaca County / ZIP 77984 sector", "Lavaca County / elevation 394 ft band"]
-zillowHomeValueUsd: 305693
 ---
 
 **Engineering Notice for Shiner:** System optimized for 125 mg/L hard water scaling factors in Shiner. Regional dispatch grid: Lavaca County.
 
 
-When water heater & pipe experts scopes are reviewed in Shiner, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: map sump float travel and check-valve orientation for Shiner, TX basements.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Shiner, TX.
+Material note: Water heater anode type may change with Shiner, TX hardness profiles.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Shared main supplies in Shiner, TX duplexes require coordinated shutoff before pressure holds.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Shiner, TX, soft blockages differ from root intrusion profiles.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 77984.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 77984.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Scope trace: Sump pump float travel cross-checked against branch wet vent compliance note before line-pressure hold test.
+Dual-water-meter setups in Shiner, TX irrigation zones need backflow logs before line replacement.
 
-Field note: Main cleanout riser height measured against slab finish in Shiner, TX.
+FAQ: When is cabling enough? In Shiner, TX, pipe material and blockage type dictate method.
 
-Field note: Water line replacement trench path flagged for Lavaca County setbacks.
+Irrigation cross-connections in Shiner, TX can back-siphon domestic lines during main breaks.
 
-Dispatch sectors sampled: ZIP 77984 (county grid: Lavaca County).
+Water heater T&P discharge paths in Shiner, TX must terminate safely before replacement quotes.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 77984.
+
+Ask for trenchless feasibility notes before main replacement. County grid Lavaca County.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Shiner, TX.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Fixture roster 662785: toilet flange spacer kit and shower cartridge seat score queued for Shiner, TX walk-through.
+
+Lineage note 662785: recirculation pump amp draw captured before Shiner, TX branch isolation.
+
+Field note: PRV inlet and outlet curves captured for ZIP 77984.
+
+**Regional Infrastructure Brief:** Topographical load indicates ~394 ft across the Lavaca County area. Coordinates: 29.4300, -97.1700. ZIP sample: 77984. Service perimeter note: Coverage extends through Lavaca County with dispatch centered near ZIP 77984.
 
 Service reference: TX-77984-fab289aa

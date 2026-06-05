@@ -12,28 +12,45 @@ lng: -88.8600
 zipSample: ["38343"]
 zipCodes: ["38343"]
 localPaths: ["Madison County / coords 35.7700, -88.8600", "Madison County / elevation 433 ft band", "Madison County / ZIP 38343 sector", "Madison County / primary ZIP 38343"]
-zillowHomeValueUsd: 179745
 ---
 
 **Engineering Notice for Three Way:** System optimized for 135 mg/L hard water scaling factors in Three Way. Regional dispatch grid: Madison County.
 
 
-When leak detection pros scopes are reviewed in Three Way, TN, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+In Three Way, TN, leak detection pros visits often begin with sump basin level checks and discharge line freeze separation.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Three Way, TN.
+Step: photograph curb-stop and meter pit before trenching.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Three Way, TN, soft blockages differ from root intrusion profiles.
+Water heater T&P discharge paths in Three Way, TN must terminate safely before replacement quotes.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 38343.
+Ask for trenchless feasibility notes before main replacement. County grid Madison County.
 
-Open a scheduling request if you need leak detection pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 38343.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Three Way, TN older homes.
 
-Field packet: sub-slab moisture gradient plus Sump pump float travel referenced in Madison County county grid review.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 38343.
+
+Garage utility sinks in Three Way, TN often tie into laundry branches that mask main-line restrictions.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Cast-iron hub corrosion in Three Way, TN often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Three Way, TN.
+
+Lineage note 971832: recirculation pump amp draw captured before Three Way, TN branch isolation.
+
+Service ledger 971832: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Three Way, TN at 35.7700, -88.8600.
 
 Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 38343.
 
-Dispatch sectors sampled: ZIP 38343 (county grid: Madison County).
+On-site sector marker: Madison County / primary ZIP 38343 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-38343-f5e248a9

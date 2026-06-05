@@ -12,28 +12,45 @@ lng: -74.8900
 zipSample: ["08801", "08809"]
 zipCodes: ["08809", "08801"]
 localPaths: ["Hunterdon County / ZIP 08801 sector", "Hunterdon County / ZIP 08809 sector", "Hunterdon County / primary ZIP 08801", "Hunterdon County / coords 40.6500, -74.8900", "Hunterdon County / elevation 420 ft band"]
-zillowHomeValueUsd: 616984
 ---
 
 **Engineering Notice for Annandale:** System optimized for 126 mg/L hard water scaling factors in Annandale. Regional dispatch grid: Hunterdon County.
 
 
-In Annandale, NJ, leak detection pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Drain cleaning scopes in Annandale, NJ separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Leak Detection Pros coordination in Annandale, NJ prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Ask for trenchless feasibility notes before main replacement. County grid Hunterdon County.
 
-FAQ: When is water line replacement safer than spot remediation? In Annandale, NJ, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 08801/08809.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Request a written leak detection pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 08801.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Dispatch note: dielectric union checklist and cleanout riser height were logged for the Annandale plumbing intake packet.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 08801/08809.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 08801, 08809 (county grid: Hunterdon County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Dual-water-meter setups in Annandale, NJ irrigation zones need backflow logs before line replacement.
+
+Cast-iron hub corrosion in Annandale, NJ often concentrates at the third joint upstream of the cleanout.
+
+Book sump and supply-line checks in one written scope. Postal sector 08801.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Supply audit 341347: curb-stop orientation and hose-bib freeze flag reviewed for Annandale, NJ at coords 40.6500/-74.8900.
+
+Lineage note 341347: recirculation pump amp draw captured before Annandale, NJ branch isolation.
+
+Coordinate-anchored dispatch note: center reference 40.6500, -74.8900 at elevation ~420 ft aligns with Hunterdon County intake staging.
 
 Service reference: NJ-08801-26242c47

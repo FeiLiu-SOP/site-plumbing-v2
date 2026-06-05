@@ -12,30 +12,49 @@ lng: -82.4000
 zipSample: ["30434"]
 zipCodes: ["30434"]
 localPaths: ["Jefferson County / primary ZIP 30434", "Jefferson County / ZIP 30434 sector", "Jefferson County / elevation 299 ft band", "Jefferson County / coords 33.0000, -82.4000"]
-zillowHomeValueUsd: 117744
 ---
 
 **Engineering Notice for Louisville:** System optimized for 161 mg/L hard water scaling factors in Louisville. Regional dispatch grid: Jefferson County.
 
 
-Across Louisville, GA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Louisville, GA.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Our intake language for Louisville, GA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: Can sump pump restoration wait until dry season? In Louisville, GA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 30434.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Book a camera-assisted drain review before approving jetting on older Louisville, GA mains. Serving ZIP Code: 30434.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch note: jetter nozzle envelope and cleanout riser height were logged for the Louisville plumbing intake packet.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 30434.
+Tip: Log water heater flex line dates before wall closure in Louisville, GA remodel zones.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 30434.
+Permit note: Main water line replacement in Louisville, GA may require ROW restoration planning.
 
-Dispatch sectors sampled: ZIP 30434 (county grid: Jefferson County).
+Water heater T&P discharge paths in Louisville, GA must terminate safely before replacement quotes.
+
+Ask for trenchless feasibility notes before main replacement. County grid Jefferson County.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 30434.
+
+Branch wet vents in Louisville, GA can mask gurgling as a main-line issue.
+
+FAQ: When should sump battery backups be load-tested? In Louisville, GA, before spring thaw and heavy rain remnants.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Lineage note 661558: recirculation pump amp draw captured before Louisville, GA branch isolation.
+
+Service ledger 661558: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Louisville, GA at 33.0000, -82.4000.
+
+Field note: Slab listen window scheduled for Jefferson County grid.
+
+**Regional Infrastructure Brief:** Response coverage aligns with Jefferson County and primary ZIP 30434. Terrain reference: 299 ft. Center point: 33.0000, -82.4000. ZIP sample: 30434. Regional routing note: Jefferson County traffic flow is balanced around ZIP 30434 service demand.
 
 Service reference: GA-30434-ce7cb9e8

@@ -12,30 +12,45 @@ lng: -98.1000
 zipSample: ["57445"]
 zipCodes: ["57445"]
 localPaths: ["Brown County / primary ZIP 57445", "Brown County / elevation 1302 ft band", "Brown County / ZIP 57445 sector", "Brown County / coords 45.4500, -98.1000"]
-zillowHomeValueUsd: 237560
 ---
 
 **Engineering Notice for Groton:** System optimized for 127 mg/L hard water scaling factors in Groton. Regional dispatch grid: Brown County.
 
 
-Property owners in Groton, SD may see whole-home repiping advisors escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Step: log PRV inlet and outlet readings during intake.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Groton, SD.
+Request a camera-assisted drain review before approving jetting. Postal sector 57445.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Brown County.
 
-FAQ: What slows drain cleaning most? In Groton, SD, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 57445.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Groton, SD older homes.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 57445.
+Risk flag: In Groton, SD, slab leaks can misroute as foundation issues without listening equipment.
 
-Routing marker: water heater T&P discharge path paired with sub-slab moisture gradient near ZIP 57445.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Groton, SD.
 
-Field note: Drain cleaning cable head wear logged before second pass in Groton, SD.
+Permit note: Main water line replacement in Groton, SD may require ROW restoration planning.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 57445.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Dispatch sectors sampled: ZIP 57445 (county grid: Brown County).
+Basement floor drains in Groton, SD should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Hard water in Groton, SD accelerates scale on PRV seats and heater elements.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Supply audit 373227: curb-stop orientation and hose-bib freeze flag reviewed for Groton, SD at coords 45.4500/-98.1000.
+
+Fixture roster 373227: toilet flange spacer kit and shower cartridge seat score queued for Groton, SD walk-through.
+
+Field note: Backflow test cock orientation noted in Groton, SD.
+
+On-site sector marker: Brown County / primary ZIP 57445 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SD-57445-a1961b8b

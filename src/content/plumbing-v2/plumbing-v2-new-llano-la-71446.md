@@ -12,28 +12,47 @@ lng: -93.2800
 zipSample: ["71446", "71461"]
 zipCodes: ["71446", "71461"]
 localPaths: ["Vernon Parish / coords 31.1000, -93.2800", "Vernon Parish / primary ZIP 71446", "Vernon Parish / elevation 240 ft band", "Vernon Parish / ZIP 71446 sector", "Vernon Parish / ZIP 71461 sector"]
-zillowHomeValueUsd: 154298
 ---
 
 **Engineering Notice for New Llano:** System optimized for 177 mg/L hard water scaling factors in New Llano. Regional dispatch grid: Vernon Parish.
 
 
-Across New Llano, LA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: map sump float travel and check-valve orientation for New Llano, LA basements.
 
-Technicians stage basement sump service team jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Cast-iron hub corrosion in New Llano, LA often concentrates at the third joint upstream of the cleanout.
 
-Our intake language for New Llano, LA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+In New Llano, LA, basement sump service team visits often begin with sump basin level checks and discharge line freeze separation.
 
-FAQ: Can sump pump restoration wait until dry season? In New Llano, LA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 71446/71461.
+Irrigation cross-connections in New Llano, LA can back-siphon domestic lines during main breaks.
 
-Book a camera-assisted drain review before approving jetting on older New Llano, LA mains. Serving ZIP Code: 71446.
+Hard water in New Llano, LA accelerates scale on PRV seats and heater elements.
 
-Routing marker: hose bib freeze-risk flag paired with scale coupon sampling near ZIP 71446.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 71446/71461.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 71446, 71461 (county grid: Vernon Parish).
+Hydrostatic holds in New Llano, LA slab circuits run overnight when listening mics show ambiguous hits.
+
+Tip: Log water heater flex line dates before wall closure in New Llano, LA remodel zones.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Basement floor drains in New Llano, LA should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 71446.
+
+Supply audit 737963: curb-stop orientation and hose-bib freeze flag reviewed for New Llano, LA at coords 31.1000/-93.2800.
+
+Lineage note 737963: recirculation pump amp draw captured before New Llano, LA branch isolation.
+
+Field note: Slab listen window scheduled for Vernon Parish grid.
+
+On-site sector marker: Vernon Parish / primary ZIP 71446 — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-71446-cdc23c9c

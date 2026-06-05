@@ -12,30 +12,45 @@ lng: -84.8800
 zipSample: ["49730", "49659"]
 zipCodes: ["49659", "49730"]
 localPaths: ["Antrim County / ZIP 49659 sector", "Antrim County / coords 44.9400, -84.8800", "Antrim County / elevation 1309 ft band", "Antrim County / ZIP 49730 sector", "Antrim County / primary ZIP 49730"]
-zillowHomeValueUsd: 261453
 ---
 
 **Engineering Notice for Lakes of the North:** System optimized for 120 mg/L hard water scaling factors in Lakes of the North. Regional dispatch grid: Antrim County.
 
 
-Across Lakes of the North, MI, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Our intake language for Lakes of the North, MI work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Can sump pump remediation wait until dry season? In Lakes of the North, MI, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Frost-free sillcock failures in Lakes of the North, MI often trace to interior shutoff seats.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 49730/49659.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Book a camera-assisted drain review before approving jetting on older Lakes of the North, MI mains. Serving ZIP Code: 49730.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch note: backflow test cock orientation and branch wet vent compliance note were logged for the Lakes of the North plumbing intake packet.
+Hydro-jetting in Lakes of the North, MI requires camera confirmation before nozzle pressure is raised.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 49730/49659.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Water line replacement trench path flagged for Antrim County setbacks.
+Polybutylene manifold tags in Lakes of the North, MI basements should be photographed before wall chases open.
 
-Dispatch sectors sampled: ZIP 49730, 49659 (county grid: Antrim County).
+Dispatch packets reference county grid Antrim County near ZIP 49730.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 49730.
+
+Trenchless pulls in Lakes of the North, MI require pit dimensions verified against utility locate marks.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Lakes of the North, MI.
+
+Book sump and supply-line checks in one written scope. Postal sector 49730.
+
+Flow dossier 503308: branch wet-vent geometry and PRV seat wear logged for Lakes of the North, MI county grid Antrim County (ZIP 49730).
+
+Drain map 503308: camera-pass priority and expansion-tank pre-charge noted for Lakes of the North, MI postal sector 49730.
+
+On-site sector marker: Antrim County / coords 44.9400, -84.8800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49730-6b60b32c

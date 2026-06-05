@@ -12,30 +12,47 @@ lng: -85.3700
 zipSample: ["42717"]
 zipCodes: ["42717"]
 localPaths: ["Cumberland County / elevation 564 ft band", "Cumberland County / ZIP 42717 sector", "Cumberland County / coords 36.7900, -85.3700", "Cumberland County / primary ZIP 42717"]
-zillowHomeValueUsd: 146137
 ---
 
 **Engineering Notice for Burkesville:** System optimized for 177 mg/L hard water scaling factors in Burkesville. Regional dispatch grid: Cumberland County.
 
 
-When leak detection pros scopes are reviewed in Burkesville, KY, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Trenchless pulls in Burkesville, KY require pit dimensions verified against utility locate marks.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Burkesville, KY.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Burkesville, KY, soft blockages differ from root intrusion profiles.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 42717.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Open a scheduling request if you need leak detection pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 42717.
+Dispatch packets reference county grid Cumberland County near ZIP 42717.
 
-Dispatch note: dielectric union checklist and branch wet vent compliance note were logged for the Burkesville plumbing intake packet.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 42717.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 42717.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Ask for trenchless feasibility notes before main replacement. County grid Cumberland County.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Burkesville, KY older homes.
+
+Tip: Log water heater flex line dates before wall closure in Burkesville, KY remodel zones.
+
+Service ledger 572880: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Burkesville, KY at 36.7900, -85.3700.
+
+Supply audit 572880: curb-stop orientation and hose-bib freeze flag reviewed for Burkesville, KY at coords 36.7900/-85.3700.
 
 Field note: Main cleanout riser height measured against slab finish in Burkesville, KY.
 
-Dispatch sectors sampled: ZIP 42717 (county grid: Cumberland County).
+On-site sector marker: Cumberland County / primary ZIP 42717 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-42717-261523c0

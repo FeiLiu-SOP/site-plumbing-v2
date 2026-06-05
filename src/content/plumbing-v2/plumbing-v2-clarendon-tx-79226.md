@@ -12,28 +12,47 @@ lng: -100.8900
 zipSample: ["79226"]
 zipCodes: ["79226"]
 localPaths: ["Donley County / primary ZIP 79226", "Donley County / coords 34.9400, -100.8900", "Donley County / elevation 2749 ft band", "Donley County / ZIP 79226 sector"]
-zillowHomeValueUsd: 126064
 ---
 
 **Engineering Notice for Clarendon:** System optimized for 168 mg/L hard water scaling factors in Clarendon. Regional dispatch grid: Donley County.
 
 
-Across Clarendon, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Technicians stage emergency pipe remediation jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Our intake language for Clarendon, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Water heater T&P discharge paths in Clarendon, TX must terminate safely before replacement quotes.
 
-FAQ: Can sump pump remediation wait until dry season? In Clarendon, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Cast-iron hub corrosion in Clarendon, TX often concentrates at the third joint upstream of the cleanout.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 79226.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Book a camera-assisted drain review before approving jetting on older Clarendon, TX mains. Serving ZIP Code: 79226.
+Request a camera-assisted drain review before approving jetting. Postal sector 79226.
 
-Scope trace: PEX expansion ring batch cross-checked against backflow test cock orientation before line-pressure hold test.
+Basement floor drains in Clarendon, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Drain cleaning cable head wear logged before second pass in Clarendon, TX.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Dispatch sectors sampled: ZIP 79226 (county grid: Donley County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Clarendon, TX.
+
+Hard water in Clarendon, TX accelerates scale on PRV seats and heater elements.
+
+FAQ: When is cabling enough? In Clarendon, TX, pipe material and blockage type dictate method.
+
+Irrigation cross-connections in Clarendon, TX can back-siphon domestic lines during main breaks.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 79226.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Supply audit 729913: curb-stop orientation and hose-bib freeze flag reviewed for Clarendon, TX at coords 34.9400/-100.8900.
+
+Fixture roster 729913: toilet flange spacer kit and shower cartridge seat score queued for Clarendon, TX walk-through.
+
+On-site sector marker: Donley County / ZIP 79226 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-79226-a6f178d2

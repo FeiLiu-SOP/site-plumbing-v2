@@ -12,30 +12,49 @@ lng: -98.0200
 zipSample: ["78596", "78537"]
 zipCodes: ["78596", "78537"]
 localPaths: ["Hidalgo County / coords 26.1600, -98.0200", "Hidalgo County / elevation 95 ft band", "Hidalgo County / primary ZIP 78537", "Hidalgo County / ZIP 78537 sector", "Hidalgo County / ZIP 78596 sector"]
-zillowHomeValueUsd: 152942
 ---
 
 **Engineering Notice for Midway South:** System optimized for 132 mg/L hard water scaling factors in Midway South. Regional dispatch grid: Hidalgo County.
 
 
-When hydro-jetting specialists scopes are reviewed in Midway South, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Midway South, TX.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Midway South, TX.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Midway South, TX.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Midway South, TX, soft blockages differ from root intrusion profiles.
+Shared main supplies in Midway South, TX duplexes require coordinated shutoff before pressure holds.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 78537/78596.
+Water heater T&P discharge paths in Midway South, TX must terminate safely before replacement quotes.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 78537.
+FAQ: When should sump battery backups be load-tested? In Midway South, TX, before spring thaw and heavy rain remnants.
 
-Scope trace: dielectric union checklist cross-checked against Sump pump float travel before line-pressure hold test.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 78537/78596.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Midway South, TX.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 78537.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Midway South, TX older homes.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 78537.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Irrigation cross-connections in Midway South, TX can back-siphon domestic lines during main breaks.
+
+Lineage note 283300: recirculation pump amp draw captured before Midway South, TX branch isolation.
+
+Fixture roster 283300: toilet flange spacer kit and shower cartridge seat score queued for Midway South, TX walk-through.
 
 Field note: Water line replacement trench path flagged for Hidalgo County setbacks.
 
-Dispatch sectors sampled: ZIP 78537, 78596 (county grid: Hidalgo County).
+Regional mesh label Hidalgo County: moisture and logistics baselines are keyed to Midway South, TX before niche-specific work begins.
 
 Service reference: TX-78537-fffabd1f

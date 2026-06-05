@@ -12,30 +12,45 @@ lng: -96.1900
 zipSample: ["68450"]
 zipCodes: ["68450"]
 localPaths: ["Johnson County / coords 40.3700, -96.1900", "Johnson County / elevation 1125 ft band", "Johnson County / ZIP 68450 sector", "Johnson County / primary ZIP 68450"]
-zillowHomeValueUsd: 177794
 ---
 
 **Engineering Notice for Tecumseh:** System optimized for 141 mg/L hard water scaling factors in Tecumseh. Regional dispatch grid: Johnson County.
 
 
-Across Tecumseh, NE, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Irrigation cross-connections in Tecumseh, NE can back-siphon domestic lines during main breaks.
 
-Our intake language for Tecumseh, NE work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-FAQ: Can sump pump remediation wait until dry season? In Tecumseh, NE, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 68450.
+Frost-free sillcock failures in Tecumseh, NE often trace to interior shutoff seats.
 
-Book a camera-assisted drain review before approving jetting on older Tecumseh, NE mains. Serving ZIP Code: 68450.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field packet: water heater T&P discharge path plus sub-slab moisture gradient referenced in Johnson County county grid review.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 68450.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 68450.
+Polybutylene manifold tags in Tecumseh, NE basements should be photographed before wall chases open.
 
-Dispatch sectors sampled: ZIP 68450 (county grid: Johnson County).
+Tip: Photograph cleanout cap threads before snaking near ZIP 68450.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Across Tecumseh, NE, main-line bellies trap debris even when fixtures drain normally.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Risk flag: In Tecumseh, NE, slab leaks can misroute as foundation issues without listening equipment.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Drain map 542795: camera-pass priority and expansion-tank pre-charge noted for Tecumseh, NE postal sector 68450.
+
+Service ledger 542795: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Tecumseh, NE at 40.3700, -96.1900.
+
+On-site sector marker: Johnson County / elevation 1125 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NE-68450-09b5372f

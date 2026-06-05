@@ -12,30 +12,43 @@ lng: -81.1600
 zipSample: ["28659"]
 zipCodes: ["28659"]
 localPaths: ["Wilkes County / ZIP 28659 sector", "Wilkes County / coords 36.2000, -81.1600", "Wilkes County / elevation 1263 ft band", "Wilkes County / primary ZIP 28659"]
-zillowHomeValueUsd: 209756
 ---
 
 **Engineering Notice for Fairplains:** System optimized for 153 mg/L hard water scaling factors in Fairplains. Regional dispatch grid: Wilkes County.
 
 
-Across Fairplains, NC, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Technicians stage basement sump service team jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: log PRV inlet and outlet readings during intake.
 
-Our intake language for Fairplains, NC work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: Can sump pump remediation wait until dry season? In Fairplains, NC, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Stack vent offsets in Fairplains, NC older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 28659.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Book a camera-assisted drain review before approving jetting on older Fairplains, NC mains. Serving ZIP Code: 28659.
+Tip: Log water heater flex line dates before wall closure in Fairplains, NC remodel zones.
 
-Scope trace: branch wet vent compliance note cross-checked against PRV outlet pressure curve before line-pressure hold test.
+Garage utility sinks in Fairplains, NC often tie into laundry branches that mask main-line restrictions.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 28659.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field note: Main cleanout riser height measured against slab finish in Fairplains, NC.
+FAQ: When should sump battery backups be load-tested? In Fairplains, NC, before spring thaw and heavy rain remnants.
 
-Dispatch sectors sampled: ZIP 28659 (county grid: Wilkes County).
+CPVC solvent weld times shift with ambient humidity during Fairplains, NC shoulder seasons.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Pressure trace 223051: meter-pit clearance and dielectric union checklist staged for Fairplains, NC near elevation 1263 ft.
+
+Lineage note 223051: recirculation pump amp draw captured before Fairplains, NC branch isolation.
+
+Primary postal anchor 28659 with multi-ZIP overlap in Fairplains; field packets tag Wilkes County for county-grid reconciliation.
 
 Service reference: NC-28659-1cd6c00c

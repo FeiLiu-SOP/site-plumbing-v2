@@ -12,30 +12,43 @@ lng: -96.7400
 zipSample: ["57003"]
 zipCodes: ["57003"]
 localPaths: ["Minnehaha County / primary ZIP 57003", "Minnehaha County / elevation 1499 ft band", "Minnehaha County / coords 43.7600, -96.7400", "Minnehaha County / ZIP 57003 sector"]
-zillowHomeValueUsd: 353449
 ---
 
 **Engineering Notice for Baltic:** System optimized for 155 mg/L hard water scaling factors in Baltic. Regional dispatch grid: Minnehaha County.
 
 
-Property owners in Baltic, SD may see slab leak response unit escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Garage utility sinks in Baltic, SD often tie into laundry branches that mask main-line restrictions.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Baltic, SD.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 57003.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Material note: Water heater anode type may change with Baltic, SD hardness profiles.
 
-FAQ: What slows drain cleaning most? In Baltic, SD, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 57003.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 57003.
+Step: log PRV inlet and outlet readings during intake.
 
-Dispatch note: copper pinhole cluster map and jetter nozzle envelope were logged for the Baltic plumbing intake packet.
+Tankless heater descale intervals in Baltic, SD hard-water zones differ from tank anode schedules.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 57003.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Drain cleaning cable head wear logged before second pass in Baltic, SD.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Baltic, SD.
 
-Dispatch sectors sampled: ZIP 57003 (county grid: Minnehaha County).
+Shared main supplies in Baltic, SD duplexes require coordinated shutoff before pressure holds.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Across Baltic, SD, main-line bellies trap debris even when fixtures drain normally.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Drain map 242370: camera-pass priority and expansion-tank pre-charge noted for Baltic, SD postal sector 57003.
+
+Pressure trace 242370: meter-pit clearance and dielectric union checklist staged for Baltic, SD near elevation 1499 ft.
+
+On-site sector marker: Minnehaha County / primary ZIP 57003 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SD-57003-123ffbf0

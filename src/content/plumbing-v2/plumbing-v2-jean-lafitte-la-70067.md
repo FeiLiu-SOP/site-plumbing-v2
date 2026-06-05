@@ -12,28 +12,43 @@ lng: -90.1000
 zipSample: ["70067"]
 zipCodes: ["70067"]
 localPaths: ["Jefferson Parish / primary ZIP 70067", "Jefferson Parish / elevation 3 ft band", "Jefferson Parish / ZIP 70067 sector", "Jefferson Parish / coords 29.7500, -90.1000"]
-zillowHomeValueUsd: 202404
 ---
 
 **Engineering Notice for Jean Lafitte:** System optimized for 166 mg/L hard water scaling factors in Jean Lafitte. Regional dispatch grid: Jefferson Parish.
 
 
-In Jean Lafitte, LA, whole-home repiping advisors visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Drain cleaning scopes in Jean Lafitte, LA separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Whole-Home Repiping Advisors coordination in Jean Lafitte, LA prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-FAQ: When is water line replacement safer than spot restoration? In Jean Lafitte, LA, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Tip: Photograph cleanout cap threads before snaking near ZIP 70067.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 70067.
+Confirm cleanout locations during the same visit. Route file 70067.
 
-Request a written whole-home repiping advisors plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 70067.
+Polybutylene manifold tags in Jean Lafitte, LA basements should be photographed before wall chases open.
 
-Dispatch note: branch wet vent compliance note and hose bib freeze-risk flag were logged for the Jean Lafitte plumbing intake packet.
+Dual-water-meter setups in Jean Lafitte, LA irrigation zones need backflow logs before line replacement.
 
-Field note: Main cleanout riser height measured against slab finish in Jean Lafitte, LA.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 70067 (county grid: Jefferson Parish).
+Hose bib split patterns often follow missed winterization.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Jefferson Parish.
+
+Tankless heater descale intervals in Jean Lafitte, LA hard-water zones differ from tank anode schedules.
+
+Frost-free sillcock failures in Jean Lafitte, LA often trace to interior shutoff seats.
+
+Garage utility sinks in Jean Lafitte, LA often tie into laundry branches that mask main-line restrictions.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Jean Lafitte, LA.
+
+Lineage note 438836: recirculation pump amp draw captured before Jean Lafitte, LA branch isolation.
+
+Service ledger 438836: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Jean Lafitte, LA at 29.7500, -90.1000.
+
+On-site sector marker: Jefferson Parish / ZIP 70067 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70067-77285f0f

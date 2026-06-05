@@ -12,30 +12,43 @@ lng: -94.8300
 zipSample: ["75939"]
 zipCodes: ["75939"]
 localPaths: ["Polk County / ZIP 75939 sector", "Polk County / coords 31.0000, -94.8300", "Polk County / elevation 249 ft band", "Polk County / primary ZIP 75939"]
-zillowHomeValueUsd: 148227
 ---
 
 **Engineering Notice for Corrigan:** System optimized for 162 mg/L hard water scaling factors in Corrigan. Regional dispatch grid: Polk County.
 
 
-Across Corrigan, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Galvanized segments in Corrigan, TX may restrict flow before visible corrosion.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Our intake language for Corrigan, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Corrigan, TX.
 
-FAQ: Can sump pump service wait until dry season? In Corrigan, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Irrigation cross-connections in Corrigan, TX can back-siphon domestic lines during main breaks.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 75939.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Book a camera-assisted drain review before approving jetting on older Corrigan, TX mains. Serving ZIP Code: 75939.
+Tankless heater descale intervals in Corrigan, TX hard-water zones differ from tank anode schedules.
 
-Routing marker: fixture shutoff torque log paired with sub-slab moisture gradient near ZIP 75939.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 75939.
+Hydrostatic holds in Corrigan, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 75939.
+Step: map sump float travel and check-valve orientation for Corrigan, TX basements.
 
-Dispatch sectors sampled: ZIP 75939 (county grid: Polk County).
+CPVC solvent weld times shift with ambient humidity during Corrigan, TX shoulder seasons.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Across Corrigan, TX, main-line bellies trap debris even when fixtures drain normally.
+
+Polybutylene manifold tags in Corrigan, TX basements should be photographed before wall chases open.
+
+Garage utility sinks in Corrigan, TX often tie into laundry branches that mask main-line restrictions.
+
+Supply audit 769468: curb-stop orientation and hose-bib freeze flag reviewed for Corrigan, TX at coords 31.0000/-94.8300.
+
+Lineage note 769468: recirculation pump amp draw captured before Corrigan, TX branch isolation.
+
+On-site sector marker: Polk County / ZIP 75939 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-75939-fef32d2d

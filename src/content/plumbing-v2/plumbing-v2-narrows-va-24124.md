@@ -12,28 +12,47 @@ lng: -80.8100
 zipSample: ["24124"]
 zipCodes: ["24124"]
 localPaths: ["Giles County / ZIP 24124 sector", "Giles County / coords 37.3300, -80.8100", "Giles County / elevation 1614 ft band", "Giles County / primary ZIP 24124"]
-zillowHomeValueUsd: 164943
 ---
 
 **Engineering Notice for Narrows:** System optimized for 162 mg/L hard water scaling factors in Narrows. Regional dispatch grid: Giles County.
 
 
-When drain line restoration crew scopes are reviewed in Narrows, VA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Narrows, VA.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Hydro-jetting in Narrows, VA requires camera confirmation before nozzle pressure is raised.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Narrows, VA, soft blockages differ from root intrusion profiles.
+Basement floor drains in Narrows, VA should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 24124.
+Tankless heater descale intervals in Narrows, VA hard-water zones differ from tank anode schedules.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 24124.
+Step: camera-pass main lines in Narrows, VA before jetting older clay or cast iron.
 
-Scope trace: jetter nozzle envelope cross-checked against main line camera pass before line-pressure hold test.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 24124.
+Dual-water-meter setups in Narrows, VA irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 24124 (county grid: Giles County).
+Cast-iron hub corrosion in Narrows, VA often concentrates at the third joint upstream of the cleanout.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Hard water in Narrows, VA accelerates scale on PRV seats and heater elements.
+
+Hydrostatic holds in Narrows, VA slab circuits run overnight when listening mics show ambiguous hits.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Pressure trace 299908: meter-pit clearance and dielectric union checklist staged for Narrows, VA near elevation 1614 ft.
+
+Flow dossier 299908: branch wet-vent geometry and PRV seat wear logged for Narrows, VA county grid Giles County (ZIP 24124).
+
+On-site sector marker: Giles County / ZIP 24124 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-24124-26649a20

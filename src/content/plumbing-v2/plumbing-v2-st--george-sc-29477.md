@@ -12,28 +12,49 @@ lng: -80.5800
 zipSample: ["29477"]
 zipCodes: ["29477"]
 localPaths: ["Dorchester County / elevation 102 ft band", "Dorchester County / ZIP 29477 sector", "Dorchester County / primary ZIP 29477", "Dorchester County / coords 33.1900, -80.5800"]
-zillowHomeValueUsd: 218140
 ---
 
 **Engineering Notice for St. George:** System optimized for 156 mg/L hard water scaling factors in St. George. Regional dispatch grid: Dorchester County.
 
 
-Across St. George, SC, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in St. George, SC.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Across St. George, SC, main-line bellies trap debris even when fixtures drain normally.
 
-Our intake language for St. George, SC work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Can sump pump remediation wait until dry season? In St. George, SC, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 29477.
+Step: document dielectric unions before mixed-metal replacements.
 
-Book a camera-assisted drain review before approving jetting on older St. George, SC mains. Serving ZIP Code: 29477.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Scope trace: fixture shutoff torque log cross-checked against scale coupon sampling before line-pressure hold test.
+Hydrostatic holds in St. George, SC slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 29477.
+Tip: Photograph cleanout cap threads before snaking near ZIP 29477.
 
-Dispatch sectors sampled: ZIP 29477 (county grid: Dorchester County).
+Step: tag shutoffs and meter orientation before opening walls.
+
+CPVC solvent weld times shift with ambient humidity during St. George, SC shoulder seasons.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Risk flag: In St. George, SC, slab leaks can misroute as foundation issues without listening equipment.
+
+Ask for trenchless feasibility notes before main replacement. County grid Dorchester County.
+
+FAQ: When should sump battery backups be load-tested? In St. George, SC, before spring thaw and heavy rain remnants.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in St. George, SC.
+
+Service ledger 385016: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for St. George, SC at 33.1900, -80.5800.
+
+Lineage note 385016: recirculation pump amp draw captured before St. George, SC branch isolation.
+
+Field note: Drain cleaning cable head wear logged before second pass in St. George, SC.
+
+Field note: Expansion tank pre-charge verified in St. George, SC.
+
+Regional mesh label Dorchester County: moisture and logistics baselines are keyed to St. George, SC before niche-specific work begins.
 
 Service reference: SC-29477-003fd666

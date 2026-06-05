@@ -12,28 +12,45 @@ lng: -87.1600
 zipSample: ["42220"]
 zipCodes: ["42220"]
 localPaths: ["Todd County / primary ZIP 42220", "Todd County / ZIP 42220 sector", "Todd County / elevation 600 ft band", "Todd County / coords 36.8100, -87.1600"]
-zillowHomeValueUsd: 213469
 ---
 
 **Engineering Notice for Elkton:** System optimized for 178 mg/L hard water scaling factors in Elkton. Regional dispatch grid: Todd County.
 
 
-Property owners in Elkton, KY may see whole-home repiping advisors escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Elkton, KY.
+Step: log PRV inlet and outlet readings during intake.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Elkton, KY older homes.
 
-FAQ: What slows drain cleaning most? In Elkton, KY, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Material note: Water heater anode type may change with Elkton, KY hardness profiles.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 42220.
+FAQ: Is hydro-jetting always appropriate? In Elkton, KY, pipe material and blockage type dictate method.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 42220.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Scope trace: Sump pump float travel cross-checked against PRV outlet pressure curve before line-pressure hold test.
+FAQ: When should sump battery backups be load-tested? In Elkton, KY, before spring thaw and heavy rain remnants.
 
-Field note: Drain cleaning cable head wear logged before second pass in Elkton, KY.
+Tip: Log water heater flex line dates before wall closure in Elkton, KY remodel zones.
 
-Dispatch sectors sampled: ZIP 42220 (county grid: Todd County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 42220.
+
+Permit note: Main water line replacement in Elkton, KY may require ROW restoration planning.
+
+Trenchless pulls in Elkton, KY require pit dimensions verified against utility locate marks.
+
+Polybutylene manifold tags in Elkton, KY basements should be photographed before wall chases open.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Stack vent offsets in Elkton, KY older duplexes can mask tub gurgle as a main-line failure.
+
+Lineage note 689936: recirculation pump amp draw captured before Elkton, KY branch isolation.
+
+Pressure trace 689936: meter-pit clearance and dielectric union checklist staged for Elkton, KY near elevation 600 ft.
+
+On-site sector marker: Todd County / coords 36.8100, -87.1600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-42220-cf84ce9c

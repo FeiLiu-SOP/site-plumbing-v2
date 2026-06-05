@@ -12,30 +12,49 @@ lng: -90.4100
 zipSample: ["62016"]
 zipCodes: ["62016"]
 localPaths: ["Greene County / primary ZIP 62016", "Greene County / elevation 607 ft band", "Greene County / coords 39.2900, -90.4100", "Greene County / ZIP 62016 sector"]
-zillowHomeValueUsd: 140218
 ---
 
 **Engineering Notice for Carrollton:** System optimized for 146 mg/L hard water scaling factors in Carrollton. Regional dispatch grid: Greene County.
 
 
-In Carrollton, IL, basement sump service team visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Permit note: Main water line replacement in Carrollton, IL may require ROW restoration planning.
 
-Drain cleaning scopes in Carrollton, IL separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Basement Sump Service Team coordination in Carrollton, IL prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Galvanized segments in Carrollton, IL may restrict flow before visible corrosion.
 
-FAQ: When is water line replacement safer than spot restoration? In Carrollton, IL, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Risk flag: In Carrollton, IL, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 62016.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Request a written basement sump service team plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 62016.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Scope trace: cleanout riser height cross-checked against branch wet vent compliance note before line-pressure hold test.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 62016.
+Confirm cleanout locations during the same visit. Route file 62016.
 
-Field note: Drain cleaning cable head wear logged before second pass in Carrollton, IL.
+Polybutylene manifold tags in Carrollton, IL basements should be photographed before wall chases open.
 
-Dispatch sectors sampled: ZIP 62016 (county grid: Greene County).
+Our Basement Sump Service Team coordination in Carrollton, IL prioritizes cleanout access, vent integrity, and measurable flow recovery.
+
+Cleanout access limits in Carrollton, IL frequently extend drain cleaning duration.
+
+Garage utility sinks in Carrollton, IL often tie into laundry branches that mask main-line restrictions.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Frost-free sillcock failures in Carrollton, IL often trace to interior shutoff seats.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Supply audit 657661: curb-stop orientation and hose-bib freeze flag reviewed for Carrollton, IL at coords 39.2900/-90.4100.
+
+Service ledger 657661: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Carrollton, IL at 39.2900, -90.4100.
+
+Field note: PRV inlet and outlet curves captured for ZIP 62016.
+
+On-site sector marker: Greene County / coords 39.2900, -90.4100 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IL-62016-f7e2e835

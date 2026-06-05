@@ -12,28 +12,43 @@ lng: -106.6200
 zipSample: ["88021", "88048", "88024"]
 zipCodes: ["88021", "88048", "88024"]
 localPaths: ["Doña Ana County / coords 32.0700, -106.6200", "Doña Ana County / ZIP 88024 sector", "Doña Ana County / elevation 3822 ft band", "Doña Ana County / ZIP 88021 sector", "Doña Ana County / ZIP 88048 sector"]
-zillowHomeValueUsd: 237818
 ---
 
 **Engineering Notice for Berino:** System optimized for 135 mg/L hard water scaling factors in Berino. Regional dispatch grid: Doña Ana County.
 
 
-Across Berino, NM, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: document dielectric unions before mixed-metal replacements.
 
-Technicians stage professional plumbing services jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Confirm cleanout locations during the same visit. Route file 88021.
 
-Our intake language for Berino, NM work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can sump pump restoration wait until dry season? In Berino, NM, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Cast-iron hub corrosion in Berino, NM often concentrates at the third joint upstream of the cleanout.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 88048/88021/88024.
+Frost-free sillcock failures in Berino, NM often trace to interior shutoff seats.
 
-Book a camera-assisted drain review before approving jetting on older Berino, NM mains. Serving ZIP Code: 88021.
+Permit note: Main water line replacement in Berino, NM may require ROW restoration planning.
 
-Routing marker: hose bib freeze-risk flag paired with copper pinhole cluster map near ZIP 88021.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 88048/88021/88024.
+Material note: Water heater anode type may change with Berino, NM hardness profiles.
 
-Dispatch sectors sampled: ZIP 88048, 88021, 88024 (county grid: Doña Ana County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 88021.
+
+Galvanized segments in Berino, NM may restrict flow before visible corrosion.
+
+Dispatch packets reference county grid Doña Ana County near ZIP 88021.
+
+Step: camera-pass main lines in Berino, NM before jetting older clay or cast iron.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Lineage note 759745: recirculation pump amp draw captured before Berino, NM branch isolation.
+
+Pressure trace 759745: meter-pit clearance and dielectric union checklist staged for Berino, NM near elevation 3822 ft.
+
+On-site sector marker: Doña Ana County / ZIP 88021 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88021-ebee2985

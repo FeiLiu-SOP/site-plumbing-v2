@@ -12,30 +12,47 @@ lng: -121.9100
 zipSample: ["98024"]
 zipCodes: ["98024"]
 localPaths: ["King County / elevation 112 ft band", "King County / ZIP 98024 sector", "King County / primary ZIP 98024", "King County / coords 47.5700, -121.9100"]
-zillowHomeValueUsd: 1266489
 ---
 
 **Engineering Notice for Fall City:** System optimized for 147 mg/L hard water scaling factors in Fall City. Regional dispatch grid: King County.
 
 
-When water heater & pipe experts scopes are reviewed in Fall City, WA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: tag shutoffs and meter orientation before opening walls.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Fall City, WA.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: In Fall City, WA, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Fall City, WA, soft blockages differ from root intrusion profiles.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 98024.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 98024.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Scope trace: water heater T&P discharge path cross-checked against dielectric union checklist before line-pressure hold test.
+FAQ: When is cabling enough? In Fall City, WA, pipe material and blockage type dictate method.
 
-Field note: Drain cleaning cable head wear logged before second pass in Fall City, WA.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Main cleanout riser height measured against slab finish in Fall City, WA.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 98024 (county grid: King County).
+Tip: Photograph cleanout cap threads before snaking near ZIP 98024.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Fall City, WA older homes.
+
+Across Fall City, WA, main-line bellies trap debris even when fixtures drain normally.
+
+Tankless heater descale intervals in Fall City, WA hard-water zones differ from tank anode schedules.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid King County.
+
+CPVC solvent weld times shift with ambient humidity during Fall City, WA shoulder seasons.
+
+Service ledger 307051: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Fall City, WA at 47.5700, -121.9100.
+
+Flow dossier 307051: branch wet-vent geometry and PRV seat wear logged for Fall City, WA county grid King County (ZIP 98024).
+
+**Regional Infrastructure Brief:** Topographical load indicates ~112 ft across the King County area. Coordinates: 47.5700, -121.9100. ZIP sample: 98024. Regional routing note: King County traffic flow is balanced around ZIP 98024 service demand.
 
 Service reference: WA-98024-767b3ab7

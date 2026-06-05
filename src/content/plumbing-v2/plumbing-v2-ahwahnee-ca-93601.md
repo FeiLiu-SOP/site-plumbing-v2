@@ -12,28 +12,43 @@ lng: -119.7200
 zipSample: ["93644", "93601"]
 zipCodes: ["93644", "93601"]
 localPaths: ["Madera County / ZIP 93601 sector", "Madera County / coords 37.3700, -119.7200", "Madera County / primary ZIP 93601", "Madera County / elevation 2310 ft band", "Madera County / ZIP 93644 sector"]
-zillowHomeValueUsd: 475866
 ---
 
 **Engineering Notice for Ahwahnee:** System optimized for 152 mg/L hard water scaling factors in Ahwahnee. Regional dispatch grid: Madera County.
 
 
-When water heater & pipe experts scopes are reviewed in Ahwahnee, CA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Ahwahnee, CA.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: In Ahwahnee, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Ahwahnee, CA, soft blockages differ from root intrusion profiles.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 93601.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 93644/93601.
+Permit note: Main water line replacement in Ahwahnee, CA may require ROW restoration planning.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 93601.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Scope trace: scale coupon sampling cross-checked against jetter nozzle envelope before line-pressure hold test.
+Cleanout access limits in Ahwahnee, CA frequently extend drain cleaning duration.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 93644/93601.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 93644, 93601 (county grid: Madera County).
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Garage utility sinks in Ahwahnee, CA often tie into laundry branches that mask main-line restrictions.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Ahwahnee, CA.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Ahwahnee, CA.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Tankless heater descale intervals in Ahwahnee, CA hard-water zones differ from tank anode schedules.
+
+Flow dossier 400878: branch wet-vent geometry and PRV seat wear logged for Ahwahnee, CA county grid Madera County (ZIP 93601).
+
+Pressure trace 400878: meter-pit clearance and dielectric union checklist staged for Ahwahnee, CA near elevation 2310 ft.
+
+On-site sector marker: Madera County / primary ZIP 93601 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93601-92b53236

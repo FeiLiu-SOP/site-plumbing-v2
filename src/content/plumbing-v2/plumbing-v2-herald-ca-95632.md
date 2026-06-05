@@ -12,28 +12,45 @@ lng: -121.2300
 zipSample: ["95638", "95632"]
 zipCodes: ["95632", "95638"]
 localPaths: ["Sacramento County / coords 38.2900, -121.2300", "Sacramento County / elevation 75 ft band", "Sacramento County / ZIP 95632 sector", "Sacramento County / primary ZIP 95632", "Sacramento County / ZIP 95638 sector"]
-zillowHomeValueUsd: 533016
 ---
 
 **Engineering Notice for Herald:** System optimized for 126 mg/L hard water scaling factors in Herald. Regional dispatch grid: Sacramento County.
 
 
-When slab leak response unit scopes are reviewed in Herald, CA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Herald, CA.
+Slab leak listening windows in Herald, CA depend on quiet periods and isolated branch valves.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Garage utility sinks in Herald, CA often tie into laundry branches that mask main-line restrictions.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Herald, CA, soft blockages differ from root intrusion profiles.
+Irrigation cross-connections in Herald, CA can back-siphon domestic lines during main breaks.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 95638/95632.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 95632.
+Dispatch packets reference county grid Sacramento County near ZIP 95632.
 
-Dispatch note: branch wet vent compliance note and water heater T&P discharge path were logged for the Herald plumbing intake packet.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Drain cleaning cable head wear logged before second pass in Herald, CA.
+Tankless heater descale intervals in Herald, CA hard-water zones differ from tank anode schedules.
 
-Dispatch sectors sampled: ZIP 95638, 95632 (county grid: Sacramento County).
+Across Herald, CA, main-line bellies trap debris even when fixtures drain normally.
+
+Dual-water-meter setups in Herald, CA irrigation zones need backflow logs before line replacement.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 95632.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Herald, CA.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Supply audit 646885: curb-stop orientation and hose-bib freeze flag reviewed for Herald, CA at coords 38.2900/-121.2300.
+
+Service ledger 646885: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Herald, CA at 38.2900, -121.2300.
+
+Field note: Expansion tank pre-charge verified in Herald, CA.
+
+On-site sector marker: Sacramento County / primary ZIP 95632 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95632-8f2be8fb

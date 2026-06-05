@@ -12,30 +12,47 @@ lng: -89.4100
 zipSample: ["39475"]
 zipCodes: ["39475"]
 localPaths: ["Lamar County / primary ZIP 39475", "Lamar County / elevation 381 ft band", "Lamar County / coords 31.1400, -89.4100", "Lamar County / ZIP 39475 sector"]
-zillowHomeValueUsd: 239784
 ---
 
 **Engineering Notice for Purvis:** System optimized for 144 mg/L hard water scaling factors in Purvis. Regional dispatch grid: Lamar County.
 
 
-Across Purvis, MS, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Purvis, MS.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Galvanized segments in Purvis, MS may restrict flow before visible corrosion.
 
-Our intake language for Purvis, MS work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Can sump pump restoration wait until dry season? In Purvis, MS, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: Water heater anode type may change with Purvis, MS hardness profiles.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 39475.
+Tip: Photograph cleanout cap threads before snaking near ZIP 39475.
 
-Book a camera-assisted drain review before approving jetting on older Purvis, MS mains. Serving ZIP Code: 39475.
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch note: dielectric union checklist and water heater T&P discharge path were logged for the Purvis plumbing intake packet.
+Polybutylene manifold tags in Purvis, MS basements should be photographed before wall chases open.
 
-Field note: Main cleanout riser height measured against slab finish in Purvis, MS.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Drain cleaning cable head wear logged before second pass in Purvis, MS.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Dispatch sectors sampled: ZIP 39475 (county grid: Lamar County).
+Hose bib split patterns often follow missed winterization.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Book sump and supply-line checks in one written scope. Postal sector 39475.
+
+Frost-free sillcock failures in Purvis, MS often trace to interior shutoff seats.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Purvis, MS.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 39475.
+
+Supply audit 242558: curb-stop orientation and hose-bib freeze flag reviewed for Purvis, MS at coords 31.1400/-89.4100.
+
+Fixture roster 242558: toilet flange spacer kit and shower cartridge seat score queued for Purvis, MS walk-through.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 39475.
+
+Regional mesh label Lamar County: moisture and logistics baselines are keyed to Purvis, MS before niche-specific work begins.
 
 Service reference: MS-39475-519e574c

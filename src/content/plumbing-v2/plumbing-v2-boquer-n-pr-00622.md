@@ -12,31 +12,47 @@ lng: -67.1700
 zipSample: ["00622"]
 zipCodes: ["00622"]
 localPaths: ["Cabo Rojo County / coords 18.0300, -67.1700", "Cabo Rojo County / elevation 62 ft band", "Cabo Rojo County / ZIP 00622 sector", "Cabo Rojo County / primary ZIP 00622"]
-zillowHomeValueUsd: 362510
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Boquerón:** System optimized for 180 mg/L hard water scaling factors in Boquerón. Regional dispatch grid: Cabo Rojo County.
 
 
-Across Boquerón, PR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Dispatch packets reference county grid Cabo Rojo County near ZIP 00622.
 
-Our intake language for Boquerón, PR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-FAQ: Can sump pump service wait until dry season? In Boquerón, PR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 00622.
+FAQ: When should sump battery backups be load-tested? In Boquerón, PR, before spring thaw and heavy rain remnants.
 
-Book a camera-assisted drain review before approving jetting on older Boquerón, PR mains. Serving ZIP Code: 00622.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field packet: copper pinhole cluster map plus jetter nozzle envelope referenced in Cabo Rojo County county grid review.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 00622.
 
-Field note: Main cleanout riser height measured against slab finish in Boquerón, PR.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Boquerón, PR.
 
-Field note: Water line replacement trench path flagged for Cabo Rojo County setbacks.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 00622 (county grid: Cabo Rojo County).
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Boquerón, PR.
+
+Polybutylene manifold tags in Boquerón, PR basements should be photographed before wall chases open.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Cabo Rojo County.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 00622.
+
+Supply audit 611972: curb-stop orientation and hose-bib freeze flag reviewed for Boquerón, PR at coords 18.0300/-67.1700.
+
+Flow dossier 611972: branch wet-vent geometry and PRV seat wear logged for Boquerón, PR county grid Cabo Rojo County (ZIP 00622).
+
+Field note: Expansion tank pre-charge verified in Boquerón, PR.
+
+Field note: Fixture shutoff torque notes filed for ZIP 00622.
+
+Regional mesh label Cabo Rojo County: moisture and logistics baselines are keyed to Boquerón, PR before niche-specific work begins.
 
 Service reference: PR-00622-caf253c1

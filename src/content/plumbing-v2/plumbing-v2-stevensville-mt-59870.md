@@ -12,30 +12,49 @@ lng: -114.0800
 zipSample: ["59870"]
 zipCodes: ["59870"]
 localPaths: ["Ravalli County / coords 46.5100, -114.0800", "Ravalli County / ZIP 59870 sector", "Ravalli County / elevation 3376 ft band", "Ravalli County / primary ZIP 59870"]
-zillowHomeValueUsd: 615631
 ---
 
 **Engineering Notice for Stevensville:** System optimized for 121 mg/L hard water scaling factors in Stevensville. Regional dispatch grid: Ravalli County.
 
 
-Across Stevensville, MT, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Technicians stage emergency pipe service jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Shared main supplies in Stevensville, MT duplexes require coordinated shutoff before pressure holds.
 
-Our intake language for Stevensville, MT work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-FAQ: Can sump pump restoration wait until dry season? In Stevensville, MT, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Stevensville, MT.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 59870.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 59870.
 
-Book a camera-assisted drain review before approving jetting on older Stevensville, MT mains. Serving ZIP Code: 59870.
+Basement floor drains in Stevensville, MT should be snaked only after trap arm geometry is confirmed on camera.
 
-Scope trace: sub-slab moisture gradient cross-checked against hose bib freeze-risk flag before line-pressure hold test.
+Frost-free sillcock failures in Stevensville, MT often trace to interior shutoff seats.
 
-Field note: Main cleanout riser height measured against slab finish in Stevensville, MT.
+Irrigation cross-connections in Stevensville, MT can back-siphon domestic lines during main breaks.
 
-Field note: Drain cleaning cable head wear logged before second pass in Stevensville, MT.
+Garage utility sinks in Stevensville, MT often tie into laundry branches that mask main-line restrictions.
 
-Dispatch sectors sampled: ZIP 59870 (county grid: Ravalli County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 59870.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Tankless heater descale intervals in Stevensville, MT hard-water zones differ from tank anode schedules.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Stevensville, MT.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Ask for trenchless feasibility notes before main replacement. County grid Ravalli County.
+
+Trenchless pulls in Stevensville, MT require pit dimensions verified against utility locate marks.
+
+Pressure trace 237465: meter-pit clearance and dielectric union checklist staged for Stevensville, MT near elevation 3376 ft.
+
+Supply audit 237465: curb-stop orientation and hose-bib freeze flag reviewed for Stevensville, MT at coords 46.5100/-114.0800.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 59870.
+
+Coordinate-anchored dispatch note: center reference 46.5100, -114.0800 at elevation ~3376 ft aligns with Ravalli County intake staging.
 
 Service reference: MT-59870-66d830ed

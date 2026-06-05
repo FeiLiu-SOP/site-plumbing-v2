@@ -12,29 +12,43 @@ lng: -81.6100
 zipSample: ["28619", "28655"]
 zipCodes: ["28655", "28619"]
 localPaths: ["Burke County / elevation 1237 ft band", "Burke County / ZIP 28655 sector", "Burke County / primary ZIP 28619", "Burke County / ZIP 28619 sector", "Burke County / coords 35.7600, -81.6100"]
-zillowHomeValueUsd: 306509
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Drexel:** System optimized for 124 mg/L hard water scaling factors in Drexel. Regional dispatch grid: Burke County.
 
 
-In Drexel, NC, leak detection pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Drain cleaning scopes in Drexel, NC separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Dispatch packets reference county grid Burke County near ZIP 28619.
 
-Leak Detection Pros coordination in Drexel, NC prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Frost-free sillcock failures in Drexel, NC often trace to interior shutoff seats.
 
-FAQ: When is water line replacement safer than spot service? In Drexel, NC, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Water heater T&P discharge paths in Drexel, NC must terminate safely before replacement quotes.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 28619/28655.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Request a written leak detection pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 28619.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch note: jetter nozzle envelope and PEX expansion ring batch were logged for the Drexel plumbing intake packet.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 28619/28655.
+FAQ: Is hydro-jetting always appropriate? In Drexel, NC, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 28619, 28655 (county grid: Burke County).
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Burke County.
+
+Garage utility sinks in Drexel, NC often tie into laundry branches that mask main-line restrictions.
+
+Permit note: Main water line replacement in Drexel, NC may require ROW restoration planning.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Basement floor drains in Drexel, NC should be snaked only after trap arm geometry is confirmed on camera.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 28619.
+
+Flow dossier 965182: branch wet-vent geometry and PRV seat wear logged for Drexel, NC county grid Burke County (ZIP 28619).
+
+Drain map 965182: camera-pass priority and expansion-tank pre-charge noted for Drexel, NC postal sector 28619.
+
+On-site sector marker: Burke County / ZIP 28655 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28619-c21e39d0

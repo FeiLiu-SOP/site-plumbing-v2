@@ -12,28 +12,43 @@ lng: -89.6300
 zipSample: ["53574"]
 zipCodes: ["53574"]
 localPaths: ["Green County / elevation 883 ft band", "Green County / ZIP 53574 sector", "Green County / primary ZIP 53574", "Green County / coords 42.8100, -89.6300"]
-zillowHomeValueUsd: 445910
 ---
 
 **Engineering Notice for New Glarus:** System optimized for 133 mg/L hard water scaling factors in New Glarus. Regional dispatch grid: Green County.
 
 
-Across New Glarus, WI, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in New Glarus, WI.
 
-Our intake language for New Glarus, WI work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-FAQ: Can sump pump restoration wait until dry season? In New Glarus, WI, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Garage utility sinks in New Glarus, WI often tie into laundry branches that mask main-line restrictions.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 53574.
+Tip: Photograph cleanout cap threads before snaking near ZIP 53574.
 
-Book a camera-assisted drain review before approving jetting on older New Glarus, WI mains. Serving ZIP Code: 53574.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in New Glarus, WI.
 
-Routing marker: hose bib freeze-risk flag paired with PEX expansion ring batch near ZIP 53574.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in New Glarus, WI.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 53574.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 53574 (county grid: Green County).
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Permit note: Main water line replacement in New Glarus, WI may require ROW restoration planning.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Confirm cleanout locations during the same visit. Route file 53574.
+
+Lineage note 820960: recirculation pump amp draw captured before New Glarus, WI branch isolation.
+
+Service ledger 820960: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for New Glarus, WI at 42.8100, -89.6300.
+
+On-site sector marker: Green County / elevation 883 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WI-53574-458c4dc9

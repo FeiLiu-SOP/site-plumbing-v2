@@ -12,30 +12,43 @@ lng: -123.0700
 zipSample: ["97443", "97447"]
 zipCodes: ["97447", "97443"]
 localPaths: ["Douglas County / primary ZIP 97443", "Douglas County / coords 43.3000, -123.0700", "Douglas County / elevation 1293 ft band", "Douglas County / ZIP 97447 sector", "Douglas County / ZIP 97443 sector"]
-zillowHomeValueUsd: 389395
 ---
 
 **Engineering Notice for Glide:** System optimized for 180 mg/L hard water scaling factors in Glide. Regional dispatch grid: Douglas County.
 
 
-When professional plumbing services scopes are reviewed in Glide, OR, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Polybutylene manifold tags in Glide, OR basements should be photographed before wall chases open.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Glide, OR.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 97443.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 97443.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Glide, OR, soft blockages differ from root intrusion profiles.
+Hydrostatic holds in Glide, OR slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 97443/97447.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Open a scheduling request if you need professional plumbing services documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 97443.
+Dispatch packets reference county grid Douglas County near ZIP 97443.
 
-Field packet: hose bib freeze-risk flag plus Sump pump float travel referenced in Douglas County county grid review.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Drain cleaning cable head wear logged before second pass in Glide, OR.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Douglas County.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 97443/97447.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Glide, OR.
 
-Dispatch sectors sampled: ZIP 97443, 97447 (county grid: Douglas County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 97443.
+
+Shared main supplies in Glide, OR duplexes require coordinated shutoff before pressure holds.
+
+Tankless heater descale intervals in Glide, OR hard-water zones differ from tank anode schedules.
+
+Supply audit 354714: curb-stop orientation and hose-bib freeze flag reviewed for Glide, OR at coords 43.3000/-123.0700.
+
+Fixture roster 354714: toilet flange spacer kit and shower cartridge seat score queued for Glide, OR walk-through.
+
+On-site sector marker: Douglas County / elevation 1293 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97443-ae36f43a

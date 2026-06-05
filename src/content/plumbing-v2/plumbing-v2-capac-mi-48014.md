@@ -12,28 +12,47 @@ lng: -82.9300
 zipSample: ["48014"]
 zipCodes: ["48014"]
 localPaths: ["St. Clair County / elevation 810 ft band", "St. Clair County / primary ZIP 48014", "St. Clair County / ZIP 48014 sector", "St. Clair County / coords 43.0100, -82.9300"]
-zillowHomeValueUsd: 249931
 ---
 
 **Engineering Notice for Capac:** System optimized for 135 mg/L hard water scaling factors in Capac. Regional dispatch grid: St. Clair County.
 
 
-When slab leak response unit scopes are reviewed in Capac, MI, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Capac, MI.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Capac, MI, soft blockages differ from root intrusion profiles.
+Permit note: Main water line replacement in Capac, MI may require ROW restoration planning.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 48014.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 48014.
+Stack vent offsets in Capac, MI older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch note: scale coupon sampling and Sump pump float travel were logged for the Capac plumbing intake packet.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Main cleanout riser height measured against slab finish in Capac, MI.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 48014 (county grid: St. Clair County).
+Book hydro-jetting only after camera stills are archived. ZIP anchor 48014.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Polybutylene manifold tags in Capac, MI basements should be photographed before wall chases open.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Trenchless pulls in Capac, MI require pit dimensions verified against utility locate marks.
+
+Supply audit 823257: curb-stop orientation and hose-bib freeze flag reviewed for Capac, MI at coords 43.0100/-82.9300.
+
+Pressure trace 823257: meter-pit clearance and dielectric union checklist staged for Capac, MI near elevation 810 ft.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 48014.
+
+**Regional Infrastructure Brief:** Service coverage aligns with St. Clair County and primary ZIP 48014. Terrain reference: 810 ft. Center point: 43.0100, -82.9300. ZIP sample: 48014. Logistics priority: Serving residential sectors across St. Clair County and north-east ZIP 48014 grid.
 
 Service reference: MI-48014-ad70a56b

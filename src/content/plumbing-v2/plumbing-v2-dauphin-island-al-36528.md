@@ -12,28 +12,47 @@ lng: -88.1400
 zipSample: ["36528"]
 zipCodes: ["36528"]
 localPaths: ["Mobile County / coords 30.2500, -88.1400", "Mobile County / ZIP 36528 sector", "Mobile County / primary ZIP 36528", "Mobile County / elevation 10 ft band"]
-zillowHomeValueUsd: 459865
 ---
 
 **Engineering Notice for Dauphin Island:** System optimized for 131 mg/L hard water scaling factors in Dauphin Island. Regional dispatch grid: Mobile County.
 
 
-Across Dauphin Island, AL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Dauphin Island, AL.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Irrigation cross-connections in Dauphin Island, AL can back-siphon domestic lines during main breaks.
 
-Our intake language for Dauphin Island, AL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Request a camera-assisted drain review before approving jetting. Postal sector 36528.
 
-FAQ: Can sump pump restoration wait until dry season? In Dauphin Island, AL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Log water heater flex line dates before wall closure in Dauphin Island, AL remodel zones.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 36528.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Book a camera-assisted drain review before approving jetting on older Dauphin Island, AL mains. Serving ZIP Code: 36528.
+Trenchless pulls in Dauphin Island, AL require pit dimensions verified against utility locate marks.
 
-Routing marker: branch wet vent compliance note paired with main line camera pass near ZIP 36528.
+Material note: Water heater anode type may change with Dauphin Island, AL hardness profiles.
 
-Field note: Main cleanout riser height measured against slab finish in Dauphin Island, AL.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 36528 (county grid: Mobile County).
+Stack vent offsets in Dauphin Island, AL older duplexes can mask tub gurgle as a main-line failure.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Dauphin Island, AL.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Supply audit 147482: curb-stop orientation and hose-bib freeze flag reviewed for Dauphin Island, AL at coords 30.2500/-88.1400.
+
+Pressure trace 147482: meter-pit clearance and dielectric union checklist staged for Dauphin Island, AL near elevation 10 ft.
+
+ZIP-corridor snapshot for Dauphin Island, AL: sampled sectors include 36528; county routing grid remains Mobile County.
 
 Service reference: AL-36528-826d7d66

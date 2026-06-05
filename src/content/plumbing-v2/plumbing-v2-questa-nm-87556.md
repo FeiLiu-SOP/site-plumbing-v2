@@ -12,29 +12,49 @@ lng: -105.5900
 zipSample: ["87556"]
 zipCodes: ["87556"]
 localPaths: ["Taos County / elevation 7552 ft band", "Taos County / ZIP 87556 sector", "Taos County / coords 36.7100, -105.5900", "Taos County / primary ZIP 87556"]
-zillowHomeValueUsd: 313465
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Questa:** System optimized for 142 mg/L hard water scaling factors in Questa. Regional dispatch grid: Taos County.
 
 
-A hydro-jetting specialists reach out in Questa, NM is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Questa, NM.
+Permit note: Main water line replacement in Questa, NM may require ROW restoration planning.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Questa, NM supply age can diverge sharply.
+Tip: Photograph cleanout cap threads before snaking near ZIP 87556.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 87556.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Questa, NM older homes.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 87556.
+Across Questa, NM, main-line bellies trap debris even when fixtures drain normally.
 
-Field packet: branch wet vent compliance note plus PRV outlet pressure curve referenced in Taos County county grid review.
+Trenchless pulls in Questa, NM require pit dimensions verified against utility locate marks.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 87556.
+Dual-water-meter setups in Questa, NM irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 87556 (county grid: Taos County).
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Polybutylene manifold tags in Questa, NM basements should be photographed before wall chases open.
+
+FAQ: Is hydro-jetting always appropriate? In Questa, NM, pipe material and blockage type dictate method.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 87556.
+
+Dispatch packets reference county grid Taos County near ZIP 87556.
+
+Pressure trace 275379: meter-pit clearance and dielectric union checklist staged for Questa, NM near elevation 7552 ft.
+
+Lineage note 275379: recirculation pump amp draw captured before Questa, NM branch isolation.
+
+Field note: Expansion tank pre-charge verified in Questa, NM.
+
+On-site sector marker: Taos County / coords 36.7100, -105.5900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-87556-7b1edd35

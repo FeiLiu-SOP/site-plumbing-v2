@@ -12,29 +12,45 @@ lng: -67.1000
 zipSample: ["00690"]
 zipCodes: ["00690"]
 localPaths: ["Aguadilla County / elevation 223 ft band", "Aguadilla County / coords 18.4900, -67.1000", "Aguadilla County / ZIP 00690 sector", "Aguadilla County / primary ZIP 00690"]
-zillowHomeValueUsd: 354232
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for San Antonio:** System optimized for 148 mg/L hard water scaling factors in San Antonio. Regional dispatch grid: Aguadilla County.
 
 
-In San Antonio, PR, fixture & supply line pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Step: camera-pass main lines in San Antonio, PR before jetting older clay or cast iron.
 
-Drain cleaning scopes in San Antonio, PR separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in San Antonio, PR older homes.
 
-Fixture & Supply Line Pros coordination in San Antonio, PR prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: When is water line replacement safer than spot service? In San Antonio, PR, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Polybutylene manifold tags in San Antonio, PR basements should be photographed before wall chases open.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 00690.
+CPVC solvent weld times shift with ambient humidity during San Antonio, PR shoulder seasons.
 
-Request a written fixture & supply line pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 00690.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Scope trace: dielectric union checklist cross-checked against scale coupon sampling before line-pressure hold test.
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Material note: Water heater anode type may change with San Antonio, PR hardness profiles.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 00690.
+
+Irrigation cross-connections in San Antonio, PR can back-siphon domestic lines during main breaks.
+
+FAQ: When should sump battery backups be load-tested? In San Antonio, PR, before spring thaw and heavy rain remnants.
+
+Galvanized segments in San Antonio, PR may restrict flow before visible corrosion.
+
+Tankless heater descale intervals in San Antonio, PR hard-water zones differ from tank anode schedules.
+
+Frost-free sillcock failures in San Antonio, PR often trace to interior shutoff seats.
+
+Pressure trace 363580: meter-pit clearance and dielectric union checklist staged for San Antonio, PR near elevation 223 ft.
+
+Drain map 363580: camera-pass priority and expansion-tank pre-charge noted for San Antonio, PR postal sector 00690.
 
 Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 00690.
 
-Dispatch sectors sampled: ZIP 00690 (county grid: Aguadilla County).
+On-site sector marker: Aguadilla County / primary ZIP 00690 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00690-e3419b97

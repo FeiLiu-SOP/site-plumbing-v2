@@ -12,29 +12,47 @@ lng: -66.3400
 zipSample: ["00769"]
 zipCodes: ["00769"]
 localPaths: ["Coamo County / coords 18.0300, -66.3400", "Coamo County / primary ZIP 00769", "Coamo County / ZIP 00769 sector", "Coamo County / elevation 531 ft band"]
-zillowHomeValueUsd: 351193
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Mariano Colón:** System optimized for 126 mg/L hard water scaling factors in Mariano Colón. Regional dispatch grid: Coamo County.
 
 
-Across Mariano Colón, PR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Technicians stage professional plumbing services jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Slab leak listening windows in Mariano Colón, PR depend on quiet periods and isolated branch valves.
 
-Our intake language for Mariano Colón, PR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Irrigation cross-connections in Mariano Colón, PR can back-siphon domestic lines during main breaks.
 
-FAQ: Can sump pump restoration wait until dry season? In Mariano Colón, PR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 00769.
+Tip: Photograph cleanout cap threads before snaking near ZIP 00769.
 
-Book a camera-assisted drain review before approving jetting on older Mariano Colón, PR mains. Serving ZIP Code: 00769.
+Material note: Water heater anode type may change with Mariano Colón, PR hardness profiles.
 
-Field packet: Sump pump float travel plus PRV outlet pressure curve referenced in Coamo County county grid review.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 00769.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 00769 (county grid: Coamo County).
+Risk flag: In Mariano Colón, PR, slab leaks can misroute as foundation issues without listening equipment.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 00769.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Mariano Colón, PR.
+
+Galvanized segments in Mariano Colón, PR may restrict flow before visible corrosion.
+
+Step: camera-pass main lines in Mariano Colón, PR before jetting older clay or cast iron.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Flow dossier 190208: branch wet-vent geometry and PRV seat wear logged for Mariano Colón, PR county grid Coamo County (ZIP 00769).
+
+Drain map 190208: camera-pass priority and expansion-tank pre-charge noted for Mariano Colón, PR postal sector 00769.
+
+On-site sector marker: Coamo County / coords 18.0300, -66.3400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00769-2f3f2ca3

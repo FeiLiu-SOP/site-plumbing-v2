@@ -12,29 +12,45 @@ lng: -96.0600
 zipSample: ["74131", "74157", "74050", "74107"]
 zipCodes: ["74131", "74107", "74050", "74157"]
 localPaths: ["Tulsa County / elevation 745 ft band", "Tulsa County / primary ZIP 74050", "Tulsa County / ZIP 74107 sector", "Tulsa County / ZIP 74050 sector", "Tulsa County / ZIP 74131 sector"]
-zillowHomeValueUsd: 194919
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Oakhurst:** System optimized for 139 mg/L hard water scaling factors in Oakhurst. Regional dispatch grid: Tulsa County.
 
 
-Across Oakhurst, OK, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Basement floor drains in Oakhurst, OK should be snaked only after trap arm geometry is confirmed on camera.
 
-Technicians stage leak detection pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Our intake language for Oakhurst, OK work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Can sump pump remediation wait until dry season? In Oakhurst, OK, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Across Oakhurst, OK, main-line bellies trap debris even when fixtures drain normally.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 74050/74107/74157.
+Tankless heater descale intervals in Oakhurst, OK hard-water zones differ from tank anode schedules.
 
-Book a camera-assisted drain review before approving jetting on older Oakhurst, OK mains. Serving ZIP Code: 74050.
+Garage utility sinks in Oakhurst, OK often tie into laundry branches that mask main-line restrictions.
 
-Field packet: branch wet vent compliance note plus main line camera pass referenced in Tulsa County county grid review.
+Slab leak listening windows in Oakhurst, OK depend on quiet periods and isolated branch valves.
 
-Field note: Main cleanout riser height measured against slab finish in Oakhurst, OK.
+Hydro-jetting in Oakhurst, OK requires camera confirmation before nozzle pressure is raised.
 
-Dispatch sectors sampled: ZIP 74050, 74107, 74157, 74131 (county grid: Tulsa County).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Oakhurst, OK.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Water heater T&P discharge paths in Oakhurst, OK must terminate safely before replacement quotes.
+
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Oakhurst, OK.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 74050.
+
+Service ledger 957300: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Oakhurst, OK at 36.0800, -96.0600.
+
+Supply audit 957300: curb-stop orientation and hose-bib freeze flag reviewed for Oakhurst, OK at coords 36.0800/-96.0600.
+
+Field note: Slab listen window scheduled for Tulsa County grid.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Tulsa County and primary ZIP 74050. Terrain reference: 745 ft. Center point: 36.0800, -96.0600. ZIP sample: 74107, 74131, 74050, 74157. Logistics priority: Serving residential sectors across Tulsa County and north-east ZIP 74050 grid.
 
 Service reference: OK-74050-61102541

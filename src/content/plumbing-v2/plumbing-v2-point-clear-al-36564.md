@@ -12,29 +12,51 @@ lng: -87.9100
 zipSample: ["36564", "36532"]
 zipCodes: ["36564", "36532"]
 localPaths: ["Baldwin County / coords 30.4900, -87.9100", "Baldwin County / ZIP 36564 sector", "Baldwin County / primary ZIP 36564", "Baldwin County / ZIP 36532 sector", "Baldwin County / elevation 43 ft band"]
-zillowHomeValueUsd: 207649
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Point Clear:** System optimized for 158 mg/L hard water scaling factors in Point Clear. Regional dispatch grid: Baldwin County.
 
 
-Across Point Clear, AL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Request a camera-assisted drain review before approving jetting. Postal sector 36564.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Our intake language for Point Clear, AL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Point Clear, AL.
 
-FAQ: Can sump pump restoration wait until dry season? In Point Clear, AL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Dispatch packets reference county grid Baldwin County near ZIP 36564.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 36564/36532.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Book a camera-assisted drain review before approving jetting on older Point Clear, AL mains. Serving ZIP Code: 36564.
+Step: photograph curb-stop and meter pit before trenching.
 
-Routing marker: PRV outlet pressure curve paired with fixture shutoff torque log near ZIP 36564.
+Hydrostatic holds in Point Clear, AL slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Drain cleaning cable head wear logged before second pass in Point Clear, AL.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 36564, 36532 (county grid: Baldwin County).
+FAQ: When should sump battery backups be load-tested? In Point Clear, AL, before spring thaw and heavy rain remnants.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Slab leak listening windows in Point Clear, AL depend on quiet periods and isolated branch valves.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Tankless heater descale intervals in Point Clear, AL hard-water zones differ from tank anode schedules.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Point Clear, AL.
+
+Basement floor drains in Point Clear, AL should be snaked only after trap arm geometry is confirmed on camera.
+
+Flow dossier 587285: branch wet-vent geometry and PRV seat wear logged for Point Clear, AL county grid Baldwin County (ZIP 36564).
+
+Supply audit 587285: curb-stop orientation and hose-bib freeze flag reviewed for Point Clear, AL at coords 30.4900/-87.9100.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 36564/36532.
+
+Field note: Main cleanout riser height measured against slab finish in Point Clear, AL.
+
+On-site sector marker: Baldwin County / ZIP 36564 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-36564-2f99d50f

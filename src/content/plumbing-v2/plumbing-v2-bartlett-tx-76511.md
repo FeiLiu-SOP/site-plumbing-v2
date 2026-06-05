@@ -12,28 +12,49 @@ lng: -97.4300
 zipSample: ["76511"]
 zipCodes: ["76511"]
 localPaths: ["Williamson County / ZIP 76511 sector", "Williamson County / coords 30.8000, -97.4300", "Williamson County / elevation 614 ft band", "Williamson County / primary ZIP 76511"]
-zillowHomeValueUsd: 218322
 ---
 
 **Engineering Notice for Bartlett:** System optimized for 122 mg/L hard water scaling factors in Bartlett. Regional dispatch grid: Williamson County.
 
 
-When drain line restoration crew scopes are reviewed in Bartlett, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Log water heater flex line dates before wall closure in Bartlett, TX remodel zones.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Bartlett, TX.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Garage utility sinks in Bartlett, TX often tie into laundry branches that mask main-line restrictions.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Bartlett, TX, soft blockages differ from root intrusion profiles.
+Branch wet vents in Bartlett, TX can mask gurgling as a main-line issue.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 76511.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 76511.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field packet: main line camera pass plus water heater T&P discharge path referenced in Williamson County county grid review.
+Step: camera-pass main lines in Bartlett, TX before jetting older clay or cast iron.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 76511.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Bartlett, TX.
 
-Dispatch sectors sampled: ZIP 76511 (county grid: Williamson County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Frost-free sillcock failures in Bartlett, TX often trace to interior shutoff seats.
+
+FAQ: When should sump battery backups be load-tested? In Bartlett, TX, before spring thaw and heavy rain remnants.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Williamson County.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bartlett, TX.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 76511.
+
+Lineage note 134309: recirculation pump amp draw captured before Bartlett, TX branch isolation.
+
+Flow dossier 134309: branch wet-vent geometry and PRV seat wear logged for Bartlett, TX county grid Williamson County (ZIP 76511).
+
+Field note: Meter-pit clearance photographed near ZIP 76511.
+
+On-site sector marker: Williamson County / elevation 614 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76511-a6d666c1

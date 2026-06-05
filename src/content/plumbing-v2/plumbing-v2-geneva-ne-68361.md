@@ -12,30 +12,49 @@ lng: -97.6000
 zipSample: ["68361"]
 zipCodes: ["68361"]
 localPaths: ["Fillmore County / coords 40.5300, -97.6000", "Fillmore County / elevation 1650 ft band", "Fillmore County / ZIP 68361 sector", "Fillmore County / primary ZIP 68361"]
-zillowHomeValueUsd: 176330
 ---
 
 **Engineering Notice for Geneva:** System optimized for 131 mg/L hard water scaling factors in Geneva. Regional dispatch grid: Fillmore County.
 
 
-In Geneva, NE, whole-home repiping advisors visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Trenchless pulls in Geneva, NE require pit dimensions verified against utility locate marks.
 
-Drain cleaning scopes in Geneva, NE separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Whole-Home Repiping Advisors coordination in Geneva, NE prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+FAQ: When should sump battery backups be load-tested? In Geneva, NE, before spring thaw and heavy rain remnants.
 
-FAQ: When is water line replacement safer than spot remediation? In Geneva, NE, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 68361.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Request a written whole-home repiping advisors plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 68361.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch note: jetter nozzle envelope and hose bib freeze-risk flag were logged for the Geneva plumbing intake packet.
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Cleanout access limits in Geneva, NE frequently extend drain cleaning duration.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Dispatch packets reference county grid Fillmore County near ZIP 68361.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 68361.
+
+CPVC solvent weld times shift with ambient humidity during Geneva, NE shoulder seasons.
+
+Irrigation cross-connections in Geneva, NE can back-siphon domestic lines during main breaks.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 68361.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Drain map 152726: camera-pass priority and expansion-tank pre-charge noted for Geneva, NE postal sector 68361.
+
+Pressure trace 152726: meter-pit clearance and dielectric union checklist staged for Geneva, NE near elevation 1650 ft.
 
 Field note: Drain cleaning cable head wear logged before second pass in Geneva, NE.
 
-Field note: Water line replacement trench path flagged for Fillmore County setbacks.
-
-Dispatch sectors sampled: ZIP 68361 (county grid: Fillmore County).
+**Regional Infrastructure Brief:** Service coverage aligns with Fillmore County and primary ZIP 68361. Terrain reference: 1650 ft. Center point: 40.5300, -97.6000. ZIP sample: 68361. Service perimeter note: Coverage extends through Fillmore County with dispatch centered near ZIP 68361.
 
 Service reference: NE-68361-99366fb1

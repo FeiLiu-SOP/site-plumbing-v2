@@ -12,28 +12,43 @@ lng: -98.1100
 zipSample: ["78676"]
 zipCodes: ["78676"]
 localPaths: ["Hays County / ZIP 78676 sector", "Hays County / elevation 984 ft band", "Hays County / coords 30.0300, -98.1100", "Hays County / primary ZIP 78676"]
-zillowHomeValueUsd: 549443
 ---
 
 **Engineering Notice for Woodcreek:** System optimized for 172 mg/L hard water scaling factors in Woodcreek. Regional dispatch grid: Hays County.
 
 
-Across Woodcreek, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Our intake language for Woodcreek, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Stack vent offsets in Woodcreek, TX older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: Can sump pump service wait until dry season? In Woodcreek, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 78676.
+Garage utility sinks in Woodcreek, TX often tie into laundry branches that mask main-line restrictions.
 
-Book a camera-assisted drain review before approving jetting on older Woodcreek, TX mains. Serving ZIP Code: 78676.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Scope trace: hose bib freeze-risk flag cross-checked against cleanout riser height before line-pressure hold test.
+Hard water in Woodcreek, TX accelerates scale on PRV seats and heater elements.
 
-Field note: Water line replacement trench path flagged for Hays County setbacks.
+Tip: Log water heater flex line dates before wall closure in Woodcreek, TX remodel zones.
 
-Dispatch sectors sampled: ZIP 78676 (county grid: Hays County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Across Woodcreek, TX, main-line bellies trap debris even when fixtures drain normally.
+
+Irrigation cross-connections in Woodcreek, TX can back-siphon domestic lines during main breaks.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Permit note: Main water line replacement in Woodcreek, TX may require ROW restoration planning.
+
+Supply audit 690322: curb-stop orientation and hose-bib freeze flag reviewed for Woodcreek, TX at coords 30.0300/-98.1100.
+
+Service ledger 690322: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Woodcreek, TX at 30.0300, -98.1100.
+
+**Regional Infrastructure Brief:** Terrain baseline indicates ~984 ft across the Hays County area. Coordinates: 30.0300, -98.1100. ZIP sample: 78676. Regional routing note: Hays County traffic flow is balanced around ZIP 78676 service demand.
 
 Service reference: TX-78676-192c5b9b

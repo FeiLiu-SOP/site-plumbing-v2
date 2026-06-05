@@ -12,30 +12,51 @@ lng: -85.3200
 zipSample: ["46723"]
 zipCodes: ["46723"]
 localPaths: ["Whitley County / elevation 899 ft band", "Whitley County / ZIP 46723 sector", "Whitley County / coords 41.2300, -85.3200", "Whitley County / primary ZIP 46723"]
-zillowHomeValueUsd: 292598
 ---
 
 **Engineering Notice for Churubusco:** System optimized for 180 mg/L hard water scaling factors in Churubusco. Regional dispatch grid: Whitley County.
 
 
-A water heater & pipe experts request in Churubusco, IN is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Churubusco, IN.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 46723.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Risk flag: In Churubusco, IN, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Churubusco, IN supply age can diverge sharply.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Churubusco, IN.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 46723.
+Branch wet vents in Churubusco, IN can mask gurgling as a main-line issue.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 46723.
+Hose bib split patterns often follow missed winterization.
 
-Scope trace: PRV outlet pressure curve cross-checked against scale coupon sampling before line-pressure hold test.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 46723.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Main cleanout riser height measured against slab finish in Churubusco, IN.
+Basement floor drains in Churubusco, IN should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 46723 (county grid: Whitley County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Whitley County.
+
+Tip: Log water heater flex line dates before wall closure in Churubusco, IN remodel zones.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Permit note: Main water line replacement in Churubusco, IN may require ROW restoration planning.
+
+Galvanized segments in Churubusco, IN may restrict flow before visible corrosion.
+
+Tankless heater descale intervals in Churubusco, IN hard-water zones differ from tank anode schedules.
+
+Drain map 419666: camera-pass priority and expansion-tank pre-charge noted for Churubusco, IN postal sector 46723.
+
+Lineage note 419666: recirculation pump amp draw captured before Churubusco, IN branch isolation.
+
+Field note: Hose bib freeze flags logged for Churubusco, IN.
+
+Field note: Water line replacement trench path flagged for Whitley County setbacks.
+
+On-site sector marker: Whitley County / primary ZIP 46723 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46723-5f997ac1

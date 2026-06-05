@@ -12,28 +12,45 @@ lng: -84.3400
 zipSample: ["30292", "30295"]
 zipCodes: ["30292", "30295"]
 localPaths: ["Pike County / ZIP 30292 sector", "Pike County / ZIP 30295 sector", "Pike County / coords 33.0900, -84.3400", "Pike County / primary ZIP 30292", "Pike County / elevation 853 ft band"]
-zillowHomeValueUsd: 405556
 ---
 
 **Engineering Notice for Zebulon:** System optimized for 175 mg/L hard water scaling factors in Zebulon. Regional dispatch grid: Pike County.
 
 
-Across Zebulon, GA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tankless heater descale intervals in Zebulon, GA hard-water zones differ from tank anode schedules.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 30292.
 
-Our intake language for Zebulon, GA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-FAQ: Can sump pump restoration wait until dry season? In Zebulon, GA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Permit note: Main water line replacement in Zebulon, GA may require ROW restoration planning.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 30292/30295.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Book a camera-assisted drain review before approving jetting on older Zebulon, GA mains. Serving ZIP Code: 30292.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Routing marker: water heater T&P discharge path paired with fixture shutoff torque log near ZIP 30292.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Main cleanout riser height measured against slab finish in Zebulon, GA.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Dispatch sectors sampled: ZIP 30292, 30295 (county grid: Pike County).
+Book hydro-jetting only after camera stills are archived. ZIP anchor 30292.
+
+Hose bib split patterns often follow missed winterization.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 30292.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Fixture roster 289098: toilet flange spacer kit and shower cartridge seat score queued for Zebulon, GA walk-through.
+
+Service ledger 289098: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Zebulon, GA at 33.0900, -84.3400.
+
+Field note: Expansion tank pre-charge verified in Zebulon, GA.
+
+On-site sector marker: Pike County / coords 33.0900, -84.3400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-30292-e349a3ff

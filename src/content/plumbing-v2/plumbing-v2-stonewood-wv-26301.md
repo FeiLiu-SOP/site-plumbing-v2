@@ -12,28 +12,47 @@ lng: -80.3100
 zipSample: ["26301"]
 zipCodes: ["26301"]
 localPaths: ["Harrison County / primary ZIP 26301", "Harrison County / coords 39.2500, -80.3100", "Harrison County / ZIP 26301 sector", "Harrison County / elevation 1211 ft band"]
-zillowHomeValueUsd: 116839
 ---
 
 **Engineering Notice for Stonewood:** System optimized for 163 mg/L hard water scaling factors in Stonewood. Regional dispatch grid: Harrison County.
 
 
-When whole-home repiping advisors scopes are reviewed in Stonewood, WV, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Stonewood, WV.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Stonewood, WV.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Stonewood, WV older homes.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Stonewood, WV, soft blockages differ from root intrusion profiles.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 26301.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Open a scheduling request if you need whole-home repiping advisors documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 26301.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Field packet: fixture shutoff torque log plus Sump pump float travel referenced in Harrison County county grid review.
+Tankless heater descale intervals in Stonewood, WV hard-water zones differ from tank anode schedules.
 
-Field note: Drain cleaning cable head wear logged before second pass in Stonewood, WV.
+Step: map sump float travel and check-valve orientation for Stonewood, WV basements.
 
-Dispatch sectors sampled: ZIP 26301 (county grid: Harrison County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Frost-free sillcock failures in Stonewood, WV often trace to interior shutoff seats.
+
+Dispatch packets reference county grid Harrison County near ZIP 26301.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Shared main supplies in Stonewood, WV duplexes require coordinated shutoff before pressure holds.
+
+Risk flag: In Stonewood, WV, slab leaks can misroute as foundation issues without listening equipment.
+
+Material note: Water heater anode type may change with Stonewood, WV hardness profiles.
+
+In Stonewood, WV, whole-home repiping advisors visits often begin with sump basin level checks and discharge line freeze separation.
+
+Fixture roster 974063: toilet flange spacer kit and shower cartridge seat score queued for Stonewood, WV walk-through.
+
+Pressure trace 974063: meter-pit clearance and dielectric union checklist staged for Stonewood, WV near elevation 1211 ft.
+
+Coordinate-anchored dispatch note: center reference 39.2500, -80.3100 at elevation ~1211 ft aligns with Harrison County intake staging.
 
 Service reference: WV-26301-3c5b463b

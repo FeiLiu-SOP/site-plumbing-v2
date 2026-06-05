@@ -12,30 +12,49 @@ lng: -77.7100
 zipSample: ["27870"]
 zipCodes: ["27870"]
 localPaths: ["Halifax County / primary ZIP 27870", "Halifax County / elevation 253 ft band", "Halifax County / coords 36.4500, -77.7100", "Halifax County / ZIP 27870 sector"]
-zillowHomeValueUsd: 120687
 ---
 
 **Engineering Notice for South Rosemary:** System optimized for 177 mg/L hard water scaling factors in South Rosemary. Regional dispatch grid: Halifax County.
 
 
-Across South Rosemary, NC, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Our intake language for South Rosemary, NC work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Water heater T&P discharge paths in South Rosemary, NC must terminate safely before replacement quotes.
 
-FAQ: Can sump pump remediation wait until dry season? In South Rosemary, NC, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 27870.
+Trenchless pulls in South Rosemary, NC require pit dimensions verified against utility locate marks.
 
-Book a camera-assisted drain review before approving jetting on older South Rosemary, NC mains. Serving ZIP Code: 27870.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Routing marker: sub-slab moisture gradient paired with copper pinhole cluster map near ZIP 27870.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Drain cleaning cable head wear logged before second pass in South Rosemary, NC.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Main cleanout riser height measured against slab finish in South Rosemary, NC.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in South Rosemary, NC.
 
-Dispatch sectors sampled: ZIP 27870 (county grid: Halifax County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in South Rosemary, NC.
+
+Our Hydro-Jetting Specialists coordination in South Rosemary, NC prioritizes cleanout access, vent integrity, and measurable flow recovery.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Frost-free sillcock failures in South Rosemary, NC often trace to interior shutoff seats.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Fixture roster 991034: toilet flange spacer kit and shower cartridge seat score queued for South Rosemary, NC walk-through.
+
+Service ledger 991034: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for South Rosemary, NC at 36.4500, -77.7100.
+
+Field note: Fixture shutoff torque notes filed for ZIP 27870.
+
+On-site sector marker: Halifax County / elevation 253 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-27870-ab02bbff

@@ -12,28 +12,47 @@ lng: -80.9000
 zipSample: ["29115"]
 zipCodes: ["29115"]
 localPaths: ["Orangeburg County / elevation 240 ft band", "Orangeburg County / primary ZIP 29115", "Orangeburg County / ZIP 29115 sector", "Orangeburg County / coords 33.4800, -80.9000"]
-zillowHomeValueUsd: 123267
 ---
 
 **Engineering Notice for Edisto:** System optimized for 142 mg/L hard water scaling factors in Edisto. Regional dispatch grid: Orangeburg County.
 
 
-Across Edisto, SC, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Basement floor drains in Edisto, SC should be snaked only after trap arm geometry is confirmed on camera.
 
-Our intake language for Edisto, SC work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Edisto, SC.
 
-FAQ: Can sump pump restoration wait until dry season? In Edisto, SC, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 29115.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Book a camera-assisted drain review before approving jetting on older Edisto, SC mains. Serving ZIP Code: 29115.
+Cast-iron hub corrosion in Edisto, SC often concentrates at the third joint upstream of the cleanout.
 
-Field packet: water heater T&P discharge path plus sub-slab moisture gradient referenced in Orangeburg County county grid review.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 29115.
+Galvanized segments in Edisto, SC may restrict flow before visible corrosion.
 
-Dispatch sectors sampled: ZIP 29115 (county grid: Orangeburg County).
+Tip: Photograph cleanout cap threads before snaking near ZIP 29115.
+
+Book sump and supply-line checks in one written scope. Postal sector 29115.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Polybutylene manifold tags in Edisto, SC basements should be photographed before wall chases open.
+
+Hydrostatic holds in Edisto, SC slab circuits run overnight when listening mics show ambiguous hits.
+
+Frost-free sillcock failures in Edisto, SC often trace to interior shutoff seats.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Pressure trace 353487: meter-pit clearance and dielectric union checklist staged for Edisto, SC near elevation 240 ft.
+
+Supply audit 353487: curb-stop orientation and hose-bib freeze flag reviewed for Edisto, SC at coords 33.4800/-80.9000.
+
+Field note: Slab listen window scheduled for Orangeburg County grid.
+
+On-site sector marker: Orangeburg County / elevation 240 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29115-07b62b45

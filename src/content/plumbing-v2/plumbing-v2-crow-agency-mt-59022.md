@@ -12,29 +12,45 @@ lng: -107.4600
 zipSample: ["59022"]
 zipCodes: ["59022"]
 localPaths: ["Big Horn County / primary ZIP 59022", "Big Horn County / ZIP 59022 sector", "Big Horn County / elevation 3041 ft band", "Big Horn County / coords 45.6000, -107.4600"]
-zillowHomeValueUsd: 462815
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Crow Agency:** System optimized for 151 mg/L hard water scaling factors in Crow Agency. Regional dispatch grid: Big Horn County.
 
 
-In Crow Agency, MT, fixture & supply line pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+CPVC solvent weld times shift with ambient humidity during Crow Agency, MT shoulder seasons.
 
-Drain cleaning scopes in Crow Agency, MT separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Crow Agency, MT.
 
-Fixture & Supply Line Pros coordination in Crow Agency, MT prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: When is water line replacement safer than spot service? In Crow Agency, MT, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Crow Agency, MT.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 59022.
+Step: photograph curb-stop and meter pit before trenching.
 
-Request a written fixture & supply line pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 59022.
+In Crow Agency, MT, fixture & supply line pros visits often begin with sump basin level checks and discharge line freeze separation.
 
-Routing marker: jetter nozzle envelope paired with backflow test cock orientation near ZIP 59022.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 59022.
+Tip: Log water heater flex line dates before wall closure in Crow Agency, MT remodel zones.
 
-Dispatch sectors sampled: ZIP 59022 (county grid: Big Horn County).
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Risk flag: In Crow Agency, MT, slab leaks can misroute as foundation issues without listening equipment.
+
+Hard water in Crow Agency, MT accelerates scale on PRV seats and heater elements.
+
+Ask for trenchless feasibility notes before main replacement. County grid Big Horn County.
+
+Fixture roster 602271: toilet flange spacer kit and shower cartridge seat score queued for Crow Agency, MT walk-through.
+
+Pressure trace 602271: meter-pit clearance and dielectric union checklist staged for Crow Agency, MT near elevation 3041 ft.
+
+On-site sector marker: Big Horn County / coords 45.6000, -107.4600 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59022-dad64c74

@@ -12,30 +12,47 @@ lng: -80.6000
 zipSample: ["26074", "26003"]
 zipCodes: ["26003", "26074"]
 localPaths: ["Ohio County / ZIP 26074 sector", "Ohio County / ZIP 26003 sector", "Ohio County / primary ZIP 26003", "Ohio County / coords 40.1600, -80.6000", "Ohio County / elevation 1102 ft band"]
-zillowHomeValueUsd: 156590
 ---
 
 **Engineering Notice for West Liberty:** System optimized for 153 mg/L hard water scaling factors in West Liberty. Regional dispatch grid: Ohio County.
 
 
-Property owners in West Liberty, WV may see whole-home repiping advisors escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for West Liberty, WV.
+Tip: Log water heater flex line dates before wall closure in West Liberty, WV remodel zones.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: What slows drain cleaning most? In West Liberty, WV, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 26074/26003.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 26003.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field packet: main line camera pass plus water heater T&P discharge path referenced in Ohio County county grid review.
+Garage utility sinks in West Liberty, WV often tie into laundry branches that mask main-line restrictions.
 
-Field note: Drain cleaning cable head wear logged before second pass in West Liberty, WV.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 26074/26003.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in West Liberty, WV.
 
-Dispatch sectors sampled: ZIP 26074, 26003 (county grid: Ohio County).
+Step: tag shutoffs and meter orientation before opening walls.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 26003.
+
+FAQ: When should sump battery backups be load-tested? In West Liberty, WV, before spring thaw and heavy rain remnants.
+
+Permit note: Main water line replacement in West Liberty, WV may require ROW restoration planning.
+
+Water heater T&P discharge paths in West Liberty, WV must terminate safely before replacement quotes.
+
+Pressure trace 622023: meter-pit clearance and dielectric union checklist staged for West Liberty, WV near elevation 1102 ft.
+
+Lineage note 622023: recirculation pump amp draw captured before West Liberty, WV branch isolation.
+
+Field note: Water line replacement trench path flagged for Ohio County setbacks.
+
+Field note: PRV inlet and outlet curves captured for ZIP 26074/26003.
+
+Coordinate-anchored dispatch note: center reference 40.1600, -80.6000 at elevation ~1102 ft aligns with Ohio County intake staging.
 
 Service reference: WV-26003-0679fd49

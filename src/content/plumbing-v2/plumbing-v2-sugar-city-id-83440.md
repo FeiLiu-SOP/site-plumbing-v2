@@ -12,30 +12,49 @@ lng: -111.7500
 zipSample: ["83448", "83440"]
 zipCodes: ["83448", "83440"]
 localPaths: ["Madison County / elevation 4895 ft band", "Madison County / coords 43.8800, -111.7500", "Madison County / ZIP 83448 sector", "Madison County / ZIP 83440 sector", "Madison County / primary ZIP 83440"]
-zillowHomeValueUsd: 417044
 ---
 
 **Engineering Notice for Sugar City:** System optimized for 149 mg/L hard water scaling factors in Sugar City. Regional dispatch grid: Madison County.
 
 
-Across Sugar City, ID, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Our intake language for Sugar City, ID work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-FAQ: Can sump pump restoration wait until dry season? In Sugar City, ID, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: log PRV inlet and outlet readings during intake.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 83448/83440.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Madison County.
 
-Book a camera-assisted drain review before approving jetting on older Sugar City, ID mains. Serving ZIP Code: 83440.
+Frost-free sillcock failures in Sugar City, ID often trace to interior shutoff seats.
 
-Scope trace: hose bib freeze-risk flag cross-checked against scale coupon sampling before line-pressure hold test.
+FAQ: Is hydro-jetting always appropriate? In Sugar City, ID, pipe material and blockage type dictate method.
 
-Field note: Water line replacement trench path flagged for Madison County setbacks.
+Slab leak listening windows in Sugar City, ID depend on quiet periods and isolated branch valves.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: When should sump battery backups be load-tested? In Sugar City, ID, before spring thaw and heavy rain remnants.
+
+Hose bib split patterns often follow missed winterization.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Supply audit 447919: curb-stop orientation and hose-bib freeze flag reviewed for Sugar City, ID at coords 43.8800/-111.7500.
+
+Service ledger 447919: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Sugar City, ID at 43.8800, -111.7500.
 
 Field note: Main cleanout riser height measured against slab finish in Sugar City, ID.
 
-Dispatch sectors sampled: ZIP 83448, 83440 (county grid: Madison County).
+On-site sector marker: Madison County / coords 43.8800, -111.7500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: ID-83440-890dc343

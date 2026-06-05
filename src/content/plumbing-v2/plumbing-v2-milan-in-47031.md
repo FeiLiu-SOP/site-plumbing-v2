@@ -12,30 +12,51 @@ lng: -85.1300
 zipSample: ["47031"]
 zipCodes: ["47031"]
 localPaths: ["Ripley County / primary ZIP 47031", "Ripley County / elevation 997 ft band", "Ripley County / coords 39.1300, -85.1300", "Ripley County / ZIP 47031 sector"]
-zillowHomeValueUsd: 274396
 ---
 
 **Engineering Notice for Milan:** System optimized for 164 mg/L hard water scaling factors in Milan. Regional dispatch grid: Ripley County.
 
 
-In Milan, IN, slab leak response unit visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 47031.
 
-Drain cleaning scopes in Milan, IN separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Tankless heater descale intervals in Milan, IN hard-water zones differ from tank anode schedules.
 
-Slab Leak Response Unit coordination in Milan, IN prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: When is water line replacement safer than spot remediation? In Milan, IN, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 47031.
+Basement floor drains in Milan, IN should be snaked only after trap arm geometry is confirmed on camera.
 
-Request a written slab leak response unit plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 47031.
+Galvanized segments in Milan, IN may restrict flow before visible corrosion.
 
-Routing marker: PEX expansion ring batch paired with branch wet vent compliance note near ZIP 47031.
+Garage utility sinks in Milan, IN often tie into laundry branches that mask main-line restrictions.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Water heater T&P discharge paths in Milan, IN must terminate safely before replacement quotes.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Ask for trenchless feasibility notes before main replacement. County grid Ripley County.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 47031.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Drain map 395004: camera-pass priority and expansion-tank pre-charge noted for Milan, IN postal sector 47031.
+
+Lineage note 395004: recirculation pump amp draw captured before Milan, IN branch isolation.
 
 Field note: Main cleanout riser height measured against slab finish in Milan, IN.
 
-Field note: Water line replacement trench path flagged for Ripley County setbacks.
+Field note: PRV inlet and outlet curves captured for ZIP 47031.
 
-Dispatch sectors sampled: ZIP 47031 (county grid: Ripley County).
+On-site sector marker: Ripley County / coords 39.1300, -85.1300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47031-df896e51

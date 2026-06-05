@@ -12,28 +12,43 @@ lng: -97.0100
 zipSample: ["66861"]
 zipCodes: ["66861"]
 localPaths: ["Marion County / ZIP 66861 sector", "Marion County / elevation 1355 ft band", "Marion County / primary ZIP 66861", "Marion County / coords 38.3500, -97.0100"]
-zillowHomeValueUsd: 142209
 ---
 
 **Engineering Notice for Marion:** System optimized for 172 mg/L hard water scaling factors in Marion. Regional dispatch grid: Marion County.
 
 
-When hydro-jetting specialists scopes are reviewed in Marion, KS, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Marion, KS.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 66861.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Garage utility sinks in Marion, KS often tie into laundry branches that mask main-line restrictions.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Marion, KS, soft blockages differ from root intrusion profiles.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Marion, KS.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 66861.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 66861.
+Slab leak listening windows in Marion, KS depend on quiet periods and isolated branch valves.
 
-Scope trace: fixture shutoff torque log cross-checked against cleanout riser height before line-pressure hold test.
+Step: map sump float travel and check-valve orientation for Marion, KS basements.
 
-Field note: Drain cleaning cable head wear logged before second pass in Marion, KS.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Dispatch sectors sampled: ZIP 66861 (county grid: Marion County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Marion County.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Marion, KS.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 66861.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Supply audit 882239: curb-stop orientation and hose-bib freeze flag reviewed for Marion, KS at coords 38.3500/-97.0100.
+
+Flow dossier 882239: branch wet-vent geometry and PRV seat wear logged for Marion, KS county grid Marion County (ZIP 66861).
+
+Coordinate-anchored dispatch note: center reference 38.3500, -97.0100 at elevation ~1355 ft aligns with Marion County intake staging.
 
 Service reference: KS-66861-c3395ed9

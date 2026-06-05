@@ -12,30 +12,45 @@ lng: -98.9200
 zipSample: ["76360"]
 zipCodes: ["76360"]
 localPaths: ["Wichita County / primary ZIP 76360", "Wichita County / elevation 1237 ft band", "Wichita County / ZIP 76360 sector", "Wichita County / coords 34.0300, -98.9200"]
-zillowHomeValueUsd: 77441
 ---
 
 **Engineering Notice for Electra:** System optimized for 168 mg/L hard water scaling factors in Electra. Regional dispatch grid: Wichita County.
 
 
-A fixture & supply line pros request in Electra, TX is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Electra, TX.
+Shared main supplies in Electra, TX duplexes require coordinated shutoff before pressure holds.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Hydro-jetting in Electra, TX requires camera confirmation before nozzle pressure is raised.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Electra, TX supply age can diverge sharply.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 76360.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 76360.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 76360.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Scope trace: PRV outlet pressure curve cross-checked against main line camera pass before line-pressure hold test.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 76360.
 
-Field note: Main cleanout riser height measured against slab finish in Electra, TX.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Electra, TX.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 76360.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 76360 (county grid: Wichita County).
+Tankless heater descale intervals in Electra, TX hard-water zones differ from tank anode schedules.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Frost-free sillcock failures in Electra, TX often trace to interior shutoff seats.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Lineage note 812379: recirculation pump amp draw captured before Electra, TX branch isolation.
+
+Drain map 812379: camera-pass priority and expansion-tank pre-charge noted for Electra, TX postal sector 76360.
+
+Field note: PRV inlet and outlet curves captured for ZIP 76360.
+
+Coordinate-anchored dispatch note: center reference 34.0300, -98.9200 at elevation ~1237 ft aligns with Wichita County intake staging.
 
 Service reference: TX-76360-2bb3939e

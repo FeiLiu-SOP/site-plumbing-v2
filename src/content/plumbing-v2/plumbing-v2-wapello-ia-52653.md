@@ -12,30 +12,47 @@ lng: -91.1900
 zipSample: ["52653"]
 zipCodes: ["52653"]
 localPaths: ["Louisa County / coords 41.1800, -91.1900", "Louisa County / ZIP 52653 sector", "Louisa County / primary ZIP 52653", "Louisa County / elevation 584 ft band"]
-zillowHomeValueUsd: 161924
 ---
 
 **Engineering Notice for Wapello:** System optimized for 128 mg/L hard water scaling factors in Wapello. Regional dispatch grid: Louisa County.
 
 
-Across Wapello, IA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Dual-water-meter setups in Wapello, IA irrigation zones need backflow logs before line replacement.
 
-Our intake language for Wapello, IA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Can sump pump remediation wait until dry season? In Wapello, IA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Permit note: Main water line replacement in Wapello, IA may require ROW restoration planning.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 52653.
+Frost-free sillcock failures in Wapello, IA often trace to interior shutoff seats.
 
-Book a camera-assisted drain review before approving jetting on older Wapello, IA mains. Serving ZIP Code: 52653.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Scope trace: main line camera pass cross-checked against copper pinhole cluster map before line-pressure hold test.
+Irrigation cross-connections in Wapello, IA can back-siphon domestic lines during main breaks.
 
-Field note: Drain cleaning cable head wear logged before second pass in Wapello, IA.
+CPVC solvent weld times shift with ambient humidity during Wapello, IA shoulder seasons.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 52653.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 52653 (county grid: Louisa County).
+Tip: Log water heater flex line dates before wall closure in Wapello, IA remodel zones.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Wapello, IA.
+
+Confirm cleanout locations during the same visit. Route file 52653.
+
+Lineage note 949106: recirculation pump amp draw captured before Wapello, IA branch isolation.
+
+Fixture roster 949106: toilet flange spacer kit and shower cartridge seat score queued for Wapello, IA walk-through.
+
+Field note: PRV inlet and outlet curves captured for ZIP 52653.
+
+On-site sector marker: Louisa County / ZIP 52653 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: IA-52653-e9e0c57f

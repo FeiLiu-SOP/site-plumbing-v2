@@ -12,30 +12,49 @@ lng: -122.7700
 zipSample: ["98349"]
 zipCodes: ["98349"]
 localPaths: ["Pierce County / ZIP 98349 sector", "Pierce County / coords 47.2800, -122.7700", "Pierce County / primary ZIP 98349", "Pierce County / elevation 233 ft band"]
-zillowHomeValueUsd: 530795
 ---
 
 **Engineering Notice for Home:** System optimized for 162 mg/L hard water scaling factors in Home. Regional dispatch grid: Pierce County.
 
 
-In Home, WA, water heater & pipe experts visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Permit note: Main water line replacement in Home, WA may require ROW restoration planning.
 
-Drain cleaning scopes in Home, WA separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Irrigation cross-connections in Home, WA can back-siphon domestic lines during main breaks.
 
-Water Heater & Pipe Experts coordination in Home, WA prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Basement floor drains in Home, WA should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: When is water line replacement safer than spot remediation? In Home, WA, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+FAQ: When is cabling enough? In Home, WA, pipe material and blockage type dictate method.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 98349.
+Step: map sump float travel and check-valve orientation for Home, WA basements.
 
-Request a written water heater & pipe experts plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 98349.
+Trenchless pulls in Home, WA require pit dimensions verified against utility locate marks.
 
-Dispatch note: backflow test cock orientation and copper pinhole cluster map were logged for the Home plumbing intake packet.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Field note: Drain cleaning cable head wear logged before second pass in Home, WA.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 98349.
+Shared main supplies in Home, WA duplexes require coordinated shutoff before pressure holds.
 
-Dispatch sectors sampled: ZIP 98349 (county grid: Pierce County).
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Home, WA.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 98349.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Polybutylene manifold tags in Home, WA basements should be photographed before wall chases open.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 98349.
+
+Supply audit 529939: curb-stop orientation and hose-bib freeze flag reviewed for Home, WA at coords 47.2800/-122.7700.
+
+Flow dossier 529939: branch wet-vent geometry and PRV seat wear logged for Home, WA county grid Pierce County (ZIP 98349).
+
+Field note: Meter-pit clearance photographed near ZIP 98349.
+
+On-site sector marker: Pierce County / coords 47.2800, -122.7700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98349-b48ab764

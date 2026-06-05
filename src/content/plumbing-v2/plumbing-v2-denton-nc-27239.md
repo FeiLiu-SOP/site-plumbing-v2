@@ -12,30 +12,47 @@ lng: -80.1100
 zipSample: ["27239"]
 zipCodes: ["27239"]
 localPaths: ["Davidson County / ZIP 27239 sector", "Davidson County / elevation 715 ft band", "Davidson County / coords 35.6400, -80.1100", "Davidson County / primary ZIP 27239"]
-zillowHomeValueUsd: 266763
 ---
 
 **Engineering Notice for Denton:** System optimized for 143 mg/L hard water scaling factors in Denton. Regional dispatch grid: Davidson County.
 
 
-Across Denton, NC, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Technicians stage emergency pipe service jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Polybutylene manifold tags in Denton, NC basements should be photographed before wall chases open.
 
-Our intake language for Denton, NC work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Can sump pump remediation wait until dry season? In Denton, NC, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Denton, NC.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 27239.
+Material note: Water heater anode type may change with Denton, NC hardness profiles.
 
-Book a camera-assisted drain review before approving jetting on older Denton, NC mains. Serving ZIP Code: 27239.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field packet: PRV outlet pressure curve plus dielectric union checklist referenced in Davidson County county grid review.
+Book sump and supply-line checks in one written scope. Postal sector 27239.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 27239.
+FAQ: Is hydro-jetting always appropriate? In Denton, NC, pipe material and blockage type dictate method.
 
-Field note: Main cleanout riser height measured against slab finish in Denton, NC.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 27239 (county grid: Davidson County).
+Hard water in Denton, NC accelerates scale on PRV seats and heater elements.
+
+Tip: Log water heater flex line dates before wall closure in Denton, NC remodel zones.
+
+Irrigation cross-connections in Denton, NC can back-siphon domestic lines during main breaks.
+
+Risk flag: In Denton, NC, slab leaks can misroute as foundation issues without listening equipment.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Drain map 804453: camera-pass priority and expansion-tank pre-charge noted for Denton, NC postal sector 27239.
+
+Supply audit 804453: curb-stop orientation and hose-bib freeze flag reviewed for Denton, NC at coords 35.6400/-80.1100.
+
+Field note: Drain cleaning cable head wear logged before second pass in Denton, NC.
+
+Field note: Backflow test cock orientation noted in Denton, NC.
+
+Coordinate-anchored dispatch note: center reference 35.6400, -80.1100 at elevation ~715 ft aligns with Davidson County intake staging.
 
 Service reference: NC-27239-e68be659

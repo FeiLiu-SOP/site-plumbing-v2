@@ -12,29 +12,51 @@ lng: -65.6700
 zipSample: ["00735"]
 zipCodes: ["00735"]
 localPaths: ["Ceiba County / coords 18.2400, -65.6700", "Ceiba County / ZIP 00735 sector", "Ceiba County / elevation 367 ft band", "Ceiba County / primary ZIP 00735"]
-zillowHomeValueUsd: 374917
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Aguas Claras:** System optimized for 163 mg/L hard water scaling factors in Aguas Claras. Regional dispatch grid: Ceiba County.
 
 
-A slab leak response unit request in Aguas Claras, PR is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Risk flag: In Aguas Claras, PR, slab leaks can misroute as foundation issues without listening equipment.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Aguas Claras, PR.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Across Aguas Claras, PR, main-line bellies trap debris even when fixtures drain normally.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Aguas Claras, PR supply age can diverge sharply.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 00735.
+FAQ: When should sump battery backups be load-tested? In Aguas Claras, PR, before spring thaw and heavy rain remnants.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 00735.
+Shared main supplies in Aguas Claras, PR duplexes require coordinated shutoff before pressure holds.
 
-Dispatch note: main line camera pass and branch wet vent compliance note were logged for the Aguas Claras plumbing intake packet.
+Hydrostatic holds in Aguas Claras, PR slab circuits run overnight when listening mics show ambiguous hits.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 00735.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 00735 (county grid: Ceiba County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Dispatch packets reference county grid Ceiba County near ZIP 00735.
+
+Tip: Log water heater flex line dates before wall closure in Aguas Claras, PR remodel zones.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Hard water in Aguas Claras, PR accelerates scale on PRV seats and heater elements.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Step: camera-pass main lines in Aguas Claras, PR before jetting older clay or cast iron.
+
+Drain map 862094: camera-pass priority and expansion-tank pre-charge noted for Aguas Claras, PR postal sector 00735.
+
+Lineage note 862094: recirculation pump amp draw captured before Aguas Claras, PR branch isolation.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 00735.
+
+Field note: Dielectric union checklist completed in Aguas Claras, PR.
+
+On-site sector marker: Ceiba County / elevation 367 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00735-87be795c

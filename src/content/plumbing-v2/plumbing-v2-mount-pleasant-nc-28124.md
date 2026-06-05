@@ -12,30 +12,47 @@ lng: -80.4500
 zipSample: ["28025", "28124"]
 zipCodes: ["28124", "28025"]
 localPaths: ["Cabarrus County / primary ZIP 28124", "Cabarrus County / ZIP 28124 sector", "Cabarrus County / ZIP 28025 sector", "Cabarrus County / elevation 659 ft band", "Cabarrus County / coords 35.3800, -80.4500"]
-zillowHomeValueUsd: 381024
 ---
 
 **Engineering Notice for Mount Pleasant:** System optimized for 154 mg/L hard water scaling factors in Mount Pleasant. Regional dispatch grid: Cabarrus County.
 
 
-Property owners in Mount Pleasant, NC may see water heater & pipe experts escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Hydro-jetting in Mount Pleasant, NC requires camera confirmation before nozzle pressure is raised.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Mount Pleasant, NC.
+Hydrostatic holds in Mount Pleasant, NC slab circuits run overnight when listening mics show ambiguous hits.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: What slows drain cleaning most? In Mount Pleasant, NC, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 28124/28025.
+Ask for trenchless feasibility notes before main replacement. County grid Cabarrus County.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 28124.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 28124.
 
-Routing marker: main line camera pass paired with copper pinhole cluster map near ZIP 28124.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 28124/28025.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Main cleanout riser height measured against slab finish in Mount Pleasant, NC.
+FAQ: When is cabling enough? In Mount Pleasant, NC, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 28124, 28025 (county grid: Cabarrus County).
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Mount Pleasant, NC.
+
+Polybutylene manifold tags in Mount Pleasant, NC basements should be photographed before wall chases open.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Tankless heater descale intervals in Mount Pleasant, NC hard-water zones differ from tank anode schedules.
+
+Service ledger 295387: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Mount Pleasant, NC at 35.3800, -80.4500.
+
+Supply audit 295387: curb-stop orientation and hose-bib freeze flag reviewed for Mount Pleasant, NC at coords 35.3800/-80.4500.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 28124/28025.
+
+On-site sector marker: Cabarrus County / ZIP 28124 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28124-9ae4afa3

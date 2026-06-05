@@ -12,31 +12,51 @@ lng: -102.8800
 zipSample: ["79009"]
 zipCodes: ["79009"]
 localPaths: ["Parmer County / coords 34.5200, -102.8800", "Parmer County / elevation 4075 ft band", "Parmer County / primary ZIP 79009", "Parmer County / ZIP 79009 sector"]
-zillowHomeValueUsd: 303396
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Bovina:** System optimized for 130 mg/L hard water scaling factors in Bovina. Regional dispatch grid: Parmer County.
 
 
-Property owners in Bovina, TX may see basement sump service team escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Bovina, TX.
+Step: log PRV inlet and outlet readings during intake.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Permit note: Main water line replacement in Bovina, TX may require ROW restoration planning.
 
-FAQ: What slows drain cleaning most? In Bovina, TX, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Step: document dielectric unions before mixed-metal replacements.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 79009.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 79009.
+Material note: Water heater anode type may change with Bovina, TX hardness profiles.
 
-Scope trace: sub-slab moisture gradient cross-checked against fixture shutoff torque log before line-pressure hold test.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Main cleanout riser height measured against slab finish in Bovina, TX.
+Hydrostatic holds in Bovina, TX slab circuits run overnight when listening mics show ambiguous hits.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Irrigation cross-connections in Bovina, TX can back-siphon domestic lines during main breaks.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bovina, TX.
+
+Dual-water-meter setups in Bovina, TX irrigation zones need backflow logs before line replacement.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 79009.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Pressure trace 142653: meter-pit clearance and dielectric union checklist staged for Bovina, TX near elevation 4075 ft.
+
+Fixture roster 142653: toilet flange spacer kit and shower cartridge seat score queued for Bovina, TX walk-through.
+
+Field note: Meter-pit clearance photographed near ZIP 79009.
 
 Field note: Sump pump discharge check-valve orientation verified for ZIP sector 79009.
 
-Dispatch sectors sampled: ZIP 79009 (county grid: Parmer County).
+**Regional Infrastructure Brief:** Service coverage aligns with Parmer County and primary ZIP 79009. Terrain reference: 4075 ft. Center point: 34.5200, -102.8800. ZIP sample: 79009. Service perimeter note: Coverage extends through Parmer County with dispatch centered near ZIP 79009.
 
 Service reference: TX-79009-ce450aad

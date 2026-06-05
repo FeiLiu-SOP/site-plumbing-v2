@@ -12,28 +12,47 @@ lng: -74.6300
 zipSample: ["12779"]
 zipCodes: ["12779"]
 localPaths: ["Sullivan County / primary ZIP 12779", "Sullivan County / elevation 1230 ft band", "Sullivan County / ZIP 12779 sector", "Sullivan County / coords 41.7000, -74.6300"]
-zillowHomeValueUsd: 283791
 ---
 
 **Engineering Notice for South Fallsburg:** System optimized for 164 mg/L hard water scaling factors in South Fallsburg. Regional dispatch grid: Sullivan County.
 
 
-A leak detection pros reach out in South Fallsburg, NY is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for South Fallsburg, NY.
+Trenchless pulls in South Fallsburg, NY require pit dimensions verified against utility locate marks.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and South Fallsburg, NY supply age can diverge sharply.
+Risk flag: In South Fallsburg, NY, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 12779.
+Confirm cleanout locations during the same visit. Route file 12779.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 12779.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch note: jetter nozzle envelope and branch wet vent compliance note were logged for the South Fallsburg plumbing intake packet.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in South Fallsburg, NY older homes.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 12779.
+Tip: Log water heater flex line dates before wall closure in South Fallsburg, NY remodel zones.
 
-Dispatch sectors sampled: ZIP 12779 (county grid: Sullivan County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Book sump and supply-line checks in one written scope. Postal sector 12779.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in South Fallsburg, NY.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Polybutylene manifold tags in South Fallsburg, NY basements should be photographed before wall chases open.
+
+Drain map 673909: camera-pass priority and expansion-tank pre-charge noted for South Fallsburg, NY postal sector 12779.
+
+Lineage note 673909: recirculation pump amp draw captured before South Fallsburg, NY branch isolation.
+
+Field note: Slab listen window scheduled for Sullivan County grid.
+
+Field note: Water line replacement trench path flagged for Sullivan County setbacks.
+
+On-site sector marker: Sullivan County / coords 41.7000, -74.6300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-12779-f58c34b6

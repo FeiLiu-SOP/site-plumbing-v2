@@ -12,30 +12,47 @@ lng: -97.7400
 zipSample: ["76048"]
 zipCodes: ["76048"]
 localPaths: ["Hood County / primary ZIP 76048", "Hood County / coords 32.3900, -97.7400", "Hood County / elevation 807 ft band", "Hood County / ZIP 76048 sector"]
-zillowHomeValueUsd: 311596
 ---
 
 **Engineering Notice for Canyon Creek:** System optimized for 125 mg/L hard water scaling factors in Canyon Creek. Regional dispatch grid: Hood County.
 
 
-Across Canyon Creek, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Canyon Creek, TX.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 76048.
 
-Our intake language for Canyon Creek, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Hydrostatic holds in Canyon Creek, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Can sump pump service wait until dry season? In Canyon Creek, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Canyon Creek, TX.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 76048.
+FAQ: Is hydro-jetting always appropriate? In Canyon Creek, TX, pipe material and blockage type dictate method.
 
-Book a camera-assisted drain review before approving jetting on older Canyon Creek, TX mains. Serving ZIP Code: 76048.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch note: PRV outlet pressure curve and main line camera pass were logged for the Canyon Creek plumbing intake packet.
+Step: map sump float travel and check-valve orientation for Canyon Creek, TX basements.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 76048.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Main cleanout riser height measured against slab finish in Canyon Creek, TX.
+Garage utility sinks in Canyon Creek, TX often tie into laundry branches that mask main-line restrictions.
 
-Dispatch sectors sampled: ZIP 76048 (county grid: Hood County).
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+In Canyon Creek, TX, drain line restoration crew visits often begin with sump basin level checks and discharge line freeze separation.
+
+Polybutylene manifold tags in Canyon Creek, TX basements should be photographed before wall chases open.
+
+Cast-iron hub corrosion in Canyon Creek, TX often concentrates at the third joint upstream of the cleanout.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 76048.
+
+Risk flag: In Canyon Creek, TX, slab leaks can misroute as foundation issues without listening equipment.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Pressure trace 873144: meter-pit clearance and dielectric union checklist staged for Canyon Creek, TX near elevation 807 ft.
+
+Lineage note 873144: recirculation pump amp draw captured before Canyon Creek, TX branch isolation.
+
+On-site sector marker: Hood County / elevation 807 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76048-2af23ff6

@@ -12,30 +12,49 @@ lng: -106.0400
 zipSample: ["87035"]
 zipCodes: ["87035"]
 localPaths: ["Torrance County / coords 35.0000, -106.0400", "Torrance County / elevation 6217 ft band", "Torrance County / ZIP 87035 sector", "Torrance County / primary ZIP 87035"]
-zillowHomeValueUsd: 234940
 ---
 
 **Engineering Notice for Moriarty:** System optimized for 155 mg/L hard water scaling factors in Moriarty. Regional dispatch grid: Torrance County.
 
 
-Property owners in Moriarty, NM may see whole-home repiping advisors escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Moriarty, NM.
+Permit note: Main water line replacement in Moriarty, NM may require ROW restoration planning.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Tip: Photograph cleanout cap threads before snaking near ZIP 87035.
 
-FAQ: What slows drain cleaning most? In Moriarty, NM, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 87035.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 87035.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Moriarty, NM.
 
-Routing marker: copper pinhole cluster map paired with main line camera pass near ZIP 87035.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Moriarty, NM.
 
-Field note: Main cleanout riser height measured against slab finish in Moriarty, NM.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 87035.
 
-Field note: Water line replacement trench path flagged for Torrance County setbacks.
+Hard water in Moriarty, NM accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 87035 (county grid: Torrance County).
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Book sump and supply-line checks in one written scope. Postal sector 87035.
+
+Trenchless pulls in Moriarty, NM require pit dimensions verified against utility locate marks.
+
+Dispatch packets reference county grid Torrance County near ZIP 87035.
+
+Across Moriarty, NM, main-line bellies trap debris even when fixtures drain normally.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 87035.
+
+Service ledger 861144: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Moriarty, NM at 35.0000, -106.0400.
+
+Lineage note 861144: recirculation pump amp draw captured before Moriarty, NM branch isolation.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 87035.
+
+Coordinate-anchored dispatch note: center reference 35.0000, -106.0400 at elevation ~6217 ft aligns with Torrance County intake staging.
 
 Service reference: NM-87035-01228ca6

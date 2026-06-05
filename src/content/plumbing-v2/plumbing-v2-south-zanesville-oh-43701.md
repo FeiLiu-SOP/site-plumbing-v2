@@ -12,30 +12,43 @@ lng: -82.0200
 zipSample: ["43701"]
 zipCodes: ["43701"]
 localPaths: ["Muskingum County / primary ZIP 43701", "Muskingum County / coords 39.9000, -82.0200", "Muskingum County / ZIP 43701 sector", "Muskingum County / elevation 741 ft band"]
-zillowHomeValueUsd: 197425
 ---
 
 **Engineering Notice for South Zanesville:** System optimized for 166 mg/L hard water scaling factors in South Zanesville. Regional dispatch grid: Muskingum County.
 
 
-Across South Zanesville, OH, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: log PRV inlet and outlet readings during intake.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in South Zanesville, OH.
 
-Our intake language for South Zanesville, OH work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-FAQ: Can sump pump service wait until dry season? In South Zanesville, OH, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Permit note: Main water line replacement in South Zanesville, OH may require ROW restoration planning.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 43701.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Book a camera-assisted drain review before approving jetting on older South Zanesville, OH mains. Serving ZIP Code: 43701.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in South Zanesville, OH.
 
-Scope trace: sub-slab moisture gradient cross-checked against hose bib freeze-risk flag before line-pressure hold test.
+Hydro-jetting in South Zanesville, OH requires camera confirmation before nozzle pressure is raised.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 43701.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 43701.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 43701 (county grid: Muskingum County).
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 43701.
+
+FAQ: When should sump battery backups be load-tested? In South Zanesville, OH, before spring thaw and heavy rain remnants.
+
+Hydrostatic holds in South Zanesville, OH slab circuits run overnight when listening mics show ambiguous hits.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Flow dossier 600617: branch wet-vent geometry and PRV seat wear logged for South Zanesville, OH county grid Muskingum County (ZIP 43701).
+
+Pressure trace 600617: meter-pit clearance and dielectric union checklist staged for South Zanesville, OH near elevation 741 ft.
+
+On-site sector marker: Muskingum County / ZIP 43701 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43701-0a688499

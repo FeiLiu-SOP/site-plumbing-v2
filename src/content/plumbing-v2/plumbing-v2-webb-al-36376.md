@@ -12,28 +12,45 @@ lng: -85.2900
 zipSample: ["36376"]
 zipCodes: ["36376"]
 localPaths: ["Houston County / primary ZIP 36376", "Houston County / coords 31.2600, -85.2900", "Houston County / elevation 292 ft band", "Houston County / ZIP 36376 sector"]
-zillowHomeValueUsd: 162152
 ---
 
 **Engineering Notice for Webb:** System optimized for 148 mg/L hard water scaling factors in Webb. Regional dispatch grid: Houston County.
 
 
-Across Webb, AL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Our intake language for Webb, AL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Frost-free sillcock failures in Webb, AL often trace to interior shutoff seats.
 
-FAQ: Can sump pump remediation wait until dry season? In Webb, AL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 36376.
+Shared main supplies in Webb, AL duplexes require coordinated shutoff before pressure holds.
 
-Book a camera-assisted drain review before approving jetting on older Webb, AL mains. Serving ZIP Code: 36376.
+Confirm cleanout locations during the same visit. Route file 36376.
 
-Dispatch note: water heater T&P discharge path and branch wet vent compliance note were logged for the Webb plumbing intake packet.
+Branch wet vents in Webb, AL can mask gurgling as a main-line issue.
 
-Field note: Water line replacement trench path flagged for Houston County setbacks.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 36376 (county grid: Houston County).
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Webb, AL older homes.
+
+FAQ: Is hydro-jetting always appropriate? In Webb, AL, pipe material and blockage type dictate method.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Basement floor drains in Webb, AL should be snaked only after trap arm geometry is confirmed on camera.
+
+Service ledger 146269: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Webb, AL at 31.2600, -85.2900.
+
+Supply audit 146269: curb-stop orientation and hose-bib freeze flag reviewed for Webb, AL at coords 31.2600/-85.2900.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 36376.
+
+Regional mesh label Houston County: moisture and logistics baselines are keyed to Webb, AL before niche-specific work begins.
 
 Service reference: AL-36376-8813ef4c

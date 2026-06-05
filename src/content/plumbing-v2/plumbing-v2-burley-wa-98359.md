@@ -12,28 +12,45 @@ lng: -122.6400
 zipSample: ["98359", "98322", "98367"]
 zipCodes: ["98359", "98322", "98367"]
 localPaths: ["Kitsap County / ZIP 98322 sector", "Kitsap County / elevation 108 ft band", "Kitsap County / ZIP 98359 sector", "Kitsap County / ZIP 98367 sector", "Kitsap County / coords 47.4200, -122.6400"]
-zillowHomeValueUsd: 721817
 ---
 
 **Engineering Notice for Burley:** System optimized for 157 mg/L hard water scaling factors in Burley. Regional dispatch grid: Kitsap County.
 
 
-Property owners in Burley, WA may see leak detection pros escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Burley, WA.
+FAQ: When is cabling enough? In Burley, WA, pipe material and blockage type dictate method.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: What slows drain cleaning most? In Burley, WA, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 98367/98322/98359.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 98359.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field packet: PRV outlet pressure curve plus copper pinhole cluster map referenced in Kitsap County county grid review.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Main cleanout riser height measured against slab finish in Burley, WA.
+Cleanout access limits in Burley, WA frequently extend drain cleaning duration.
 
-Dispatch sectors sampled: ZIP 98367, 98322, 98359 (county grid: Kitsap County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Kitsap County.
+
+Drain map 508658: camera-pass priority and expansion-tank pre-charge noted for Burley, WA postal sector 98359.
+
+Pressure trace 508658: meter-pit clearance and dielectric union checklist staged for Burley, WA near elevation 108 ft.
+
+Field note: Meter-pit clearance photographed near ZIP 98322/98367/98359.
+
+On-site sector marker: Kitsap County / primary ZIP 98359 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98359-2c51a44e

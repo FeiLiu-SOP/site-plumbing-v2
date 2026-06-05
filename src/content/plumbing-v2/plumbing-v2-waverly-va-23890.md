@@ -12,28 +12,49 @@ lng: -77.1000
 zipSample: ["23890"]
 zipCodes: ["23890"]
 localPaths: ["Sussex County / ZIP 23890 sector", "Sussex County / coords 37.0300, -77.1000", "Sussex County / elevation 121 ft band", "Sussex County / primary ZIP 23890"]
-zillowHomeValueUsd: 192526
 ---
 
 **Engineering Notice for Waverly:** System optimized for 149 mg/L hard water scaling factors in Waverly. Regional dispatch grid: Sussex County.
 
 
-When leak detection pros scopes are reviewed in Waverly, VA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Cleanout access limits in Waverly, VA frequently extend drain cleaning duration.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Waverly, VA.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Waverly, VA, soft blockages differ from root intrusion profiles.
+Ask for trenchless feasibility notes before main replacement. County grid Sussex County.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 23890.
+FAQ: When should sump battery backups be load-tested? In Waverly, VA, before spring thaw and heavy rain remnants.
 
-Open a scheduling request if you need leak detection pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 23890.
+Stack vent offsets in Waverly, VA older duplexes can mask tub gurgle as a main-line failure.
 
-Routing marker: water heater T&P discharge path paired with PEX expansion ring batch near ZIP 23890.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 23890.
+Across Waverly, VA, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 23890 (county grid: Sussex County).
+Basement floor drains in Waverly, VA should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Waverly, VA.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 23890.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Hydrostatic holds in Waverly, VA slab circuits run overnight when listening mics show ambiguous hits.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Waverly, VA.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Supply audit 863305: curb-stop orientation and hose-bib freeze flag reviewed for Waverly, VA at coords 37.0300/-77.1000.
+
+Service ledger 863305: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Waverly, VA at 37.0300, -77.1000.
+
+Field note: Fixture shutoff torque notes filed for ZIP 23890.
+
+On-site sector marker: Sussex County / coords 37.0300, -77.1000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-23890-e7a3518a

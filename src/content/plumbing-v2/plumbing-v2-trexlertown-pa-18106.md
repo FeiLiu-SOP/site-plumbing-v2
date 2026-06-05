@@ -12,28 +12,49 @@ lng: -75.6000
 zipSample: ["18031", "18087", "18106"]
 zipCodes: ["18106", "18087", "18031"]
 localPaths: ["Lehigh County / ZIP 18031 sector", "Lehigh County / primary ZIP 18106", "Lehigh County / ZIP 18087 sector", "Lehigh County / elevation 413 ft band", "Lehigh County / ZIP 18106 sector"]
-zillowHomeValueUsd: 442388
 ---
 
 **Engineering Notice for Trexlertown:** System optimized for 178 mg/L hard water scaling factors in Trexlertown. Regional dispatch grid: Lehigh County.
 
 
-Across Trexlertown, PA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Trexlertown, PA.
 
-Our intake language for Trexlertown, PA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tankless heater descale intervals in Trexlertown, PA hard-water zones differ from tank anode schedules.
 
-FAQ: Can sump pump service wait until dry season? In Trexlertown, PA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 18087/18031/18106.
+Our Whole-Home Repiping Advisors coordination in Trexlertown, PA prioritizes cleanout access, vent integrity, and measurable flow recovery.
 
-Book a camera-assisted drain review before approving jetting on older Trexlertown, PA mains. Serving ZIP Code: 18106.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Scope trace: water heater T&P discharge path cross-checked against Sump pump float travel before line-pressure hold test.
+Step: camera-pass main lines in Trexlertown, PA before jetting older clay or cast iron.
 
-Field note: Water line replacement trench path flagged for Lehigh County setbacks.
+Garage utility sinks in Trexlertown, PA often tie into laundry branches that mask main-line restrictions.
 
-Dispatch sectors sampled: ZIP 18087, 18031, 18106 (county grid: Lehigh County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Frost-free sillcock failures in Trexlertown, PA often trace to interior shutoff seats.
+
+Hose bib split patterns often follow missed winterization.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+FAQ: When should sump battery backups be load-tested? In Trexlertown, PA, before spring thaw and heavy rain remnants.
+
+Hydro-jetting in Trexlertown, PA requires camera confirmation before nozzle pressure is raised.
+
+Pressure trace 261959: meter-pit clearance and dielectric union checklist staged for Trexlertown, PA near elevation 413 ft.
+
+Lineage note 261959: recirculation pump amp draw captured before Trexlertown, PA branch isolation.
+
+Field note: Backflow test cock orientation noted in Trexlertown, PA.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 18031/18087/18106.
+
+On-site sector marker: Lehigh County / coords 40.5500, -75.6000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-18106-a0ab8299

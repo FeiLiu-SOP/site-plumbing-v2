@@ -12,28 +12,45 @@ lng: -80.3900
 zipSample: ["29154"]
 zipCodes: ["29154"]
 localPaths: ["Sumter County / ZIP 29154 sector", "Sumter County / coords 33.8200, -80.3900", "Sumter County / elevation 174 ft band", "Sumter County / primary ZIP 29154"]
-zillowHomeValueUsd: 235511
 ---
 
 **Engineering Notice for Privateer:** System optimized for 121 mg/L hard water scaling factors in Privateer. Regional dispatch grid: Sumter County.
 
 
-When hydro-jetting specialists scopes are reviewed in Privateer, SC, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Privateer, SC.
+Galvanized segments in Privateer, SC may restrict flow before visible corrosion.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+FAQ: When should sump battery backups be load-tested? In Privateer, SC, before spring thaw and heavy rain remnants.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Privateer, SC, soft blockages differ from root intrusion profiles.
+Shared main supplies in Privateer, SC duplexes require coordinated shutoff before pressure holds.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 29154.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 29154.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Scope trace: backflow test cock orientation cross-checked against branch wet vent compliance note before line-pressure hold test.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Privateer, SC.
 
-Field note: Water line replacement trench path flagged for Sumter County setbacks.
+Step: document dielectric unions before mixed-metal replacements.
 
-Dispatch sectors sampled: ZIP 29154 (county grid: Sumter County).
+Dual-water-meter setups in Privateer, SC irrigation zones need backflow logs before line replacement.
+
+Basement floor drains in Privateer, SC should be snaked only after trap arm geometry is confirmed on camera.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Service ledger 799021: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Privateer, SC at 33.8200, -80.3900.
+
+Drain map 799021: camera-pass priority and expansion-tank pre-charge noted for Privateer, SC postal sector 29154.
+
+Field note: Slab listen window scheduled for Sumter County grid.
+
+On-site sector marker: Sumter County / primary ZIP 29154 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29154-b476a278

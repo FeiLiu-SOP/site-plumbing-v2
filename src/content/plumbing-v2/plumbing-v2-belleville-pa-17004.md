@@ -12,30 +12,45 @@ lng: -77.7200
 zipSample: ["17004"]
 zipCodes: ["17004"]
 localPaths: ["Mifflin County / elevation 827 ft band", "Mifflin County / ZIP 17004 sector", "Mifflin County / coords 40.6100, -77.7200", "Mifflin County / primary ZIP 17004"]
-zillowHomeValueUsd: 261546
 ---
 
 **Engineering Notice for Belleville:** System optimized for 134 mg/L hard water scaling factors in Belleville. Regional dispatch grid: Mifflin County.
 
 
-Across Belleville, PA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Across Belleville, PA, main-line bellies trap debris even when fixtures drain normally.
 
-Our intake language for Belleville, PA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: Can sump pump restoration wait until dry season? In Belleville, PA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 17004.
+FAQ: When should sump battery backups be load-tested? In Belleville, PA, before spring thaw and heavy rain remnants.
 
-Book a camera-assisted drain review before approving jetting on older Belleville, PA mains. Serving ZIP Code: 17004.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Belleville, PA.
 
-Scope trace: PEX expansion ring batch cross-checked against backflow test cock orientation before line-pressure hold test.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Water line replacement trench path flagged for Mifflin County setbacks.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 17004.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 17004 (county grid: Mifflin County).
+Frost-free sillcock failures in Belleville, PA often trace to interior shutoff seats.
+
+Garage utility sinks in Belleville, PA often tie into laundry branches that mask main-line restrictions.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 17004.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Belleville, PA older homes.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+Supply audit 602806: curb-stop orientation and hose-bib freeze flag reviewed for Belleville, PA at coords 40.6100/-77.7200.
+
+Lineage note 602806: recirculation pump amp draw captured before Belleville, PA branch isolation.
+
+Field note: Slab listen window scheduled for Mifflin County grid.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~827 ft across the Mifflin County area. Coordinates: 40.6100, -77.7200. ZIP sample: 17004. Regional routing note: Mifflin County traffic flow is balanced around ZIP 17004 service demand.
 
 Service reference: PA-17004-8e7aacc3

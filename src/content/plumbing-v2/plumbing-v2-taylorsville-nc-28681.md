@@ -12,30 +12,43 @@ lng: -81.1800
 zipSample: ["28681"]
 zipCodes: ["28681"]
 localPaths: ["Alexander County / primary ZIP 28681", "Alexander County / coords 35.9200, -81.1800", "Alexander County / ZIP 28681 sector", "Alexander County / elevation 1188 ft band"]
-zillowHomeValueUsd: 263516
 ---
 
 **Engineering Notice for Taylorsville:** System optimized for 147 mg/L hard water scaling factors in Taylorsville. Regional dispatch grid: Alexander County.
 
 
-When emergency pipe service scopes are reviewed in Taylorsville, NC, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Taylorsville, NC.
+Book sump and supply-line checks in one written scope. Postal sector 28681.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Taylorsville, NC, soft blockages differ from root intrusion profiles.
+Tip: Log water heater flex line dates before wall closure in Taylorsville, NC remodel zones.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 28681.
+Step: log PRV inlet and outlet readings during intake.
 
-Open a scheduling request if you need emergency pipe restoration documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 28681.
+Trenchless pulls in Taylorsville, NC require pit dimensions verified against utility locate marks.
 
-Field packet: jetter nozzle envelope plus branch wet vent compliance note referenced in Alexander County county grid review.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Taylorsville, NC.
 
-Field note: Main cleanout riser height measured against slab finish in Taylorsville, NC.
+Basement floor drains in Taylorsville, NC should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 28681.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 28681 (county grid: Alexander County).
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Taylorsville, NC.
+
+Ask for trenchless feasibility notes before main replacement. County grid Alexander County.
+
+Cast-iron hub corrosion in Taylorsville, NC often concentrates at the third joint upstream of the cleanout.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Irrigation cross-connections in Taylorsville, NC can back-siphon domestic lines during main breaks.
+
+Fixture roster 897697: toilet flange spacer kit and shower cartridge seat score queued for Taylorsville, NC walk-through.
+
+Supply audit 897697: curb-stop orientation and hose-bib freeze flag reviewed for Taylorsville, NC at coords 35.9200/-81.1800.
+
+Coordinate-anchored dispatch note: center reference 35.9200, -81.1800 at elevation ~1188 ft aligns with Alexander County intake staging.
 
 Service reference: NC-28681-bb82e990

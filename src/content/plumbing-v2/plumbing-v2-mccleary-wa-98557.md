@@ -12,30 +12,49 @@ lng: -123.2700
 zipSample: ["98557"]
 zipCodes: ["98557"]
 localPaths: ["Grays Harbor County / elevation 285 ft band", "Grays Harbor County / coords 47.0600, -123.2700", "Grays Harbor County / primary ZIP 98557", "Grays Harbor County / ZIP 98557 sector"]
-zillowHomeValueUsd: 385448
 ---
 
 **Engineering Notice for McCleary:** System optimized for 150 mg/L hard water scaling factors in McCleary. Regional dispatch grid: Grays Harbor County.
 
 
-Across McCleary, WA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Our intake language for McCleary, WA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Irrigation cross-connections in McCleary, WA can back-siphon domestic lines during main breaks.
 
-FAQ: Can sump pump service wait until dry season? In McCleary, WA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: In McCleary, WA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 98557.
+Hose bib split patterns often follow missed winterization.
 
-Book a camera-assisted drain review before approving jetting on older McCleary, WA mains. Serving ZIP Code: 98557.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Scope trace: water heater T&P discharge path cross-checked against PEX expansion ring batch before line-pressure hold test.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 98557.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 98557.
+
+FAQ: When should sump battery backups be load-tested? In McCleary, WA, before spring thaw and heavy rain remnants.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Cast-iron hub corrosion in McCleary, WA often concentrates at the third joint upstream of the cleanout.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in McCleary, WA.
+
+Branch wet vents in McCleary, WA can mask gurgling as a main-line issue.
+
+Step: camera-pass main lines in McCleary, WA before jetting older clay or cast iron.
+
+Shared main supplies in McCleary, WA duplexes require coordinated shutoff before pressure holds.
+
+Supply audit 290796: curb-stop orientation and hose-bib freeze flag reviewed for McCleary, WA at coords 47.0600/-123.2700.
+
+Fixture roster 290796: toilet flange spacer kit and shower cartridge seat score queued for McCleary, WA walk-through.
 
 Field note: Main cleanout riser height measured against slab finish in McCleary, WA.
 
-Dispatch sectors sampled: ZIP 98557 (county grid: Grays Harbor County).
+On-site sector marker: Grays Harbor County / coords 47.0600, -123.2700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98557-5198c270

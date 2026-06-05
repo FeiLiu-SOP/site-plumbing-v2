@@ -12,28 +12,45 @@ lng: -122.4800
 zipSample: ["97360"]
 zipCodes: ["97360"]
 localPaths: ["Linn County / elevation 833 ft band", "Linn County / coords 44.7500, -122.4800", "Linn County / primary ZIP 97360", "Linn County / ZIP 97360 sector"]
-zillowHomeValueUsd: 359608
 ---
 
 **Engineering Notice for Mill City:** System optimized for 150 mg/L hard water scaling factors in Mill City. Regional dispatch grid: Linn County.
 
 
-Across Mill City, OR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+CPVC solvent weld times shift with ambient humidity during Mill City, OR shoulder seasons.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Branch wet vents in Mill City, OR can mask gurgling as a main-line issue.
 
-Our intake language for Mill City, OR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: Can sump pump remediation wait until dry season? In Mill City, OR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: camera-pass main lines in Mill City, OR before jetting older clay or cast iron.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 97360.
+In Mill City, OR, water heater & pipe experts visits often begin with sump basin level checks and discharge line freeze separation.
 
-Book a camera-assisted drain review before approving jetting on older Mill City, OR mains. Serving ZIP Code: 97360.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field packet: jetter nozzle envelope plus dielectric union checklist referenced in Linn County county grid review.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 97360.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Dispatch sectors sampled: ZIP 97360 (county grid: Linn County).
+Polybutylene manifold tags in Mill City, OR basements should be photographed before wall chases open.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 97360.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Drain map 996559: camera-pass priority and expansion-tank pre-charge noted for Mill City, OR postal sector 97360.
+
+Supply audit 996559: curb-stop orientation and hose-bib freeze flag reviewed for Mill City, OR at coords 44.7500/-122.4800.
+
+Field note: Fixture shutoff torque notes filed for ZIP 97360.
+
+On-site sector marker: Linn County / ZIP 97360 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: OR-97360-2f5b7ed7

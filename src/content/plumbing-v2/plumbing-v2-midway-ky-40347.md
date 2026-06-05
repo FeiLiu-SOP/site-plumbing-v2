@@ -12,28 +12,45 @@ lng: -84.6800
 zipSample: ["40347"]
 zipCodes: ["40347"]
 localPaths: ["Woodford County / primary ZIP 40347", "Woodford County / elevation 846 ft band", "Woodford County / coords 38.1600, -84.6800", "Woodford County / ZIP 40347 sector"]
-zillowHomeValueUsd: 358246
 ---
 
 **Engineering Notice for Midway:** System optimized for 145 mg/L hard water scaling factors in Midway. Regional dispatch grid: Woodford County.
 
 
-Property owners in Midway, KY may see whole-home repiping advisors escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Midway, KY.
+Stack vent offsets in Midway, KY older duplexes can mask tub gurgle as a main-line failure.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: What slows drain cleaning most? In Midway, KY, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 40347.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 40347.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 40347.
 
-Dispatch note: copper pinhole cluster map and scale coupon sampling were logged for the Midway plumbing intake packet.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Drain cleaning cable head wear logged before second pass in Midway, KY.
+Trenchless pulls in Midway, KY require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 40347 (county grid: Woodford County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+FAQ: When should sump battery backups be load-tested? In Midway, KY, before spring thaw and heavy rain remnants.
+
+Tip: Log water heater flex line dates before wall closure in Midway, KY remodel zones.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Lineage note 924669: recirculation pump amp draw captured before Midway, KY branch isolation.
+
+Pressure trace 924669: meter-pit clearance and dielectric union checklist staged for Midway, KY near elevation 846 ft.
+
+On-site sector marker: Woodford County / ZIP 40347 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-40347-0a347029

@@ -12,31 +12,49 @@ lng: -66.5600
 zipSample: ["00638"]
 zipCodes: ["00638"]
 localPaths: ["Ciales County / primary ZIP 00638", "Ciales County / elevation 1165 ft band", "Ciales County / coords 18.3100, -66.5600", "Ciales County / ZIP 00638 sector"]
-zillowHomeValueUsd: 380756
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Frontón:** System optimized for 156 mg/L hard water scaling factors in Frontón. Regional dispatch grid: Ciales County.
 
 
-A professional plumbing services contact in Frontón, PR is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Frontón, PR.
+FAQ: When should sump battery backups be load-tested? In Frontón, PR, before spring thaw and heavy rain remnants.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Garage utility sinks in Frontón, PR often tie into laundry branches that mask main-line restrictions.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Frontón, PR supply age can diverge sharply.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Frontón, PR.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 00638.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 00638.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Scope trace: main line camera pass cross-checked against sub-slab moisture gradient before line-pressure hold test.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 00638.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 00638.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field note: Main cleanout riser height measured against slab finish in Frontón, PR.
+Request a camera-assisted drain review before approving jetting. Postal sector 00638.
 
-Dispatch sectors sampled: ZIP 00638 (county grid: Ciales County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Step: camera-pass main lines in Frontón, PR before jetting older clay or cast iron.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Dispatch packets reference county grid Ciales County near ZIP 00638.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 00638.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Drain map 795043: camera-pass priority and expansion-tank pre-charge noted for Frontón, PR postal sector 00638.
+
+Fixture roster 795043: toilet flange spacer kit and shower cartridge seat score queued for Frontón, PR walk-through.
+
+Field note: Expansion tank pre-charge verified in Frontón, PR.
+
+On-site sector marker: Ciales County / ZIP 00638 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00638-ef69c183

@@ -12,30 +12,43 @@ lng: -83.5400
 zipSample: ["30549"]
 zipCodes: ["30549"]
 localPaths: ["Jackson County / primary ZIP 30549", "Jackson County / ZIP 30549 sector", "Jackson County / coords 34.0700, -83.5400", "Jackson County / elevation 863 ft band"]
-zillowHomeValueUsd: 413742
 ---
 
 **Engineering Notice for Arcade:** System optimized for 150 mg/L hard water scaling factors in Arcade. Regional dispatch grid: Jackson County.
 
 
-When whole-home repiping advisors scopes are reviewed in Arcade, GA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Arcade, GA.
+FAQ: When should sump battery backups be load-tested? In Arcade, GA, before spring thaw and heavy rain remnants.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Arcade, GA, soft blockages differ from root intrusion profiles.
+Dispatch packets reference county grid Jackson County near ZIP 30549.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 30549.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Open a scheduling request if you need whole-home repiping advisors documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 30549.
+Dual-water-meter setups in Arcade, GA irrigation zones need backflow logs before line replacement.
 
-Dispatch note: sub-slab moisture gradient and hose bib freeze-risk flag were logged for the Arcade plumbing intake packet.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Jackson County.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 30549.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field note: Drain cleaning cable head wear logged before second pass in Arcade, GA.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Dispatch sectors sampled: ZIP 30549 (county grid: Jackson County).
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Arcade, GA.
+
+Tip: Log water heater flex line dates before wall closure in Arcade, GA remodel zones.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 30549.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Arcade, GA older homes.
+
+Drain map 522666: camera-pass priority and expansion-tank pre-charge noted for Arcade, GA postal sector 30549.
+
+Service ledger 522666: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Arcade, GA at 34.0700, -83.5400.
+
+**Regional Infrastructure Brief:** Elevation baseline indicates ~863 ft across the Jackson County area. Coordinates: 34.0700, -83.5400. ZIP sample: 30549. Service perimeter note: Coverage extends through Jackson County with dispatch centered near ZIP 30549.
 
 Service reference: GA-30549-c25dcc9c

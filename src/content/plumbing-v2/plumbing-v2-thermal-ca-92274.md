@@ -12,28 +12,47 @@ lng: -116.1300
 zipSample: ["92274"]
 zipCodes: ["92274"]
 localPaths: ["Riverside County / ZIP 92274 sector", "Riverside County / coords 33.6300, -116.1300", "Riverside County / elevation -133 ft band", "Riverside County / primary ZIP 92274"]
-zillowHomeValueUsd: 301759
 ---
 
 **Engineering Notice for Thermal:** System optimized for 142 mg/L hard water scaling factors in Thermal. Regional dispatch grid: Riverside County.
 
 
-Across Thermal, CA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Thermal, CA.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Basement floor drains in Thermal, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Our intake language for Thermal, CA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+CPVC solvent weld times shift with ambient humidity during Thermal, CA shoulder seasons.
 
-FAQ: Can sump pump remediation wait until dry season? In Thermal, CA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Water heater T&P discharge paths in Thermal, CA must terminate safely before replacement quotes.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 92274.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Book a camera-assisted drain review before approving jetting on older Thermal, CA mains. Serving ZIP Code: 92274.
+Trenchless pulls in Thermal, CA require pit dimensions verified against utility locate marks.
 
-Dispatch note: main line camera pass and PEX expansion ring batch were logged for the Thermal plumbing intake packet.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 92274.
+Hydro-jetting in Thermal, CA requires camera confirmation before nozzle pressure is raised.
 
-Dispatch sectors sampled: ZIP 92274 (county grid: Riverside County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 92274.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 92274.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Risk flag: In Thermal, CA, slab leaks can misroute as foundation issues without listening equipment.
+
+Flow dossier 908740: branch wet-vent geometry and PRV seat wear logged for Thermal, CA county grid Riverside County (ZIP 92274).
+
+Drain map 908740: camera-pass priority and expansion-tank pre-charge noted for Thermal, CA postal sector 92274.
+
+Field note: Expansion tank pre-charge verified in Thermal, CA.
+
+Field note: Backflow test cock orientation noted in Thermal, CA.
+
+On-site sector marker: Riverside County / ZIP 92274 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-92274-acfee742

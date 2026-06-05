@@ -12,30 +12,45 @@ lng: -77.6400
 zipSample: ["20168", "20169"]
 zipCodes: ["20169", "20168"]
 localPaths: ["Prince William County / ZIP 20169 sector", "Prince William County / ZIP 20168 sector", "Prince William County / primary ZIP 20169", "Prince William County / coords 38.8100, -77.6400", "Prince William County / elevation 364 ft band"]
-zillowHomeValueUsd: 832946
 ---
 
 **Engineering Notice for Haymarket:** System optimized for 130 mg/L hard water scaling factors in Haymarket. Regional dispatch grid: Prince William County.
 
 
-Across Haymarket, VA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Basement floor drains in Haymarket, VA should be snaked only after trap arm geometry is confirmed on camera.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Our intake language for Haymarket, VA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Material note: Water heater anode type may change with Haymarket, VA hardness profiles.
 
-FAQ: Can sump pump restoration wait until dry season? In Haymarket, VA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Log water heater flex line dates before wall closure in Haymarket, VA remodel zones.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 20169/20168.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Haymarket, VA.
 
-Book a camera-assisted drain review before approving jetting on older Haymarket, VA mains. Serving ZIP Code: 20169.
+Dispatch packets reference county grid Prince William County near ZIP 20169.
 
-Dispatch note: branch wet vent compliance note and cleanout riser height were logged for the Haymarket plumbing intake packet.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field note: Water line replacement trench path flagged for Prince William County setbacks.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 20169/20168.
+Across Haymarket, VA, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 20169, 20168 (county grid: Prince William County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 20169.
+
+Book sump and supply-line checks in one written scope. Postal sector 20169.
+
+Garage utility sinks in Haymarket, VA often tie into laundry branches that mask main-line restrictions.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 20169.
+
+Pressure trace 709764: meter-pit clearance and dielectric union checklist staged for Haymarket, VA near elevation 364 ft.
+
+Lineage note 709764: recirculation pump amp draw captured before Haymarket, VA branch isolation.
+
+Field note: Drain cleaning cable head wear logged before second pass in Haymarket, VA.
+
+On-site sector marker: Prince William County / ZIP 20169 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: VA-20169-853dbd56

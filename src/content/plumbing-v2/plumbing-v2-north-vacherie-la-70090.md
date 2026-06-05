@@ -12,30 +12,49 @@ lng: -90.7100
 zipSample: ["70090"]
 zipCodes: ["70090"]
 localPaths: ["St. James Parish / ZIP 70090 sector", "St. James Parish / coords 30.0000, -90.7100", "St. James Parish / primary ZIP 70090", "St. James Parish / elevation 20 ft band"]
-zillowHomeValueUsd: 192663
 ---
 
 **Engineering Notice for North Vacherie:** System optimized for 178 mg/L hard water scaling factors in North Vacherie. Regional dispatch grid: St. James Parish.
 
 
-When drain line restoration crew scopes are reviewed in North Vacherie, LA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Tankless heater descale intervals in North Vacherie, LA hard-water zones differ from tank anode schedules.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for North Vacherie, LA.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in North Vacherie, LA.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in North Vacherie, LA, soft blockages differ from root intrusion profiles.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 70090.
+Branch wet vents in North Vacherie, LA can mask gurgling as a main-line issue.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 70090.
+Basement floor drains in North Vacherie, LA should be snaked only after trap arm geometry is confirmed on camera.
 
-Scope trace: PRV outlet pressure curve cross-checked against cleanout riser height before line-pressure hold test.
+Book sump and supply-line checks in one written scope. Postal sector 70090.
 
-Field note: Main cleanout riser height measured against slab finish in North Vacherie, LA.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in North Vacherie, LA.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 70090.
+CPVC solvent weld times shift with ambient humidity during North Vacherie, LA shoulder seasons.
 
-Dispatch sectors sampled: ZIP 70090 (county grid: St. James Parish).
+Technicians stage dielectric kits before any copper-to-steel transition is approved in North Vacherie, LA.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Hydro-jetting in North Vacherie, LA requires camera confirmation before nozzle pressure is raised.
+
+Trenchless pulls in North Vacherie, LA require pit dimensions verified against utility locate marks.
+
+Shared main supplies in North Vacherie, LA duplexes require coordinated shutoff before pressure holds.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Service ledger 654427: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for North Vacherie, LA at 30.0000, -90.7100.
+
+Pressure trace 654427: meter-pit clearance and dielectric union checklist staged for North Vacherie, LA near elevation 20 ft.
+
+Field note: PRV inlet and outlet curves captured for ZIP 70090.
+
+On-site sector marker: St. James Parish / elevation 20 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: LA-70090-18c19b10

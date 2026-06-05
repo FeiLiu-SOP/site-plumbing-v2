@@ -12,30 +12,43 @@ lng: -93.3900
 zipSample: ["72833"]
 zipCodes: ["72833"]
 localPaths: ["Yell County / ZIP 72833 sector", "Yell County / coords 35.0500, -93.3900", "Yell County / primary ZIP 72833", "Yell County / elevation 358 ft band"]
-zillowHomeValueUsd: 153578
 ---
 
 **Engineering Notice for Danville:** System optimized for 140 mg/L hard water scaling factors in Danville. Regional dispatch grid: Yell County.
 
 
-Property owners in Danville, AR may see hydro-jetting specialists escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Danville, AR.
+Water heater T&P discharge paths in Danville, AR must terminate safely before replacement quotes.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-FAQ: What slows drain cleaning most? In Danville, AR, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 72833.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Danville, AR older homes.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 72833.
+Material note: Water heater anode type may change with Danville, AR hardness profiles.
 
-Dispatch note: fixture shutoff torque log and scale coupon sampling were logged for the Danville plumbing intake packet.
+Frost-free sillcock failures in Danville, AR often trace to interior shutoff seats.
 
-Field note: Drain cleaning cable head wear logged before second pass in Danville, AR.
+Trenchless pulls in Danville, AR require pit dimensions verified against utility locate marks.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 72833.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Danville, AR.
 
-Dispatch sectors sampled: ZIP 72833 (county grid: Yell County).
+Permit note: Main water line replacement in Danville, AR may require ROW restoration planning.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Pressure trace 204605: meter-pit clearance and dielectric union checklist staged for Danville, AR near elevation 358 ft.
+
+Supply audit 204605: curb-stop orientation and hose-bib freeze flag reviewed for Danville, AR at coords 35.0500/-93.3900.
+
+On-site sector marker: Yell County / ZIP 72833 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72833-b6bd74ea

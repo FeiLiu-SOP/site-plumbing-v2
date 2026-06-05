@@ -12,28 +12,45 @@ lng: -96.0200
 zipSample: ["75474"]
 zipCodes: ["75474"]
 localPaths: ["Hunt County / elevation 476 ft band", "Hunt County / coords 32.9000, -96.0200", "Hunt County / ZIP 75474 sector", "Hunt County / primary ZIP 75474"]
-zillowHomeValueUsd: 242997
 ---
 
 **Engineering Notice for West Tawakoni:** System optimized for 142 mg/L hard water scaling factors in West Tawakoni. Regional dispatch grid: Hunt County.
 
 
-Property owners in West Tawakoni, TX may see leak detection pros escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for West Tawakoni, TX.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 75474.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-FAQ: What slows drain cleaning most? In West Tawakoni, TX, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Ask for trenchless feasibility notes before main replacement. County grid Hunt County.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 75474.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in West Tawakoni, TX.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 75474.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Routing marker: water heater T&P discharge path paired with scale coupon sampling near ZIP 75474.
+Material note: Water heater anode type may change with West Tawakoni, TX hardness profiles.
 
-Field note: Drain cleaning cable head wear logged before second pass in West Tawakoni, TX.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 75474.
 
-Dispatch sectors sampled: ZIP 75474 (county grid: Hunt County).
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Hard water in West Tawakoni, TX accelerates scale on PRV seats and heater elements.
+
+Frost-free sillcock failures in West Tawakoni, TX often trace to interior shutoff seats.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Pressure trace 967696: meter-pit clearance and dielectric union checklist staged for West Tawakoni, TX near elevation 476 ft.
+
+Service ledger 967696: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for West Tawakoni, TX at 32.9000, -96.0200.
+
+Field note: Camera pass stills archived for ZIP 75474 branch line.
+
+Coordinate-anchored dispatch note: center reference 32.9000, -96.0200 at elevation ~476 ft aligns with Hunt County intake staging.
 
 Service reference: TX-75474-295cef8c

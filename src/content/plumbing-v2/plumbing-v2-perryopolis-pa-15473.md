@@ -12,30 +12,45 @@ lng: -79.7500
 zipSample: ["15473"]
 zipCodes: ["15473"]
 localPaths: ["Fayette County / ZIP 15473 sector", "Fayette County / coords 40.0900, -79.7500", "Fayette County / elevation 1010 ft band", "Fayette County / primary ZIP 15473"]
-zillowHomeValueUsd: 185132
 ---
 
 **Engineering Notice for Perryopolis:** System optimized for 124 mg/L hard water scaling factors in Perryopolis. Regional dispatch grid: Fayette County.
 
 
-Across Perryopolis, PA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: map sump float travel and check-valve orientation for Perryopolis, PA basements.
 
-Technicians stage whole-home repiping advisors jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Our intake language for Perryopolis, PA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Can sump pump service wait until dry season? In Perryopolis, PA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Perryopolis, PA.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 15473.
+Request a camera-assisted drain review before approving jetting. Postal sector 15473.
 
-Book a camera-assisted drain review before approving jetting on older Perryopolis, PA mains. Serving ZIP Code: 15473.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 15473.
 
-Field packet: backflow test cock orientation plus dielectric union checklist referenced in Fayette County county grid review.
+FAQ: Is hydro-jetting always appropriate? In Perryopolis, PA, pipe material and blockage type dictate method.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 15473.
+FAQ: When should sump battery backups be load-tested? In Perryopolis, PA, before spring thaw and heavy rain remnants.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 15473.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 15473 (county grid: Fayette County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Hydrostatic holds in Perryopolis, PA slab circuits run overnight when listening mics show ambiguous hits.
+
+Garage utility sinks in Perryopolis, PA often tie into laundry branches that mask main-line restrictions.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Perryopolis, PA.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Perryopolis, PA.
+
+Flow dossier 107380: branch wet-vent geometry and PRV seat wear logged for Perryopolis, PA county grid Fayette County (ZIP 15473).
+
+Fixture roster 107380: toilet flange spacer kit and shower cartridge seat score queued for Perryopolis, PA walk-through.
+
+Field note: Hose bib freeze flags logged for Perryopolis, PA.
+
+On-site sector marker: Fayette County / ZIP 15473 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-15473-179deba5

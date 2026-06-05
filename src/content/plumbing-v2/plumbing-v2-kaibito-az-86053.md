@@ -12,29 +12,47 @@ lng: -111.1100
 zipSample: ["86053"]
 zipCodes: ["86053"]
 localPaths: ["Coconino County / elevation 6040 ft band", "Coconino County / primary ZIP 86053", "Coconino County / ZIP 86053 sector", "Coconino County / coords 36.5900, -111.1100"]
-zillowHomeValueUsd: 435296
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Kaibito:** System optimized for 152 mg/L hard water scaling factors in Kaibito. Regional dispatch grid: Coconino County.
 
 
-When fixture & supply line pros scopes are reviewed in Kaibito, AZ, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Kaibito, AZ.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Kaibito, AZ.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Cleanout access limits in Kaibito, AZ frequently extend drain cleaning duration.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Kaibito, AZ, soft blockages differ from root intrusion profiles.
+Tip: Log water heater flex line dates before wall closure in Kaibito, AZ remodel zones.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 86053.
+FAQ: Is hydro-jetting always appropriate? In Kaibito, AZ, pipe material and blockage type dictate method.
 
-Open a scheduling request if you need fixture & supply line pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 86053.
+Hydrostatic holds in Kaibito, AZ slab circuits run overnight when listening mics show ambiguous hits.
 
-Field packet: cleanout riser height plus Sump pump float travel referenced in Coconino County county grid review.
+Permit note: Main water line replacement in Kaibito, AZ may require ROW restoration planning.
 
-Field note: Water line replacement trench path flagged for Coconino County setbacks.
+Stack vent offsets in Kaibito, AZ older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 86053 (county grid: Coconino County).
+Water heater T&P discharge paths in Kaibito, AZ must terminate safely before replacement quotes.
+
+Step: map sump float travel and check-valve orientation for Kaibito, AZ basements.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Coconino County.
+
+Step: camera-pass main lines in Kaibito, AZ before jetting older clay or cast iron.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Lineage note 888789: recirculation pump amp draw captured before Kaibito, AZ branch isolation.
+
+Fixture roster 888789: toilet flange spacer kit and shower cartridge seat score queued for Kaibito, AZ walk-through.
+
+On-site sector marker: Coconino County / elevation 6040 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AZ-86053-cec225be

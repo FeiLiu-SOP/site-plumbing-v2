@@ -12,30 +12,47 @@ lng: -97.9100
 zipSample: ["78561", "78580"]
 zipCodes: ["78561", "78580"]
 localPaths: ["Willacy County / elevation 66 ft band", "Willacy County / coords 26.4600, -97.9100", "Willacy County / primary ZIP 78580", "Willacy County / ZIP 78580 sector", "Willacy County / ZIP 78561 sector"]
-zillowHomeValueUsd: 116668
 ---
 
 **Engineering Notice for Lasara:** System optimized for 163 mg/L hard water scaling factors in Lasara. Regional dispatch grid: Willacy County.
 
 
-A fixture & supply line pros request in Lasara, TX is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Risk flag: In Lasara, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Lasara, TX.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Lasara, TX supply age can diverge sharply.
+Cast-iron hub corrosion in Lasara, TX often concentrates at the third joint upstream of the cleanout.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 78561/78580.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 78580.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch note: fixture shutoff torque log and copper pinhole cluster map were logged for the Lasara plumbing intake packet.
+Basement floor drains in Lasara, TX should be snaked only after trap arm geometry is confirmed on camera.
+
+Across Lasara, TX, main-line bellies trap debris even when fixtures drain normally.
+
+Confirm cleanout locations during the same visit. Route file 78580.
+
+Garage utility sinks in Lasara, TX often tie into laundry branches that mask main-line restrictions.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Tip: Log water heater flex line dates before wall closure in Lasara, TX remodel zones.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Stack vent offsets in Lasara, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Step: map sump float travel and check-valve orientation for Lasara, TX basements.
+
+Supply audit 633702: curb-stop orientation and hose-bib freeze flag reviewed for Lasara, TX at coords 26.4600/-97.9100.
+
+Lineage note 633702: recirculation pump amp draw captured before Lasara, TX branch isolation.
 
 Field note: Main cleanout riser height measured against slab finish in Lasara, TX.
 
-Field note: Drain cleaning cable head wear logged before second pass in Lasara, TX.
-
-Dispatch sectors sampled: ZIP 78561, 78580 (county grid: Willacy County).
+On-site sector marker: Willacy County / ZIP 78580 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78580-0c508377

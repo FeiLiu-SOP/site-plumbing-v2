@@ -12,30 +12,47 @@ lng: -81.4200
 zipSample: ["31320"]
 zipCodes: ["31320"]
 localPaths: ["Liberty County / ZIP 31320 sector", "Liberty County / coords 31.8000, -81.4200", "Liberty County / elevation 26 ft band", "Liberty County / primary ZIP 31320"]
-zillowHomeValueUsd: 288646
 ---
 
 **Engineering Notice for Midway:** System optimized for 171 mg/L hard water scaling factors in Midway. Regional dispatch grid: Liberty County.
 
 
-Property owners in Midway, GA may see basement sump service team escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Midway, GA older homes.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Midway, GA.
+CPVC solvent weld times shift with ambient humidity during Midway, GA shoulder seasons.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Step: photograph curb-stop and meter pit before trenching.
 
-FAQ: What slows drain cleaning most? In Midway, GA, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 31320.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 31320.
+Tankless heater descale intervals in Midway, GA hard-water zones differ from tank anode schedules.
 
-Routing marker: fixture shutoff torque log paired with PRV outlet pressure curve near ZIP 31320.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 31320.
+Dispatch packets reference county grid Liberty County near ZIP 31320.
 
-Field note: Main cleanout riser height measured against slab finish in Midway, GA.
+FAQ: When should sump battery backups be load-tested? In Midway, GA, before spring thaw and heavy rain remnants.
 
-Dispatch sectors sampled: ZIP 31320 (county grid: Liberty County).
+Dual-water-meter setups in Midway, GA irrigation zones need backflow logs before line replacement.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Permit note: Main water line replacement in Midway, GA may require ROW restoration planning.
+
+Polybutylene manifold tags in Midway, GA basements should be photographed before wall chases open.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Fixture roster 779451: toilet flange spacer kit and shower cartridge seat score queued for Midway, GA walk-through.
+
+Service ledger 779451: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Midway, GA at 31.8000, -81.4200.
+
+Field note: PRV inlet and outlet curves captured for ZIP 31320.
+
+On-site sector marker: Liberty County / coords 31.8000, -81.4200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: GA-31320-4ed8cc53

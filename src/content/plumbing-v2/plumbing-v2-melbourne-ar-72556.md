@@ -12,30 +12,45 @@ lng: -91.8800
 zipSample: ["72556"]
 zipCodes: ["72556"]
 localPaths: ["Izard County / ZIP 72556 sector", "Izard County / elevation 650 ft band", "Izard County / coords 36.0600, -91.8800", "Izard County / primary ZIP 72556"]
-zillowHomeValueUsd: 181016
 ---
 
 **Engineering Notice for Melbourne:** System optimized for 141 mg/L hard water scaling factors in Melbourne. Regional dispatch grid: Izard County.
 
 
-Across Melbourne, AR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: camera-pass main lines in Melbourne, AR before jetting older clay or cast iron.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Our intake language for Melbourne, AR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Garage utility sinks in Melbourne, AR often tie into laundry branches that mask main-line restrictions.
 
-FAQ: Can sump pump remediation wait until dry season? In Melbourne, AR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 72556.
+Confirm cleanout locations during the same visit. Route file 72556.
 
-Book a camera-assisted drain review before approving jetting on older Melbourne, AR mains. Serving ZIP Code: 72556.
+FAQ: When is cabling enough? In Melbourne, AR, pipe material and blockage type dictate method.
 
-Scope trace: main line camera pass cross-checked against jetter nozzle envelope before line-pressure hold test.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Field note: Main cleanout riser height measured against slab finish in Melbourne, AR.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 72556.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch sectors sampled: ZIP 72556 (county grid: Izard County).
+Step: map sump float travel and check-valve orientation for Melbourne, AR basements.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Slab leak listening windows in Melbourne, AR depend on quiet periods and isolated branch valves.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Shared main supplies in Melbourne, AR duplexes require coordinated shutoff before pressure holds.
+
+Service ledger 253479: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Melbourne, AR at 36.0600, -91.8800.
+
+Fixture roster 253479: toilet flange spacer kit and shower cartridge seat score queued for Melbourne, AR walk-through.
+
+Field note: Fixture shutoff torque notes filed for ZIP 72556.
+
+On-site sector marker: Izard County / elevation 650 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-72556-e67dcd9c

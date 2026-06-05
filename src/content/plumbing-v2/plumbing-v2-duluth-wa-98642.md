@@ -12,30 +12,47 @@ lng: -122.6500
 zipSample: ["98642"]
 zipCodes: ["98642"]
 localPaths: ["Clark County / primary ZIP 98642", "Clark County / ZIP 98642 sector", "Clark County / elevation 282 ft band", "Clark County / coords 45.7800, -122.6500"]
-zillowHomeValueUsd: 652440
 ---
 
 **Engineering Notice for Duluth:** System optimized for 135 mg/L hard water scaling factors in Duluth. Regional dispatch grid: Clark County.
 
 
-Property owners in Duluth, WA may see slab leak response unit escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Duluth, WA.
+Hydrostatic holds in Duluth, WA slab circuits run overnight when listening mics show ambiguous hits.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-FAQ: What slows drain cleaning most? In Duluth, WA, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Confirm cleanout locations during the same visit. Route file 98642.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 98642.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 98642.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Scope trace: PRV outlet pressure curve cross-checked against fixture shutoff torque log before line-pressure hold test.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-Field note: Main cleanout riser height measured against slab finish in Duluth, WA.
+Dual-water-meter setups in Duluth, WA irrigation zones need backflow logs before line replacement.
 
-Field note: Water line replacement trench path flagged for Clark County setbacks.
+FAQ: Is hydro-jetting always appropriate? In Duluth, WA, pipe material and blockage type dictate method.
 
-Dispatch sectors sampled: ZIP 98642 (county grid: Clark County).
+Irrigation cross-connections in Duluth, WA can back-siphon domestic lines during main breaks.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Hard water in Duluth, WA accelerates scale on PRV seats and heater elements.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Pressure trace 667854: meter-pit clearance and dielectric union checklist staged for Duluth, WA near elevation 282 ft.
+
+Fixture roster 667854: toilet flange spacer kit and shower cartridge seat score queued for Duluth, WA walk-through.
+
+Field note: Drain cleaning cable head wear logged before second pass in Duluth, WA.
+
+On-site sector marker: Clark County / elevation 282 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98642-b1c95025

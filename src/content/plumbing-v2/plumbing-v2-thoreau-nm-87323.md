@@ -12,29 +12,47 @@ lng: -108.2000
 zipSample: ["87323"]
 zipCodes: ["87323"]
 localPaths: ["McKinley County / coords 35.4300, -108.2000", "McKinley County / elevation 7241 ft band", "McKinley County / primary ZIP 87323", "McKinley County / ZIP 87323 sector"]
-zillowHomeValueUsd: 315728
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Thoreau:** System optimized for 151 mg/L hard water scaling factors in Thoreau. Regional dispatch grid: McKinley County.
 
 
-When fixture & supply line pros scopes are reviewed in Thoreau, NM, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Hydro-jetting in Thoreau, NM requires camera confirmation before nozzle pressure is raised.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Thoreau, NM.
+Tip: Log water heater flex line dates before wall closure in Thoreau, NM remodel zones.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Basement floor drains in Thoreau, NM should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Thoreau, NM, soft blockages differ from root intrusion profiles.
+CPVC solvent weld times shift with ambient humidity during Thoreau, NM shoulder seasons.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 87323.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Thoreau, NM older homes.
 
-Open a scheduling request if you need fixture & supply line pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 87323.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Scope trace: cleanout riser height cross-checked against scale coupon sampling before line-pressure hold test.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Field note: Water line replacement trench path flagged for McKinley County setbacks.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 87323 (county grid: McKinley County).
+Galvanized segments in Thoreau, NM may restrict flow before visible corrosion.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Polybutylene manifold tags in Thoreau, NM basements should be photographed before wall chases open.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 87323.
+
+Material note: Water heater anode type may change with Thoreau, NM hardness profiles.
+
+Lineage note 735894: recirculation pump amp draw captured before Thoreau, NM branch isolation.
+
+Fixture roster 735894: toilet flange spacer kit and shower cartridge seat score queued for Thoreau, NM walk-through.
+
+Field note: Main cleanout riser height measured against slab finish in Thoreau, NM.
+
+Primary postal anchor 87323 with multi-ZIP overlap in Thoreau; field packets tag McKinley County for county-grid reconciliation.
 
 Service reference: NM-87323-9cb1a818

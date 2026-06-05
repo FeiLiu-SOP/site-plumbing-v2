@@ -12,28 +12,49 @@ lng: -89.0200
 zipSample: ["38233"]
 zipCodes: ["38233"]
 localPaths: ["Gibson County / ZIP 38233 sector", "Gibson County / coords 36.2000, -89.0200", "Gibson County / primary ZIP 38233", "Gibson County / elevation 315 ft band"]
-zillowHomeValueUsd: 144016
 ---
 
 **Engineering Notice for Kenton:** System optimized for 177 mg/L hard water scaling factors in Kenton. Regional dispatch grid: Gibson County.
 
 
-Across Kenton, TN, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Ask for trenchless feasibility notes before main replacement. County grid Gibson County.
 
-Our intake language for Kenton, TN work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Hydrostatic holds in Kenton, TN slab circuits run overnight when listening mics show ambiguous hits.
 
-FAQ: Can sump pump restoration wait until dry season? In Kenton, TN, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Dual-water-meter setups in Kenton, TN irrigation zones need backflow logs before line replacement.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 38233.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Book a camera-assisted drain review before approving jetting on older Kenton, TN mains. Serving ZIP Code: 38233.
+Water heater T&P discharge paths in Kenton, TN must terminate safely before replacement quotes.
 
-Scope trace: dielectric union checklist cross-checked against cleanout riser height before line-pressure hold test.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Drain cleaning cable head wear logged before second pass in Kenton, TN.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Kenton, TN.
 
-Dispatch sectors sampled: ZIP 38233 (county grid: Gibson County).
+Hydro-jetting in Kenton, TN requires camera confirmation before nozzle pressure is raised.
+
+Cast-iron hub corrosion in Kenton, TN often concentrates at the third joint upstream of the cleanout.
+
+Slab leak listening windows in Kenton, TN depend on quiet periods and isolated branch valves.
+
+CPVC solvent weld times shift with ambient humidity during Kenton, TN shoulder seasons.
+
+Basement floor drains in Kenton, TN should be snaked only after trap arm geometry is confirmed on camera.
+
+Trenchless pulls in Kenton, TN require pit dimensions verified against utility locate marks.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Pressure trace 926450: meter-pit clearance and dielectric union checklist staged for Kenton, TN near elevation 315 ft.
+
+Fixture roster 926450: toilet flange spacer kit and shower cartridge seat score queued for Kenton, TN walk-through.
+
+Field note: Meter-pit clearance photographed near ZIP 38233.
+
+Field note: Water line replacement trench path flagged for Gibson County setbacks.
+
+On-site sector marker: Gibson County / primary ZIP 38233 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-38233-e5237a3b

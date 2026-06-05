@@ -12,30 +12,45 @@ lng: -79.6500
 zipSample: ["27316"]
 zipCodes: ["27316"]
 localPaths: ["Randolph County / elevation 525 ft band", "Randolph County / ZIP 27316 sector", "Randolph County / coords 35.7400, -79.6500", "Randolph County / primary ZIP 27316"]
-zillowHomeValueUsd: 230501
 ---
 
 **Engineering Notice for Ramseur:** System optimized for 122 mg/L hard water scaling factors in Ramseur. Regional dispatch grid: Randolph County.
 
 
-Across Ramseur, NC, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Ramseur, NC.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Our intake language for Ramseur, NC work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-FAQ: Can sump pump remediation wait until dry season? In Ramseur, NC, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 27316.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Book a camera-assisted drain review before approving jetting on older Ramseur, NC mains. Serving ZIP Code: 27316.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field packet: sub-slab moisture gradient plus hose bib freeze-risk flag referenced in Randolph County county grid review.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Drain cleaning cable head wear logged before second pass in Ramseur, NC.
+Stack vent offsets in Ramseur, NC older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 27316.
+Across Ramseur, NC, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 27316 (county grid: Randolph County).
+Frost-free sillcock failures in Ramseur, NC often trace to interior shutoff seats.
+
+Shared main supplies in Ramseur, NC duplexes require coordinated shutoff before pressure holds.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Tip: Log water heater flex line dates before wall closure in Ramseur, NC remodel zones.
+
+Basement floor drains in Ramseur, NC should be snaked only after trap arm geometry is confirmed on camera.
+
+Supply audit 234021: curb-stop orientation and hose-bib freeze flag reviewed for Ramseur, NC at coords 35.7400/-79.6500.
+
+Pressure trace 234021: meter-pit clearance and dielectric union checklist staged for Ramseur, NC near elevation 525 ft.
+
+Field note: Water line replacement trench path flagged for Randolph County setbacks.
+
+ZIP-corridor snapshot for Ramseur, NC: sampled sectors include 27316; county routing grid remains Randolph County.
 
 Service reference: NC-27316-87190d5b

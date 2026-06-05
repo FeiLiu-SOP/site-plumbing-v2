@@ -12,28 +12,47 @@ lng: -83.4500
 zipSample: ["28713"]
 zipCodes: ["28713"]
 localPaths: ["Swain County / coords 35.4300, -83.4500", "Swain County / ZIP 28713 sector", "Swain County / primary ZIP 28713", "Swain County / elevation 1739 ft band"]
-zillowHomeValueUsd: 320509
 ---
 
 **Engineering Notice for Bryson City:** System optimized for 135 mg/L hard water scaling factors in Bryson City. Regional dispatch grid: Swain County.
 
 
-Across Bryson City, NC, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Cleanout access limits in Bryson City, NC frequently extend drain cleaning duration.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: In Bryson City, NC, slab leaks can misroute as foundation issues without listening equipment.
 
-Our intake language for Bryson City, NC work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Stack vent offsets in Bryson City, NC older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: Can sump pump restoration wait until dry season? In Bryson City, NC, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Irrigation cross-connections in Bryson City, NC can back-siphon domestic lines during main breaks.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 28713.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Book a camera-assisted drain review before approving jetting on older Bryson City, NC mains. Serving ZIP Code: 28713.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field packet: scale coupon sampling plus PRV outlet pressure curve referenced in Swain County county grid review.
+Material note: Water heater anode type may change with Bryson City, NC hardness profiles.
 
-Field note: Main cleanout riser height measured against slab finish in Bryson City, NC.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 28713 (county grid: Swain County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Slab leak listening windows in Bryson City, NC depend on quiet periods and isolated branch valves.
+
+Basement floor drains in Bryson City, NC should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 28713.
+
+Fixture roster 429108: toilet flange spacer kit and shower cartridge seat score queued for Bryson City, NC walk-through.
+
+Pressure trace 429108: meter-pit clearance and dielectric union checklist staged for Bryson City, NC near elevation 1739 ft.
+
+Field note: Meter-pit clearance photographed near ZIP 28713.
+
+On-site sector marker: Swain County / elevation 1739 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28713-b8a6f82f

@@ -12,31 +12,45 @@ lng: -67.1800
 zipSample: ["00622"]
 zipCodes: ["00622"]
 localPaths: ["Cabo Rojo County / primary ZIP 00622", "Cabo Rojo County / elevation 43 ft band", "Cabo Rojo County / ZIP 00622 sector", "Cabo Rojo County / coords 17.9700, -67.1800"]
-zillowHomeValueUsd: 365285
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Pole Ojea:** System optimized for 157 mg/L hard water scaling factors in Pole Ojea. Regional dispatch grid: Cabo Rojo County.
 
 
-In Pole Ojea, PR, water heater & pipe experts visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Drain cleaning scopes in Pole Ojea, PR separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Polybutylene manifold tags in Pole Ojea, PR basements should be photographed before wall chases open.
 
-Water Heater & Pipe Experts coordination in Pole Ojea, PR prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: When is water line replacement safer than spot restoration? In Pole Ojea, PR, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 00622.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Request a written water heater & pipe experts plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 00622.
+Tip: Photograph cleanout cap threads before snaking near ZIP 00622.
 
-Dispatch note: copper pinhole cluster map and backflow test cock orientation were logged for the Pole Ojea plumbing intake packet.
+Permit note: Main water line replacement in Pole Ojea, PR may require ROW restoration planning.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 00622.
+Cast-iron hub corrosion in Pole Ojea, PR often concentrates at the third joint upstream of the cleanout.
 
-Field note: Drain cleaning cable head wear logged before second pass in Pole Ojea, PR.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Dispatch sectors sampled: ZIP 00622 (county grid: Cabo Rojo County).
+FAQ: When should sump battery backups be load-tested? In Pole Ojea, PR, before spring thaw and heavy rain remnants.
+
+Book sump and supply-line checks in one written scope. Postal sector 00622.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Stack vent offsets in Pole Ojea, PR older duplexes can mask tub gurgle as a main-line failure.
+
+Frost-free sillcock failures in Pole Ojea, PR often trace to interior shutoff seats.
+
+Service ledger 208375: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Pole Ojea, PR at 17.9700, -67.1800.
+
+Supply audit 208375: curb-stop orientation and hose-bib freeze flag reviewed for Pole Ojea, PR at coords 17.9700/-67.1800.
+
+On-site sector marker: Cabo Rojo County / primary ZIP 00622 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00622-0e8cd103

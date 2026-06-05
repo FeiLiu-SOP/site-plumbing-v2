@@ -12,28 +12,47 @@ lng: -85.2600
 zipSample: ["37343"]
 zipCodes: ["37343"]
 localPaths: ["Hamilton County / ZIP 37343 sector", "Hamilton County / elevation 702 ft band", "Hamilton County / coords 35.2000, -85.2600", "Hamilton County / primary ZIP 37343"]
-zillowHomeValueUsd: 365306
 ---
 
 **Engineering Notice for Falling Water:** System optimized for 176 mg/L hard water scaling factors in Falling Water. Regional dispatch grid: Hamilton County.
 
 
-Across Falling Water, TN, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Our intake language for Falling Water, TN work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Can sump pump service wait until dry season? In Falling Water, TN, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 37343.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Book a camera-assisted drain review before approving jetting on older Falling Water, TN mains. Serving ZIP Code: 37343.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Field packet: cleanout riser height plus Sump pump float travel referenced in Hamilton County county grid review.
+Shared main supplies in Falling Water, TN duplexes require coordinated shutoff before pressure holds.
 
-Field note: Water line replacement trench path flagged for Hamilton County setbacks.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 37343 (county grid: Hamilton County).
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 37343.
+
+Across Falling Water, TN, main-line bellies trap debris even when fixtures drain normally.
+
+Irrigation cross-connections in Falling Water, TN can back-siphon domestic lines during main breaks.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Hydrostatic holds in Falling Water, TN slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: In Falling Water, TN, slab leaks can misroute as foundation issues without listening equipment.
+
+Drain map 914996: camera-pass priority and expansion-tank pre-charge noted for Falling Water, TN postal sector 37343.
+
+Fixture roster 914996: toilet flange spacer kit and shower cartridge seat score queued for Falling Water, TN walk-through.
+
+On-site sector marker: Hamilton County / ZIP 37343 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TN-37343-7a58989c

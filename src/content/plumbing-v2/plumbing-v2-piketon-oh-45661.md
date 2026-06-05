@@ -12,28 +12,49 @@ lng: -83.0000
 zipSample: ["45661"]
 zipCodes: ["45661"]
 localPaths: ["Pike County / elevation 597 ft band", "Pike County / coords 39.0600, -83.0000", "Pike County / primary ZIP 45661", "Pike County / ZIP 45661 sector"]
-zillowHomeValueUsd: 160897
 ---
 
 **Engineering Notice for Piketon:** System optimized for 125 mg/L hard water scaling factors in Piketon. Regional dispatch grid: Pike County.
 
 
-In Piketon, OH, whole-home repiping advisors visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Risk flag: In Piketon, OH, slab leaks can misroute as foundation issues without listening equipment.
 
-Drain cleaning scopes in Piketon, OH separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Permit note: Main water line replacement in Piketon, OH may require ROW restoration planning.
 
-Whole-Home Repiping Advisors coordination in Piketon, OH prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: When is water line replacement safer than spot remediation? In Piketon, OH, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 45661.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 45661.
+Book sump and supply-line checks in one written scope. Postal sector 45661.
 
-Request a written whole-home repiping advisors plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 45661.
+Trenchless pulls in Piketon, OH require pit dimensions verified against utility locate marks.
 
-Routing marker: fixture shutoff torque log paired with dielectric union checklist near ZIP 45661.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field note: Water line replacement trench path flagged for Pike County setbacks.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 45661 (county grid: Pike County).
+Tip: Log water heater flex line dates before wall closure in Piketon, OH remodel zones.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 45661.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Shared main supplies in Piketon, OH duplexes require coordinated shutoff before pressure holds.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Service ledger 996241: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Piketon, OH at 39.0600, -83.0000.
+
+Pressure trace 996241: meter-pit clearance and dielectric union checklist staged for Piketon, OH near elevation 597 ft.
+
+Field note: Hose bib freeze flags logged for Piketon, OH.
+
+On-site sector marker: Pike County / coords 39.0600, -83.0000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45661-28ab008d

@@ -12,30 +12,47 @@ lng: -122.5200
 zipSample: ["94945"]
 zipCodes: ["94945"]
 localPaths: ["Marin County / elevation 141 ft band", "Marin County / ZIP 94945 sector", "Marin County / coords 38.1100, -122.5200", "Marin County / primary ZIP 94945"]
-zillowHomeValueUsd: 1082461
 ---
 
 **Engineering Notice for Black Point-Green Point:** System optimized for 160 mg/L hard water scaling factors in Black Point-Green Point. Regional dispatch grid: Marin County.
 
 
-Property owners in Black Point-Green Point, CA may see emergency pipe remediation escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Basement floor drains in Black Point-Green Point, CA should be snaked only after trap arm geometry is confirmed on camera.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Black Point-Green Point, CA.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Garage utility sinks in Black Point-Green Point, CA often tie into laundry branches that mask main-line restrictions.
 
-FAQ: What slows drain cleaning most? In Black Point-Green Point, CA, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Hydrostatic holds in Black Point-Green Point, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 94945.
+Stack vent offsets in Black Point-Green Point, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 94945.
+Step: log PRV inlet and outlet readings during intake.
 
-Field packet: sub-slab moisture gradient plus PRV outlet pressure curve referenced in Marin County county grid review.
+Hose bib split patterns often follow missed winterization.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Black Point-Green Point, CA.
+
+Confirm cleanout locations during the same visit. Route file 94945.
+
+Hard water in Black Point-Green Point, CA accelerates scale on PRV seats and heater elements.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Irrigation cross-connections in Black Point-Green Point, CA can back-siphon domestic lines during main breaks.
+
+Tip: Log water heater flex line dates before wall closure in Black Point-Green Point, CA remodel zones.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Drain map 323754: camera-pass priority and expansion-tank pre-charge noted for Black Point-Green Point, CA postal sector 94945.
+
+Fixture roster 323754: toilet flange spacer kit and shower cartridge seat score queued for Black Point-Green Point, CA walk-through.
 
 Field note: Sump pump discharge check-valve orientation verified for ZIP sector 94945.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 94945.
-
-Dispatch sectors sampled: ZIP 94945 (county grid: Marin County).
+Primary postal anchor 94945 with multi-ZIP overlap in Black Point-Green Point; field packets tag Marin County for county-grid reconciliation.
 
 Service reference: CA-94945-338697a2

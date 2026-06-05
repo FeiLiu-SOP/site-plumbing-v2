@@ -12,30 +12,47 @@ lng: -157.7700
 zipSample: ["96734"]
 zipCodes: ["96734"]
 localPaths: ["Honolulu County / ZIP 96734 sector", "Honolulu County / primary ZIP 96734", "Honolulu County / elevation 194 ft band", "Honolulu County / coords 21.3700, -157.7700"]
-zillowHomeValueUsd: 1523558
 ---
 
 **Engineering Notice for Maunawili:** System optimized for 165 mg/L hard water scaling factors in Maunawili. Regional dispatch grid: Honolulu County.
 
 
-Across Maunawili, HI, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Hydrostatic holds in Maunawili, HI slab circuits run overnight when listening mics show ambiguous hits.
 
-Our intake language for Maunawili, HI work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
 
-FAQ: Can sump pump remediation wait until dry season? In Maunawili, HI, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Basement floor drains in Maunawili, HI should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 96734.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Book a camera-assisted drain review before approving jetting on older Maunawili, HI mains. Serving ZIP Code: 96734.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch note: jetter nozzle envelope and PRV outlet pressure curve were logged for the Maunawili plumbing intake packet.
+Step: document dielectric unions before mixed-metal replacements.
 
-Field note: Water line replacement trench path flagged for Honolulu County setbacks.
+Material note: Water heater anode type may change with Maunawili, HI hardness profiles.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 96734.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Dispatch sectors sampled: ZIP 96734 (county grid: Honolulu County).
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 96734.
+
+Book sump and supply-line checks in one written scope. Postal sector 96734.
+
+Permit note: Main water line replacement in Maunawili, HI may require ROW restoration planning.
+
+Shared main supplies in Maunawili, HI duplexes require coordinated shutoff before pressure holds.
+
+Garage utility sinks in Maunawili, HI often tie into laundry branches that mask main-line restrictions.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Service ledger 184135: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Maunawili, HI at 21.3700, -157.7700.
+
+Pressure trace 184135: meter-pit clearance and dielectric union checklist staged for Maunawili, HI near elevation 194 ft.
+
+ZIP-corridor snapshot for Maunawili, HI: sampled sectors include 96734; county routing grid remains Honolulu County.
 
 Service reference: HI-96734-6180c001

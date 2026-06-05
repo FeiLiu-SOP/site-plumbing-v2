@@ -12,30 +12,43 @@ lng: -76.4700
 zipSample: ["13080"]
 zipCodes: ["13080"]
 localPaths: ["Onondaga County / coords 43.0700, -76.4700", "Onondaga County / elevation 413 ft band", "Onondaga County / ZIP 13080 sector", "Onondaga County / primary ZIP 13080"]
-zillowHomeValueUsd: 228938
 ---
 
 **Engineering Notice for Jordan:** System optimized for 162 mg/L hard water scaling factors in Jordan. Regional dispatch grid: Onondaga County.
 
 
-Across Jordan, NY, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Water heater T&P discharge paths in Jordan, NY must terminate safely before replacement quotes.
 
-Technicians stage professional plumbing services jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Our intake language for Jordan, NY work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Jordan, NY.
 
-FAQ: Can sump pump remediation wait until dry season? In Jordan, NY, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Shared main supplies in Jordan, NY duplexes require coordinated shutoff before pressure holds.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 13080.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Onondaga County.
 
-Book a camera-assisted drain review before approving jetting on older Jordan, NY mains. Serving ZIP Code: 13080.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch note: PRV outlet pressure curve and Sump pump float travel were logged for the Jordan plumbing intake packet.
+Basement floor drains in Jordan, NY should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 13080.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Main cleanout riser height measured against slab finish in Jordan, NY.
+Material note: Water heater anode type may change with Jordan, NY hardness profiles.
 
-Dispatch sectors sampled: ZIP 13080 (county grid: Onondaga County).
+Permit note: Main water line replacement in Jordan, NY may require ROW restoration planning.
+
+FAQ: When should sump battery backups be load-tested? In Jordan, NY, before spring thaw and heavy rain remnants.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 13080.
+
+Hydrostatic holds in Jordan, NY slab circuits run overnight when listening mics show ambiguous hits.
+
+Supply audit 947476: curb-stop orientation and hose-bib freeze flag reviewed for Jordan, NY at coords 43.0700/-76.4700.
+
+Drain map 947476: camera-pass priority and expansion-tank pre-charge noted for Jordan, NY postal sector 13080.
+
+Coordinate-anchored dispatch note: center reference 43.0700, -76.4700 at elevation ~413 ft aligns with Onondaga County intake staging.
 
 Service reference: NY-13080-0b23a9f7

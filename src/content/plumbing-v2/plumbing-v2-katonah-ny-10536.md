@@ -12,28 +12,45 @@ lng: -73.6900
 zipSample: ["10536"]
 zipCodes: ["10536"]
 localPaths: ["Westchester County / elevation 249 ft band", "Westchester County / primary ZIP 10536", "Westchester County / coords 41.2600, -73.6900", "Westchester County / ZIP 10536 sector"]
-zillowHomeValueUsd: 1075548
 ---
 
 **Engineering Notice for Katonah:** System optimized for 179 mg/L hard water scaling factors in Katonah. Regional dispatch grid: Westchester County.
 
 
-Property owners in Katonah, NY may see water heater & pipe experts escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Tip: Log water heater flex line dates before wall closure in Katonah, NY remodel zones.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Katonah, NY.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-FAQ: What slows drain cleaning most? In Katonah, NY, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Basement floor drains in Katonah, NY should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 10536.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 10536.
+Frost-free sillcock failures in Katonah, NY often trace to interior shutoff seats.
 
-Routing marker: PEX expansion ring batch paired with hose bib freeze-risk flag near ZIP 10536.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Katonah, NY.
 
-Field note: Main cleanout riser height measured against slab finish in Katonah, NY.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 10536 (county grid: Westchester County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+FAQ: When is cabling enough? In Katonah, NY, pipe material and blockage type dictate method.
+
+Hose bib split patterns often follow missed winterization.
+
+Trenchless pulls in Katonah, NY require pit dimensions verified against utility locate marks.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 10536.
+
+Pressure trace 730598: meter-pit clearance and dielectric union checklist staged for Katonah, NY near elevation 249 ft.
+
+Flow dossier 730598: branch wet-vent geometry and PRV seat wear logged for Katonah, NY county grid Westchester County (ZIP 10536).
+
+Field note: Hose bib freeze flags logged for Katonah, NY.
+
+Coordinate-anchored dispatch note: center reference 41.2600, -73.6900 at elevation ~249 ft aligns with Westchester County intake staging.
 
 Service reference: NY-10536-53d307a8

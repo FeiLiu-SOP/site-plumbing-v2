@@ -12,28 +12,45 @@ lng: -85.7700
 zipSample: ["47126"]
 zipCodes: ["47126"]
 localPaths: ["Clark County / coords 38.5400, -85.7700", "Clark County / primary ZIP 47126", "Clark County / ZIP 47126 sector", "Clark County / elevation 505 ft band"]
-zillowHomeValueUsd: 325413
 ---
 
 **Engineering Notice for Henryville:** System optimized for 131 mg/L hard water scaling factors in Henryville. Regional dispatch grid: Clark County.
 
 
-When slab leak response unit scopes are reviewed in Henryville, IN, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Shared main supplies in Henryville, IN duplexes require coordinated shutoff before pressure holds.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Henryville, IN.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Henryville, IN, soft blockages differ from root intrusion profiles.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 47126.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Henryville, IN.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 47126.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Routing marker: water heater T&P discharge path paired with backflow test cock orientation near ZIP 47126.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 47126.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 47126.
+Trenchless pulls in Henryville, IN require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 47126 (county grid: Clark County).
+Irrigation cross-connections in Henryville, IN can back-siphon domestic lines during main breaks.
+
+Step: camera-pass main lines in Henryville, IN before jetting older clay or cast iron.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+In Henryville, IN, slab leak response unit visits often begin with sump basin level checks and discharge line freeze separation.
+
+Hydro-jetting in Henryville, IN requires camera confirmation before nozzle pressure is raised.
+
+Permit note: Main water line replacement in Henryville, IN may require ROW restoration planning.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Service ledger 232733: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Henryville, IN at 38.5400, -85.7700.
+
+Lineage note 232733: recirculation pump amp draw captured before Henryville, IN branch isolation.
+
+On-site sector marker: Clark County / elevation 505 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-47126-e27c7d63

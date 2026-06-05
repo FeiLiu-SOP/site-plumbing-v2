@@ -12,28 +12,45 @@ lng: -75.6000
 zipSample: ["18088"]
 zipCodes: ["18088"]
 localPaths: ["Northampton County / coords 40.7500, -75.6000", "Northampton County / primary ZIP 18088", "Northampton County / elevation 404 ft band", "Northampton County / ZIP 18088 sector"]
-zillowHomeValueUsd: 347820
 ---
 
 **Engineering Notice for Walnutport:** System optimized for 128 mg/L hard water scaling factors in Walnutport. Regional dispatch grid: Northampton County.
 
 
-Across Walnutport, PA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Confirm cleanout locations during the same visit. Route file 18088.
 
-Our intake language for Walnutport, PA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: Can sump pump restoration wait until dry season? In Walnutport, PA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 18088.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Walnutport, PA.
 
-Book a camera-assisted drain review before approving jetting on older Walnutport, PA mains. Serving ZIP Code: 18088.
+Tankless heater descale intervals in Walnutport, PA hard-water zones differ from tank anode schedules.
 
-Routing marker: Sump pump float travel paired with branch wet vent compliance note near ZIP 18088.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Water line replacement trench path flagged for Northampton County setbacks.
+Stack vent offsets in Walnutport, PA older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 18088 (county grid: Northampton County).
+CPVC solvent weld times shift with ambient humidity during Walnutport, PA shoulder seasons.
+
+Ask for trenchless feasibility notes before main replacement. County grid Northampton County.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 18088.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Walnutport, PA.
+
+Lineage note 318760: recirculation pump amp draw captured before Walnutport, PA branch isolation.
+
+Fixture roster 318760: toilet flange spacer kit and shower cartridge seat score queued for Walnutport, PA walk-through.
+
+On-site sector marker: Northampton County / coords 40.7500, -75.6000 — logged for map parity and ZIP-corridor verification.
 
 Service reference: PA-18088-ab376f8a

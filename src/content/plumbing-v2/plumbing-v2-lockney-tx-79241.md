@@ -12,30 +12,45 @@ lng: -101.4400
 zipSample: ["79241", "79221"]
 zipCodes: ["79221", "79241"]
 localPaths: ["Floyd County / ZIP 79241 sector", "Floyd County / coords 34.1200, -101.4400", "Floyd County / elevation 3274 ft band", "Floyd County / primary ZIP 79241", "Floyd County / ZIP 79221 sector"]
-zillowHomeValueUsd: 109064
 ---
 
 **Engineering Notice for Lockney:** System optimized for 122 mg/L hard water scaling factors in Lockney. Regional dispatch grid: Floyd County.
 
 
-Across Lockney, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 79241.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Cast-iron hub corrosion in Lockney, TX often concentrates at the third joint upstream of the cleanout.
 
-Our intake language for Lockney, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Book sump and supply-line checks in one written scope. Postal sector 79241.
 
-FAQ: Can sump pump remediation wait until dry season? In Lockney, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Polybutylene manifold tags in Lockney, TX basements should be photographed before wall chases open.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 79241/79221.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Book a camera-assisted drain review before approving jetting on older Lockney, TX mains. Serving ZIP Code: 79241.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Routing marker: Sump pump float travel paired with sub-slab moisture gradient near ZIP 79241.
+Slab leak listening windows in Lockney, TX depend on quiet periods and isolated branch valves.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 79241/79221.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field note: Drain cleaning cable head wear logged before second pass in Lockney, TX.
+Hard water in Lockney, TX accelerates scale on PRV seats and heater elements.
 
-Dispatch sectors sampled: ZIP 79241, 79221 (county grid: Floyd County).
+Confirm cleanout locations during the same visit. Route file 79241.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+In Lockney, TX, water heater & pipe experts visits often begin with sump basin level checks and discharge line freeze separation.
+
+FAQ: When is cabling enough? In Lockney, TX, pipe material and blockage type dictate method.
+
+Flow dossier 703608: branch wet-vent geometry and PRV seat wear logged for Lockney, TX county grid Floyd County (ZIP 79241).
+
+Pressure trace 703608: meter-pit clearance and dielectric union checklist staged for Lockney, TX near elevation 3274 ft.
+
+Field note: Slab listen window scheduled for Floyd County grid.
+
+**Regional Infrastructure Brief:** Coverage anchor set to Floyd County. Reference elevation: 3274 ft. Primary coordinates: 34.1200, -101.4400. ZIP sample: 79221, 79241. Service perimeter note: Coverage extends through Floyd County with dispatch centered near ZIP 79241.
 
 Service reference: TX-79241-80ef0dd2

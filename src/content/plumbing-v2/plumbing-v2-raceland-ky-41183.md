@@ -12,28 +12,49 @@ lng: -82.7300
 zipSample: ["41183", "41169"]
 zipCodes: ["41169", "41183"]
 localPaths: ["Greenup County / primary ZIP 41183", "Greenup County / coords 38.5400, -82.7300", "Greenup County / ZIP 41183 sector", "Greenup County / elevation 620 ft band", "Greenup County / ZIP 41169 sector"]
-zillowHomeValueUsd: 126066
 ---
 
 **Engineering Notice for Raceland:** System optimized for 175 mg/L hard water scaling factors in Raceland. Regional dispatch grid: Greenup County.
 
 
-Across Raceland, KY, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tankless heater descale intervals in Raceland, KY hard-water zones differ from tank anode schedules.
 
-Technicians stage professional plumbing services jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Our intake language for Raceland, KY work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Log water heater flex line dates before wall closure in Raceland, KY remodel zones.
 
-FAQ: Can sump pump restoration wait until dry season? In Raceland, KY, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Basement floor drains in Raceland, KY should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 41169/41183.
+FAQ: When should sump battery backups be load-tested? In Raceland, KY, before spring thaw and heavy rain remnants.
 
-Book a camera-assisted drain review before approving jetting on older Raceland, KY mains. Serving ZIP Code: 41183.
+Material note: Water heater anode type may change with Raceland, KY hardness profiles.
 
-Dispatch note: water heater T&P discharge path and main line camera pass were logged for the Raceland plumbing intake packet.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Slab leak listening windows in Raceland, KY depend on quiet periods and isolated branch valves.
+
+Across Raceland, KY, main-line bellies trap debris even when fixtures drain normally.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Service ledger 548160: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Raceland, KY at 38.5400, -82.7300.
+
+Fixture roster 548160: toilet flange spacer kit and shower cartridge seat score queued for Raceland, KY walk-through.
+
+Field note: Slab listen window scheduled for Greenup County grid.
 
 Field note: Water line replacement trench path flagged for Greenup County setbacks.
 
-Dispatch sectors sampled: ZIP 41169, 41183 (county grid: Greenup County).
+On-site sector marker: Greenup County / primary ZIP 41183 — logged for map parity and ZIP-corridor verification.
 
 Service reference: KY-41183-492105ae

@@ -12,30 +12,47 @@ lng: -120.5500
 zipSample: ["93444"]
 zipCodes: ["93444"]
 localPaths: ["San Luis Obispo County / ZIP 93444 sector", "San Luis Obispo County / coords 35.0300, -120.5500", "San Luis Obispo County / elevation 351 ft band", "San Luis Obispo County / primary ZIP 93444"]
-zillowHomeValueUsd: 941638
 ---
 
 **Engineering Notice for Woodlands:** System optimized for 150 mg/L hard water scaling factors in Woodlands. Regional dispatch grid: San Luis Obispo County.
 
 
-When slab leak response unit scopes are reviewed in Woodlands, CA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Woodlands, CA.
+Hose bib split patterns often follow missed winterization.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Woodlands, CA, soft blockages differ from root intrusion profiles.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 93444.
+Material note: Water heater anode type may change with Woodlands, CA hardness profiles.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 93444.
+Branch wet vents in Woodlands, CA can mask gurgling as a main-line issue.
 
-Field packet: copper pinhole cluster map plus PRV outlet pressure curve referenced in San Luis Obispo County county grid review.
+Permit note: Main water line replacement in Woodlands, CA may require ROW restoration planning.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 93444.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Hydrostatic holds in Woodlands, CA slab circuits run overnight when listening mics show ambiguous hits.
+
+Basement floor drains in Woodlands, CA should be snaked only after trap arm geometry is confirmed on camera.
+
+Tip: Log water heater flex line dates before wall closure in Woodlands, CA remodel zones.
+
+Risk flag: In Woodlands, CA, slab leaks can misroute as foundation issues without listening equipment.
+
+Book sump and supply-line checks in one written scope. Postal sector 93444.
+
+Tankless heater descale intervals in Woodlands, CA hard-water zones differ from tank anode schedules.
+
+Ask for trenchless feasibility notes before main replacement. County grid San Luis Obispo County.
+
+Flow dossier 669286: branch wet-vent geometry and PRV seat wear logged for Woodlands, CA county grid San Luis Obispo County (ZIP 93444).
+
+Service ledger 669286: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Woodlands, CA at 35.0300, -120.5500.
 
 Field note: Sump pump discharge check-valve orientation verified for ZIP sector 93444.
 
-Dispatch sectors sampled: ZIP 93444 (county grid: San Luis Obispo County).
+On-site sector marker: San Luis Obispo County / elevation 351 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-93444-69f0e890

@@ -12,30 +12,43 @@ lng: -111.5500
 zipSample: ["59752"]
 zipCodes: ["59752"]
 localPaths: ["Gallatin County / primary ZIP 59752", "Gallatin County / coords 45.8900, -111.5500", "Gallatin County / ZIP 59752 sector", "Gallatin County / elevation 4081 ft band"]
-zillowHomeValueUsd: 550179
 ---
 
 **Engineering Notice for Three Forks:** System optimized for 131 mg/L hard water scaling factors in Three Forks. Regional dispatch grid: Gallatin County.
 
 
-When professional plumbing services scopes are reviewed in Three Forks, MT, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Three Forks, MT.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Three Forks, MT, soft blockages differ from root intrusion profiles.
+Irrigation cross-connections in Three Forks, MT can back-siphon domestic lines during main breaks.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 59752.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Open a scheduling request if you need professional plumbing services documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 59752.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field packet: PEX expansion ring batch plus copper pinhole cluster map referenced in Gallatin County county grid review.
+Across Three Forks, MT, main-line bellies trap debris even when fixtures drain normally.
 
-Field note: Main cleanout riser height measured against slab finish in Three Forks, MT.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 59752.
+Trenchless pulls in Three Forks, MT require pit dimensions verified against utility locate marks.
 
-Dispatch sectors sampled: ZIP 59752 (county grid: Gallatin County).
+Stack vent offsets in Three Forks, MT older duplexes can mask tub gurgle as a main-line failure.
+
+Step: verify expansion tank pre-charge when heaters are replaced.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Service ledger 345159: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Three Forks, MT at 45.8900, -111.5500.
+
+Supply audit 345159: curb-stop orientation and hose-bib freeze flag reviewed for Three Forks, MT at coords 45.8900/-111.5500.
+
+Regional mesh label Gallatin County: moisture and logistics baselines are keyed to Three Forks, MT before niche-specific work begins.
 
 Service reference: MT-59752-95293a9a

@@ -12,28 +12,43 @@ lng: -83.2400
 zipSample: ["43064"]
 zipCodes: ["43064"]
 localPaths: ["Union County / elevation 981 ft band", "Union County / primary ZIP 43064", "Union County / coords 40.1500, -83.2400", "Union County / ZIP 43064 sector"]
-zillowHomeValueUsd: 541586
 ---
 
 **Engineering Notice for New California:** System optimized for 151 mg/L hard water scaling factors in New California. Regional dispatch grid: Union County.
 
 
-When slab leak response unit scopes are reviewed in New California, OH, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: When is cabling enough? In New California, OH, pipe material and blockage type dictate method.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for New California, OH.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in New California, OH, soft blockages differ from root intrusion profiles.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 43064.
+Dual-water-meter setups in New California, OH irrigation zones need backflow logs before line replacement.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 43064.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Dispatch note: fixture shutoff torque log and sub-slab moisture gradient were logged for the New California plumbing intake packet.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Field note: Main cleanout riser height measured against slab finish in New California, OH.
+Polybutylene manifold tags in New California, OH basements should be photographed before wall chases open.
 
-Dispatch sectors sampled: ZIP 43064 (county grid: Union County).
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Frost-free sillcock failures in New California, OH often trace to interior shutoff seats.
+
+Pressure trace 450681: meter-pit clearance and dielectric union checklist staged for New California, OH near elevation 981 ft.
+
+Service ledger 450681: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for New California, OH at 40.1500, -83.2400.
+
+On-site sector marker: Union County / elevation 981 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-43064-23ae10b4

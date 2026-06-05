@@ -12,28 +12,45 @@ lng: -81.5500
 zipSample: ["31525", "31523"]
 zipCodes: ["31525", "31523"]
 localPaths: ["Glynn County / primary ZIP 31523", "Glynn County / coords 31.2600, -81.5500", "Glynn County / ZIP 31523 sector", "Glynn County / ZIP 31525 sector", "Glynn County / elevation 20 ft band"]
-zillowHomeValueUsd: 329193
 ---
 
 **Engineering Notice for Sterling:** System optimized for 120 mg/L hard water scaling factors in Sterling. Regional dispatch grid: Glynn County.
 
 
-When drain line restoration crew scopes are reviewed in Sterling, GA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: In Sterling, GA, slab leaks can misroute as foundation issues without listening equipment.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Sterling, GA.
+Confirm cleanout locations during the same visit. Route file 31523.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Sterling, GA, soft blockages differ from root intrusion profiles.
+Step: map sump float travel and check-valve orientation for Sterling, GA basements.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 31523/31525.
+Hydrostatic holds in Sterling, GA slab circuits run overnight when listening mics show ambiguous hits.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 31523.
+Trenchless pulls in Sterling, GA require pit dimensions verified against utility locate marks.
 
-Routing marker: backflow test cock orientation paired with PRV outlet pressure curve near ZIP 31523.
+Cleanout access limits in Sterling, GA frequently extend drain cleaning duration.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 31523/31525.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Dispatch sectors sampled: ZIP 31523, 31525 (county grid: Glynn County).
+Tip: Log water heater flex line dates before wall closure in Sterling, GA remodel zones.
+
+Galvanized segments in Sterling, GA may restrict flow before visible corrosion.
+
+Permit note: Main water line replacement in Sterling, GA may require ROW restoration planning.
+
+Cast-iron hub corrosion in Sterling, GA often concentrates at the third joint upstream of the cleanout.
+
+Book sump and supply-line checks in one written scope. Postal sector 31523.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Fixture roster 652089: toilet flange spacer kit and shower cartridge seat score queued for Sterling, GA walk-through.
+
+Service ledger 652089: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Sterling, GA at 31.2600, -81.5500.
+
+Field note: Expansion tank pre-charge verified in Sterling, GA.
+
+ZIP-corridor snapshot for Sterling, GA: sampled sectors include 31523, 31525; county routing grid remains Glynn County.
 
 Service reference: GA-31523-5c765126

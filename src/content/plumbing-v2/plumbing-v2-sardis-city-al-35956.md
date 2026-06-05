@@ -12,28 +12,45 @@ lng: -86.1100
 zipSample: ["35956"]
 zipCodes: ["35956"]
 localPaths: ["Etowah County / coords 34.1700, -86.1100", "Etowah County / primary ZIP 35956", "Etowah County / elevation 1060 ft band", "Etowah County / ZIP 35956 sector"]
-zillowHomeValueUsd: 220858
 ---
 
 **Engineering Notice for Sardis City:** System optimized for 136 mg/L hard water scaling factors in Sardis City. Regional dispatch grid: Etowah County.
 
 
-When whole-home repiping advisors scopes are reviewed in Sardis City, AL, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: When should sump battery backups be load-tested? In Sardis City, AL, before spring thaw and heavy rain remnants.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Sardis City, AL.
+Risk flag: In Sardis City, AL, slab leaks can misroute as foundation issues without listening equipment.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Sardis City, AL, soft blockages differ from root intrusion profiles.
+Step: map sump float travel and check-valve orientation for Sardis City, AL basements.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 35956.
+Trenchless pulls in Sardis City, AL require pit dimensions verified against utility locate marks.
 
-Open a scheduling request if you need whole-home repiping advisors documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 35956.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field packet: copper pinhole cluster map plus cleanout riser height referenced in Etowah County county grid review.
+Hose bib split patterns often follow missed winterization.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 35956.
+Across Sardis City, AL, main-line bellies trap debris even when fixtures drain normally.
 
-Dispatch sectors sampled: ZIP 35956 (county grid: Etowah County).
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Sardis City, AL.
+
+Cast-iron hub corrosion in Sardis City, AL often concentrates at the third joint upstream of the cleanout.
+
+Hydrostatic holds in Sardis City, AL slab circuits run overnight when listening mics show ambiguous hits.
+
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Sardis City, AL older homes.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Sardis City, AL.
+
+Fixture roster 741578: toilet flange spacer kit and shower cartridge seat score queued for Sardis City, AL walk-through.
+
+Drain map 741578: camera-pass priority and expansion-tank pre-charge noted for Sardis City, AL postal sector 35956.
+
+Field note: Fixture shutoff torque notes filed for ZIP 35956.
+
+On-site sector marker: Etowah County / primary ZIP 35956 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35956-82f00cf3

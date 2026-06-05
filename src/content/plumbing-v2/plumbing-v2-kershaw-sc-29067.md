@@ -12,28 +12,51 @@ lng: -80.5900
 zipSample: ["29067"]
 zipCodes: ["29067"]
 localPaths: ["Lancaster County / ZIP 29067 sector", "Lancaster County / elevation 525 ft band", "Lancaster County / primary ZIP 29067", "Lancaster County / coords 34.5500, -80.5900"]
-zillowHomeValueUsd: 187604
 ---
 
 **Engineering Notice for Kershaw:** System optimized for 152 mg/L hard water scaling factors in Kershaw. Regional dispatch grid: Lancaster County.
 
 
-A hydro-jetting specialists contact in Kershaw, SC is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Kershaw, SC.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Kershaw, SC.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Kershaw, SC supply age can diverge sharply.
+Hydro-jetting in Kershaw, SC requires camera confirmation before nozzle pressure is raised.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 29067.
+FAQ: Is hydro-jetting always appropriate? In Kershaw, SC, pipe material and blockage type dictate method.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 29067.
+Basement floor drains in Kershaw, SC should be snaked only after trap arm geometry is confirmed on camera.
 
-Scope trace: backflow test cock orientation cross-checked against hose bib freeze-risk flag before line-pressure hold test.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 29067.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Dispatch sectors sampled: ZIP 29067 (county grid: Lancaster County).
+FAQ: When should sump battery backups be load-tested? In Kershaw, SC, before spring thaw and heavy rain remnants.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 29067.
+
+Stack vent offsets in Kershaw, SC older duplexes can mask tub gurgle as a main-line failure.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Kershaw, SC.
+
+CPVC solvent weld times shift with ambient humidity during Kershaw, SC shoulder seasons.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Hard water in Kershaw, SC accelerates scale on PRV seats and heater elements.
+
+Pressure trace 871387: meter-pit clearance and dielectric union checklist staged for Kershaw, SC near elevation 525 ft.
+
+Supply audit 871387: curb-stop orientation and hose-bib freeze flag reviewed for Kershaw, SC at coords 34.5500/-80.5900.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 29067.
+
+Field note: PRV inlet and outlet curves captured for ZIP 29067.
+
+On-site sector marker: Lancaster County / primary ZIP 29067 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29067-326c0549

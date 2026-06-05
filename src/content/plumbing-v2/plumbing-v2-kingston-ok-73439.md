@@ -12,28 +12,45 @@ lng: -96.7100
 zipSample: ["73439"]
 zipCodes: ["73439"]
 localPaths: ["Marshall County / ZIP 73439 sector", "Marshall County / elevation 804 ft band", "Marshall County / primary ZIP 73439", "Marshall County / coords 34.0000, -96.7100"]
-zillowHomeValueUsd: 239949
 ---
 
 **Engineering Notice for Kingston:** System optimized for 149 mg/L hard water scaling factors in Kingston. Regional dispatch grid: Marshall County.
 
 
-Across Kingston, OK, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Technicians stage slab leak response unit jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+In Kingston, OK, slab leak response unit visits often begin with sump basin level checks and discharge line freeze separation.
 
-Our intake language for Kingston, OK work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Hydro-jetting in Kingston, OK requires camera confirmation before nozzle pressure is raised.
 
-FAQ: Can sump pump service wait until dry season? In Kingston, OK, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 73439.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 73439.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Book a camera-assisted drain review before approving jetting on older Kingston, OK mains. Serving ZIP Code: 73439.
+Irrigation cross-connections in Kingston, OK can back-siphon domestic lines during main breaks.
 
-Scope trace: PRV outlet pressure curve cross-checked against PEX expansion ring batch before line-pressure hold test.
+Step: log PRV inlet and outlet readings during intake.
 
-Field note: Drain cleaning cable head wear logged before second pass in Kingston, OK.
+Basement floor drains in Kingston, OK should be snaked only after trap arm geometry is confirmed on camera.
 
-Dispatch sectors sampled: ZIP 73439 (county grid: Marshall County).
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Cast-iron hub corrosion in Kingston, OK often concentrates at the third joint upstream of the cleanout.
+
+Garage utility sinks in Kingston, OK often tie into laundry branches that mask main-line restrictions.
+
+Shared main supplies in Kingston, OK duplexes require coordinated shutoff before pressure holds.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Fixture roster 242173: toilet flange spacer kit and shower cartridge seat score queued for Kingston, OK walk-through.
+
+Flow dossier 242173: branch wet-vent geometry and PRV seat wear logged for Kingston, OK county grid Marshall County (ZIP 73439).
+
+Field note: Meter-pit clearance photographed near ZIP 73439.
+
+Primary postal anchor 73439 with multi-ZIP overlap in Kingston; field packets tag Marshall County for county-grid reconciliation.
 
 Service reference: OK-73439-aced5396

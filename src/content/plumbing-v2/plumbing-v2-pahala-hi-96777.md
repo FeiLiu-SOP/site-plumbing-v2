@@ -12,30 +12,49 @@ lng: -155.4800
 zipSample: ["96777"]
 zipCodes: ["96777"]
 localPaths: ["Hawaii County / primary ZIP 96777", "Hawaii County / ZIP 96777 sector", "Hawaii County / elevation 860 ft band", "Hawaii County / coords 19.2000, -155.4800"]
-zillowHomeValueUsd: 284611
 ---
 
 **Engineering Notice for Pahala:** System optimized for 168 mg/L hard water scaling factors in Pahala. Regional dispatch grid: Hawaii County.
 
 
-Across Pahala, HI, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Hydrostatic holds in Pahala, HI slab circuits run overnight when listening mics show ambiguous hits.
 
-Our intake language for Pahala, HI work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-FAQ: Can sump pump service wait until dry season? In Pahala, HI, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 96777.
+Frost-free sillcock failures in Pahala, HI often trace to interior shutoff seats.
 
-Book a camera-assisted drain review before approving jetting on older Pahala, HI mains. Serving ZIP Code: 96777.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Routing marker: main line camera pass paired with jetter nozzle envelope near ZIP 96777.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Field note: Water line replacement trench path flagged for Hawaii County setbacks.
+In Pahala, HI, water heater & pipe experts visits often begin with sump basin level checks and discharge line freeze separation.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 96777.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Dispatch sectors sampled: ZIP 96777 (county grid: Hawaii County).
+Garage utility sinks in Pahala, HI often tie into laundry branches that mask main-line restrictions.
+
+Slab leak listening windows in Pahala, HI depend on quiet periods and isolated branch valves.
+
+Permit note: Main water line replacement in Pahala, HI may require ROW restoration planning.
+
+Schedule PRV and meter diagnostics before repiping quotes. Route file 96777.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 96777.
+
+Drain map 167342: camera-pass priority and expansion-tank pre-charge noted for Pahala, HI postal sector 96777.
+
+Fixture roster 167342: toilet flange spacer kit and shower cartridge seat score queued for Pahala, HI walk-through.
+
+Field note: Fixture shutoff torque notes filed for ZIP 96777.
+
+Field note: Main cleanout riser height measured against slab finish in Pahala, HI.
+
+On-site sector marker: Hawaii County / primary ZIP 96777 — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96777-d541712d

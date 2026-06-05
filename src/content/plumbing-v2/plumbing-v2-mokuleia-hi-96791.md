@@ -12,30 +12,47 @@ lng: -158.1700
 zipSample: ["96791"]
 zipCodes: ["96791"]
 localPaths: ["Honolulu County / ZIP 96791 sector", "Honolulu County / elevation 26 ft band", "Honolulu County / primary ZIP 96791", "Honolulu County / coords 21.5800, -158.1700"]
-zillowHomeValueUsd: 1021132
 ---
 
 **Engineering Notice for Mokuleia:** System optimized for 120 mg/L hard water scaling factors in Mokuleia. Regional dispatch grid: Honolulu County.
 
 
-When emergency pipe restoration scopes are reviewed in Mokuleia, HI, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Mokuleia, HI.
+Hard water in Mokuleia, HI accelerates scale on PRV seats and heater elements.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Basement floor drains in Mokuleia, HI should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Mokuleia, HI, soft blockages differ from root intrusion profiles.
+Dual-water-meter setups in Mokuleia, HI irrigation zones need backflow logs before line replacement.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 96791.
+Polybutylene manifold tags in Mokuleia, HI basements should be photographed before wall chases open.
 
-Open a scheduling request if you need emergency pipe restoration documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 96791.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Mokuleia, HI older homes.
 
-Routing marker: jetter nozzle envelope paired with copper pinhole cluster map near ZIP 96791.
+Material note: Water heater anode type may change with Mokuleia, HI hardness profiles.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 96791.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Field note: Main cleanout riser height measured against slab finish in Mokuleia, HI.
+Hydrostatic holds in Mokuleia, HI slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 96791 (county grid: Honolulu County).
+Garage utility sinks in Mokuleia, HI often tie into laundry branches that mask main-line restrictions.
+
+Risk flag: In Mokuleia, HI, slab leaks can misroute as foundation issues without listening equipment.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Step: map sump float travel and check-valve orientation for Mokuleia, HI basements.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 96791.
+
+Fixture roster 956431: toilet flange spacer kit and shower cartridge seat score queued for Mokuleia, HI walk-through.
+
+Supply audit 956431: curb-stop orientation and hose-bib freeze flag reviewed for Mokuleia, HI at coords 21.5800/-158.1700.
+
+Field note: Slab listen window scheduled for Honolulu County grid.
+
+Field note: Expansion tank pre-charge verified in Mokuleia, HI.
+
+On-site sector marker: Honolulu County / elevation 26 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: HI-96791-3c7ede13

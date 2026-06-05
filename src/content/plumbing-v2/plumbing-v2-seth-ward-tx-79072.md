@@ -12,28 +12,47 @@ lng: -101.6900
 zipSample: ["79072"]
 zipCodes: ["79072"]
 localPaths: ["Hale County / primary ZIP 79072", "Hale County / elevation 3363 ft band", "Hale County / coords 34.2200, -101.6900", "Hale County / ZIP 79072 sector"]
-zillowHomeValueUsd: 116090
 ---
 
 **Engineering Notice for Seth Ward:** System optimized for 155 mg/L hard water scaling factors in Seth Ward. Regional dispatch grid: Hale County.
 
 
-Across Seth Ward, TX, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: photograph curb-stop and meter pit before trenching.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Our intake language for Seth Ward, TX work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Seth Ward, TX.
 
-FAQ: Can sump pump restoration wait until dry season? In Seth Ward, TX, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Material note: Water heater anode type may change with Seth Ward, TX hardness profiles.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 79072.
+Cast-iron hub corrosion in Seth Ward, TX often concentrates at the third joint upstream of the cleanout.
 
-Book a camera-assisted drain review before approving jetting on older Seth Ward, TX mains. Serving ZIP Code: 79072.
+Tip: Log water heater flex line dates before wall closure in Seth Ward, TX remodel zones.
 
-Routing marker: PEX expansion ring batch paired with main line camera pass near ZIP 79072.
+Branch wet vents in Seth Ward, TX can mask gurgling as a main-line issue.
 
-Field note: Drain cleaning cable head wear logged before second pass in Seth Ward, TX.
+FAQ: When should sump battery backups be load-tested? In Seth Ward, TX, before spring thaw and heavy rain remnants.
 
-Dispatch sectors sampled: ZIP 79072 (county grid: Hale County).
+Step: camera-pass main lines in Seth Ward, TX before jetting older clay or cast iron.
+
+Garage utility sinks in Seth Ward, TX often tie into laundry branches that mask main-line restrictions.
+
+Tankless heater descale intervals in Seth Ward, TX hard-water zones differ from tank anode schedules.
+
+Trenchless pulls in Seth Ward, TX require pit dimensions verified against utility locate marks.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 79072.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Fixture roster 346818: toilet flange spacer kit and shower cartridge seat score queued for Seth Ward, TX walk-through.
+
+Drain map 346818: camera-pass priority and expansion-tank pre-charge noted for Seth Ward, TX postal sector 79072.
+
+Field note: Expansion tank pre-charge verified in Seth Ward, TX.
+
+Primary postal anchor 79072 with multi-ZIP overlap in Seth Ward; field packets tag Hale County for county-grid reconciliation.
 
 Service reference: TX-79072-597e6264

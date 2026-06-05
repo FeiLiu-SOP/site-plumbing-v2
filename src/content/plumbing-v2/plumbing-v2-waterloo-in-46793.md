@@ -12,28 +12,47 @@ lng: -85.0300
 zipSample: ["46793"]
 zipCodes: ["46793"]
 localPaths: ["DeKalb County / primary ZIP 46793", "DeKalb County / coords 41.4300, -85.0300", "DeKalb County / ZIP 46793 sector", "DeKalb County / elevation 925 ft band"]
-zillowHomeValueUsd: 250613
 ---
 
 **Engineering Notice for Waterloo:** System optimized for 150 mg/L hard water scaling factors in Waterloo. Regional dispatch grid: DeKalb County.
 
 
-Across Waterloo, IN, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Shared main supplies in Waterloo, IN duplexes require coordinated shutoff before pressure holds.
 
-Technicians stage professional plumbing services jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Our intake language for Waterloo, IN work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Step: tag shutoffs and meter orientation before opening walls.
 
-FAQ: Can sump pump restoration wait until dry season? In Waterloo, IN, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Permit note: Main water line replacement in Waterloo, IN may require ROW restoration planning.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 46793.
+Polybutylene manifold tags in Waterloo, IN basements should be photographed before wall chases open.
 
-Book a camera-assisted drain review before approving jetting on older Waterloo, IN mains. Serving ZIP Code: 46793.
+Galvanized segments in Waterloo, IN may restrict flow before visible corrosion.
 
-Field packet: scale coupon sampling plus Sump pump float travel referenced in DeKalb County county grid review.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 46793.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 46793.
 
-Dispatch sectors sampled: ZIP 46793 (county grid: DeKalb County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: When should sump battery backups be load-tested? In Waterloo, IN, before spring thaw and heavy rain remnants.
+
+Book sump and supply-line checks in one written scope. Postal sector 46793.
+
+Garage utility sinks in Waterloo, IN often tie into laundry branches that mask main-line restrictions.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Irrigation cross-connections in Waterloo, IN can back-siphon domestic lines during main breaks.
+
+Cast-iron hub corrosion in Waterloo, IN often concentrates at the third joint upstream of the cleanout.
+
+Pressure trace 728147: meter-pit clearance and dielectric union checklist staged for Waterloo, IN near elevation 925 ft.
+
+Flow dossier 728147: branch wet-vent geometry and PRV seat wear logged for Waterloo, IN county grid DeKalb County (ZIP 46793).
+
+Field note: Fixture shutoff torque notes filed for ZIP 46793.
+
+On-site sector marker: DeKalb County / coords 41.4300, -85.0300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: IN-46793-84ac6f78

@@ -12,30 +12,45 @@ lng: -97.4100
 zipSample: ["78390"]
 zipCodes: ["78390"]
 localPaths: ["San Patricio County / primary ZIP 78390", "San Patricio County / ZIP 78390 sector", "San Patricio County / elevation 72 ft band", "San Patricio County / coords 27.9700, -97.4100"]
-zillowHomeValueUsd: 142374
 ---
 
 **Engineering Notice for Taft Southwest:** System optimized for 148 mg/L hard water scaling factors in Taft Southwest. Regional dispatch grid: San Patricio County.
 
 
-When hydro-jetting specialists scopes are reviewed in Taft Southwest, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid San Patricio County.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Taft Southwest, TX.
+Trenchless pulls in Taft Southwest, TX require pit dimensions verified against utility locate marks.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Taft Southwest, TX, soft blockages differ from root intrusion profiles.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 78390.
+Frost-free sillcock failures in Taft Southwest, TX often trace to interior shutoff seats.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 78390.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Taft Southwest, TX.
 
-Scope trace: PEX expansion ring batch cross-checked against scale coupon sampling before line-pressure hold test.
+Step: photograph curb-stop and meter pit before trenching.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 78390.
+Stack vent offsets in Taft Southwest, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Water line replacement trench path flagged for San Patricio County setbacks.
+Risk flag: In Taft Southwest, TX, slab leaks can misroute as foundation issues without listening equipment.
 
-Dispatch sectors sampled: ZIP 78390 (county grid: San Patricio County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Cast-iron hub corrosion in Taft Southwest, TX often concentrates at the third joint upstream of the cleanout.
+
+Tip: Log water heater flex line dates before wall closure in Taft Southwest, TX remodel zones.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Flow dossier 378866: branch wet-vent geometry and PRV seat wear logged for Taft Southwest, TX county grid San Patricio County (ZIP 78390).
+
+Supply audit 378866: curb-stop orientation and hose-bib freeze flag reviewed for Taft Southwest, TX at coords 27.9700/-97.4100.
+
+Field note: Camera pass stills archived for ZIP 78390 branch line.
+
+On-site sector marker: San Patricio County / elevation 72 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78390-b635ea5d

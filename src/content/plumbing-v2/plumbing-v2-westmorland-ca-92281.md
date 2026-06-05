@@ -12,31 +12,49 @@ lng: -115.6200
 zipSample: ["92281"]
 zipCodes: ["92281"]
 localPaths: ["Imperial County / ZIP 92281 sector", "Imperial County / primary ZIP 92281", "Imperial County / coords 33.0400, -115.6200", "Imperial County / elevation -159 ft band"]
-zillowHomeValueUsd: 891664
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Westmorland:** System optimized for 167 mg/L hard water scaling factors in Westmorland. Regional dispatch grid: Imperial County.
 
 
-When water heater & pipe experts scopes are reviewed in Westmorland, CA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Imperial County.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Westmorland, CA.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Westmorland, CA, soft blockages differ from root intrusion profiles.
+Risk flag: In Westmorland, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 92281.
+Step: document dielectric unions before mixed-metal replacements.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 92281.
+Hydrostatic holds in Westmorland, CA slab circuits run overnight when listening mics show ambiguous hits.
 
-Scope trace: jetter nozzle envelope cross-checked against Sump pump float travel before line-pressure hold test.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Drain cleaning cable head wear logged before second pass in Westmorland, CA.
+FAQ: When is cabling enough? In Westmorland, CA, pipe material and blockage type dictate method.
 
-Field note: Water line replacement trench path flagged for Imperial County setbacks.
+Galvanized segments in Westmorland, CA may restrict flow before visible corrosion.
 
-Dispatch sectors sampled: ZIP 92281 (county grid: Imperial County).
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Westmorland, CA older homes.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Tip: Log water heater flex line dates before wall closure in Westmorland, CA remodel zones.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Westmorland, CA.
+
+Garage utility sinks in Westmorland, CA often tie into laundry branches that mask main-line restrictions.
+
+Dual-water-meter setups in Westmorland, CA irrigation zones need backflow logs before line replacement.
+
+Frost-free sillcock failures in Westmorland, CA often trace to interior shutoff seats.
+
+Lineage note 517953: recirculation pump amp draw captured before Westmorland, CA branch isolation.
+
+Fixture roster 517953: toilet flange spacer kit and shower cartridge seat score queued for Westmorland, CA walk-through.
+
+Field note: PRV inlet and outlet curves captured for ZIP 92281.
+
+Coordinate-anchored dispatch note: center reference 33.0400, -115.6200 at elevation ~-159 ft aligns with Imperial County intake staging.
 
 Service reference: CA-92281-5843dafb

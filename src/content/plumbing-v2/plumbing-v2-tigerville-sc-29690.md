@@ -12,28 +12,49 @@ lng: -82.3700
 zipSample: ["29687", "29690"]
 zipCodes: ["29690", "29687"]
 localPaths: ["Greenville County / ZIP 29690 sector", "Greenville County / primary ZIP 29690", "Greenville County / elevation 1017 ft band", "Greenville County / coords 35.0700, -82.3700", "Greenville County / ZIP 29687 sector"]
-zillowHomeValueUsd: 353038
 ---
 
 **Engineering Notice for Tigerville:** System optimized for 149 mg/L hard water scaling factors in Tigerville. Regional dispatch grid: Greenville County.
 
 
-When slab leak response unit scopes are reviewed in Tigerville, SC, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Tigerville, SC.
+Hydrostatic holds in Tigerville, SC slab circuits run overnight when listening mics show ambiguous hits.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+FAQ: When should sump battery backups be load-tested? In Tigerville, SC, before spring thaw and heavy rain remnants.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Tigerville, SC, soft blockages differ from root intrusion profiles.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 29687/29690.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 29690.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Dispatch note: hose bib freeze-risk flag and PRV outlet pressure curve were logged for the Tigerville plumbing intake packet.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Tigerville, SC.
 
-Field note: Main cleanout riser height measured against slab finish in Tigerville, SC.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Dispatch sectors sampled: ZIP 29687, 29690 (county grid: Greenville County).
+Confirm cleanout locations during the same visit. Route file 29690.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Tigerville, SC.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Hydro-jetting in Tigerville, SC requires camera confirmation before nozzle pressure is raised.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Flow dossier 922544: branch wet-vent geometry and PRV seat wear logged for Tigerville, SC county grid Greenville County (ZIP 29690).
+
+Lineage note 922544: recirculation pump amp draw captured before Tigerville, SC branch isolation.
+
+Field note: Expansion tank pre-charge verified in Tigerville, SC.
+
+ZIP-corridor snapshot for Tigerville, SC: sampled sectors include 29687, 29690; county routing grid remains Greenville County.
 
 Service reference: SC-29690-7474beec

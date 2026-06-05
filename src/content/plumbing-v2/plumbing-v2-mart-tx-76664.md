@@ -12,30 +12,49 @@ lng: -96.8300
 zipSample: ["76664"]
 zipCodes: ["76664"]
 localPaths: ["McLennan County / elevation 541 ft band", "McLennan County / primary ZIP 76664", "McLennan County / ZIP 76664 sector", "McLennan County / coords 31.5400, -96.8300"]
-zillowHomeValueUsd: 155401
 ---
 
 **Engineering Notice for Mart:** System optimized for 149 mg/L hard water scaling factors in Mart. Regional dispatch grid: McLennan County.
 
 
-When slab leak response unit scopes are reviewed in Mart, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Polybutylene manifold tags in Mart, TX basements should be photographed before wall chases open.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Mart, TX.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 76664.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Mart, TX, soft blockages differ from root intrusion profiles.
+Branch wet vents in Mart, TX can mask gurgling as a main-line issue.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 76664.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 76664.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Field packet: PEX expansion ring batch plus PRV outlet pressure curve referenced in McLennan County county grid review.
+Irrigation cross-connections in Mart, TX can back-siphon domestic lines during main breaks.
 
-Field note: Drain cleaning cable head wear logged before second pass in Mart, TX.
+Dual-water-meter setups in Mart, TX irrigation zones need backflow logs before line replacement.
 
-Field note: Water line replacement trench path flagged for McLennan County setbacks.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 76664.
 
-Dispatch sectors sampled: ZIP 76664 (county grid: McLennan County).
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Mart, TX older homes.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+CPVC solvent weld times shift with ambient humidity during Mart, TX shoulder seasons.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Our Slab Leak Response Unit coordination in Mart, TX prioritizes cleanout access, vent integrity, and measurable flow recovery.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Pressure trace 694684: meter-pit clearance and dielectric union checklist staged for Mart, TX near elevation 541 ft.
+
+Fixture roster 694684: toilet flange spacer kit and shower cartridge seat score queued for Mart, TX walk-through.
+
+Field note: Dielectric union checklist completed in Mart, TX.
+
+On-site sector marker: McLennan County / coords 31.5400, -96.8300 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76664-debd7a27

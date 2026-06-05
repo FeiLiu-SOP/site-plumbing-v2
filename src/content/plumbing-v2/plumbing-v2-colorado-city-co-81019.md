@@ -12,30 +12,47 @@ lng: -104.8500
 zipSample: ["81069", "81019"]
 zipCodes: ["81019", "81069"]
 localPaths: ["Pueblo County / elevation 5928 ft band", "Pueblo County / ZIP 81069 sector", "Pueblo County / primary ZIP 81019", "Pueblo County / ZIP 81019 sector", "Pueblo County / coords 37.9400, -104.8500"]
-zillowHomeValueUsd: 322851
 ---
 
 **Engineering Notice for Colorado City:** System optimized for 122 mg/L hard water scaling factors in Colorado City. Regional dispatch grid: Pueblo County.
 
 
-Property owners in Colorado City, CO may see fixture & supply line pros escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Colorado City, CO.
+Risk flag: In Colorado City, CO, slab leaks can misroute as foundation issues without listening equipment.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Cleanout access limits in Colorado City, CO frequently extend drain cleaning duration.
 
-FAQ: What slows drain cleaning most? In Colorado City, CO, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 81069/81019.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 81019.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Scope trace: cleanout riser height cross-checked against branch wet vent compliance note before line-pressure hold test.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Water line replacement trench path flagged for Pueblo County setbacks.
+CPVC solvent weld times shift with ambient humidity during Colorado City, CO shoulder seasons.
 
-Field note: Drain cleaning cable head wear logged before second pass in Colorado City, CO.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 81069, 81019 (county grid: Pueblo County).
+Trenchless pulls in Colorado City, CO require pit dimensions verified against utility locate marks.
+
+Book sump and supply-line checks in one written scope. Postal sector 81019.
+
+Permit note: Main water line replacement in Colorado City, CO may require ROW restoration planning.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Cast-iron hub corrosion in Colorado City, CO often concentrates at the third joint upstream of the cleanout.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Lineage note 949713: recirculation pump amp draw captured before Colorado City, CO branch isolation.
+
+Supply audit 949713: curb-stop orientation and hose-bib freeze flag reviewed for Colorado City, CO at coords 37.9400/-104.8500.
+
+Field note: Camera pass stills archived for ZIP 81069/81019 branch line.
+
+On-site sector marker: Pueblo County / ZIP 81069 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-81019-2420b1c8

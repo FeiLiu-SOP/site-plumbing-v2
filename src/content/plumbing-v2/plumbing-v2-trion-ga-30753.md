@@ -12,28 +12,47 @@ lng: -85.3100
 zipSample: ["30753"]
 zipCodes: ["30753"]
 localPaths: ["Chattooga County / elevation 676 ft band", "Chattooga County / coords 34.5500, -85.3100", "Chattooga County / primary ZIP 30753", "Chattooga County / ZIP 30753 sector"]
-zillowHomeValueUsd: 151190
 ---
 
 **Engineering Notice for Trion:** System optimized for 146 mg/L hard water scaling factors in Trion. Regional dispatch grid: Chattooga County.
 
 
-Across Trion, GA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+CPVC solvent weld times shift with ambient humidity during Trion, GA shoulder seasons.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Permit note: Main water line replacement in Trion, GA may require ROW restoration planning.
 
-Our intake language for Trion, GA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Material note: Water heater anode type may change with Trion, GA hardness profiles.
 
-FAQ: Can sump pump remediation wait until dry season? In Trion, GA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 30753.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Book a camera-assisted drain review before approving jetting on older Trion, GA mains. Serving ZIP Code: 30753.
+FAQ: When should sump battery backups be load-tested? In Trion, GA, before spring thaw and heavy rain remnants.
 
-Routing marker: cleanout riser height paired with hose bib freeze-risk flag near ZIP 30753.
+Step: map sump float travel and check-valve orientation for Trion, GA basements.
 
-Field note: Water line replacement trench path flagged for Chattooga County setbacks.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Dispatch sectors sampled: ZIP 30753 (county grid: Chattooga County).
+Ask for trenchless feasibility notes before main replacement. County grid Chattooga County.
+
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Trion, GA.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 30753.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Basement floor drains in Trion, GA should be snaked only after trap arm geometry is confirmed on camera.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Fixture roster 858138: toilet flange spacer kit and shower cartridge seat score queued for Trion, GA walk-through.
+
+Flow dossier 858138: branch wet-vent geometry and PRV seat wear logged for Trion, GA county grid Chattooga County (ZIP 30753).
+
+ZIP-corridor snapshot for Trion, GA: sampled sectors include 30753; county routing grid remains Chattooga County.
 
 Service reference: GA-30753-37881823

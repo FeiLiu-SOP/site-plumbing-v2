@@ -12,30 +12,45 @@ lng: -113.8900
 zipSample: ["59851", "59802"]
 zipCodes: ["59802", "59851"]
 localPaths: ["Missoula County / ZIP 59851 sector", "Missoula County / ZIP 59802 sector", "Missoula County / elevation 3291 ft band", "Missoula County / primary ZIP 59802", "Missoula County / coords 46.8800, -113.8900"]
-zillowHomeValueUsd: 551934
 ---
 
 **Engineering Notice for Bonner-West Riverside:** System optimized for 140 mg/L hard water scaling factors in Bonner-West Riverside. Regional dispatch grid: Missoula County.
 
 
-In Bonner-West Riverside, MT, slab leak response unit visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Bonner-West Riverside, MT older homes.
 
-Drain cleaning scopes in Bonner-West Riverside, MT separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Slab Leak Response Unit coordination in Bonner-West Riverside, MT prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Step: log PRV inlet and outlet readings during intake.
 
-FAQ: When is water line replacement safer than spot service? In Bonner-West Riverside, MT, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 59802/59851.
+Permit note: Main water line replacement in Bonner-West Riverside, MT may require ROW restoration planning.
 
-Request a written slab leak response unit plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 59802.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Field packet: sub-slab moisture gradient plus water heater T&P discharge path referenced in Missoula County county grid review.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 59802/59851.
+Cast-iron hub corrosion in Bonner-West Riverside, MT often concentrates at the third joint upstream of the cleanout.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 59802/59851.
+Dual-water-meter setups in Bonner-West Riverside, MT irrigation zones need backflow logs before line replacement.
 
-Dispatch sectors sampled: ZIP 59802, 59851 (county grid: Missoula County).
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Shared main supplies in Bonner-West Riverside, MT duplexes require coordinated shutoff before pressure holds.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Lineage note 830495: recirculation pump amp draw captured before Bonner-West Riverside, MT branch isolation.
+
+Drain map 830495: camera-pass priority and expansion-tank pre-charge noted for Bonner-West Riverside, MT postal sector 59802.
+
+On-site sector marker: Missoula County / coords 46.8800, -113.8900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59802-112c311c

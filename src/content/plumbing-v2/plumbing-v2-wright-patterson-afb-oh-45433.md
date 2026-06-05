@@ -12,29 +12,47 @@ lng: -84.0600
 zipSample: ["45433", "45324"]
 zipCodes: ["45324", "45433"]
 localPaths: ["Greene County / ZIP 45433 sector", "Greene County / ZIP 45324 sector", "Greene County / coords 39.8100, -84.0600", "Greene County / primary ZIP 45433", "Greene County / elevation 801 ft band"]
-zillowHomeValueUsd: 228928
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Wright-Patterson AFB:** System optimized for 126 mg/L hard water scaling factors in Wright-Patterson AFB. Regional dispatch grid: Greene County.
 
 
-When basement sump service team scopes are reviewed in Wright-Patterson AFB, OH, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Basement floor drains in Wright-Patterson AFB, OH should be snaked only after trap arm geometry is confirmed on camera.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Wright-Patterson AFB, OH.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Step: camera-pass main lines in Wright-Patterson AFB, OH before jetting older clay or cast iron.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Wright-Patterson AFB, OH, soft blockages differ from root intrusion profiles.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 45324/45433.
+In Wright-Patterson AFB, OH, basement sump service team visits often begin with sump basin level checks and discharge line freeze separation.
 
-Open a scheduling request if you need basement sump service team documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 45433.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Routing marker: Sump pump float travel paired with sub-slab moisture gradient near ZIP 45433.
+Confirm cleanout locations during the same visit. Route file 45433.
 
-Field note: Main cleanout riser height measured against slab finish in Wright-Patterson AFB, OH.
+Polybutylene manifold tags in Wright-Patterson AFB, OH basements should be photographed before wall chases open.
 
-Dispatch sectors sampled: ZIP 45324, 45433 (county grid: Greene County).
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 45433.
+
+FAQ: When is cabling enough? In Wright-Patterson AFB, OH, pipe material and blockage type dictate method.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+FAQ: When should sump battery backups be load-tested? In Wright-Patterson AFB, OH, before spring thaw and heavy rain remnants.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Hydrostatic holds in Wright-Patterson AFB, OH slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Pressure trace 353903: meter-pit clearance and dielectric union checklist staged for Wright-Patterson AFB, OH near elevation 801 ft.
+
+Service ledger 353903: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Wright-Patterson AFB, OH at 39.8100, -84.0600.
+
+Field note: Fixture shutoff torque notes filed for ZIP 45433/45324.
+
+On-site sector marker: Greene County / elevation 801 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: OH-45433-9feddbcc

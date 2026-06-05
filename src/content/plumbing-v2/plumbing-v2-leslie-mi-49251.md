@@ -12,30 +12,47 @@ lng: -84.4300
 zipSample: ["49251"]
 zipCodes: ["49251"]
 localPaths: ["Ingham County / ZIP 49251 sector", "Ingham County / primary ZIP 49251", "Ingham County / elevation 945 ft band", "Ingham County / coords 42.4500, -84.4300"]
-zillowHomeValueUsd: 235573
 ---
 
 **Engineering Notice for Leslie:** System optimized for 163 mg/L hard water scaling factors in Leslie. Regional dispatch grid: Ingham County.
 
 
-A professional plumbing services request in Leslie, MI is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Hard water in Leslie, MI accelerates scale on PRV seats and heater elements.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Leslie, MI.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Leslie, MI supply age can diverge sharply.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Leslie, MI.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 49251.
+Hydrostatic holds in Leslie, MI slab circuits run overnight when listening mics show ambiguous hits.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 49251.
+Cleanout access limits in Leslie, MI frequently extend drain cleaning duration.
 
-Field packet: PRV outlet pressure curve plus Sump pump float travel referenced in Ingham County county grid review.
+Branch wet vents in Leslie, MI can mask gurgling as a main-line issue.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 49251.
+Basement floor drains in Leslie, MI should be snaked only after trap arm geometry is confirmed on camera.
 
-Field note: Water line replacement trench path flagged for Ingham County setbacks.
+Tip: Log water heater flex line dates before wall closure in Leslie, MI remodel zones.
 
-Dispatch sectors sampled: ZIP 49251 (county grid: Ingham County).
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Frost-free sillcock failures in Leslie, MI often trace to interior shutoff seats.
+
+Slab leak listening windows in Leslie, MI depend on quiet periods and isolated branch valves.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Leslie, MI older homes.
+
+Tip: Log sump cycle frequency during heavy rain windows.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Supply audit 881805: curb-stop orientation and hose-bib freeze flag reviewed for Leslie, MI at coords 42.4500/-84.4300.
+
+Pressure trace 881805: meter-pit clearance and dielectric union checklist staged for Leslie, MI near elevation 945 ft.
+
+On-site sector marker: Ingham County / primary ZIP 49251 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MI-49251-bda4263a

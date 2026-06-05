@@ -12,29 +12,47 @@ lng: -65.4400
 zipSample: ["00765"]
 zipCodes: ["00765"]
 localPaths: ["Vieques County / ZIP 00765 sector", "Vieques County / coords 18.1500, -65.4400", "Vieques County / primary ZIP 00765", "Vieques County / elevation 121 ft band"]
-zillowHomeValueUsd: 358898
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Vieques:** System optimized for 157 mg/L hard water scaling factors in Vieques. Regional dispatch grid: Vieques County.
 
 
-Across Vieques, PR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Technicians stage emergency pipe remediation jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Tip: Log water heater flex line dates before wall closure in Vieques, PR remodel zones.
 
-Our intake language for Vieques, PR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: Can sump pump service wait until dry season? In Vieques, PR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tip: Photograph cleanout cap threads before snaking near ZIP 00765.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 00765.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Book a camera-assisted drain review before approving jetting on older Vieques, PR mains. Serving ZIP Code: 00765.
+Step: photograph curb-stop and meter pit before trenching.
 
-Routing marker: sub-slab moisture gradient paired with PEX expansion ring batch near ZIP 00765.
+Permit note: Main water line replacement in Vieques, PR may require ROW restoration planning.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 00765.
+Garage utility sinks in Vieques, PR often tie into laundry branches that mask main-line restrictions.
 
-Dispatch sectors sampled: ZIP 00765 (county grid: Vieques County).
+Book hydro-jetting only after camera stills are archived. ZIP anchor 00765.
+
+Shared main supplies in Vieques, PR duplexes require coordinated shutoff before pressure holds.
+
+Trenchless pulls in Vieques, PR require pit dimensions verified against utility locate marks.
+
+FAQ: Is hydro-jetting always appropriate? In Vieques, PR, pipe material and blockage type dictate method.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Hydro-jetting in Vieques, PR requires camera confirmation before nozzle pressure is raised.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Vieques County.
+
+Pressure trace 697916: meter-pit clearance and dielectric union checklist staged for Vieques, PR near elevation 121 ft.
+
+Lineage note 697916: recirculation pump amp draw captured before Vieques, PR branch isolation.
+
+Field note: Camera pass stills archived for ZIP 00765 branch line.
+
+On-site sector marker: Vieques County / ZIP 00765 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: PR-00765-b3ca7eea

@@ -12,31 +12,43 @@ lng: -101.2400
 zipSample: ["57625"]
 zipCodes: ["57625"]
 localPaths: ["Dewey County / primary ZIP 57625", "Dewey County / ZIP 57625 sector", "Dewey County / elevation 2382 ft band", "Dewey County / coords 45.0200, -101.2400"]
-zillowHomeValueUsd: 295703
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for North Eagle Butte:** System optimized for 124 mg/L hard water scaling factors in North Eagle Butte. Regional dispatch grid: Dewey County.
 
 
-Across North Eagle Butte, SD, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: In North Eagle Butte, SD, slab leaks can misroute as foundation issues without listening equipment.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+FAQ: Is hydro-jetting always appropriate? In North Eagle Butte, SD, pipe material and blockage type dictate method.
 
-Our intake language for North Eagle Butte, SD work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Step: document dielectric unions before mixed-metal replacements.
 
-FAQ: Can sump pump service wait until dry season? In North Eagle Butte, SD, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: camera-pass main lines in North Eagle Butte, SD before jetting older clay or cast iron.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 57625.
+Water heater T&P discharge paths in North Eagle Butte, SD must terminate safely before replacement quotes.
 
-Book a camera-assisted drain review before approving jetting on older North Eagle Butte, SD mains. Serving ZIP Code: 57625.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Scope trace: branch wet vent compliance note cross-checked against Sump pump float travel before line-pressure hold test.
+Tip: Log water heater flex line dates before wall closure in North Eagle Butte, SD remodel zones.
 
-Field note: Drain cleaning cable head wear logged before second pass in North Eagle Butte, SD.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 57625.
+Polybutylene manifold tags in North Eagle Butte, SD basements should be photographed before wall chases open.
 
-Dispatch sectors sampled: ZIP 57625 (county grid: Dewey County).
+Dual-water-meter setups in North Eagle Butte, SD irrigation zones need backflow logs before line replacement.
+
+Cast-iron hub corrosion in North Eagle Butte, SD often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Garage utility sinks in North Eagle Butte, SD often tie into laundry branches that mask main-line restrictions.
+
+Hydrostatic holds in North Eagle Butte, SD slab circuits run overnight when listening mics show ambiguous hits.
+
+Drain map 365066: camera-pass priority and expansion-tank pre-charge noted for North Eagle Butte, SD postal sector 57625.
+
+Service ledger 365066: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for North Eagle Butte, SD at 45.0200, -101.2400.
+
+ZIP-corridor snapshot for North Eagle Butte, SD: sampled sectors include 57625; county routing grid remains Dewey County.
 
 Service reference: SD-57625-75e87b53

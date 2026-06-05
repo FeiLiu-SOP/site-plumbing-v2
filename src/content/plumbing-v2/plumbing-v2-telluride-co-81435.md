@@ -12,28 +12,45 @@ lng: -107.8300
 zipSample: ["81435"]
 zipCodes: ["81435"]
 localPaths: ["San Miguel County / coords 37.9400, -107.8300", "San Miguel County / ZIP 81435 sector", "San Miguel County / elevation 9318 ft band", "San Miguel County / primary ZIP 81435"]
-zillowHomeValueUsd: 2165605
 ---
 
 **Engineering Notice for Telluride:** System optimized for 160 mg/L hard water scaling factors in Telluride. Regional dispatch grid: San Miguel County.
 
 
-Across Telluride, CO, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 81435.
 
-Technicians stage professional plumbing services jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Schedule PRV and meter diagnostics before repiping quotes. Route file 81435.
 
-Our intake language for Telluride, CO work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Can sump pump remediation wait until dry season? In Telluride, CO, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Basement floor drains in Telluride, CO should be snaked only after trap arm geometry is confirmed on camera.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 81435.
+FAQ: When should sump battery backups be load-tested? In Telluride, CO, before spring thaw and heavy rain remnants.
 
-Book a camera-assisted drain review before approving jetting on older Telluride, CO mains. Serving ZIP Code: 81435.
+Cast-iron hub corrosion in Telluride, CO often concentrates at the third joint upstream of the cleanout.
 
-Scope trace: copper pinhole cluster map cross-checked against PRV outlet pressure curve before line-pressure hold test.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 81435.
+Step: photograph curb-stop and meter pit before trenching.
 
-Dispatch sectors sampled: ZIP 81435 (county grid: San Miguel County).
+Permit note: Main water line replacement in Telluride, CO may require ROW restoration planning.
+
+Cleanout access limits in Telluride, CO frequently extend drain cleaning duration.
+
+Tip: Log water heater flex line dates before wall closure in Telluride, CO remodel zones.
+
+CPVC solvent weld times shift with ambient humidity during Telluride, CO shoulder seasons.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 81435.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Flow dossier 109827: branch wet-vent geometry and PRV seat wear logged for Telluride, CO county grid San Miguel County (ZIP 81435).
+
+Drain map 109827: camera-pass priority and expansion-tank pre-charge noted for Telluride, CO postal sector 81435.
+
+On-site sector marker: San Miguel County / elevation 9318 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: CO-81435-2159fc72

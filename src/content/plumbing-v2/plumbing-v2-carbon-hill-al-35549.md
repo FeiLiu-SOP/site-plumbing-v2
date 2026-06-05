@@ -12,28 +12,47 @@ lng: -87.5200
 zipSample: ["35549"]
 zipCodes: ["35549"]
 localPaths: ["Walker County / elevation 525 ft band", "Walker County / primary ZIP 35549", "Walker County / coords 33.8900, -87.5200", "Walker County / ZIP 35549 sector"]
-zillowHomeValueUsd: 90850
 ---
 
 **Engineering Notice for Carbon Hill:** System optimized for 126 mg/L hard water scaling factors in Carbon Hill. Regional dispatch grid: Walker County.
 
 
-Across Carbon Hill, AL, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Technicians stage emergency pipe remediation jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Stack vent offsets in Carbon Hill, AL older duplexes can mask tub gurgle as a main-line failure.
 
-Our intake language for Carbon Hill, AL work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Carbon Hill, AL.
 
-FAQ: Can sump pump service wait until dry season? In Carbon Hill, AL, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 35549.
+Hydro-jetting in Carbon Hill, AL requires camera confirmation before nozzle pressure is raised.
 
-Book a camera-assisted drain review before approving jetting on older Carbon Hill, AL mains. Serving ZIP Code: 35549.
+Frost-free sillcock failures in Carbon Hill, AL often trace to interior shutoff seats.
 
-Dispatch note: water heater T&P discharge path and PRV outlet pressure curve were logged for the Carbon Hill plumbing intake packet.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Drain cleaning cable head wear logged before second pass in Carbon Hill, AL.
+Branch wet vents in Carbon Hill, AL can mask gurgling as a main-line issue.
 
-Dispatch sectors sampled: ZIP 35549 (county grid: Walker County).
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 35549.
+
+Tankless heater descale intervals in Carbon Hill, AL hard-water zones differ from tank anode schedules.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+FAQ: When is cabling enough? In Carbon Hill, AL, pipe material and blockage type dictate method.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Carbon Hill, AL.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Carbon Hill, AL older homes.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Carbon Hill, AL.
+
+Pressure trace 935374: meter-pit clearance and dielectric union checklist staged for Carbon Hill, AL near elevation 525 ft.
+
+Flow dossier 935374: branch wet-vent geometry and PRV seat wear logged for Carbon Hill, AL county grid Walker County (ZIP 35549).
+
+On-site sector marker: Walker County / coords 33.8900, -87.5200 — logged for map parity and ZIP-corridor verification.
 
 Service reference: AL-35549-2d625fbd

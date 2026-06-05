@@ -12,28 +12,45 @@ lng: -106.8100
 zipSample: ["88007"]
 zipCodes: ["88007"]
 localPaths: ["Doña Ana County / primary ZIP 88007", "Doña Ana County / ZIP 88007 sector", "Doña Ana County / coords 32.3600, -106.8100", "Doña Ana County / elevation 3914 ft band"]
-zillowHomeValueUsd: 325884
 ---
 
 **Engineering Notice for San Ysidro:** System optimized for 163 mg/L hard water scaling factors in San Ysidro. Regional dispatch grid: Doña Ana County.
 
 
-When slab leak response unit scopes are reviewed in San Ysidro, NM, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: In San Ysidro, NM, slab leaks can misroute as foundation issues without listening equipment.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for San Ysidro, NM.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Step: camera-pass main lines in San Ysidro, NM before jetting older clay or cast iron.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in San Ysidro, NM, soft blockages differ from root intrusion profiles.
+Hose bib split patterns often follow missed winterization.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 88007.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Open a scheduling request if you need slab leak response unit documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 88007.
+Across San Ysidro, NM, main-line bellies trap debris even when fixtures drain normally.
 
-Field packet: dielectric union checklist plus jetter nozzle envelope referenced in Doña Ana County county grid review.
+Tankless heater descale intervals in San Ysidro, NM hard-water zones differ from tank anode schedules.
 
-Field note: Main cleanout riser height measured against slab finish in San Ysidro, NM.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch sectors sampled: ZIP 88007 (county grid: Doña Ana County).
+Galvanized segments in San Ysidro, NM may restrict flow before visible corrosion.
+
+FAQ: When should sump battery backups be load-tested? In San Ysidro, NM, before spring thaw and heavy rain remnants.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in San Ysidro, NM.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Hydrostatic holds in San Ysidro, NM slab circuits run overnight when listening mics show ambiguous hits.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Service ledger 937458: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for San Ysidro, NM at 32.3600, -106.8100.
+
+Fixture roster 937458: toilet flange spacer kit and shower cartridge seat score queued for San Ysidro, NM walk-through.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 88007.
+
+On-site sector marker: Doña Ana County / ZIP 88007 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88007-2f787ae8

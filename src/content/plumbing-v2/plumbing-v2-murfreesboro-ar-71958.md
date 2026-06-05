@@ -12,30 +12,47 @@ lng: -93.6800
 zipSample: ["71958"]
 zipCodes: ["71958"]
 localPaths: ["Pike County / ZIP 71958 sector", "Pike County / coords 34.0500, -93.6800", "Pike County / primary ZIP 71958", "Pike County / elevation 358 ft band"]
-zillowHomeValueUsd: 160524
 ---
 
 **Engineering Notice for Murfreesboro:** System optimized for 162 mg/L hard water scaling factors in Murfreesboro. Regional dispatch grid: Pike County.
 
 
-In Murfreesboro, AR, drain line restoration crew visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Murfreesboro, AR.
 
-Drain cleaning scopes in Murfreesboro, AR separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Hydrostatic holds in Murfreesboro, AR slab circuits run overnight when listening mics show ambiguous hits.
 
-Drain Line Restoration Crew coordination in Murfreesboro, AR prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Ask for trenchless feasibility notes before main replacement. County grid Pike County.
 
-FAQ: When is water line replacement safer than spot remediation? In Murfreesboro, AR, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Trenchless pulls in Murfreesboro, AR require pit dimensions verified against utility locate marks.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 71958.
+Frost-free sillcock failures in Murfreesboro, AR often trace to interior shutoff seats.
 
-Request a written drain line restoration crew plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 71958.
+Garage utility sinks in Murfreesboro, AR often tie into laundry branches that mask main-line restrictions.
 
-Routing marker: water heater T&P discharge path paired with hose bib freeze-risk flag near ZIP 71958.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Field note: Drain cleaning cable head wear logged before second pass in Murfreesboro, AR.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 71958.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 71958.
+Hose bib split patterns often follow missed winterization.
 
-Dispatch sectors sampled: ZIP 71958 (county grid: Pike County).
+Step: log PRV inlet and outlet readings during intake.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Lineage note 601285: recirculation pump amp draw captured before Murfreesboro, AR branch isolation.
+
+Supply audit 601285: curb-stop orientation and hose-bib freeze flag reviewed for Murfreesboro, AR at coords 34.0500/-93.6800.
+
+Field note: Backflow test cock orientation noted in Murfreesboro, AR.
+
+On-site sector marker: Pike County / ZIP 71958 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: AR-71958-f0df31b4

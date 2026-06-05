@@ -12,28 +12,45 @@ lng: -97.9200
 zipSample: ["76476"]
 zipCodes: ["76476"]
 localPaths: ["Hood County / primary ZIP 76476", "Hood County / ZIP 76476 sector", "Hood County / elevation 1037 ft band", "Hood County / coords 32.3900, -97.9200"]
-zillowHomeValueUsd: 417045
 ---
 
 **Engineering Notice for Tolar:** System optimized for 163 mg/L hard water scaling factors in Tolar. Regional dispatch grid: Hood County.
 
 
-When drain line restoration crew scopes are reviewed in Tolar, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Tolar, TX.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Tankless heater descale intervals in Tolar, TX hard-water zones differ from tank anode schedules.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Tolar, TX, soft blockages differ from root intrusion profiles.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 76476.
+Step: document dielectric unions before mixed-metal replacements.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 76476.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Scope trace: backflow test cock orientation cross-checked against copper pinhole cluster map before line-pressure hold test.
+Tip: Log water heater flex line dates before wall closure in Tolar, TX remodel zones.
 
-Field note: Main cleanout riser height measured against slab finish in Tolar, TX.
+FAQ: When should sump battery backups be load-tested? In Tolar, TX, before spring thaw and heavy rain remnants.
 
-Dispatch sectors sampled: ZIP 76476 (county grid: Hood County).
+Tip: Photograph cleanout cap threads before snaking near ZIP 76476.
+
+Galvanized segments in Tolar, TX may restrict flow before visible corrosion.
+
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Permit note: Main water line replacement in Tolar, TX may require ROW restoration planning.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Tolar, TX.
+
+Pressure trace 460689: meter-pit clearance and dielectric union checklist staged for Tolar, TX near elevation 1037 ft.
+
+Lineage note 460689: recirculation pump amp draw captured before Tolar, TX branch isolation.
+
+On-site sector marker: Hood County / elevation 1037 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76476-6ac0e10e

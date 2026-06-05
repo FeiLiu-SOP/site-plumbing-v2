@@ -12,30 +12,45 @@ lng: -94.4600
 zipSample: ["64804", "64801"]
 zipCodes: ["64801", "64804"]
 localPaths: ["Jasper County / primary ZIP 64804", "Jasper County / ZIP 64804 sector", "Jasper County / coords 37.0700, -94.4600", "Jasper County / elevation 1112 ft band", "Jasper County / ZIP 64801 sector"]
-zillowHomeValueUsd: 225063
 ---
 
 **Engineering Notice for Duquesne:** System optimized for 135 mg/L hard water scaling factors in Duquesne. Regional dispatch grid: Jasper County.
 
 
-In Duquesne, MO, fixture & supply line pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Drain cleaning scopes in Duquesne, MO separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Basement floor drains in Duquesne, MO should be snaked only after trap arm geometry is confirmed on camera.
 
-Fixture & Supply Line Pros coordination in Duquesne, MO prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-FAQ: When is water line replacement safer than spot service? In Duquesne, MO, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 64804/64801.
+Permit note: Main water line replacement in Duquesne, MO may require ROW restoration planning.
 
-Request a written fixture & supply line pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 64804.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Routing marker: Sump pump float travel paired with jetter nozzle envelope near ZIP 64804.
+Dispatch packets reference county grid Jasper County near ZIP 64804.
 
-Field note: Water line replacement trench path flagged for Jasper County setbacks.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Drain cleaning cable head wear logged before second pass in Duquesne, MO.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 64804.
 
-Dispatch sectors sampled: ZIP 64804, 64801 (county grid: Jasper County).
+Tip: Log water heater flex line dates before wall closure in Duquesne, MO remodel zones.
+
+Cleanout access limits in Duquesne, MO frequently extend drain cleaning duration.
+
+CPVC solvent weld times shift with ambient humidity during Duquesne, MO shoulder seasons.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: Is hydro-jetting always appropriate? In Duquesne, MO, pipe material and blockage type dictate method.
+
+Frost-free sillcock failures in Duquesne, MO often trace to interior shutoff seats.
+
+Flow dossier 851428: branch wet-vent geometry and PRV seat wear logged for Duquesne, MO county grid Jasper County (ZIP 64804).
+
+Drain map 851428: camera-pass priority and expansion-tank pre-charge noted for Duquesne, MO postal sector 64804.
+
+On-site sector marker: Jasper County / primary ZIP 64804 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MO-64804-247c1461

@@ -12,30 +12,49 @@ lng: -82.2400
 zipSample: ["29692"]
 zipCodes: ["29692"]
 localPaths: ["Greenwood County / elevation 640 ft band", "Greenwood County / coords 34.3900, -82.2400", "Greenwood County / primary ZIP 29692", "Greenwood County / ZIP 29692 sector"]
-zillowHomeValueUsd: 144266
 ---
 
 **Engineering Notice for Ware Shoals:** System optimized for 162 mg/L hard water scaling factors in Ware Shoals. Regional dispatch grid: Greenwood County.
 
 
-Across Ware Shoals, SC, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Our intake language for Ware Shoals, SC work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: When is cabling enough? In Ware Shoals, SC, pipe material and blockage type dictate method.
 
-FAQ: Can sump pump service wait until dry season? In Ware Shoals, SC, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 29692.
+CPVC solvent weld times shift with ambient humidity during Ware Shoals, SC shoulder seasons.
 
-Book a camera-assisted drain review before approving jetting on older Ware Shoals, SC mains. Serving ZIP Code: 29692.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Dispatch note: water heater T&P discharge path and jetter nozzle envelope were logged for the Ware Shoals plumbing intake packet.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-Field note: Drain cleaning cable head wear logged before second pass in Ware Shoals, SC.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Main cleanout riser height measured against slab finish in Ware Shoals, SC.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Dispatch sectors sampled: ZIP 29692 (county grid: Greenwood County).
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Risk flag: In Ware Shoals, SC, slab leaks can misroute as foundation issues without listening equipment.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Shared main supplies in Ware Shoals, SC duplexes require coordinated shutoff before pressure holds.
+
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 29692.
+
+Step: map sump float travel and check-valve orientation for Ware Shoals, SC basements.
+
+Pressure trace 893274: meter-pit clearance and dielectric union checklist staged for Ware Shoals, SC near elevation 640 ft.
+
+Fixture roster 893274: toilet flange spacer kit and shower cartridge seat score queued for Ware Shoals, SC walk-through.
+
+Field note: Sump pump discharge check-valve orientation verified for ZIP sector 29692.
+
+On-site sector marker: Greenwood County / ZIP 29692 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29692-dd9769e9

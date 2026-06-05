@@ -12,28 +12,45 @@ lng: -81.7700
 zipSample: ["29373", "29372"]
 zipCodes: ["29372", "29373"]
 localPaths: ["Spartanburg County / elevation 751 ft band", "Spartanburg County / ZIP 29373 sector", "Spartanburg County / ZIP 29372 sector", "Spartanburg County / coords 34.9100, -81.7700", "Spartanburg County / primary ZIP 29372"]
-zillowHomeValueUsd: 162422
 ---
 
 **Engineering Notice for Pacolet:** System optimized for 134 mg/L hard water scaling factors in Pacolet. Regional dispatch grid: Spartanburg County.
 
 
-Property owners in Pacolet, SC may see whole-home repiping advisors escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+FAQ: Is hydro-jetting always appropriate? In Pacolet, SC, pipe material and blockage type dictate method.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Pacolet, SC.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: What slows drain cleaning most? In Pacolet, SC, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Pacolet, SC older homes.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 29372/29373.
+Dual-water-meter setups in Pacolet, SC irrigation zones need backflow logs before line replacement.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 29372.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Routing marker: backflow test cock orientation paired with fixture shutoff torque log near ZIP 29372.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 29372/29373.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 29372, 29373 (county grid: Spartanburg County).
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Pacolet, SC.
+
+Risk flag: In Pacolet, SC, slab leaks can misroute as foundation issues without listening equipment.
+
+Basement floor drains in Pacolet, SC should be snaked only after trap arm geometry is confirmed on camera.
+
+Cast-iron hub corrosion in Pacolet, SC often concentrates at the third joint upstream of the cleanout.
+
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Pacolet, SC.
+
+Drain map 944155: camera-pass priority and expansion-tank pre-charge noted for Pacolet, SC postal sector 29372.
+
+Fixture roster 944155: toilet flange spacer kit and shower cartridge seat score queued for Pacolet, SC walk-through.
+
+Field note: Hose bib freeze flags logged for Pacolet, SC.
+
+On-site sector marker: Spartanburg County / primary ZIP 29372 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29372-21c2104a

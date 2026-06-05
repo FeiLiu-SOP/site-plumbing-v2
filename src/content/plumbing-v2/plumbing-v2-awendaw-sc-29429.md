@@ -12,30 +12,45 @@ lng: -79.6600
 zipSample: ["29429"]
 zipCodes: ["29429"]
 localPaths: ["Charleston County / primary ZIP 29429", "Charleston County / elevation 23 ft band", "Charleston County / ZIP 29429 sector", "Charleston County / coords 32.9700, -79.6600"]
-zillowHomeValueUsd: 759789
 ---
 
 **Engineering Notice for Awendaw:** System optimized for 133 mg/L hard water scaling factors in Awendaw. Regional dispatch grid: Charleston County.
 
 
-In Awendaw, SC, slab leak response unit visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Basement floor drains in Awendaw, SC should be snaked only after trap arm geometry is confirmed on camera.
 
-Drain cleaning scopes in Awendaw, SC separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Step: separate fixture repairs from branch-line cleaning in written scope.
 
-Slab Leak Response Unit coordination in Awendaw, SC prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Cleanout access limits in Awendaw, SC frequently extend drain cleaning duration.
 
-FAQ: When is water line replacement safer than spot restoration? In Awendaw, SC, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Garage utility sinks in Awendaw, SC often tie into laundry branches that mask main-line restrictions.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 29429.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Request a written slab leak response unit plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 29429.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Routing marker: copper pinhole cluster map paired with cleanout riser height near ZIP 29429.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Field note: Drain cleaning cable head wear logged before second pass in Awendaw, SC.
+Water heater T&P discharge paths in Awendaw, SC must terminate safely before replacement quotes.
 
-Field note: Main cleanout riser height measured against slab finish in Awendaw, SC.
+Slab leak listening windows in Awendaw, SC depend on quiet periods and isolated branch valves.
 
-Dispatch sectors sampled: ZIP 29429 (county grid: Charleston County).
+Stack vent offsets in Awendaw, SC older duplexes can mask tub gurgle as a main-line failure.
+
+In Awendaw, SC, slab leak response unit visits often begin with sump basin level checks and discharge line freeze separation.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Risk flag: In Awendaw, SC, slab leaks can misroute as foundation issues without listening equipment.
+
+Request a camera-assisted drain review before approving jetting. Postal sector 29429.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Charleston County.
+
+Fixture roster 458770: toilet flange spacer kit and shower cartridge seat score queued for Awendaw, SC walk-through.
+
+Drain map 458770: camera-pass priority and expansion-tank pre-charge noted for Awendaw, SC postal sector 29429.
+
+On-site sector marker: Charleston County / ZIP 29429 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: SC-29429-a108ab80

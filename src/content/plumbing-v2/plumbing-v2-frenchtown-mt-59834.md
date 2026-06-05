@@ -12,30 +12,43 @@ lng: -114.2500
 zipSample: ["59834"]
 zipCodes: ["59834"]
 localPaths: ["Missoula County / primary ZIP 59834", "Missoula County / ZIP 59834 sector", "Missoula County / elevation 3038 ft band", "Missoula County / coords 47.0300, -114.2500"]
-zillowHomeValueUsd: 666833
 ---
 
 **Engineering Notice for Frenchtown:** System optimized for 144 mg/L hard water scaling factors in Frenchtown. Regional dispatch grid: Missoula County.
 
 
-Property owners in Frenchtown, MT may see drain line restoration crew escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Frenchtown, MT.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Frenchtown, MT.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-FAQ: What slows drain cleaning most? In Frenchtown, MT, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 59834.
+Step: camera-pass main lines in Frenchtown, MT before jetting older clay or cast iron.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 59834.
+Slab leak listening windows in Frenchtown, MT depend on quiet periods and isolated branch valves.
 
-Routing marker: PEX expansion ring batch paired with scale coupon sampling near ZIP 59834.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Frenchtown, MT.
 
-Field note: Main cleanout riser height measured against slab finish in Frenchtown, MT.
+Stack vent offsets in Frenchtown, MT older duplexes can mask tub gurgle as a main-line failure.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 59834.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Dispatch sectors sampled: ZIP 59834 (county grid: Missoula County).
+Hydro-jetting in Frenchtown, MT requires camera confirmation before nozzle pressure is raised.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Frenchtown, MT older homes.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Hose bib split patterns often follow missed winterization.
+
+Flow dossier 896087: branch wet-vent geometry and PRV seat wear logged for Frenchtown, MT county grid Missoula County (ZIP 59834).
+
+Supply audit 896087: curb-stop orientation and hose-bib freeze flag reviewed for Frenchtown, MT at coords 47.0300/-114.2500.
+
+On-site sector marker: Missoula County / primary ZIP 59834 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MT-59834-30bc9d7e

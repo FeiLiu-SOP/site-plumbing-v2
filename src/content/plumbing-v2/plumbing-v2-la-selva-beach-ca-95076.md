@@ -12,28 +12,45 @@ lng: -121.8400
 zipSample: ["95076"]
 zipCodes: ["95076"]
 localPaths: ["Santa Cruz County / elevation 194 ft band", "Santa Cruz County / coords 36.9300, -121.8400", "Santa Cruz County / primary ZIP 95076", "Santa Cruz County / ZIP 95076 sector"]
-zillowHomeValueUsd: 839570
 ---
 
 **Engineering Notice for La Selva Beach:** System optimized for 131 mg/L hard water scaling factors in La Selva Beach. Regional dispatch grid: Santa Cruz County.
 
 
-Across La Selva Beach, CA, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Technicians stage water heater & pipe experts jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Our intake language for La Selva Beach, CA work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Santa Cruz County.
 
-FAQ: Can sump pump remediation wait until dry season? In La Selva Beach, CA, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Stack vent offsets in La Selva Beach, CA older duplexes can mask tub gurgle as a main-line failure.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 95076.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 95076.
 
-Book a camera-assisted drain review before approving jetting on older La Selva Beach, CA mains. Serving ZIP Code: 95076.
+Cast-iron hub corrosion in La Selva Beach, CA often concentrates at the third joint upstream of the cleanout.
 
-Field packet: hose bib freeze-risk flag plus cleanout riser height referenced in Santa Cruz County county grid review.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 95076.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-Dispatch sectors sampled: ZIP 95076 (county grid: Santa Cruz County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Tip: Photograph cleanout cap threads before snaking near ZIP 95076.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in La Selva Beach, CA.
+
+Dual-water-meter setups in La Selva Beach, CA irrigation zones need backflow logs before line replacement.
+
+Fixture shutoff stiffness may indicate mineral bridging behind stems in La Selva Beach, CA older homes.
+
+Material note: Water heater anode type may change with La Selva Beach, CA hardness profiles.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Lineage note 622056: recirculation pump amp draw captured before La Selva Beach, CA branch isolation.
+
+Flow dossier 622056: branch wet-vent geometry and PRV seat wear logged for La Selva Beach, CA county grid Santa Cruz County (ZIP 95076).
+
+On-site sector marker: Santa Cruz County / primary ZIP 95076 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-95076-bc290b53

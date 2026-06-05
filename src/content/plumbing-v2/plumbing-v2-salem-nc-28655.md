@@ -12,30 +12,45 @@ lng: -81.7000
 zipSample: ["28655"]
 zipCodes: ["28655"]
 localPaths: ["Burke County / ZIP 28655 sector", "Burke County / elevation 1224 ft band", "Burke County / primary ZIP 28655", "Burke County / coords 35.7000, -81.7000"]
-zillowHomeValueUsd: 259457
 ---
 
 **Engineering Notice for Salem:** System optimized for 161 mg/L hard water scaling factors in Salem. Regional dispatch grid: Burke County.
 
 
-Property owners in Salem, NC may see slab leak response unit escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Book sump and supply-line checks in one written scope. Postal sector 28655.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Salem, NC.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Salem, NC.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Tip: Photograph cleanout cap threads before snaking near ZIP 28655.
 
-FAQ: What slows drain cleaning most? In Salem, NC, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Step: photograph curb-stop and meter pit before trenching.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 28655.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Salem, NC.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 28655.
+Trenchless pulls in Salem, NC require pit dimensions verified against utility locate marks.
 
-Dispatch note: water heater T&P discharge path and scale coupon sampling were logged for the Salem plumbing intake packet.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 28655.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Field note: Water line replacement trench path flagged for Burke County setbacks.
+Frost-free sillcock failures in Salem, NC often trace to interior shutoff seats.
 
-Dispatch sectors sampled: ZIP 28655 (county grid: Burke County).
+Schedule PRV and meter diagnostics before repiping quotes. Route file 28655.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Supply audit 267128: curb-stop orientation and hose-bib freeze flag reviewed for Salem, NC at coords 35.7000/-81.7000.
+
+Drain map 267128: camera-pass priority and expansion-tank pre-charge noted for Salem, NC postal sector 28655.
+
+Field note: Backflow test cock orientation noted in Salem, NC.
+
+Primary postal anchor 28655 with multi-ZIP overlap in Salem; field packets tag Burke County for county-grid reconciliation.
 
 Service reference: NC-28655-da012d26

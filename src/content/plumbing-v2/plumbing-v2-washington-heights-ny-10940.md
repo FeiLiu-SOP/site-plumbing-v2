@@ -12,28 +12,49 @@ lng: -74.4200
 zipSample: ["10940"]
 zipCodes: ["10940"]
 localPaths: ["Orange County / elevation 689 ft band", "Orange County / coords 41.4700, -74.4200", "Orange County / primary ZIP 10940", "Orange County / ZIP 10940 sector"]
-zillowHomeValueUsd: 390358
 ---
 
 **Engineering Notice for Washington Heights:** System optimized for 124 mg/L hard water scaling factors in Washington Heights. Regional dispatch grid: Orange County.
 
 
-When water heater & pipe experts scopes are reviewed in Washington Heights, NY, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Book sump and supply-line checks in one written scope. Postal sector 10940.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Washington Heights, NY.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Washington Heights, NY, soft blockages differ from root intrusion profiles.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 10940.
+Step: camera-pass main lines in Washington Heights, NY before jetting older clay or cast iron.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 10940.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch note: scale coupon sampling and dielectric union checklist were logged for the Washington Heights plumbing intake packet.
+FAQ: Does water heater age mandate replacement? Tank condition and relief path matter more than age alone.
 
-Field note: Main cleanout riser height measured against slab finish in Washington Heights, NY.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Washington Heights, NY older homes.
 
-Dispatch sectors sampled: ZIP 10940 (county grid: Orange County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+FAQ: When is cabling enough? In Washington Heights, NY, pipe material and blockage type dictate method.
+
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Orange County.
+
+Dual-water-meter setups in Washington Heights, NY irrigation zones need backflow logs before line replacement.
+
+Hose bib split patterns often follow missed winterization.
+
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 10940.
+
+Service ledger 514906: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Washington Heights, NY at 41.4700, -74.4200.
+
+Drain map 514906: camera-pass priority and expansion-tank pre-charge noted for Washington Heights, NY postal sector 10940.
+
+Field note: Backflow test cock orientation noted in Washington Heights, NY.
+
+On-site sector marker: Orange County / ZIP 10940 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-10940-72335258

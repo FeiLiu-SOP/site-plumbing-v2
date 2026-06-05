@@ -12,28 +12,47 @@ lng: -122.4000
 zipSample: ["98229"]
 zipCodes: ["98229"]
 localPaths: ["Whatcom County / coords 48.7400, -122.4000", "Whatcom County / primary ZIP 98229", "Whatcom County / elevation 499 ft band", "Whatcom County / ZIP 98229 sector"]
-zillowHomeValueUsd: 694504
 ---
 
 **Engineering Notice for Geneva:** System optimized for 134 mg/L hard water scaling factors in Geneva. Regional dispatch grid: Whatcom County.
 
 
-Property owners in Geneva, WA may see fixture & supply line pros escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Geneva, WA.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-FAQ: What slows drain cleaning most? In Geneva, WA, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 98229.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 98229.
+FAQ: When is cabling enough? In Geneva, WA, pipe material and blockage type dictate method.
 
-Routing marker: main line camera pass paired with hose bib freeze-risk flag near ZIP 98229.
+Dual-water-meter setups in Geneva, WA irrigation zones need backflow logs before line replacement.
 
-Field note: Main cleanout riser height measured against slab finish in Geneva, WA.
+Tankless heater descale intervals in Geneva, WA hard-water zones differ from tank anode schedules.
 
-Dispatch sectors sampled: ZIP 98229 (county grid: Whatcom County).
+Tip: Log water heater flex line dates before wall closure in Geneva, WA remodel zones.
+
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Geneva, WA.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Whatcom County.
+
+Permit note: Main water line replacement in Geneva, WA may require ROW restoration planning.
+
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
+
+Basement floor drains in Geneva, WA should be snaked only after trap arm geometry is confirmed on camera.
+
+Fixture roster 897165: toilet flange spacer kit and shower cartridge seat score queued for Geneva, WA walk-through.
+
+Service ledger 897165: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Geneva, WA at 48.7400, -122.4000.
+
+Field note: Meter-pit clearance photographed near ZIP 98229.
+
+On-site sector marker: Whatcom County / elevation 499 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98229-73f38a27

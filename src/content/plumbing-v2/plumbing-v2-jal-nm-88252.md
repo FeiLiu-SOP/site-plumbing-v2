@@ -12,30 +12,43 @@ lng: -103.1900
 zipSample: ["88252"]
 zipCodes: ["88252"]
 localPaths: ["Lea County / primary ZIP 88252", "Lea County / elevation 3051 ft band", "Lea County / coords 32.1100, -103.1900", "Lea County / ZIP 88252 sector"]
-zillowHomeValueUsd: 136190
 ---
 
 **Engineering Notice for Jal:** System optimized for 178 mg/L hard water scaling factors in Jal. Regional dispatch grid: Lea County.
 
 
-A leak detection pros request in Jal, NM is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Jal, NM.
+Irrigation cross-connections in Jal, NM can back-siphon domestic lines during main breaks.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Jal, NM supply age can diverge sharply.
+Book sump and supply-line checks in one written scope. Postal sector 88252.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 88252.
+Tip: Photograph cleanout cap threads before snaking near ZIP 88252.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 88252.
+Step: camera-pass main lines in Jal, NM before jetting older clay or cast iron.
 
-Dispatch note: PEX expansion ring batch and fixture shutoff torque log were logged for the Jal plumbing intake packet.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Field note: Drain cleaning cable head wear logged before second pass in Jal, NM.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Field note: Main cleanout riser height measured against slab finish in Jal, NM.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 88252 (county grid: Lea County).
+Water heater T&P discharge paths in Jal, NM must terminate safely before replacement quotes.
+
+Cleanout access limits in Jal, NM frequently extend drain cleaning duration.
+
+Tip: Log water heater flex line dates before wall closure in Jal, NM remodel zones.
+
+Hydrostatic holds in Jal, NM slab circuits run overnight when listening mics show ambiguous hits.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Pressure trace 884384: meter-pit clearance and dielectric union checklist staged for Jal, NM near elevation 3051 ft.
+
+Lineage note 884384: recirculation pump amp draw captured before Jal, NM branch isolation.
+
+On-site sector marker: Lea County / coords 32.1100, -103.1900 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88252-1c0e104a

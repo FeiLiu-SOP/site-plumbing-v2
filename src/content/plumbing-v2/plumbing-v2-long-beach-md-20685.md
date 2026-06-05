@@ -12,30 +12,45 @@ lng: -76.4700
 zipSample: ["20685"]
 zipCodes: ["20685"]
 localPaths: ["Calvert County / ZIP 20685 sector", "Calvert County / primary ZIP 20685", "Calvert County / coords 38.4600, -76.4700", "Calvert County / elevation 95 ft band"]
-zillowHomeValueUsd: 457735
 ---
 
 **Engineering Notice for Long Beach:** System optimized for 147 mg/L hard water scaling factors in Long Beach. Regional dispatch grid: Calvert County.
 
 
-When drain line restoration crew scopes are reviewed in Long Beach, MD, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Long Beach, MD.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Ask for trenchless feasibility notes before main replacement. County grid Calvert County.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Long Beach, MD, soft blockages differ from root intrusion profiles.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Long Beach, MD older homes.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 20685.
+Hydrostatic holds in Long Beach, MD slab circuits run overnight when listening mics show ambiguous hits.
 
-Open a scheduling request if you need drain line restoration crew documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 20685.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Scope trace: sub-slab moisture gradient cross-checked against cleanout riser height before line-pressure hold test.
+FAQ: When is anode service enough? Tank condition and relief path matter more than age alone.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Long Beach, MD.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Step: separate fixture repairs from branch-line cleaning in written scope.
+
+Book sump and supply-line checks in one written scope. Postal sector 20685.
+
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
+
+Dispatch packets reference county grid Calvert County near ZIP 20685.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Supply audit 853990: curb-stop orientation and hose-bib freeze flag reviewed for Long Beach, MD at coords 38.4600/-76.4700.
+
+Lineage note 853990: recirculation pump amp draw captured before Long Beach, MD branch isolation.
 
 Field note: Main cleanout riser height measured against slab finish in Long Beach, MD.
 
-Field note: Drain cleaning cable head wear logged before second pass in Long Beach, MD.
-
-Dispatch sectors sampled: ZIP 20685 (county grid: Calvert County).
+On-site sector marker: Calvert County / coords 38.4600, -76.4700 — logged for map parity and ZIP-corridor verification.
 
 Service reference: MD-20685-12f00214

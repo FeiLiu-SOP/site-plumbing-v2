@@ -12,30 +12,45 @@ lng: -76.5400
 zipSample: ["14850"]
 zipCodes: ["14850"]
 localPaths: ["Tompkins County / coords 42.4600, -76.5400", "Tompkins County / primary ZIP 14850", "Tompkins County / elevation 1024 ft band", "Tompkins County / ZIP 14850 sector"]
-zillowHomeValueUsd: 404562
 ---
 
 **Engineering Notice for Northwest Ithaca:** System optimized for 178 mg/L hard water scaling factors in Northwest Ithaca. Regional dispatch grid: Tompkins County.
 
 
-Property owners in Northwest Ithaca, NY may see water heater & pipe experts escalate from a slow tub drain into a vent-constrained branch clog that needs upstream access.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Instead of quoting blindly, we split the file into fixture-side repairs, branch-line cleaning, and main-line replacement contingencies for Northwest Ithaca, NY.
+FAQ: When should sump battery backups be load-tested? In Northwest Ithaca, NY, before spring thaw and heavy rain remnants.
 
-What matters most is whether water heater flex lines, expansion tank pre-charge, and relief discharge paths remain code-credible after any movement.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: What slows drain cleaning most? In Northwest Ithaca, NY, missing cleanouts, finished-surface access limits, and unknown interior trap arms commonly extend the schedule.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-Tip: Keep a dated list of prior snaking attempts and chemical treatments before calling back on ZIP 14850.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 14850.
 
-Ask for a scope outline that lists sump pump, drain cleaning, and water line replacement as separate line items. Serving ZIP Code: 14850.
+Risk flag: In Northwest Ithaca, NY, slab leaks can misroute as foundation issues without listening equipment.
 
-Routing marker: dielectric union checklist paired with scale coupon sampling near ZIP 14850.
+Polybutylene manifold tags in Northwest Ithaca, NY basements should be photographed before wall chases open.
+
+In Northwest Ithaca, NY, water heater & pipe experts visits often begin with sump basin level checks and discharge line freeze separation.
+
+Hydrostatic holds in Northwest Ithaca, NY slab circuits run overnight when listening mics show ambiguous hits.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Hydro-jetting in Northwest Ithaca, NY requires camera confirmation before nozzle pressure is raised.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Tankless heater descale intervals in Northwest Ithaca, NY hard-water zones differ from tank anode schedules.
+
+Lineage note 775409: recirculation pump amp draw captured before Northwest Ithaca, NY branch isolation.
+
+Service ledger 775409: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Northwest Ithaca, NY at 42.4600, -76.5400.
 
 Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 14850.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 14850.
-
-Dispatch sectors sampled: ZIP 14850 (county grid: Tompkins County).
+On-site sector marker: Tompkins County / coords 42.4600, -76.5400 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NY-14850-66804aa1

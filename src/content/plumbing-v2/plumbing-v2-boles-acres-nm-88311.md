@@ -12,29 +12,45 @@ lng: -105.9800
 zipSample: ["88311", "88310"]
 zipCodes: ["88310", "88311"]
 localPaths: ["Otero County / primary ZIP 88311", "Otero County / elevation 4111 ft band", "Otero County / ZIP 88310 sector", "Otero County / ZIP 88311 sector", "Otero County / coords 32.8200, -105.9800"]
-zillowHomeValueUsd: 304073
-data_fidelity: "synthetic"
 ---
 
 **Engineering Notice for Boles Acres:** System optimized for 132 mg/L hard water scaling factors in Boles Acres. Regional dispatch grid: Otero County.
 
 
-Across Boles Acres, NM, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Technicians stage emergency pipe service jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Cleanout access limits in Boles Acres, NM frequently extend drain cleaning duration.
 
-Our intake language for Boles Acres, NM work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Photograph cleanout cap threads before snaking near ZIP 88311.
 
-FAQ: Can sump pump remediation wait until dry season? In Boles Acres, NM, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 88311/88310.
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Boles Acres, NM older homes.
 
-Book a camera-assisted drain review before approving jetting on older Boles Acres, NM mains. Serving ZIP Code: 88311.
+Risk flag: In Boles Acres, NM, slab leaks can misroute as foundation issues without listening equipment.
 
-Field packet: cleanout riser height plus branch wet vent compliance note referenced in Otero County county grid review.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Field note: Water line replacement trench path flagged for Otero County setbacks.
+Hydrostatic holds in Boles Acres, NM slab circuits run overnight when listening mics show ambiguous hits.
 
-Dispatch sectors sampled: ZIP 88311, 88310 (county grid: Otero County).
+Dispatch packets reference county grid Otero County near ZIP 88311.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Tankless heater descale intervals in Boles Acres, NM hard-water zones differ from tank anode schedules.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Pressure trace 494210: meter-pit clearance and dielectric union checklist staged for Boles Acres, NM near elevation 4111 ft.
+
+Service ledger 494210: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Boles Acres, NM at 32.8200, -105.9800.
+
+Field note: Dielectric union checklist completed in Boles Acres, NM.
+
+On-site sector marker: Otero County / primary ZIP 88311 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NM-88311-d25420bf

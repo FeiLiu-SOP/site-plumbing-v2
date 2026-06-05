@@ -12,28 +12,47 @@ lng: -75.0700
 zipSample: ["08322"]
 zipCodes: ["08322"]
 localPaths: ["Gloucester County / ZIP 08322 sector", "Gloucester County / primary ZIP 08322", "Gloucester County / coords 39.6200, -75.0700", "Gloucester County / elevation 108 ft band"]
-zillowHomeValueUsd: 373779
 ---
 
 **Engineering Notice for Franklinville:** System optimized for 142 mg/L hard water scaling factors in Franklinville. Regional dispatch grid: Gloucester County.
 
 
-Across Franklinville, NJ, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Our intake language for Franklinville, NJ work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+FAQ: When is full replacement safer? Clustered failures often justify staged replacement.
 
-FAQ: Can sump pump remediation wait until dry season? In Franklinville, NJ, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 08322.
+Shared main supplies in Franklinville, NJ duplexes require coordinated shutoff before pressure holds.
 
-Book a camera-assisted drain review before approving jetting on older Franklinville, NJ mains. Serving ZIP Code: 08322.
+Cast-iron hub corrosion in Franklinville, NJ often concentrates at the third joint upstream of the cleanout.
 
-Dispatch note: cleanout riser height and main line camera pass were logged for the Franklinville plumbing intake packet.
+Request expansion-tank pre-charge verification with heater swaps. ZIP anchor 08322.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 08322.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Dispatch sectors sampled: ZIP 08322 (county grid: Gloucester County).
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Franklinville, NJ.
+
+Step: camera-pass main lines in Franklinville, NJ before jetting older clay or cast iron.
+
+Hydrostatic holds in Franklinville, NJ slab circuits run overnight when listening mics show ambiguous hits.
+
+Hard water in Franklinville, NJ accelerates scale on PRV seats and heater elements.
+
+Dual-water-meter setups in Franklinville, NJ irrigation zones need backflow logs before line replacement.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Flow dossier 656787: branch wet-vent geometry and PRV seat wear logged for Franklinville, NJ county grid Gloucester County (ZIP 08322).
+
+Pressure trace 656787: meter-pit clearance and dielectric union checklist staged for Franklinville, NJ near elevation 108 ft.
+
+Field note: Main cleanout riser height measured against slab finish in Franklinville, NJ.
+
+**Regional Infrastructure Brief:** Logistics coverage aligns with Gloucester County and primary ZIP 08322. Terrain reference: 108 ft. Center point: 39.6200, -75.0700. ZIP sample: 08322. Regional routing note: Gloucester County traffic flow is balanced around ZIP 08322 service demand.
 
 Service reference: NJ-08322-082cad68

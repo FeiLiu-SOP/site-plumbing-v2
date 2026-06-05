@@ -12,30 +12,43 @@ lng: -80.1400
 zipSample: ["27052"]
 zipCodes: ["27052"]
 localPaths: ["Stokes County / ZIP 27052 sector", "Stokes County / primary ZIP 27052", "Stokes County / coords 36.2900, -80.1400", "Stokes County / elevation 640 ft band"]
-zillowHomeValueUsd: 240409
 ---
 
 **Engineering Notice for Walnut Cove:** System optimized for 152 mg/L hard water scaling factors in Walnut Cove. Regional dispatch grid: Stokes County.
 
 
-Across Walnut Cove, NC, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: log PRV inlet and outlet readings during intake.
 
-Technicians stage drain line restoration crew jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Our intake language for Walnut Cove, NC work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Walnut Cove, NC.
 
-FAQ: Can sump pump remediation wait until dry season? In Walnut Cove, NC, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 27052.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Book a camera-assisted drain review before approving jetting on older Walnut Cove, NC mains. Serving ZIP Code: 27052.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Walnut Cove, NC.
 
-Field packet: fixture shutoff torque log plus backflow test cock orientation referenced in Stokes County county grid review.
+Material note: Water heater anode type may change with Walnut Cove, NC hardness profiles.
 
-Field note: Drain cleaning cable head wear logged before second pass in Walnut Cove, NC.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-Field note: Water line replacement trench path flagged for Stokes County setbacks.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-Dispatch sectors sampled: ZIP 27052 (county grid: Stokes County).
+Garage utility sinks in Walnut Cove, NC often tie into laundry branches that mask main-line restrictions.
+
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Shared main supplies in Walnut Cove, NC duplexes require coordinated shutoff before pressure holds.
+
+Trenchless pulls in Walnut Cove, NC require pit dimensions verified against utility locate marks.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Fixture roster 536874: toilet flange spacer kit and shower cartridge seat score queued for Walnut Cove, NC walk-through.
+
+Service ledger 536874: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Walnut Cove, NC at 36.2900, -80.1400.
+
+Coordinate-anchored dispatch note: center reference 36.2900, -80.1400 at elevation ~640 ft aligns with Stokes County intake staging.
 
 Service reference: NC-27052-aa2e47dd

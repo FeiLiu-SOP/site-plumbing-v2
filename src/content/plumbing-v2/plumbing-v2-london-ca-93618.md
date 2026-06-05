@@ -12,28 +12,49 @@ lng: -119.4400
 zipSample: ["93618"]
 zipCodes: ["93618"]
 localPaths: ["Tulare County / primary ZIP 93618", "Tulare County / coords 36.4800, -119.4400", "Tulare County / ZIP 93618 sector", "Tulare County / elevation 308 ft band"]
-zillowHomeValueUsd: 357674
 ---
 
 **Engineering Notice for London:** System optimized for 158 mg/L hard water scaling factors in London. Regional dispatch grid: Tulare County.
 
 
-When whole-home repiping advisors scopes are reviewed in London, CA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Risk flag: In London, CA, slab leaks can misroute as foundation issues without listening equipment.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for London, CA.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in London, CA.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in London, CA, soft blockages differ from root intrusion profiles.
+Frost-free sillcock failures in London, CA often trace to interior shutoff seats.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 93618.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in London, CA.
 
-Open a scheduling request if you need whole-home repiping advisors documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 93618.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field packet: backflow test cock orientation plus Sump pump float travel referenced in Tulare County county grid review.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Field note: Main cleanout riser height measured against slab finish in London, CA.
+Dispatch packets reference county grid Tulare County near ZIP 93618.
 
-Dispatch sectors sampled: ZIP 93618 (county grid: Tulare County).
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Dual-water-meter setups in London, CA irrigation zones need backflow logs before line replacement.
+
+Garage utility sinks in London, CA often tie into laundry branches that mask main-line restrictions.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Hydro-jetting in London, CA requires camera confirmation before nozzle pressure is raised.
+
+Irrigation cross-connections in London, CA can back-siphon domestic lines during main breaks.
+
+Flow dossier 214005: branch wet-vent geometry and PRV seat wear logged for London, CA county grid Tulare County (ZIP 93618).
+
+Service ledger 214005: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for London, CA at 36.4800, -119.4400.
+
+Field note: Water line replacement trench path flagged for Tulare County setbacks.
+
+ZIP-corridor snapshot for London, CA: sampled sectors include 93618; county routing grid remains Tulare County.
 
 Service reference: CA-93618-7a3326b3

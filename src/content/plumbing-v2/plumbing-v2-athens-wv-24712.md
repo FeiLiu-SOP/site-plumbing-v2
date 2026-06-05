@@ -12,28 +12,47 @@ lng: -81.0200
 zipSample: ["24712"]
 zipCodes: ["24712"]
 localPaths: ["Mercer County / primary ZIP 24712", "Mercer County / elevation 2582 ft band", "Mercer County / ZIP 24712 sector", "Mercer County / coords 37.4200, -81.0200"]
-zillowHomeValueUsd: 196864
 ---
 
 **Engineering Notice for Athens:** System optimized for 168 mg/L hard water scaling factors in Athens. Regional dispatch grid: Mercer County.
 
 
-In Athens, WV, fixture & supply line pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Drain cleaning scopes in Athens, WV separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Cleanout access limits in Athens, WV frequently extend drain cleaning duration.
 
-Fixture & Supply Line Pros coordination in Athens, WV prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+FAQ: When is cabling enough? In Athens, WV, pipe material and blockage type dictate method.
 
-FAQ: When is water line replacement safer than spot remediation? In Athens, WV, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Garage utility sinks in Athens, WV often tie into laundry branches that mask main-line restrictions.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 24712.
+About us: Scheduling language separates emergency isolation from permanent fixture restoration.
 
-Request a written fixture & supply line pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 24712.
+FAQ: Can partial repiping solve pinholes? Clustered failures often justify staged replacement.
 
-Dispatch note: jetter nozzle envelope and Sump pump float travel were logged for the Athens plumbing intake packet.
+Risk flag: In Athens, WV, slab leaks can misroute as foundation issues without listening equipment.
 
-Field note: Water line replacement trench path flagged for Mercer County setbacks.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Dispatch sectors sampled: ZIP 24712 (county grid: Mercer County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Cast-iron hub corrosion in Athens, WV often concentrates at the third joint upstream of the cleanout.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Material note: Water heater anode type may change with Athens, WV hardness profiles.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+Open a scheduling packet with fixture isolation and line-pressure holds. County grid Mercer County.
+
+Step: tag shutoffs and meter orientation before opening walls.
+
+Frost-free sillcock failures in Athens, WV often trace to interior shutoff seats.
+
+Fixture roster 514613: toilet flange spacer kit and shower cartridge seat score queued for Athens, WV walk-through.
+
+Supply audit 514613: curb-stop orientation and hose-bib freeze flag reviewed for Athens, WV at coords 37.4200/-81.0200.
+
+**Regional Infrastructure Brief:** Dispatch anchor set to Mercer County. Reference elevation: 2582 ft. Primary coordinates: 37.4200, -81.0200. ZIP sample: 24712. Service perimeter note: Coverage extends through Mercer County with dispatch centered near ZIP 24712.
 
 Service reference: WV-24712-0b58ccdf

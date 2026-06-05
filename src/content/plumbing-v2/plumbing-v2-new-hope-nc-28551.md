@@ -12,28 +12,43 @@ lng: -77.8900
 zipSample: ["27534", "28551"]
 zipCodes: ["28551", "27534"]
 localPaths: ["Wayne County / primary ZIP 28551", "Wayne County / ZIP 28551 sector", "Wayne County / ZIP 27534 sector", "Wayne County / elevation 125 ft band", "Wayne County / coords 35.3800, -77.8900"]
-zillowHomeValueUsd: 185496
 ---
 
 **Engineering Notice for New Hope:** System optimized for 132 mg/L hard water scaling factors in New Hope. Regional dispatch grid: Wayne County.
 
 
-When leak detection pros scopes are reviewed in New Hope, NC, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+Shared main supplies in New Hope, NC duplexes require coordinated shutoff before pressure holds.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for New Hope, NC.
+Tip: Photograph cleanout cap threads before snaking near ZIP 28551.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in New Hope, NC, soft blockages differ from root intrusion profiles.
+Dual-water-meter setups in New Hope, NC irrigation zones need backflow logs before line replacement.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 28551/27534.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in New Hope, NC.
 
-Open a scheduling request if you need leak detection pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 28551.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Field packet: branch wet vent compliance note plus water heater T&P discharge path referenced in Wayne County county grid review.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Field note: Water line replacement trench path flagged for Wayne County setbacks.
+Frost-free sillcock failures in New Hope, NC often trace to interior shutoff seats.
 
-Dispatch sectors sampled: ZIP 28551, 27534 (county grid: Wayne County).
+Garage utility sinks in New Hope, NC often tie into laundry branches that mask main-line restrictions.
+
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
+
+Step: camera-pass main lines in New Hope, NC before jetting older clay or cast iron.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+FAQ: When should sump battery backups be load-tested? In New Hope, NC, before spring thaw and heavy rain remnants.
+
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
+
+Lineage note 322941: recirculation pump amp draw captured before New Hope, NC branch isolation.
+
+Fixture roster 322941: toilet flange spacer kit and shower cartridge seat score queued for New Hope, NC walk-through.
+
+On-site sector marker: Wayne County / primary ZIP 28551 — logged for map parity and ZIP-corridor verification.
 
 Service reference: NC-28551-cb9b75cc

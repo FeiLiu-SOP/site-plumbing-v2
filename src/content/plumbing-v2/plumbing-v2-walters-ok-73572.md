@@ -12,30 +12,47 @@ lng: -98.3600
 zipSample: ["73572"]
 zipCodes: ["73572"]
 localPaths: ["Cotton County / ZIP 73572 sector", "Cotton County / coords 34.3600, -98.3600", "Cotton County / elevation 1076 ft band", "Cotton County / primary ZIP 73572"]
-zillowHomeValueUsd: 109557
 ---
 
 **Engineering Notice for Walters:** System optimized for 149 mg/L hard water scaling factors in Walters. Regional dispatch grid: Cotton County.
 
 
-In Walters, OK, fixture & supply line pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Drain cleaning scopes in Walters, OK separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Ask for trenchless feasibility notes before main replacement. County grid Cotton County.
 
-Fixture & Supply Line Pros coordination in Walters, OK prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Walters, OK.
 
-FAQ: When is water line replacement safer than spot restoration? In Walters, OK, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Risk flag: In Walters, OK, slab leaks can misroute as foundation issues without listening equipment.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 73572.
+Tip: Log sump cycle frequency during heavy rain windows.
 
-Request a written fixture & supply line pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 73572.
+Dual-water-meter setups in Walters, OK irrigation zones need backflow logs before line replacement.
 
-Scope trace: sub-slab moisture gradient cross-checked against jetter nozzle envelope before line-pressure hold test.
+Step: tag shutoffs and meter orientation before opening walls.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 73572.
+Cleanout access limits in Walters, OK frequently extend drain cleaning duration.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 73572.
+Step: verify expansion tank pre-charge when heaters are replaced.
 
-Dispatch sectors sampled: ZIP 73572 (county grid: Cotton County).
+Frost-free sillcock failures in Walters, OK often trace to interior shutoff seats.
+
+Irrigation cross-connections in Walters, OK can back-siphon domestic lines during main breaks.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Walters, OK.
+
+Shared main supplies in Walters, OK duplexes require coordinated shutoff before pressure holds.
+
+Garage utility sinks in Walters, OK often tie into laundry branches that mask main-line restrictions.
+
+Lineage note 654335: recirculation pump amp draw captured before Walters, OK branch isolation.
+
+Supply audit 654335: curb-stop orientation and hose-bib freeze flag reviewed for Walters, OK at coords 34.3600/-98.3600.
+
+Field note: Meter-pit clearance photographed near ZIP 73572.
+
+Field note: Backflow test cock orientation noted in Walters, OK.
+
+On-site sector marker: Cotton County / primary ZIP 73572 — logged for map parity and ZIP-corridor verification.
 
 Service reference: OK-73572-cb567694

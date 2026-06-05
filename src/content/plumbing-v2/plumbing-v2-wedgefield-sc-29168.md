@@ -12,30 +12,47 @@ lng: -80.5200
 zipSample: ["29168"]
 zipCodes: ["29168"]
 localPaths: ["Sumter County / coords 33.8800, -80.5200", "Sumter County / ZIP 29168 sector", "Sumter County / elevation 223 ft band", "Sumter County / primary ZIP 29168"]
-zillowHomeValueUsd: 182309
 ---
 
 **Engineering Notice for Wedgefield:** System optimized for 180 mg/L hard water scaling factors in Wedgefield. Regional dispatch grid: Sumter County.
 
 
-Across Wedgefield, SC, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Book hydro-jetting only after camera stills are archived. ZIP anchor 29168.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Confirm cleanout locations during the same visit. Route file 29168.
 
-Our intake language for Wedgefield, SC work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Stack vent offsets in Wedgefield, SC older duplexes can mask tub gurgle as a main-line failure.
 
-FAQ: Can sump pump restoration wait until dry season? In Wedgefield, SC, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Technicians stage dielectric kits before any copper-to-steel transition is approved in Wedgefield, SC.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 29168.
+Technicians log static and dynamic pressure before opening any wall access panel.
 
-Book a camera-assisted drain review before approving jetting on older Wedgefield, SC mains. Serving ZIP Code: 29168.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch note: jetter nozzle envelope and fixture shutoff torque log were logged for the Wedgefield plumbing intake packet.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 29168.
+Permit note: Main water line replacement in Wedgefield, SC may require ROW restoration planning.
 
-Field note: Water line replacement trench path flagged for Sumter County setbacks.
+Polybutylene manifold tags in Wedgefield, SC basements should be photographed before wall chases open.
 
-Dispatch sectors sampled: ZIP 29168 (county grid: Sumter County).
+Fixture shutoff stiffness may indicate mineral bridging behind stems in Wedgefield, SC older homes.
+
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Hose bib split patterns often follow missed winterization.
+
+Cleanout access limits in Wedgefield, SC frequently extend drain cleaning duration.
+
+Fixture roster 456762: toilet flange spacer kit and shower cartridge seat score queued for Wedgefield, SC walk-through.
+
+Flow dossier 456762: branch wet-vent geometry and PRV seat wear logged for Wedgefield, SC county grid Sumter County (ZIP 29168).
+
+Field note: PRV inlet and outlet curves captured for ZIP 29168.
+
+Coordinate-anchored dispatch note: center reference 33.8800, -80.5200 at elevation ~223 ft aligns with Sumter County intake staging.
 
 Service reference: SC-29168-9672ca5e

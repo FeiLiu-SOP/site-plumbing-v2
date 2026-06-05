@@ -12,30 +12,45 @@ lng: -80.0500
 zipSample: ["33435"]
 zipCodes: ["33435"]
 localPaths: ["Palm Beach County / coords 26.5300, -80.0500", "Palm Beach County / primary ZIP 33435", "Palm Beach County / ZIP 33435 sector", "Palm Beach County / elevation 26 ft band"]
-zillowHomeValueUsd: 305017
 ---
 
 **Engineering Notice for Ocean Ridge:** System optimized for 165 mg/L hard water scaling factors in Ocean Ridge. Regional dispatch grid: Palm Beach County.
 
 
-In Ocean Ridge, FL, basement sump service team visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Book sump and supply-line checks in one written scope. Postal sector 33435.
 
-Drain cleaning scopes in Ocean Ridge, FL separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Dual-water-meter setups in Ocean Ridge, FL irrigation zones need backflow logs before line replacement.
 
-Basement Sump Service Team coordination in Ocean Ridge, FL prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Brass ball valves should be exercised quarterly in hard-water districts.
 
-FAQ: When is water line replacement safer than spot remediation? In Ocean Ridge, FL, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+FAQ: Can PEX be sleeved through existing galvanized? Only when bend radius and fire-stop rules are satisfied.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 33435.
+Frost-free sillcock failures in Ocean Ridge, FL often trace to interior shutoff seats.
 
-Request a written basement sump service team plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 33435.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Scope trace: PRV outlet pressure curve cross-checked against hose bib freeze-risk flag before line-pressure hold test.
+Our Basement Sump Service Team coordination in Ocean Ridge, FL prioritizes cleanout access, vent integrity, and measurable flow recovery.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 33435.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Field note: Drain cleaning cable head wear logged before second pass in Ocean Ridge, FL.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Dispatch sectors sampled: ZIP 33435 (county grid: Palm Beach County).
+Step: photograph curb-stop and meter pit before trenching.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Material note: Water heater anode type may change with Ocean Ridge, FL hardness profiles.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 33435.
+
+Hose bib split patterns often follow missed winterization.
+
+Pressure trace 196560: meter-pit clearance and dielectric union checklist staged for Ocean Ridge, FL near elevation 26 ft.
+
+Supply audit 196560: curb-stop orientation and hose-bib freeze flag reviewed for Ocean Ridge, FL at coords 26.5300/-80.0500.
+
+Field note: Expansion tank pre-charge verified in Ocean Ridge, FL.
+
+On-site sector marker: Palm Beach County / coords 26.5300, -80.0500 — logged for map parity and ZIP-corridor verification.
 
 Service reference: FL-33435-72cdc087

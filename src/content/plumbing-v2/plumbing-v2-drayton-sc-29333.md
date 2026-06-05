@@ -12,28 +12,47 @@ lng: -81.9000
 zipSample: ["29333", "29307"]
 zipCodes: ["29307", "29333"]
 localPaths: ["Spartanburg County / ZIP 29333 sector", "Spartanburg County / ZIP 29307 sector", "Spartanburg County / elevation 774 ft band", "Spartanburg County / primary ZIP 29333", "Spartanburg County / coords 34.9800, -81.9000"]
-zillowHomeValueUsd: 150109
 ---
 
 **Engineering Notice for Drayton:** System optimized for 135 mg/L hard water scaling factors in Drayton. Regional dispatch grid: Spartanburg County.
 
 
-In Drayton, SC, whole-home repiping advisors visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Polybutylene manifold tags in Drayton, SC basements should be photographed before wall chases open.
 
-Drain cleaning scopes in Drayton, SC separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
 
-Whole-Home Repiping Advisors coordination in Drayton, SC prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Drayton, SC.
 
-FAQ: When is water line replacement safer than spot remediation? In Drayton, SC, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Hard water in Drayton, SC accelerates scale on PRV seats and heater elements.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 29333/29307.
+Recirculation pump failures can mimic fixture-specific clogs.
 
-Request a written whole-home repiping advisors plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 29333.
+Risk flag: Jetting without camera proof can damage fragile clay joints.
 
-Field packet: backflow test cock orientation plus copper pinhole cluster map referenced in Spartanburg County county grid review.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 29333/29307.
+Dispatch packets reference county grid Spartanburg County near ZIP 29333.
 
-Dispatch sectors sampled: ZIP 29333, 29307 (county grid: Spartanburg County).
+Step: document dielectric unions before mixed-metal replacements.
+
+Risk flag: In Drayton, SC, slab leaks can misroute as foundation issues without listening equipment.
+
+Technicians log static and dynamic pressure before opening any wall access panel.
+
+Step: log PRV inlet and outlet readings during intake.
+
+Hydro-jetting in Drayton, SC requires camera confirmation before nozzle pressure is raised.
+
+Step: pressure-hold domestic lines before declaring leak isolation complete.
+
+Flow dossier 139148: branch wet-vent geometry and PRV seat wear logged for Drayton, SC county grid Spartanburg County (ZIP 29333).
+
+Fixture roster 139148: toilet flange spacer kit and shower cartridge seat score queued for Drayton, SC walk-through.
+
+Field note: Water line replacement trench path flagged for Spartanburg County setbacks.
+
+Field note: PRV inlet and outlet curves captured for ZIP 29307/29333.
+
+ZIP-corridor snapshot for Drayton, SC: sampled sectors include 29307, 29333; county routing grid remains Spartanburg County.
 
 Service reference: SC-29333-3cf8907b

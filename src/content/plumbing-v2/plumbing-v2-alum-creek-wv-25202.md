@@ -12,30 +12,47 @@ lng: -81.8300
 zipSample: ["25202", "25003"]
 zipCodes: ["25003", "25202"]
 localPaths: ["Lincoln County / coords 38.2900, -81.8300", "Lincoln County / primary ZIP 25202", "Lincoln County / elevation 781 ft band", "Lincoln County / ZIP 25003 sector", "Lincoln County / ZIP 25202 sector"]
-zillowHomeValueUsd: 148093
 ---
 
 **Engineering Notice for Alum Creek:** System optimized for 152 mg/L hard water scaling factors in Alum Creek. Regional dispatch grid: Lincoln County.
 
 
-Across Alum Creek, WV, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Alum Creek, WV.
 
-Technicians stage fixture & supply line pros jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Our intake language for Alum Creek, WV work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Tip: Photograph cleanout cap threads before snaking near ZIP 25202.
 
-FAQ: Can sump pump restoration wait until dry season? In Alum Creek, WV, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Tankless heater descale intervals in Alum Creek, WV hard-water zones differ from tank anode schedules.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 25003/25202.
+Frost-free sillcock failures in Alum Creek, WV often trace to interior shutoff seats.
 
-Book a camera-assisted drain review before approving jetting on older Alum Creek, WV mains. Serving ZIP Code: 25202.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-Scope trace: fixture shutoff torque log cross-checked against cleanout riser height before line-pressure hold test.
+Polybutylene manifold tags in Alum Creek, WV basements should be photographed before wall chases open.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 25003/25202.
+FAQ: What slows emergency response? Missing curb-stop clearance is a common delay in Alum Creek, WV.
 
-Field note: Water line replacement trench path flagged for Lincoln County setbacks.
+Step: camera-pass main lines in Alum Creek, WV before jetting older clay or cast iron.
 
-Dispatch sectors sampled: ZIP 25003, 25202 (county grid: Lincoln County).
+Dual-water-meter setups in Alum Creek, WV irrigation zones need backflow logs before line replacement.
+
+Step: photograph curb-stop and meter pit before trenching.
+
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
+
+Book hydro-jetting only after camera stills are archived. ZIP anchor 25202.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Alum Creek, WV.
+
+Garage utility sinks in Alum Creek, WV often tie into laundry branches that mask main-line restrictions.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Pressure trace 280604: meter-pit clearance and dielectric union checklist staged for Alum Creek, WV near elevation 781 ft.
+
+Fixture roster 280604: toilet flange spacer kit and shower cartridge seat score queued for Alum Creek, WV walk-through.
+
+On-site sector marker: Lincoln County / ZIP 25202 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: WV-25202-ee8bed73

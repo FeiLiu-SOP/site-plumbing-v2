@@ -12,28 +12,45 @@ lng: -122.9100
 zipSample: ["98611"]
 zipCodes: ["98611"]
 localPaths: ["Cowlitz County / primary ZIP 98611", "Cowlitz County / coords 46.2700, -122.9100", "Cowlitz County / elevation 43 ft band", "Cowlitz County / ZIP 98611 sector"]
-zillowHomeValueUsd: 480113
 ---
 
 **Engineering Notice for Castle Rock:** System optimized for 120 mg/L hard water scaling factors in Castle Rock. Regional dispatch grid: Cowlitz County.
 
 
-A slab leak response unit request in Castle Rock, WA is usually interpreted as a flow problem, a pressure problem, and a corrosion-history problem at once.
+Dual-water-meter setups in Castle Rock, WA irrigation zones need backflow logs before line replacement.
 
-Rooms are scored for wet finishes, branch lines are scoped, and only after readings stabilize is repiping discussed for Castle Rock, WA.
+Material note: Water heater anode type may change with Castle Rock, WA hardness profiles.
 
-We structure intake around measurable evidence: pressure traces, camera stills, hardness context, and practical access windows.
+Risk flag: In Castle Rock, WA, slab leaks can misroute as foundation issues without listening equipment.
 
-FAQ: Why do two neighbors see different fixture wear? Local water chemistry, stagnation loops, and Castle Rock, WA supply age can diverge sharply.
+Trenchless pulls in Castle Rock, WA require pit dimensions verified against utility locate marks.
 
-Tip: Keep receipts for prior water line replacement segments to simplify warranty traceability near ZIP 98611.
+Frost-free sillcock failures in Castle Rock, WA often trace to interior shutoff seats.
 
-Request a written recovery path that separates drain cleaning, sump pump service, and domestic line upgrades. Serving ZIP Code: 98611.
+FAQ: How fast can water lines be isolated? Missing curb-stop clearance is a common delay in Castle Rock, WA.
 
-Field packet: backflow test cock orientation plus water heater T&P discharge path referenced in Cowlitz County county grid review.
+Hard water in Castle Rock, WA accelerates scale on PRV seats and heater elements.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 98611.
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
 
-Dispatch sectors sampled: ZIP 98611 (county grid: Cowlitz County).
+Cast-iron hub corrosion in Castle Rock, WA often concentrates at the third joint upstream of the cleanout.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+Shared main supplies in Castle Rock, WA duplexes require coordinated shutoff before pressure holds.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+FAQ: When should sump battery backups be load-tested? In Castle Rock, WA, before spring thaw and heavy rain remnants.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Drain map 370780: camera-pass priority and expansion-tank pre-charge noted for Castle Rock, WA postal sector 98611.
+
+Service ledger 370780: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Castle Rock, WA at 46.2700, -122.9100.
+
+Field note: Backflow test cock orientation noted in Castle Rock, WA.
+
+On-site sector marker: Cowlitz County / elevation 43 ft band — logged for map parity and ZIP-corridor verification.
 
 Service reference: WA-98611-d68b92f9

@@ -12,28 +12,47 @@ lng: -100.3800
 zipSample: ["57532"]
 zipCodes: ["57532"]
 localPaths: ["Stanley County / primary ZIP 57532", "Stanley County / ZIP 57532 sector", "Stanley County / coords 44.3700, -100.3800", "Stanley County / elevation 1430 ft band"]
-zillowHomeValueUsd: 308811
 ---
 
 **Engineering Notice for Fort Pierre:** System optimized for 135 mg/L hard water scaling factors in Fort Pierre. Regional dispatch grid: Stanley County.
 
 
-When water heater & pipe experts scopes are reviewed in Fort Pierre, SD, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+About us: We document hardness context, PRV setpoints, and vent paths before quoting repipes.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Fort Pierre, SD.
+Cast-iron hub corrosion in Fort Pierre, SD often concentrates at the third joint upstream of the cleanout.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Book sump and supply-line checks in one written scope. Postal sector 57532.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Fort Pierre, SD, soft blockages differ from root intrusion profiles.
+Confirm cleanout locations during the same visit. Route file 57532.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 57532.
+Frost-free sillcock failures in Fort Pierre, SD often trace to interior shutoff seats.
 
-Open a scheduling request if you need water heater & pipe experts documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 57532.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch note: PEX expansion ring batch and Sump pump float travel were logged for the Fort Pierre plumbing intake packet.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Field note: Drain cleaning cable head wear logged before second pass in Fort Pierre, SD.
+Step: pressure-hold domestic lines before declaring leak isolation complete.
 
-Dispatch sectors sampled: ZIP 57532 (county grid: Stanley County).
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+FAQ: When should sump battery backups be load-tested? In Fort Pierre, SD, before spring thaw and heavy rain remnants.
+
+Recirculation pump failures can mimic fixture-specific clogs.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+About us: Drain scopes distinguish branch clogs from main-line failures before equipment is staged.
+
+Expansion tank pre-charge loss tracks heater replacement deferrals.
+
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Fort Pierre, SD.
+
+Flow dossier 995551: branch wet-vent geometry and PRV seat wear logged for Fort Pierre, SD county grid Stanley County (ZIP 57532).
+
+Drain map 995551: camera-pass priority and expansion-tank pre-charge noted for Fort Pierre, SD postal sector 57532.
+
+Field note: Backflow test cock orientation noted in Fort Pierre, SD.
+
+On-site sector marker: Stanley County / coords 44.3700, -100.3800 — logged for map parity and ZIP-corridor verification.
 
 Service reference: SD-57532-ff57d5ea

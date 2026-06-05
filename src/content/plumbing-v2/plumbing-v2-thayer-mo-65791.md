@@ -12,30 +12,43 @@ lng: -91.5400
 zipSample: ["65791"]
 zipCodes: ["65791"]
 localPaths: ["Oregon County / elevation 617 ft band", "Oregon County / coords 36.5200, -91.5400", "Oregon County / ZIP 65791 sector", "Oregon County / primary ZIP 65791"]
-zillowHomeValueUsd: 147003
 ---
 
 **Engineering Notice for Thayer:** System optimized for 160 mg/L hard water scaling factors in Thayer. Regional dispatch grid: Oregon County.
 
 
-In Thayer, MO, slab leak response unit visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Step: log PRV inlet and outlet readings during intake.
 
-Drain cleaning scopes in Thayer, MO separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Hydrostatic holds in Thayer, MO slab circuits run overnight when listening mics show ambiguous hits.
 
-Slab Leak Response Unit coordination in Thayer, MO prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Request a camera-assisted drain review before approving jetting. Postal sector 65791.
 
-FAQ: When is water line replacement safer than spot remediation? In Thayer, MO, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 65791.
+Hard water in Thayer, MO accelerates scale on PRV seats and heater elements.
 
-Request a written slab leak response unit plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 65791.
+Across Thayer, MO, main-line bellies trap debris even when fixtures drain normally.
 
-Scope trace: dielectric union checklist cross-checked against cleanout riser height before line-pressure hold test.
+Material note: Water heater anode type may change with Thayer, MO hardness profiles.
 
-Field note: Drain cleaning cable head wear logged before second pass in Thayer, MO.
+Shared main supplies in Thayer, MO duplexes require coordinated shutoff before pressure holds.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 65791.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Dispatch sectors sampled: ZIP 65791 (county grid: Oregon County).
+Backflow note: Test cock orientation and annual test records should be verified during intake.
+
+Step: document dielectric unions before mixed-metal replacements.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+Polybutylene manifold tags in Thayer, MO basements should be photographed before wall chases open.
+
+Supply audit 497253: curb-stop orientation and hose-bib freeze flag reviewed for Thayer, MO at coords 36.5200/-91.5400.
+
+Fixture roster 497253: toilet flange spacer kit and shower cartridge seat score queued for Thayer, MO walk-through.
+
+Primary postal anchor 65791 with multi-ZIP overlap in Thayer; field packets tag Oregon County for county-grid reconciliation.
 
 Service reference: MO-65791-1fbb540c

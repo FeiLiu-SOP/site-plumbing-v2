@@ -12,30 +12,49 @@ lng: -123.8900
 zipSample: ["97107"]
 zipCodes: ["97107"]
 localPaths: ["Tillamook County / coords 45.5200, -123.8900", "Tillamook County / ZIP 97107 sector", "Tillamook County / primary ZIP 97107", "Tillamook County / elevation 118 ft band"]
-zillowHomeValueUsd: 395255
 ---
 
 **Engineering Notice for Bay City:** System optimized for 175 mg/L hard water scaling factors in Bay City. Regional dispatch grid: Tillamook County.
 
 
-Across Bay City, OR, main water line replacement decisions hinge on curb-stop age, interior meter piping material, and whether trenchless pulls fit the ROW width.
+Step: document dielectric unions before mixed-metal replacements.
 
-Technicians stage hydro-jetting specialists jobs with isolation valves tagged, fixture inventories listed, and hydro-jetting deferred until camera pass confirms line integrity.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Our intake language for Bay City, OR work references hardness-aware scaling risk, PRV setpoints, and realistic dry-down windows for opened wall cavities.
+Basement floor drains in Bay City, OR should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: Can sump pump restoration wait until dry season? In Bay City, OR, deferring can be reasonable if backup pumping exists—but battery health must be verified first.
+Hydro-jetting in Bay City, OR requires camera confirmation before nozzle pressure is raised.
 
-Tip: Log sump cycle counts and discharge distance during heavy rain windows around ZIP 97107.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 97107.
 
-Book a camera-assisted drain review before approving jetting on older Bay City, OR mains. Serving ZIP Code: 97107.
+Garage utility sinks in Bay City, OR often tie into laundry branches that mask main-line restrictions.
 
-Scope trace: water heater T&P discharge path cross-checked against jetter nozzle envelope before line-pressure hold test.
+Our Hydro-Jetting Specialists coordination in Bay City, OR prioritizes cleanout access, vent integrity, and measurable flow recovery.
+
+Material note: No-hub cast iron couplings require torque verification after settlement events.
+
+Shared main supplies in Bay City, OR duplexes require coordinated shutoff before pressure holds.
+
+Hose bib split patterns often follow missed winterization.
+
+Tip: Mark hose bib interior shutoffs before freeze-risk nights in Bay City, OR.
+
+Brass ball valves should be exercised quarterly in hard-water districts.
+
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
+
+CPVC solvent weld times shift with ambient humidity during Bay City, OR shoulder seasons.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Supply audit 721390: curb-stop orientation and hose-bib freeze flag reviewed for Bay City, OR at coords 45.5200/-123.8900.
+
+Service ledger 721390: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Bay City, OR at 45.5200, -123.8900.
+
+Field note: Dielectric union checklist completed in Bay City, OR.
 
 Field note: Water line replacement trench path flagged for Tillamook County setbacks.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 97107.
-
-Dispatch sectors sampled: ZIP 97107 (county grid: Tillamook County).
+ZIP-corridor snapshot for Bay City, OR: sampled sectors include 97107; county routing grid remains Tillamook County.
 
 Service reference: OR-97107-d51a3f48

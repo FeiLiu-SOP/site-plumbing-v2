@@ -12,30 +12,43 @@ lng: -98.0600
 zipSample: ["78605"]
 zipCodes: ["78605"]
 localPaths: ["Burnet County / primary ZIP 78605", "Burnet County / coords 30.7400, -98.0600", "Burnet County / elevation 1270 ft band", "Burnet County / ZIP 78605 sector"]
-zillowHomeValueUsd: 422261
 ---
 
 **Engineering Notice for Bertram:** System optimized for 120 mg/L hard water scaling factors in Bertram. Regional dispatch grid: Burnet County.
 
 
-When hydro-jetting specialists scopes are reviewed in Bertram, TX, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+FAQ: When should sump battery backups be load-tested? In Bertram, TX, before spring thaw and heavy rain remnants.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Bertram, TX.
+Material note: No-hub cast iron couplings require torque verification after settlement events.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Backflow note: Test cock orientation and annual test records should be verified during intake.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Bertram, TX, soft blockages differ from root intrusion profiles.
+Tip: Keep prior snaking receipts to show recurring blockage locations.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 78605.
+Dispatch packets reference county grid Burnet County near ZIP 78605.
 
-Open a scheduling request if you need hydro-jetting specialists documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 78605.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Routing marker: PRV outlet pressure curve paired with jetter nozzle envelope near ZIP 78605.
+Hose bib split patterns often follow missed winterization.
 
-Field note: Drain cleaning cable head wear logged before second pass in Bertram, TX.
+Garage utility sinks in Bertram, TX often tie into laundry branches that mask main-line restrictions.
 
-Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 78605.
+Stack vent offsets in Bertram, TX older duplexes can mask tub gurgle as a main-line failure.
 
-Dispatch sectors sampled: ZIP 78605 (county grid: Burnet County).
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Bertram, TX.
+
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
+
+FAQ: When is cabling enough? In Bertram, TX, pipe material and blockage type dictate method.
+
+Across Bertram, TX, main-line bellies trap debris even when fixtures drain normally.
+
+Branch wet vents in Bertram, TX can mask gurgling as a main-line issue.
+
+Supply audit 229898: curb-stop orientation and hose-bib freeze flag reviewed for Bertram, TX at coords 30.7400/-98.0600.
+
+Pressure trace 229898: meter-pit clearance and dielectric union checklist staged for Bertram, TX near elevation 1270 ft.
+
+On-site sector marker: Burnet County / primary ZIP 78605 — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-78605-bfa1a411

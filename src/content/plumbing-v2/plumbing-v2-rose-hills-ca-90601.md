@@ -12,30 +12,45 @@ lng: -118.0400
 zipSample: ["90601"]
 zipCodes: ["90601"]
 localPaths: ["Los Angeles County / primary ZIP 90601", "Los Angeles County / coords 34.0100, -118.0400", "Los Angeles County / ZIP 90601 sector", "Los Angeles County / elevation 476 ft band"]
-zillowHomeValueUsd: 864672
 ---
 
 **Engineering Notice for Rose Hills:** System optimized for 154 mg/L hard water scaling factors in Rose Hills. Regional dispatch grid: Los Angeles County.
 
 
-When fixture & supply line pros scopes are reviewed in Rose Hills, CA, crews verify slab leak listening windows, domestic hot recirculation pumps, and hose bib winterization risk in one pass.
+We frame intake around camera stills, pressure traces, and realistic dry-down windows.
 
-The file is triaged as leak isolation, pressure-hold documentation, then fixture restoration—each with sign-off gates for Rose Hills, CA.
+Tip: Photograph cleanout cap threads before snaking near ZIP 90601.
 
-Scheduling packets include meter-pit access notes, curb-stop clearance, and disposal routing for cut copper lengths.
+Code note: T&P discharge must not terminate where scalding risk or structural damage can occur.
 
-FAQ: Are hydro-jetting and cable augering interchangeable? Not always—in Rose Hills, CA, soft blockages differ from root intrusion profiles.
+Material note: PEX expansion fittings require calibrated tool rotation counts.
 
-Tip: Mark exterior hose bib clock positions and interior shutoff labels before freeze-risk nights near ZIP 90601.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Open a scheduling request if you need fixture & supply line pros documentation that lists sump pump amperage, discharge head, and check-valve orientation. Serving ZIP Code: 90601.
+Galvanized segments in Rose Hills, CA may restrict flow before visible corrosion.
 
-Field packet: scale coupon sampling plus cleanout riser height referenced in Los Angeles County county grid review.
+Slab leak listening windows in Rose Hills, CA depend on quiet periods and isolated branch valves.
 
-Field note: Water line replacement trench path flagged for Los Angeles County setbacks.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Field note: Main cleanout riser height measured against slab finish in Rose Hills, CA.
+Gas-adjacent note: Water heater connectors must maintain proper sediment trap orientation where fuel is present.
 
-Dispatch sectors sampled: ZIP 90601 (county grid: Los Angeles County).
+Risk flag: Jetting without camera proof can damage fragile clay joints.
+
+Risk flag: Temporary clamps on copper pinholes fail when chemistry remains unaddressed.
+
+Step: isolate fixture traps before main-line jetting to prevent cross-contamination.
+
+Tip: Keep prior snaking receipts to show recurring blockage locations.
+
+Irrigation cross-connections in Rose Hills, CA can back-siphon domestic lines during main breaks.
+
+Service ledger 636695: sump amperage, cleanout riser height, and jetting nozzle envelope cross-checked for Rose Hills, CA at 34.0100, -118.0400.
+
+Drain map 636695: camera-pass priority and expansion-tank pre-charge noted for Rose Hills, CA postal sector 90601.
+
+Field note: Backflow test cock orientation noted in Rose Hills, CA.
+
+On-site sector marker: Los Angeles County / primary ZIP 90601 — logged for map parity and ZIP-corridor verification.
 
 Service reference: CA-90601-ad98418e

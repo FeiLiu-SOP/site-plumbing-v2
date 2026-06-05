@@ -12,30 +12,49 @@ lng: -97.1500
 zipSample: ["76013"]
 zipCodes: ["76013"]
 localPaths: ["Tarrant County / primary ZIP 76013", "Tarrant County / elevation 600 ft band", "Tarrant County / coords 32.7100, -97.1500", "Tarrant County / ZIP 76013 sector"]
-zillowHomeValueUsd: 311155
 ---
 
 **Engineering Notice for Pantego:** System optimized for 177 mg/L hard water scaling factors in Pantego. Regional dispatch grid: Tarrant County.
 
 
-In Pantego, TX, leak detection pros visits often begin with sump pump basin level checks, discharge freeze-line separation, and a clear plan for backup power if the primary pump fails.
+Hydrostatic holds in Pantego, TX slab circuits run overnight when listening mics show ambiguous hits.
 
-Drain cleaning scopes in Pantego, TX separate branch-line pulls from main-line camera passes so hydro-jetting pressure stays within safe nozzle envelopes.
+Tip: Photograph PRV tags and meter sets before wall access near ZIP 76013.
 
-Leak Detection Pros coordination in Pantego, TX prioritizes cleanout access, vent integrity, and measurable flow recovery before recommending partial repipes.
+Basement floor drains in Pantego, TX should be snaked only after trap arm geometry is confirmed on camera.
 
-FAQ: When is water line replacement safer than spot restoration? In Pantego, TX, galvanized segments, recurring pinholes, or low dynamic pressure often push toward staged replacement.
+Risk flag: Over-pressurized lines after PRV failure can stress appliance connectors.
 
-Tip: Photograph PRV tags, meter set orientation, and any visible dielectric unions before crews open walls near ZIP 76013.
+Expansion tank pre-charge loss tracks heater replacement deferrals.
 
-Request a written leak detection pros plan covering sump discharge, drain access, and fixture torque notes. Serving ZIP Code: 76013.
+Risk flag: Seasonal irrigation cross-connections can mask domestic pressure loss in Pantego, TX.
 
-Routing marker: branch wet vent compliance note paired with water heater T&P discharge path near ZIP 76013.
+Frost-free sillcock failures in Pantego, TX often trace to interior shutoff seats.
 
-Field note: Water line replacement trench path flagged for Tarrant County setbacks.
+Risk flag: Pinhole clusters on copper often return if water chemistry is not addressed.
 
-Field note: Sump pump discharge check-valve orientation verified for ZIP sector 76013.
+Tip: Avoid chemical drain treatments before camera inspection—they obscure failure modes.
 
-Dispatch sectors sampled: ZIP 76013 (county grid: Tarrant County).
+FAQ: When is cabling enough? In Pantego, TX, pipe material and blockage type dictate method.
+
+Permit note: Main water line replacement in Pantego, TX may require ROW restoration planning.
+
+Trenchless pulls in Pantego, TX require pit dimensions verified against utility locate marks.
+
+Material note: Dielectric unions must separate copper from steel in mixed-metal runs.
+
+Material note: PEX expansion fittings require calibrated tool rotation counts.
+
+Stack vent offsets in Pantego, TX older duplexes can mask tub gurgle as a main-line failure.
+
+Drain map 658151: camera-pass priority and expansion-tank pre-charge noted for Pantego, TX postal sector 76013.
+
+Lineage note 658151: recirculation pump amp draw captured before Pantego, TX branch isolation.
+
+Field note: Fixture shutoff torque notes filed for ZIP 76013.
+
+Field note: Hydro-jetting nozzle size locked to pipe ID near ZIP 76013.
+
+On-site sector marker: Tarrant County / ZIP 76013 sector — logged for map parity and ZIP-corridor verification.
 
 Service reference: TX-76013-e3eda746
